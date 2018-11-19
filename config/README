@@ -1,3 +1,11 @@
+there should be 4 configuration tasks:
+1) calibrate detector distances
+2) normalize detector efficiencies
+3) calculate t-zero for the choppers flux
+4) calculate t-zero for the detectors
+
+3 and 4 can be different numbers because of finite slope to moderator intensity as a function of energy
+
 to calibrate the detector distances:
 first must have done a run of an incoherent scatter
 
@@ -17,13 +25,31 @@ lambda (Å)	E (meV)	att (mm)
 att (mm) = 20.921 / lambda
 
 so, at 1 meV (lambda = 9.044 Å) att = 2.3132 mm
+at 3.32 meV (lambda = 4.964 Å) att = 4.2145 mm
+at 12.0 meV (lambda = 2.611 Å) att = 8.0126 mm
 
 the transmission function is then
 T = exp(-x/att)
 
-the tube is a square 25.4 mm object
-integrate(x*exp(-x/att), x = 0, 25.4 mm)
+this probability distribution should be normalized
+P_norm = exp(-x/att) / (att - att*exp(-L/att) )
 
-gives an average position (avg_pen) of 5.34980243 mm for a normal incidence, but this becomes longer out-of-plane
+then the average penetration depth can be calculated
+avg_pen = (att * np.exp(L/att) - L - a ) / (np.exp(L/a) - 1)
+
+the tube is a square 25.4 mm object
+L = 25.4 mm
+
+the average of the penetration depth is then
+integrate(P_norm, x = 0 ... L)
+
+gives an average position (avg_pen) of 2.313 mm for a normal incidence at 1 meV, but this becomes longer out-of-plane
+avg_pen = 4.154 mm at 3.32 meV
+avg_pen = 5.909 mm at 12.0 meV
+avg_pen = 8.736 mm at 30.0 meV
+avg_pen = 10.195 mm at 80.0 meV
+
 effective distance is then 5.350 / cos(theta) if theta is defined as the out-of-plane-angle
 e.g. at 16 degrees, avg_pen = 5.565 mm, to add an additional 0.216 mm
+
+somehow I am currently off systematically by 11 mm for the most out-of-plane detectors compared to the equatorial detectors
