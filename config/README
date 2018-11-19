@@ -1,0 +1,29 @@
+to calibrate the detector distances:
+first must have done a run of an incoherent scatter
+
+measured Attenuation Length vs. Wavelength for CNCS detectors from Kevin Barry
+lambda (Å)	E (meV)	att (mm)
+1	        81.81	20.92
+1.5	        36.36	13.95
+2	        20.45	10.46
+2.5	        13.09	8.37
+3	        9.09	6.97
+4	        5.113	5.23
+5	        3.272	4.18
+6	        2.272	3.49
+8	        1.278	2.62
+10	        0.818	2.09
+
+att (mm) = 20.921 / lambda
+
+so, at 1 meV (lambda = 9.044 Å) att = 2.3132 mm
+
+the transmission function is then
+T = exp(-x/att)
+
+the tube is a square 25.4 mm object
+integrate(x*exp(-x/att), x = 0, 25.4 mm)
+
+gives an average position (avg_pen) of 5.34980243 mm for a normal incidence, but this becomes longer out-of-plane
+effective distance is then 5.350 / cos(theta) if theta is defined as the out-of-plane-angle
+e.g. at 16 degrees, avg_pen = 5.565 mm, to add an additional 0.216 mm

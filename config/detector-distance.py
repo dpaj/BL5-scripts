@@ -25,9 +25,9 @@ this is the local link that gets created for a specific user
 data_folder = '/SNS/CNCS/IPTS-20360/nexus/' #this is the real thing living in the permission specific data folder
 
 #
-
+Ei_scaling = 1.0
 #put in the values in units meV 
-Ei_1p00_meV = 1.00
+Ei_1p00_meV = 1.00*Ei_scaling
 Emin_1p00_meV=-0.5
 Emax_1p00_meV=0.9
 Estep_1p00_meV=0.005 #this is the step of the nxspe file, will rebin later
@@ -78,7 +78,7 @@ mode = data_1p00_meV .run()['DoubleDiskMode'].timeAverageValue()
 print("double-disc-mode",mode)
 
 Ei, _FMP, _FMI, T0 = GetEi(data_1p00_meV)
-#Ei = 1.00*1.07
+Ei = 1.00*Ei_scaling
 print("T0",T0, 'microseconds')
 
 if (mode!=1):T0-=5.91
@@ -597,7 +597,8 @@ fig_banks = plt.figure()
 ax_banks = fig_banks.add_subplot(111, projection='3d')
 #ax_banks.set_proj_type('ortho')
 
-f = open('/SNS/users/vdp/CNCS/2018B-2/CNCS_geom_Pajerowski_2018B-2.txt', 'w')
+#f = open('/SNS/users/vdp/CNCS/2018B-2/CNCS_geom_Pajerowski_2018B-2.txt', 'w')
+f = open('CNCS_geom_Pajerowski_2018B-2.txt', 'w')
 f.write('BankAngle BankDistance Bank_xpos Bank_ypos Bank_zpos\n')
 
 two_theta_list = []
