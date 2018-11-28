@@ -40,7 +40,10 @@ for this_run in runs_1:
     monitor2_intensity = monitor2.extractY()[0]
     monitor2_tof_c = monitor2_tof[:-1]-(monitor2_tof[0]-monitor2_tof[1])/2.
     
-    ax.plot(monitor3_tof_c, monitor3_intensity+iteration*1e2, label = Ei)
-    #ax.plot(monitor2_tof_c, monitor2_intensity+iteration*1e3, label = Ei)
+    #ax.plot(monitor3_tof_c, monitor3_intensity+iteration*1e2, label = Ei)
+    ax.plot(monitor2_tof_c, monitor2_intensity+iteration*1e3, label = Ei)
+
+ax.set_xlabel('time (micro-seconds)')
+ax.set_ylabel('intensity (arb. u.)')
 ax.legend()
 fig.show()
