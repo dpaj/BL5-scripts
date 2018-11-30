@@ -1,0 +1,19 @@
+config['default.facility']="SNS"
+
+DgsReduction(
+             SampleInputFile="CNCS_1234_event.nxs",
+             OutputWorkspace="reduce",
+             IncidentEnergyGuess=3.316,
+             UseIncidentEnergyGuess=True,
+             TimeZeroGuess=76.0,
+             HardMaskFile="mask.xml",
+             IncidentBeamNormalisation="ByCurrent",
+             TimeIndepBackgroundSub=True,
+             TibTofRangeStart=44501.0,
+             TibTofRangeEnd=48001.0,
+             DetectorVanadiumInputFile="vanadium.nxs",
+             UseBoundsForDetVan=True,
+             DetVanIntRangeLow=52000.0,
+             DetVanIntRangeHigh=53000.0,
+             DetVanIntRangeUnits="TOF",
+            )

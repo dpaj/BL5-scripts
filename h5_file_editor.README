@@ -1,0 +1,8 @@
+you can run the script as:
+
+python flag.py samefile.h5 samefile.h5 "Your flag content"
+This adds an attribute "run-metadata" to every entry in the nexus file.
+
+
+
+
