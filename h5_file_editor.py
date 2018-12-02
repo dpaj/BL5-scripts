@@ -18,10 +18,12 @@ def main(filename_input, filename_output, flag_content,
 
     # Copy the file first: This is not working!
     # copyfile(filename_input, filename_output)
-    f = h5py.File(filename_output, 'a')
+    f = h5py.File(filename_output)#, 'a')
     # If there's multiple entries let's add the flag to all entries
-    for entry in f.keys():
-       f[entry].attrs[flag_name] = flag_content
+    print(list(f.keys()))
+    for entry in list(f.keys()):
+       #f[entry].attrs[flag_name] = flag_content
+        print(entry)
 
 
 if __name__ == '__main__':
