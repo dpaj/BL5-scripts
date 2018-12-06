@@ -29,7 +29,7 @@ MaskBTP(Workspace = 'van', Instrument = 'CNCS', Bank = '5-10')
 data_folder = '/SNS/CNCS/IPTS-20360/nexus/'
 #condition 1
 runs_1 = range(274470,274470+20, 1) #vanadium sample
-runs_1 = range(291503,291503+20, 1) #bismuth sample
+#runs_1 = range(291503,291503+20, 1) #bismuth sample
 #runs_1 = range(274470,274470+6, 1)
 
 #condition 3
@@ -407,7 +407,8 @@ def attempt_to_fit_tzeros_and_energy(x):
     Tdet = (Ddet )/v + tzero
     mon_resids = Tmon*1e6-tmon
     det_resids = Tdet*1e6-tdet
-    resids2 = np.sum(   mon_resids**2 + det_resids**2   )
+    resids2 = np.sum(   mon_resids**2 + det_resids**2   ) #+ np.sum(np.gradient(E))
+    print('resids2=',resids2)
     return resids2
 
 t00, t01, t02, t03, t04, t05, t06, t07, t08, t09, t10, t11, t12, t13, t14, t15, t16, t17, t18, t19 = (np.subtract(T0_1_fitted_list, prompt_pulse_1_list))*1e-6
