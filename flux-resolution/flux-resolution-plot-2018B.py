@@ -89,6 +89,7 @@ for label in ax_resolution.xaxis.get_ticklabels():
 plt.xlim([0.7, 100.])
 plt.ylim([1e-2, 20])
 plt.savefig(file_prefix+'elastic-resolution.pdf', format = 'pdf')
+ax_resolution.axvspan(20., 100., facecolor='gray') #color over the higher energy that should not typically be used
 plt.show()
 
 plt.figure(figsize = [8,10])
@@ -126,6 +127,7 @@ plt.ylim([2e4, 3e7])
 f = ScalarFormatter(useOffset=False, useMathText=True)
 g = lambda x,pos : "${}$".format(f._formatSciNotation('%1.10e' % x))
 ax_flux.yaxis.set_minor_formatter(FuncFormatter(g))
+ax_flux.axvspan(20., 100., facecolor='gray') #color over the higher energy that should not typically be used
 
 plt.savefig(file_prefix+'intensity-monitor3-neutrons.pdf', format = 'pdf')
 plt.show()
@@ -167,6 +169,7 @@ plt.ylim([1e-3, 10e0])
 f = ScalarFormatter(useOffset=False, useMathText=True)
 g = lambda x,pos : "${}$".format(f._formatSciNotation('%1.10e' % x))
 ax_flux.yaxis.set_minor_formatter(FuncFormatter(g))
+ax_flux.axvspan(20., 100., facecolor='gray') #color over the higher energy that should not typically be used
 
 plt.savefig(file_prefix+'intensity-normed-to-peak.pdf', format = 'pdf')
 plt.show()
