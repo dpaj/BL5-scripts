@@ -13,9 +13,10 @@ from matplotlib.ticker import FormatStrFormatter, FuncFormatter, ScalarFormatter
 def gaussian(x, mu, sig, scale):
     return scale*np.exp(-np.power(x - mu, 2.) / (2 * np.power(sig, 2.)))
 
-def flux_res_save(filename, Ei_list, monitor_intensity_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list):
+def flux_res_save(filename, Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list):
     np.save(filename+'Ei_list.npy', Ei_list)
-    np.save(filename+'monitor_intensity_list.npy', monitor_intensity_list)
+    np.save(filename+'monitor_normalized_intensity_list.npy', monitor_normalized_intensity_list)
+    np.save(filename+'monitor_normalized_intensity_perMW_list.npy', monitor_normalized_intensity_perMW_list)
     np.save(filename+'vi_list.npy', vi_list)
     np.save(filename+'detector_intensity_list.npy', detector_intensity_list)
     np.save(filename+'detector_FWHM_list.npy', detector_FWHM_list)
@@ -29,7 +30,8 @@ def flux_res_calc(runs_list):
     file_names = [data_folder + 'CNCS_{0}.nxs.h5'.format(r) for r in runs_list]
     
     Ei_list = []
-    monitor_intensity_list = []
+    monitor_normalized_intensity_list = []
+    monitor_normalized_intensity_perMW_list = []
     vi_list = []
     detector_intensity_list = []
     detector_FWHM_list = []
@@ -42,6 +44,7 @@ def flux_res_calc(runs_list):
         print(thisfile)
         raw = LoadEventNexus(Filename = thisfile)
         run = raw.getRun()
+        run['proton_charge'].value
         monitor = LoadNexusMonitors(thisfile)
         instr = raw.getInstrument()
         Ei, _FMP, _FMI, T0 = GetEi(raw)
@@ -61,8 +64,16 @@ def flux_res_calc(runs_list):
         monitor_tof = monitor.extractX()[0] #extract the monitor3 TOF array
         monitor_intensity = monitor.extractY()[0] #extract the monitor3 intensity array
         
-        monitor_pulse_flux = np.sum(monitor_intensity) * 1e-6 * tofbin_size #the flux in counts/second at monitor3 for a given pulse, rectangular integration with the fixed time-width (tofbin_size) outside of the summation      
-        monitor_intensity = monitor_pulse_flux / 8.8e-6 * vi/2197.763809 * 60. # the counts per pulse, divided by the efficiency at 1.8 angstroms (~25 meV), times the velocity correction, times 60 pulses per second
+        pc = run['proton_charge'].value #array of proton charge for every pulse
+        nonzero_pc = pc[np.nonzero(run['proton_charge'].value)] #the nonzero pulses in the array
+        number_of_pulses = np.shape(nonzero_pc)[0] #the total number of nonzero pulses
+        pulse_spacing = 1/60. # seconds, the pulse spacing
+        total_uptime = number_of_pulses * pulse_spacing #the total amount of time when neutrons are being delivered to the sample
+        average_power_during_uptime = np.mean(nonzero_pc) * 60. * 1e-9 #MegaWatts
+        
+        monitor_pulse_total_counts = np.sum(monitor_intensity)#counts, all of the counts in the monitor during the integration range
+        monitor_normalized_intensity = monitor_pulse_total_counts / 8.8e-6 * vi/2197.763809 / total_uptime # neutrons/s, the counts per pulse, divided by the efficiency at 1.8 angstroms (~25 meV), times the velocity correction, divided by total_uptime
+        monitor_normalized_intensity_perMW = monitor_normalized_intensity / average_power_during_uptime #neutrons/s/MW
 
         dgs,_ = DgsReduction(
             SampleInputWorkspace = raw,
@@ -91,13 +102,14 @@ def flux_res_calc(runs_list):
 
         #append the results for this run to the various lists
         Ei_list.append(Ei)
-        monitor_intensity_list.append(monitor_intensity)
+        monitor_normalized_intensity_list.append(monitor_normalized_intensity)
+        monitor_normalized_intensity_perMW_list.append(monitor_normalized_intensity_perMW)
         vi_list.append(vi)
         detector_intensity_list.append(detector_intensity)
         detector_FWHM_list.append(detector_FWHM)
         DD_opening_list.append(run['DoubleDiskMode'].value[0])
         DD_speed_list.append(run['SpeedRequest4'].value[0])
-    return Ei_list, monitor_intensity_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list
+    return Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list
 
 data_folder = '/SNS/CNCS/IPTS-20360/nexus/'
 results_folder = '/SNS/CNCS/shared/BL5-scripts/flux-resolution/'
@@ -107,11 +119,11 @@ runs_1 = range(274470,274470+20, 1) #condition 1, HF
 runs_3 = range(274470+20,274470+20+20, 1) #condition 3, AI
 runs_0 = range(274470+20+20,274470+20+20+20, 1) #condition 0, HR
 
-Ei_list, monitor_intensity_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list = flux_res_calc(runs_1)
-flux_res_save(results_folder+'2018B-HF-', Ei_list, monitor_intensity_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list)
+Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list = flux_res_calc(runs_1)
+flux_res_save(results_folder+'2018B-HF-', Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list)
 
-Ei_list, monitor_intensity_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list = flux_res_calc(runs_3)
-flux_res_save(results_folder+'2018B-AI-', Ei_list, monitor_intensity_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list)
+Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list = flux_res_calc(runs_3)
+flux_res_save(results_folder+'2018B-AI-', Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list)
 
-Ei_list, monitor_intensity_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list = flux_res_calc(runs_0)
+Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list = flux_res_calc(runs_0)
 flux_res_save(results_folder+'2018B-HR-', Ei_list, monitor_intensity_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list)
