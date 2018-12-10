@@ -42,13 +42,12 @@ def flux_res_calc(runs_list):
     
     for thisfile in file_names:
         print(thisfile)
-        raw = LoadEventNexus(Filename = thisfile)
-        run = raw.getRun()
-        run['proton_charge'].value
-        monitor = LoadNexusMonitors(thisfile)
-        instr = raw.getInstrument()
-        Ei, _FMP, _FMI, T0 = GetEi(raw)
-        vi = 437.4*np.sqrt(Ei)
+        raw = LoadEventNexus(Filename = thisfile) #the raw data file
+        run = raw.getRun() #run information
+        monitor = LoadNexusMonitors(thisfile) #the monitor data
+        instr = raw.getInstrument() #the instrument geometry object
+        Ei, _FMP, _FMI, T0 = GetEi(raw) #get Ei in meV
+        vi = 437.4*np.sqrt(Ei) #calculate the velocity in m/s
         
         monitor3_position = instr[2][2].getPos() #monitor that is directly after choppers 4+5, the double disc choppers, should be ~34.836 m from the source
         source_position = instr.getSource().getPos() #position of the moderator source
@@ -72,7 +71,9 @@ def flux_res_calc(runs_list):
         average_power_during_uptime = np.mean(nonzero_pc) * 60. * 1e-9 #MegaWatts
         
         monitor_pulse_total_counts = np.sum(monitor_intensity)#counts, all of the counts in the monitor during the integration range
-        monitor_normalized_intensity = monitor_pulse_total_counts / 8.8e-6 * vi/2197.763809 / total_uptime # neutrons/s, the counts per pulse, divided by the efficiency at 1.8 angstroms (~25 meV), times the velocity correction, divided by total_uptime
+        monitor3_efficiency_at_1p8_angs = 8.8e-6 #counts/neutron
+        v_1p8_angs = 2197.763809 #m/s
+        monitor_normalized_intensity = monitor_pulse_total_counts / monitor3_efficiency_at_1p8_angs * vi/v_1p8_angs / total_uptime # neutrons/s, the counts per pulse, divided by the efficiency at 1.8 angstroms (~25 meV), times the velocity correction, divided by total_uptime
         monitor_normalized_intensity_perMW = monitor_normalized_intensity / average_power_during_uptime #neutrons/s/MW
 
         dgs,_ = DgsReduction(
@@ -126,4 +127,4 @@ Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_l
 flux_res_save(results_folder+'2018B-AI-', Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list)
 
 Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list = flux_res_calc(runs_0)
-flux_res_save(results_folder+'2018B-HR-', Ei_list, monitor_intensity_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list)
+flux_res_save(results_folder+'2018B-HR-', Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list)
