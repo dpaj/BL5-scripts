@@ -14,6 +14,9 @@ def gaussian(x, mu, sig, scale):
     return scale*np.exp(-np.power(x - mu, 2.) / (2 * np.power(sig, 2.)))
 
 def flux_res_save(filename, Ei_list, monitor_normalized_intensity_list, monitor_normalized_intensity_perMW_list, vi_list, detector_intensity_list, detector_FWHM_list, DD_opening_list, DD_speed_list):
+    """
+    save numpy arrays for the specified values
+    """
     np.save(filename+'Ei_list.npy', Ei_list)
     np.save(filename+'monitor_normalized_intensity_list.npy', monitor_normalized_intensity_list)
     np.save(filename+'monitor_normalized_intensity_perMW_list.npy', monitor_normalized_intensity_perMW_list)
@@ -24,6 +27,9 @@ def flux_res_save(filename, Ei_list, monitor_normalized_intensity_list, monitor_
     np.save(filename+'DD_speed_list.npy', DD_speed_list)
 
 def flux_res_calc(runs_list):
+    """
+    for the runs passed, calculate the flux and resolution and output the resulting lists
+    """
     
     van = Load(Filename='/SNS/CNCS/IPTS-21088/shared/autoreduce/van_273992.nxs', OutputWorkspace='van') #the vanadium normalization file
     
@@ -71,7 +77,7 @@ def flux_res_calc(runs_list):
         average_power_during_uptime = np.mean(nonzero_pc) * 60. * 1e-9 #MegaWatts
         
         monitor_pulse_total_counts = np.sum(monitor_intensity)#counts, all of the counts in the monitor during the integration range
-        monitor3_efficiency_at_1p8_angs = 8.8e-6 #counts/neutron
+        monitor3_efficiency_at_1p8_angs = 8.8e-6 #counts/neutron, this value was measured in 2007 by the detector group by using a calibrated standard monitor at the HFIR
         v_1p8_angs = 2197.763809 #m/s
         monitor_normalized_intensity = monitor_pulse_total_counts / monitor3_efficiency_at_1p8_angs * vi/v_1p8_angs / total_uptime # neutrons/s, the counts per pulse, divided by the efficiency at 1.8 angstroms (~25 meV), times the velocity correction, divided by total_uptime
         monitor_normalized_intensity_perMW = monitor_normalized_intensity / average_power_during_uptime #neutrons/s/MW

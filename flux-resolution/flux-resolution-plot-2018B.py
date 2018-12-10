@@ -10,6 +10,8 @@ from scipy.optimize import curve_fit
 from matplotlib.ticker import FormatStrFormatter, FuncFormatter, ScalarFormatter
 
 """
+this file generates plots from the flux-resolution-calc*.py script and saves pdf's
+it is set up for a very specific measurement that takes data for the three different chopper openings
 These 2018B data were taken on the ~1 mm thickness, 10 mm diameter, 63 mm tall vanadium inside of a aluminum holder
 The nominal SNS power during this time is 1.3 MW
 """
@@ -28,6 +30,7 @@ def flux_res_load(filename_prefix):
 working_directory = '/SNS/CNCS/shared/BL5-scripts/flux-resolution/'    
 os.chdir(working_directory)
 
+file_prefix = '2018B-'
 file_prefix_1 = '2018B-HF-'
 file_prefix_3 = '2018B-AI-'
 file_prefix_0 = '2018B-HR-'
@@ -85,6 +88,7 @@ for label in ax_resolution.xaxis.get_ticklabels():
 
 plt.xlim([0.7, 100.])
 plt.ylim([1e-2, 20])
+plt.savefig(file_prefix+'elastic-resolution.pdf', format = 'pdf')
 plt.show()
 
 plt.figure(figsize = [8,10])
@@ -123,6 +127,7 @@ f = ScalarFormatter(useOffset=False, useMathText=True)
 g = lambda x,pos : "${}$".format(f._formatSciNotation('%1.10e' % x))
 ax_flux.yaxis.set_minor_formatter(FuncFormatter(g))
 
+plt.savefig(file_prefix+'intensity-monitor3-neutrons.pdf', format = 'pdf')
 plt.show()
 
 
@@ -163,6 +168,7 @@ f = ScalarFormatter(useOffset=False, useMathText=True)
 g = lambda x,pos : "${}$".format(f._formatSciNotation('%1.10e' % x))
 ax_flux.yaxis.set_minor_formatter(FuncFormatter(g))
 
+plt.savefig(file_prefix+'intensity-normed-to-peak.pdf', format = 'pdf')
 plt.show()
 
 #for idx,i in enumerate(intensity_list_0): print(i*vi_list_0[idx]/398696139.67)
