@@ -1,0 +1,58 @@
+#!/usr/bin/python
+
+from epics import caget
+from scan import *
+import os
+import sys
+import numpy as np
+from operator import __truediv__
+sys.path.append('/home/bl-user/Script_Test/')
+from CNCS_scanfunction_general_dict import *
+
+print("########################################################################")
+print("#                                                                      #")
+print("#         Hello from Bl-5, CNCS is ready to collect your data          #")
+print("#                                                                      #")
+print("########################################################################")
+
+
+
+# Simple Scan for CCR10
+newscan()
+resettime()
+
+
+a=np.arange(1,10+1,0.5)
+energies=81.74512/(a*a)
+
+
+for ii in energies:
+  title('V-foil HF, T=300 K, Ei={0} meV'.format(ii))
+  ei(ii)
+  start()
+  waitPC(0.1)
+  stop()
+  
+loadconf("intermediate.sav")
+for ii in energies:
+  title('V-foil AI, T=300 K, Ei={0} meV'.format(ii))
+  ei(ii)
+  start()
+  waitPC(0.3)
+  stop() 
+
+loadconf("high_res.sav")
+for ii in energies:
+  title('V-foil HR, T=300 K, Ei={0} meV'.format(ii))
+  ei(ii)
+  start()
+  waitPC(1.0)
+  stop() 
+
+simulate('CCR10-Flux-Res')
+#submit('CCR10-Flux-Res')
+
+estimatetime()
+
+
+
