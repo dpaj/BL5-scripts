@@ -2,6 +2,7 @@ import sys
 sys.path.append('/opt/mantidnightly/bin/')
 from mantid.simpleapi import *
 import matplotlib.pyplot as plt
+import matplotlib.font_manager as font_manager
 from mantid import plots
 from matplotlib.colors import LogNorm
 import numpy as np
@@ -59,14 +60,18 @@ DD_opening_0 = int(np.mean(np.load(file_prefix_0+'DD_opening_list.npy')))
 
 dd_num_to_opening = {1:'HF', 3: 'AI', 0: 'HR'} #go from numbering system to the well known opening labels
 
+legend_font = font_manager.FontProperties(family='monospace',
+                                   weight='normal',
+                                   style='normal', size=14)
+
 plt.figure(figsize = [8,10])
 ax_resolution = plt.gca()
-plt.loglog(Ei_list_1, fwhm_list_1, 's-', label = 'dd={0}, speed={1} Hz'.format(dd_num_to_opening[DD_opening_1], speed_request_1) )
-plt.loglog(Ei_list_3, fwhm_list_3, '^-', label = 'dd={0}, speed={1} Hz'.format(dd_num_to_opening[DD_opening_3], speed_request_3) )
-plt.loglog(Ei_list_0, fwhm_list_0, 'x-', label = 'dd={0}, speed={1} Hz'.format(dd_num_to_opening[DD_opening_0], speed_request_0) )
+plt.loglog(Ei_list_1, fwhm_list_1, 's-', label = 'dd-opening={0}, dd-freq={1} Hz'.format(dd_num_to_opening[DD_opening_1], speed_request_1) )
+plt.loglog(Ei_list_3, fwhm_list_3, '^-', label = 'dd-opening={0}, dd-freq={1} Hz'.format(dd_num_to_opening[DD_opening_3], speed_request_3) )
+plt.loglog(Ei_list_0, fwhm_list_0, 'o-', label = 'dd-opening={0}, dd-freq={1} Hz'.format(dd_num_to_opening[DD_opening_0], speed_request_0) )
 plt.xlabel('E (meV)')
 plt.ylabel('elastic gaussian FWHM (meV)')
-plt.legend(loc = 'upper left')
+plt.legend(loc = 'upper left', prop = legend_font)
 plt.grid(b=True, which='major', color='y', linestyle='-')
 plt.grid(b=True, which='minor', color='k', linestyle='-')
 
@@ -112,18 +117,22 @@ if wavelength_axis_show ==1:
     for label in ax_wl.xaxis.get_ticklabels():
         label.set_rotation(-45)
 
-plt.savefig(file_prefix+'elastic-resolution.pdf', format = 'pdf')
+ax_resolution.tick_params(axis='both', direction = 'inout', length = 20, which = 'major')
+ax_resolution.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
+ax_wl.tick_params(axis='both', direction = 'inout', length = 20, which = 'major')
+ax_wl.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
 
+plt.savefig(file_prefix+'elastic-resolution.pdf', format = 'pdf')
 plt.show()
 
 plt.figure(figsize = [8,10])
 ax_flux = plt.gca()
-plt.loglog(Ei_list_1, intensity_list_1, 's-', label = 'dd={0}, speed={1} Hz'.format(dd_num_to_opening[DD_opening_1], speed_request_1) )
-plt.loglog(Ei_list_3, intensity_list_3, '^-', label = 'dd={0}, speed={1} Hz'.format(dd_num_to_opening[DD_opening_3], speed_request_3) )
-plt.loglog(Ei_list_0, intensity_list_0, 'x-', label = 'dd={0}, speed={1} Hz'.format(dd_num_to_opening[DD_opening_0], speed_request_0) )
+plt.loglog(Ei_list_1, intensity_list_1, 's-', label = 'dd-opening={0}, dd-freq={1} Hz'.format(dd_num_to_opening[DD_opening_1], speed_request_1) )
+plt.loglog(Ei_list_3, intensity_list_3, '^-', label = 'dd-opening={0}, dd-freq={1} Hz'.format(dd_num_to_opening[DD_opening_3], speed_request_3) )
+plt.loglog(Ei_list_0, intensity_list_0, 'o-', label = 'dd-opening={0}, dd-freq={1} Hz'.format(dd_num_to_opening[DD_opening_0], speed_request_0) )
 plt.xlabel('E (meV)')
 plt.ylabel('monitor3 flux (n/s/MW)')
-plt.legend(loc = 'upper left')
+plt.legend(loc = 'upper left', prop = legend_font)
 plt.grid(b=True, which='major', color='y', linestyle='-')
 plt.grid(b=True, which='minor', color='k', linestyle='-')
 
@@ -170,6 +179,10 @@ if wavelength_axis_show ==1:
     ax_wl.set_xlabel(r"wavelength ($\AA$)")
     for label in ax_wl.xaxis.get_ticklabels():
         label.set_rotation(-45)
+ax_flux.tick_params(axis='both', direction = 'inout', length = 20, which = 'major')
+ax_flux.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
+ax_wl.tick_params(axis='both', direction = 'inout', length = 20, which = 'major')
+ax_wl.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
 
 plt.savefig(file_prefix+'intensity-monitor3-neutrons.pdf', format = 'pdf')
 plt.show()
@@ -178,12 +191,12 @@ plt.show()
 
 plt.figure(figsize = [8,10])
 ax_flux = plt.gca()
-plt.loglog(Ei_list_1, intensity_list_1/np.max(intensity_list_1), 's-', label = 'dd={0}, speed={1} Hz'.format(dd_num_to_opening[DD_opening_1], speed_request_1) )
-plt.loglog(Ei_list_3, intensity_list_3/np.max(intensity_list_1), '^-', label = 'dd={0}, speed={1} Hz'.format(dd_num_to_opening[DD_opening_3], speed_request_3) )
-plt.loglog(Ei_list_0, intensity_list_0/np.max(intensity_list_1), 'x-', label = 'dd={0}, speed={1} Hz'.format(dd_num_to_opening[DD_opening_0], speed_request_0) )
+plt.loglog(Ei_list_1, intensity_list_1/np.max(intensity_list_1), 's-', label = 'dd-opening={0}, dd-freq={1} Hz'.format(dd_num_to_opening[DD_opening_1], speed_request_1) )
+plt.loglog(Ei_list_3, intensity_list_3/np.max(intensity_list_1), '^-', label = 'dd-opening={0}, dd-freq={1} Hz'.format(dd_num_to_opening[DD_opening_3], speed_request_3) )
+plt.loglog(Ei_list_0, intensity_list_0/np.max(intensity_list_1), 'o-', label = 'dd-opening={0}, dd-freq={1} Hz'.format(dd_num_to_opening[DD_opening_0], speed_request_0) )
 plt.xlabel('E (meV)')
 plt.ylabel('monitor3 intensity normalized to peak flux')
-plt.legend(loc = 'upper left')
+plt.legend(loc = 'upper left', prop= legend_font)
 plt.grid(b=True, which='major', color='y', linestyle='-')
 plt.grid(b=True, which='minor', color='k', linestyle='-')
 
@@ -230,6 +243,11 @@ if wavelength_axis_show ==1:
     ax_wl.set_xlabel(r"wavelength ($\AA$)")
     for label in ax_wl.xaxis.get_ticklabels():
         label.set_rotation(-45)
+
+ax_flux.tick_params(axis='both', direction = 'inout', length = 20, which = 'major')
+ax_flux.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
+ax_wl.tick_params(axis='both', direction = 'inout', length = 20, which = 'major')
+ax_wl.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
 
 plt.savefig(file_prefix+'intensity-normed-to-peak.pdf', format = 'pdf')
 plt.show()
