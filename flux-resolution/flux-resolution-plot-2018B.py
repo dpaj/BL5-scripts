@@ -30,6 +30,8 @@ def flux_res_load(filename_prefix):
 working_directory = '/SNS/CNCS/shared/BL5-scripts/flux-resolution/'    
 os.chdir(working_directory)
 
+wavelength_axis_show = 1
+
 file_prefix = '2018B-'
 file_prefix_1 = '2018B-HF-'
 file_prefix_3 = '2018B-AI-'
@@ -86,10 +88,32 @@ for label in ax_resolution.xaxis.get_ticklabels('minor')[0::2]:
 for label in ax_resolution.xaxis.get_ticklabels():
     label.set_rotation(-45)
 
-plt.xlim([0.7, 100.])
-plt.ylim([1e-2, 20])
-plt.savefig(file_prefix+'elastic-resolution.pdf', format = 'pdf')
+plt.xlim([0.5, 100.])
+plt.ylim([5e-3, 20])
+
+
+ax_resolution.axvspan(0.5, 1., facecolor='gray') #color over the lower energy that should not typically be used
 ax_resolution.axvspan(20., 100., facecolor='gray') #color over the higher energy that should not typically be used
+
+if wavelength_axis_show ==1:
+    ax_wl = ax_resolution.twiny()
+    ax_wl.set_xscale('log')
+    tick_locations = np.array([0.6, 0.8, 1., 2, 4, 6, 8, 10, 20, 40, 60, 80, 100])
+    #tick_locations = np.array([1, 10, 100])
+
+    def tick_function(X):
+        V = np.sqrt(81.81/X)
+        return ["%.3f" % z for z in V]
+
+    ax_wl.set_xticks(tick_locations)
+    ax_wl.set_xlim(ax_resolution.get_xlim())
+    ax_wl.set_xticklabels(tick_function(tick_locations))
+    ax_wl.set_xlabel(r"wavelength ($\AA$)")
+    for label in ax_wl.xaxis.get_ticklabels():
+        label.set_rotation(-45)
+
+plt.savefig(file_prefix+'elastic-resolution.pdf', format = 'pdf')
+
 plt.show()
 
 plt.figure(figsize = [8,10])
@@ -121,13 +145,31 @@ for label in ax_flux.xaxis.get_ticklabels('minor')[0::2]:
 for label in ax_flux.xaxis.get_ticklabels():
     label.set_rotation(-45)
 
-plt.xlim([0.7, 100.])
-plt.ylim([2e4, 3e7])
+plt.xlim([0.5, 100.])
+plt.ylim([7e3, 3e7])
 
 f = ScalarFormatter(useOffset=False, useMathText=True)
 g = lambda x,pos : "${}$".format(f._formatSciNotation('%1.10e' % x))
 ax_flux.yaxis.set_minor_formatter(FuncFormatter(g))
+ax_flux.axvspan(0.5, 1., facecolor='gray') #color over the lower energy that should not typically be used
 ax_flux.axvspan(20., 100., facecolor='gray') #color over the higher energy that should not typically be used
+
+if wavelength_axis_show ==1:
+    ax_wl = ax_flux.twiny()
+    ax_wl.set_xscale('log')
+    tick_locations = np.array([0.6, 0.8, 1., 2, 4, 6, 8, 10, 20, 40, 60, 80, 100])
+    #tick_locations = np.array([1, 10, 100])
+
+    def tick_function(X):
+        V = np.sqrt(81.81/X)
+        return ["%.3f" % z for z in V]
+
+    ax_wl.set_xticks(tick_locations)
+    ax_wl.set_xlim(ax_flux.get_xlim())
+    ax_wl.set_xticklabels(tick_function(tick_locations))
+    ax_wl.set_xlabel(r"wavelength ($\AA$)")
+    for label in ax_wl.xaxis.get_ticklabels():
+        label.set_rotation(-45)
 
 plt.savefig(file_prefix+'intensity-monitor3-neutrons.pdf', format = 'pdf')
 plt.show()
@@ -163,13 +205,31 @@ for label in ax_flux.xaxis.get_ticklabels('minor')[0::2]:
 for label in ax_flux.xaxis.get_ticklabels():
     label.set_rotation(-45)
 
-plt.xlim([0.7, 100.])
+plt.xlim([0.5, 100.])
 plt.ylim([1e-3, 10e0])
 
 f = ScalarFormatter(useOffset=False, useMathText=True)
 g = lambda x,pos : "${}$".format(f._formatSciNotation('%1.10e' % x))
 ax_flux.yaxis.set_minor_formatter(FuncFormatter(g))
+ax_flux.axvspan(0.5, 1., facecolor='gray') #color over the lower energy that should not typically be used
 ax_flux.axvspan(20., 100., facecolor='gray') #color over the higher energy that should not typically be used
+
+if wavelength_axis_show ==1:
+    ax_wl = ax_flux.twiny()
+    ax_wl.set_xscale('log')
+    tick_locations = np.array([0.6, 0.8, 1., 2, 4, 6, 8, 10, 20, 40, 60, 80, 100])
+    #tick_locations = np.array([1, 10, 100])
+
+    def tick_function(X):
+        V = np.sqrt(81.81/X)
+        return ["%.3f" % z for z in V]
+
+    ax_wl.set_xticks(tick_locations)
+    ax_wl.set_xlim(ax_flux.get_xlim())
+    ax_wl.set_xticklabels(tick_function(tick_locations))
+    ax_wl.set_xlabel(r"wavelength ($\AA$)")
+    for label in ax_wl.xaxis.get_ticklabels():
+        label.set_rotation(-45)
 
 plt.savefig(file_prefix+'intensity-normed-to-peak.pdf', format = 'pdf')
 plt.show()
