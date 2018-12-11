@@ -1,0 +1,15 @@
+should use the highest flux
+practically with the choppers running, this means all choppers at 60Hz
+could do all parked open, but may have radiation problems and maybe some other junk
+
+1e6 counts per pixel to get 0.1% uncertainty in intensity coming from this normalization
+
+use the Ei = 3.32 meV to get below the Bragg cutoff of Al and V
+
+sometimes, if in a magnet (or other sample environment) and wanting to get a V normalization, Ei = 1.55 meV is run
+
+run a thin sample to avoid multiple scattering; for example the 63 mm tall x 10 mm diameter x 1 mm thick V sample that is in Al holder
+
+run without a cryostat to avoid the multiple scattering
+
+assume over the small q-range that all scattering is elastic, and ignore the debye-waller
