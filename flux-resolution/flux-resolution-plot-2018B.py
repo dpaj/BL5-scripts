@@ -123,6 +123,7 @@ ax_wl.tick_params(axis='both', direction = 'inout', length = 20, which = 'major'
 ax_wl.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
 
 plt.savefig(file_prefix+'elastic-resolution.pdf', format = 'pdf')
+plt.savefig(file_prefix+'elastic-resolution.png', format = 'png')
 plt.show()
 
 plt.figure(figsize = [8,10])
@@ -185,6 +186,7 @@ ax_wl.tick_params(axis='both', direction = 'inout', length = 20, which = 'major'
 ax_wl.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
 
 plt.savefig(file_prefix+'intensity-monitor3-neutrons.pdf', format = 'pdf')
+plt.savefig(file_prefix+'intensity-monitor3-neutrons.png', format = 'png')
 plt.show()
 
 
@@ -250,6 +252,7 @@ ax_wl.tick_params(axis='both', direction = 'inout', length = 20, which = 'major'
 ax_wl.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
 
 plt.savefig(file_prefix+'intensity-normed-to-peak.pdf', format = 'pdf')
+plt.savefig(file_prefix+'intensity-normed-to-peak.png', format = 'png')
 plt.show()
 
 #for idx,i in enumerate(intensity_list_0): print(i*vi_list_0[idx]/398696139.67)
