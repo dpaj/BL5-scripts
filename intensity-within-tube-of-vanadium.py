@@ -14,9 +14,11 @@ import numpy as np
 """
 
 
-/SNS/CNCS/IPTS-20360/shared/autoreduce
-this_file = '/SNS/CNCS/IPTS-20360/shared/autoreduce/van_277537.nxs.h5'
+
+this_file = '/SNS/CNCS/IPTS-20360/shared/autoreduce/van_277537.nxs'
 this_file = '/SNS/CNCS/IPTS-20360/shared/autoreduce/van_273992.nxs'
+this_file = '/SNS/CNCS/IPTS-20360/shared/autoreduce/van_273266.nxs'
+#this_file = '/SNS/CNCS/IPTS-20360/shared/autoreduce/van_265987.nxs' #crappy data
 
 van=LoadNexus(Filename=this_file)
 
@@ -37,8 +39,7 @@ print('mean pixel intensity=', np.mean(pxl_intensity_list))
 print('standard deviation of pixel intensity=', np.std(pxl_intensity_list))
 
 #look at a given tube how does the intensity vary
-fig1, ax1 = plt.subplots()
-fig2, ax2 = plt.subplots()
+plt.figure()
 for tube_number in range(1,400,50):
     #tube_number = 423
     first_pixel = tube_number * 128
@@ -52,16 +53,15 @@ for tube_number in range(1,400,50):
         #this_tube_solid_angle_list.append(van.getDetector(this_detector).solidAngle([0,0,0]))
 
 
-    ax1.plot(pixel_height*np.array(range(len(this_tube_intensity_list))),this_tube_intensity_list, label = 'tube_number='+str(tube_number))
-    ax1.plot(pixel_height*np.array(range(len(this_tube_intensity_list))),np.divide(this_tube_solid_angle_list, np.max(this_tube_solid_angle_list)), label = 'tube_number='+str(tube_number))
-ax1.legend(loc = 'botleft')
-#fig1.ylabel('scaled counts')
-#fig1.xlabel('position (m)')
-#fig1.title(this_file)
+    plt.plot(pixel_height*np.array(range(len(this_tube_intensity_list))),this_tube_intensity_list, 'o', label = 'tube_number='+str(tube_number))
+    #ax1.plot(pixel_height*np.array(range(len(this_tube_intensity_list))),np.divide(this_tube_solid_angle_list, np.max(this_tube_solid_angle_list)), label = 'tube_number='+str(tube_number))
+    plt.plot(pixel_height*np.array(range(len(this_tube_intensity_list))),np.divide(this_tube_intensity_list,np.divide(this_tube_solid_angle_list, np.max(this_tube_solid_angle_list))), label = 'tube_number='+str(tube_number))
+plt.legend(loc = 'botleft')
+plt.ylabel('scaled counts')
+plt.xlabel('position (m)')
+plt.title(this_file)
 plt.show()
 
-print(dir(i.getDetector(1000).shape()))
+#plt.close('all')
 
-van.getDetector(275*128+128/2).solidAngle(samplepos)
-
-print(samplepos)
+print(dir(samplepos))

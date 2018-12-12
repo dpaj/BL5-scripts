@@ -14,3 +14,4 @@ for this_detector in range(0,51200):
 
 print('mean pixel height=', np.mean(pxl_height_list))
 print('standard deviation of pixel height=', np.std(pxl_height_list))
+

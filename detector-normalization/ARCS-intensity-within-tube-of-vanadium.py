@@ -55,7 +55,8 @@ print('standard deviation of pixel intensity=', np.std(pxl_intensity_list))
 
 #look at a given tube how does the intensity vary
 plt.figure()
-for tube_number in [423, 542, 757, 551]:
+#for tube_number in [423, 542, 757, 551]:
+for tube_number in range(1,920,100):
     #tube_number = 423
     first_pixel = tube_number * 128
     pixel_height = float(re.search(r'<ns1:height val="(.*?)"/>', i.getDetector(first_pixel).shape().getShapeXML()).group(1))
@@ -66,6 +67,30 @@ for tube_number in [423, 542, 757, 551]:
 
 
     plt.plot(pixel_height*np.array(range(len(this_tube_intensity_list))),this_tube_intensity_list, label = 'tube_number='+str(tube_number))
+plt.legend(loc = 'botleft')
+plt.ylabel('scaled counts')
+plt.xlabel('position (m)')
+plt.title(this_file)
+plt.show()
+
+#look at a given tube how does the intensity vary
+plt.figure()
+for tube_number in range(1,920,100):
+    #tube_number = 423
+    first_pixel = tube_number * 128
+    pixel_height = float(re.search(r'<ns1:height val="(.*?)"/>', i.getDetector(first_pixel).shape().getShapeXML()).group(1))
+    this_tube_intensity_list = []
+    this_tube_solid_angle_list = []
+    for this_detector in range(first_pixel,first_pixel+128):
+        pxl_intensity = vanARCS.readY(this_detector)[0]
+        this_tube_intensity_list.append(pxl_intensity)
+        this_tube_solid_angle_list.append(vanARCS.getDetector(this_detector).solidAngle(samplepos))
+        #this_tube_solid_angle_list.append(van.getDetector(this_detector).solidAngle([0,0,0]))
+
+
+    #ax1.plot(pixel_height*np.array(range(len(this_tube_intensity_list))),this_tube_intensity_list, label = 'tube_number='+str(tube_number))
+    #ax1.plot(pixel_height*np.array(range(len(this_tube_intensity_list))),np.divide(this_tube_solid_angle_list, np.max(this_tube_solid_angle_list)), label = 'tube_number='+str(tube_number))
+    plt.plot(pixel_height*np.array(range(len(this_tube_intensity_list))),np.divide(this_tube_intensity_list,np.divide(this_tube_solid_angle_list, np.max(this_tube_solid_angle_list))), label = 'tube_number='+str(tube_number))
 plt.legend(loc = 'botleft')
 plt.ylabel('scaled counts')
 plt.xlabel('position (m)')
