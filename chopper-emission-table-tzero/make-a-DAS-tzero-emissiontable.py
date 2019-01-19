@@ -5,6 +5,7 @@ import numpy as np
 def my_tzero_func(e, e0, e1, e2, e3):
 	return e0 - e1*np.log(e) - e2*np.log(e)*np.log(e) - e3*np.log(e)*np.log(e)*np.log(e)
 
+file_to_write = "paj-emissiontable-2018B.sh"
 num_points = int(200)
 min_energy = 0.3 #meV
 max_energy = 150.0 #meV
@@ -16,7 +17,7 @@ e_string = "".join(format(x, "12.5f") for x in e_list)
 t_zero_string = "".join(format(x, "12.5f") for x in t_zero_list)
 
 
-f= open("paj-emissiontable-2018B.sh","w+")
+f= open(file_to_write,"w+")
 
 for chopper_index in range(0+1,5+1):
 	f.write("caput -a BL5:Chop:Skf"+str(chopper_index)+":EmissionTableT "+str(num_points)+" "+t_zero_string+"\n" )
