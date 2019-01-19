@@ -78,7 +78,7 @@ runs_list = runs_list_5
 #runs_list = [range(298790, 298822+1), range(298823, 298855+1), range(298856, 298888+1), range(298889, 298921+1), range(298922, 298931+1)]
 """
 
-cut_the_run_range = 3
+cut_the_run_range = 5
                    #1.00 meV, 1.55 meV, 3.32 meV, 6.59 meV, 12 meV, 25meV, 45meV, 80meVINCOMPLETE
 runs_list = [range(298982+cut_the_run_range, 299011+1-cut_the_run_range), 
     range(299012+cut_the_run_range, 299041+1-cut_the_run_range), 
@@ -88,7 +88,7 @@ runs_list = [range(298982+cut_the_run_range, 299011+1-cut_the_run_range),
     range(299139+cut_the_run_range, 299168+1-cut_the_run_range),
     range(299169+cut_the_run_range, 299198+1-cut_the_run_range),
     range(299199+cut_the_run_range, 299221+1-cut_the_run_range*0),]
-runs_list = [range(299229, 299259-6)] #from a 2pC table scan
+runs_list = [range(299229, 299293-6)] #from a 2pC table scan
                    #1.00 meV, 1.55 meV, 3.32 meV, 6.59 meV, 12 meV, 25meV, 45meV, 80meV from Table scan
 runs_list = [range(298982+cut_the_run_range, 299011+1-cut_the_run_range), 
     range(299012+cut_the_run_range, 299041+1-cut_the_run_range), 
@@ -98,6 +98,9 @@ runs_list = [range(298982+cut_the_run_range, 299011+1-cut_the_run_range),
     range(299139+cut_the_run_range, 299168+1-cut_the_run_range),
     range(299169+cut_the_run_range, 299198+1-cut_the_run_range),
     range(299229, 299259-6),]
+    
+runs_list = [range(299261, 299293+1), range(299102+cut_the_run_range, 299131+1-cut_the_run_range)]
+#runs_list = [range(299261, 299273+1)]
 #plt.close('all')
 
 
