@@ -13,3 +13,6 @@ run a thin sample to avoid multiple scattering; for example the 63 mm tall x 10 
 run without a cryostat to avoid the multiple scattering
 
 assume over the small q-range that all scattering is elastic, and ignore the debye-waller
+
+***
+need to define the VanadiumIntegrationRange, apparently the typical way is to define in time-of-flight, although maybe energy-space would be better for a more constant background..?
