@@ -238,4 +238,13 @@ print(fitted_tzero_list)
 print(popt_tzerofit[0]-popt_tzerofit[1]*np.log(ei_list)-popt_tzerofit[2]*np.log(ei_list)*np.log(ei_list)-popt_tzerofit[3]*np.log(ei_list)*np.log(ei_list)*np.log(ei_list))
 
 plt.show()
+#save the data
+np.save('/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/HF_ei_list', ei_list)
+np.save('/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/HF_fitted_tzero_list',fitted_tzero_list)
+np.save('/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/HF_fitted_tzero_error_list',fitted_tzero_error_list)
+
+#save the fit parameters
+np.save('/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/HF_tzerofit_params', popt_tzerofit)
+
+
 #plt.close('all')

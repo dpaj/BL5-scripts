@@ -81,7 +81,7 @@ runs_list = runs_list_5
 cut_the_run_range = 5
                    #1.00 meV, 1.55 meV, 3.32 meV, 6.59 meV, 12 meV, 25meV, 45meV, 80meVINCOMPLETE
 runs_list = [range(299554+cut_the_run_range, 299583+1-cut_the_run_range), 
-    range(299584+cut_the_run_range, 299623+1-cut_the_run_range), 
+    range(299584+cut_the_run_range, 299613+1-cut_the_run_range), 
     range(299614+cut_the_run_range, 299643+1-cut_the_run_range), 
     range(299644+cut_the_run_range, 299673+1-cut_the_run_range), 
     range(299674+cut_the_run_range, 299703+1-cut_the_run_range*0), ]
@@ -270,7 +270,7 @@ plt.xlabel('Ei meV')
 plt.ylabel('fitted t-zero (microseconds)')
 
 #data from 2018 emission table
-plt.plot([1,1.55,3.32,6.59,12.0,25.0,80.0], [136.37,101.34,85.21,67.24,38.32,12.08,-62.67], 'mo', label = '2018 measurement')
+plt.plot([1,1.55,3.32,6.59,12.0,25.0,80.0], [136.37,101.34,85.21,67.24,38.32,12.08,-62.67], 'mo', label = '2018 HF measurement')
 
 plt.legend()
 plt.show()
@@ -283,4 +283,11 @@ print(fitted_tzero_list)
 print(popt_tzerofit[0]-popt_tzerofit[1]*np.log(ei_list)-popt_tzerofit[2]*np.log(ei_list)*np.log(ei_list)-popt_tzerofit[3]*np.log(ei_list)*np.log(ei_list)*np.log(ei_list))
 
 plt.show()
+
+np.save('/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/HR_ei_list', ei_list)
+np.save('/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/HR_fitted_tzero_list',fitted_tzero_list)
+np.save('/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/HR_fitted_tzero_error_list',fitted_tzero_error_list)
+
+np.save('/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/HR_tzerofit_params', popt_tzerofit)
+
 #plt.close('all')
