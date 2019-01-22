@@ -80,13 +80,11 @@ runs_list = runs_list_5
 
 cut_the_run_range = 5
                    #1.00 meV, 1.55 meV, 3.32 meV, 6.59 meV, 12 meV, 25meV, 45meV, 80meVINCOMPLETE
-runs_list = [range(299294+cut_the_run_range, 299323+1-cut_the_run_range), 
-    range(299324+cut_the_run_range, 299353+1-cut_the_run_range), 
-    range(299354+cut_the_run_range, 299383+1-cut_the_run_range), 
-    range(299384+cut_the_run_range, 299413+1-cut_the_run_range), 
-    range(299414+cut_the_run_range, 299443+1-cut_the_run_range), 
-    range(299444+cut_the_run_range, 299473+1-cut_the_run_range),
-    range(299521+cut_the_run_range, 299551+1-cut_the_run_range-2),]
+runs_list = [range(299554+cut_the_run_range, 299583+1-cut_the_run_range), 
+    range(299584+cut_the_run_range, 299623+1-cut_the_run_range), 
+    range(299614+cut_the_run_range, 299643+1-cut_the_run_range), 
+    range(299644+cut_the_run_range, 299673+1-cut_the_run_range), 
+    range(299674+cut_the_run_range, 299703+1-cut_the_run_range*0), ]
 """
     range(299374+cut_the_run_range, 299503+1-cut_the_run_range), 
     range(299504+cut_the_run_range, 299518+1-cut_the_run_range*0), ]

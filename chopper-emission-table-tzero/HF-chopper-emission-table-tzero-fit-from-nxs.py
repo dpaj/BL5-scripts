@@ -22,76 +22,29 @@ data_folder = '/SNS/CNCS/IPTS-22728/nexus/' #this is the real thing living in th
 
 #define the runs and read in the data
 
-"""
-FIRST SET OF RUNS: (HF)
-t-zero scan 1.00 meV = runs from 273278 to 273302, range(273278,273302+1, 1)
-t-zero scan 1.55 meV = runs from 273303 to 273327, range(273303,273327+1, 1)
-t-zero scan 3.32 meV = runs from 273328 to 273352, range(273328,273352+1, 1)
-t-zero scan 6.59 meV = runs from 273353 to 273377, range(273353,273377+1, 1)
-t-zero scan 12.0 meV = runs from 273378 to 273402, range(273378,273402+1, 1)
-t-zero scan 25.0 meV = runs from 273403 to 273427, range(273403,273427+1, 1)
-t-zero scan 80.0 meV = runs from 273428 to 273452, range(273428,273452+1, 1)
-
-SECOND SET OF RUNS: (AI)
-t-zero scan 1.00 meV = range(273453,273477+1, 1)
-t-zero scan 1.55 meV = range(273478,273502+1, 1)
-t-zero scan 3.32 meV = range(273503,273527+1, 1)
-t-zero scan 6.59 meV = range(273528,273552+1, 1)
-t-zero scan 12.0 meV = range(273553,273577+1, 1)
-t-zero scan 25.0 meV = range(273578,273602+1, 1)
-t-zero scan 80.0 meV = range(273603,273627+1, 1)
-
-THIRD SET OF RUNS: (HR)
-t-zero scan 1.00 meV = range(273628,273652+1, 1)
-t-zero scan 1.55 meV = range(273653,273677+1, 1)
-t-zero scan 3.32 meV = range(273678,273702+1, 1)
-t-zero scan 6.59 meV = range(273703,273727+1, 1)
-t-zero scan 12.0 meV = range(273728,273752+1, 1)
-t-zero scan 25.0 meV = range(273753,273777+1, 1)
-t-zero scan 80.0 meV = range(273778,273802+1, 1)
-
-RERUN OF 3.32 meV:
-range(273803,273852+1, 1)
-
-FIFTH SET OF RUNS: (HF) <even further left the phase>
-t-zero scan 1.00 meV = range(274178,274210+1, 1)
-t-zero scan 1.55 meV = range(274211,274243+1, 1)
-t-zero scan 3.32 meV = range(274244,274276+1, 1)
-t-zero scan 6.59 meV = range(274277,274309+1, 1)
-t-zero scan 12.0 meV = range(274310,274342+1, 1)
-t-zero scan 25.0 meV = range(274343,274375+1, 1)
-t-zero scan 80.0 meV = range(274376,274394+1, 1)
-
-
-"""
-"""
-runs_list_1 = [range(273278,273302+1, 1), range(273303,273327+1, 1), range(273328,273352+1, 1), range(273353,273377+1, 1), range(273378,273402+1, 1), range(273403,273427+1, 1), range(273428,273452+1, 1)]
-runs_list_2 = [range(273453,273477+1, 1), range(273478,273502+1, 1), range(273503,273527+1, 1), range(273528,273552+1, 1), range(273553,273577+1, 1), range(273578,273602+1, 1), range(273603,273627+1, 1)]
-runs_list_3 = [range(273628,273652+1, 1), range(273653,273677+1, 1), range(273678,273702+1, 1), range(273703,273727+1, 1), range(273728,273752+1, 1), range(273753,273777+1, 1), range(273778,273802+1, 1)]
-runs_list_4 = [range(273803,273852+1, 1)]
-runs_list_5 = [range(274178,274210+1, 1), range(274211,274243+1, 1), range(274244,274276+1, 1), range(274277,274309+1, 1), range(274310,274342+1, 1), range(274343,274375+1, 1), range(274376,274394+1, 1)]
-
-runs_list = runs_list_1 + runs_list_2 + runs_list_3 + runs_list_4
-
-runs_list = runs_list_5
-#                   #1.00 meV                            1.55 meV                              3.32 meV                             6.59 meV                               12 meV INCOMPLETE
-#runs_list = [range(298790, 298822+1), range(298823, 298855+1), range(298856, 298888+1), range(298889, 298921+1), range(298922, 298931+1)]
-"""
-
 cut_the_run_range = 5
                    #1.00 meV, 1.55 meV, 3.32 meV, 6.59 meV, 12 meV, 25meV, 45meV, 80meVINCOMPLETE
-runs_list = [range(299294+cut_the_run_range, 299323+1-cut_the_run_range), 
-    range(299324+cut_the_run_range, 299353+1-cut_the_run_range), 
-    range(299354+cut_the_run_range, 299383+1-cut_the_run_range), 
-    range(299384+cut_the_run_range, 299413+1-cut_the_run_range), 
-    range(299414+cut_the_run_range, 299443+1-cut_the_run_range), 
-    range(299444+cut_the_run_range, 299473+1-cut_the_run_range),
-    range(299521+cut_the_run_range, 299551+1-cut_the_run_range-2),]
-"""
-    range(299374+cut_the_run_range, 299503+1-cut_the_run_range), 
-    range(299504+cut_the_run_range, 299518+1-cut_the_run_range*0), ]
-"""
-#runs_list = [    range(299521+cut_the_run_range, 299511+1-cut_the_run_range*0),]
+runs_list = [range(298982+cut_the_run_range, 299011+1-cut_the_run_range), 
+    range(299012+cut_the_run_range, 299041+1-cut_the_run_range), 
+    range(299042+cut_the_run_range, 299071+1-cut_the_run_range), 
+    range(299072+cut_the_run_range, 299101+1-cut_the_run_range), 
+    range(299102+cut_the_run_range, 299131+1-cut_the_run_range),
+    range(299139+cut_the_run_range, 299168+1-cut_the_run_range),
+    range(299169+cut_the_run_range, 299198+1-cut_the_run_range),
+    range(299199+cut_the_run_range, 299221+1-cut_the_run_range*0),]
+runs_list = [range(299229, 299293-6)] #from a 2pC table scan
+                   #1.00 meV, 1.55 meV, 3.32 meV, 6.59 meV, 12 meV, 25meV, 45meV, 80meV from Table scan
+runs_list = [range(298982+cut_the_run_range, 299011+1-cut_the_run_range), 
+    range(299012+cut_the_run_range, 299041+1-cut_the_run_range), 
+    range(299042+cut_the_run_range, 299071+1-cut_the_run_range), 
+    range(299072+cut_the_run_range, 299101+1-cut_the_run_range), 
+    range(299102+cut_the_run_range, 299131+1-cut_the_run_range),
+    range(299139+cut_the_run_range, 299168+1-cut_the_run_range),
+    range(299169+cut_the_run_range, 299198+1-cut_the_run_range),
+    range(299229, 299259-6),]
+    
+#runs_list = [range(299261, 299293+1), range(299102+cut_the_run_range, 299131+1-cut_the_run_range)] #compare 2 scans of 12 meV
+
 #plt.close('all')
 
 
