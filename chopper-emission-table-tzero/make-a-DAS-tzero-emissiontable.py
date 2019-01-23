@@ -27,9 +27,9 @@ t_zero_string = "".join(format(x, "12.5f") for x in t_zero_list)
 f= open(file_to_write,"w+")
 
 for chopper_index in range(0+1,5+1):
-	f.write("caput -a BL5:Chop:Skf"+str(chopper_index)+":EmissionTableT "+str(num_points)+" "+t_zero_string+"\n" )
-	f.write("caput -a BL5:Chop:Skf"+str(chopper_index)+":EmissionTableE "+str(num_points)+" "+e_string+"\n" )
-	f.write("caput BL5:Chop:Skf"+str(chopper_index)+":EmissionTableSize "+str(num_points)+"\n" )
+	f.write("/home/controls/bin/caput -a BL5:Chop:Skf"+str(chopper_index)+":EmissionTableT "+str(num_points)+" "+t_zero_string+"\n" )
+	f.write("/home/controls/bin/caput -a BL5:Chop:Skf"+str(chopper_index)+":EmissionTableE "+str(num_points)+" "+e_string+"\n" )
+	f.write("/home/controls/bin/caput BL5:Chop:Skf"+str(chopper_index)+":EmissionTableSize "+str(num_points)+"\n" )
 f.close()
 
 os.chmod(file_to_write,755)
