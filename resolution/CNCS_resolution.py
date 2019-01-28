@@ -6,8 +6,8 @@ f_ch41 = 300#180, 240, or 300
 f_ch1 = 60
 
 ei = 3.32 #meV
-numpoints = 100 #number of points for energy array
-numpoints2T = 100 #number of points for angle array
+numpoints = 101 #number of points for energy array
+numpoints2T = 101 #number of points for angle array
 emax = 0.9*ei #maximum energy considered
 emin = -2.0*ei #minimum energy considered
 
@@ -32,6 +32,7 @@ d2T = 135.0/(numpoints2T-1.0)*np.pi/180.0 #two theta spacing
 
 x = np.zeros(numpoints) #energy transfer axis
 y = np.zeros(numpoints) #energy resolution axis
+pychop_fwhm = np.zeros(numpoints) #energy resolution axis
 dQ = np.zeros((numpoints, numpoints2T)) # Q resolution
 y2T = np.zeros(numpoints2T) # 2Theta axis
 
@@ -272,9 +273,14 @@ for i in range(numpoints):
     y3 = (vf3/L3)**2*dtd2 #broadening from the sample
     y[i] = np.sqrt(y1+y2+y3)*1.6749e-27*6.2415063e21#neutron mass kg, joule-meV relationship
     x[i] = emin+i*de
-    print(x[i], y[i])
+    pychop_fwhm[i] = 2.4994e-04*np.sqrt(ef**3 * ( (166.63655*(0.052+0.123*(ei/ef)**1.5))**2 + (57.27700*(1.052+0.123*(ei/ef)**1.5))**2) )
+    
+    print(x[i], y[i], pychop_fwhm[i])
+    
+    
 
 plt.plot(x,y)
+plt.plot(x,pychop_fwhm)
 plt.xlabel("Energy transfer (meV)")
 plt.ylabel("FWHM (meV)")
 

@@ -24,3 +24,6 @@ plt.ylim([-90,280])
 plt.xlabel('Ei (meV)')
 plt.ylabel('chopper emission t-zero (microseconds)')
 plt.show()
+
+print(HF_ei_list[2])
+print(HF_fitted_tzero_list[2])
