@@ -12,14 +12,12 @@ from scipy.optimize import curve_fit
 def gaussian(x, mu, sig):
     return np.exp(-np.power(x - mu, 2.) / (2 * np.power(sig, 2.)))
 
+dd_mode_dict = {1:9, 0:2, 3:4.4}
 
 #preprocessing V file name
 processed_vanadium="/SNS/CNCS/IPTS-22728/shared/autoreduce/processed_van_299736_16degree_beam_stop.nxs"
 van = Load(processed_vanadium)
 
-data_folder = '/SNS/CNCS/IPTS-22728/nexus/'
-
-#
 #put in the values in units meV 
 Ei_3p32_meV = 3.32
 Emin_3p32_meV=-0.5
@@ -30,45 +28,34 @@ Estep_3p32_meV=0.005 #this is the step of the nxspe file, will rebin later
 tibmin_3p32_meV,tibmax_3p32_meV=SuggestTibCNCS(Ei_3p32_meV)
 
 #define the runs and read in the data
+data_folder = '/SNS/CNCS/IPTS-22728/nexus/'
 runs_3p32_meV = [299738]
 file_names_3p32_meV = [data_folder + 'CNCS_{0}.nxs.h5'.format(r) for r in runs_3p32_meV]
 data_3p32_meV = Load('+'.join(file_names_3p32_meV))
 
-
-#
 #load the monitors
 monitor_3p32_mev = LoadNexusMonitors(file_names_3p32_meV[0])
 
 #load the instrument geometry
 LoadInstrument(data_3p32_meV,FileName='/SNS/CNCS/shared/geometry/CNCS_Definition_2018B2.xml', RewriteSpectraMap=False)
 
-
-
 #detector_height = 2.06
 detector_height = data_3p32_meV.getInstrument().getDetector(0).shape().getBoundingBox().width()[1]*128.
 
-if 1:
-    plt.close('all')
-
-
-
-
-
-#
 #Get Ei (initial energy through choppers), T0 (delay time of emission from source), vi (initially velocity from source)
-print("Ei",data_3p32_meV .getRun()['EnergyRequest'].firstValue(), "meV")
+print("Ei = {} meV".format(data_3p32_meV .getRun()['EnergyRequest'].firstValue()))
 
 mode = data_3p32_meV .run()['DoubleDiskMode'].timeAverageValue()
-print("double-disc-mode",mode)
+print("double-disc-mode {0}={1} degree opening".format(mode, dd_mode_dict[mode]))
 
 Ei, _FMP, _FMI, T0 = GetEi(data_3p32_meV)
-print("T0",T0, 'microseconds')
+print("T0 tabled = {} microseconds".format(T0))
 
 tzce = 175.539961298
-print("T0 from chopper emission {} microsconds".format(tzce))
+print("T0 from chopper emission {} microseconds".format(tzce))
 
-vi = 437.4*np.sqrt(Ei)
-print("vi", vi, "m/s")
+vi = 437.393295261*np.sqrt(Ei) #energy in units of meV
+print("vi = {} m/s".format(vi))
 
 
 """
@@ -90,8 +77,6 @@ for i in range(mon_instr[2].nelements()): print(i, mon_instr[2][i].getName())
 (2, 'monitor3')
 """
 
-
-#
 #Get L1 (distance from source to sample), t1 (time from source to sample)
 instr = data_3p32_meV.getInstrument()
 
@@ -100,27 +85,25 @@ monitor2_position = instr[2][1].getPos() #monitor that is directly after chopper
 monitor3_position = instr[2][2].getPos() #monitor that is directly after choppers 4+5, the double disc choppers, should be ~34.836 m from the source
 #monitor3 is the one that is most useful in this case
 
-
 source_position = instr.getSource().getPos()
 sample_position = instr.getSample().getPos()
 L1 = np.linalg.norm(sample_position-source_position)
 source_to_monitor3 = np.linalg.norm(monitor3_position-source_position)
-t1 = L1/vi*1e6 #in microseconds
-t_monitor3 = source_to_monitor3/vi*1e6
+t1 = L1/vi*1e6 #in microseconds, converted from SI of seconds
+t_monitor3 = source_to_monitor3/vi*1e6 #the time it takes to get to monitor #3, for the given Ei
 
 print("source coordinates",source_position)
 print("monitor3 coordinates", monitor3_position)
 print("sample coordinates",sample_position)
-print("L1", L1, "meters")
-print("source_to_monitor3", source_to_monitor3, "meters")
-print("t1", t1, "microseconds")
-print("t_monitor3", t_monitor3, "microseconds")
-
+print("L1 (distance source to sample) = {} meters".format(L1))
+print("Lm3 (distance from source to monitor#3)= {} meters".format(source_to_monitor3))
+print("t1 (time source to sample) = {} microseconds".format(t1))
+print("tm3 (time to get to monitor#3 without T0 delay) = {} microseconds".format( t_monitor3))
 
 #
 #calculate ROI (region of interest) taking one pixel as the example
-#L2 = np.linalg.norm(instr.getDetector(40000).getPos())
-#print("L2", L2, "meters")
+L2 = np.linalg.norm(instr.getDetector(40000).getPos())
+print("L2 (distance sample to detector) = {} meters".format(L2))
 
 #the purported design L2 is 3.5 m
 L2 = 3.5 #m
