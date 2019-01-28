@@ -9,8 +9,12 @@ from mpl_toolkits.mplot3d import Axes3D
 from scipy.optimize import curve_fit
 
 
-def gaussian(x, mu, sig):
-    return np.exp(-np.power(x - mu, 2.) / (2 * np.power(sig, 2.)))
+
+#def gaussian(x, mu, sig):
+#    return np.exp(-np.power(x - mu, 2.) / (2 * np.power(sig, 2.)))
+
+def gaussian(x, mu, sig, amp):
+    return 1./sig/np.sqrt(np.pi*2)*amp*np.exp(-np.power(x - mu, 2.) / (2 * np.power(sig, 2.)))
 
 dd_mode_dict = {1:9, 0:2, 3:4.4}
 
@@ -90,7 +94,7 @@ sample_position = instr.getSample().getPos()
 L1 = np.linalg.norm(sample_position-source_position)
 source_to_monitor3 = np.linalg.norm(monitor3_position-source_position)
 t1 = L1/vi*1e6 #in microseconds, converted from SI of seconds
-t_monitor3 = source_to_monitor3/vi*1e6 #the time it takes to get to monitor #3, for the given Ei
+t_monitor3_without_T0 = source_to_monitor3/vi*1e6 #the time it takes to get to monitor #3, for the given Ei
 
 print("source coordinates",source_position)
 print("monitor3 coordinates", monitor3_position)
@@ -98,7 +102,7 @@ print("sample coordinates",sample_position)
 print("L1 (distance source to sample) = {} meters".format(L1))
 print("Lm3 (distance from source to monitor#3)= {} meters".format(source_to_monitor3))
 print("t1 (time source to sample) = {} microseconds".format(t1))
-print("tm3 (time to get to monitor#3 without T0 delay) = {} microseconds".format( t_monitor3))
+print("tm3 (time to get to monitor#3 without T0 delay) = {} microseconds".format( t_monitor3_without_T0))
 
 #
 #calculate ROI (region of interest) taking one pixel as the example
@@ -108,77 +112,60 @@ print("L2 (distance sample to detector) = {} meters".format(L2))
 #the purported design L2 is 3.5 m
 L2 = 3.5 #m
 
-
-#the expected time to get to monitor3
-t_expected_monitor3 = source_to_monitor3/vi * 1e6
-print("t_expected_monitor3", t_expected_monitor3, "microseconds")
-
 #the time expected for the elastic line, is the time to travel L1 and L2 with a speed of vi, plus the T0 offset
-#T0 ???????? asdf
-t_expected = (L1+L2)/vi * 1e6 + T0
-print("T0 old", T0)
-print("t_expected", t_expected, "microseconds")
+#T0 here is from the chopper emission (tzce?)
+t_detector_expected = (L1+L2)/vi * 1e6 + T0
+print("T0 from MANTID = {} microseconds" .format(T0) )
+print("t_detector_expected ((L1+L2)/vi + T0)= {} microseconds".format(t_detector_expected))
 
 #find the ROI (region of interest)
-tofbin_min = int(t_expected*.95) 
-tofbin_max = int(t_expected*1.05) 
-print("detector elastic line from times of", tofbin_min, "to",tofbin_max,"in microseconds")
+tofbin_min = int(t_detector_expected*.95) 
+tofbin_max = int(t_detector_expected*1.05) 
+print("binning detector elastic line from times of {} to {} in microseconds".format(tofbin_min,tofbin_max))
 
-tofbin_monitor3_min = int(t_expected_monitor3*.95) 
-tofbin_monitor3_max = int(t_expected_monitor3*1.05) 
-print("peak at monitor3 from times of", tofbin_monitor3_min, "to",tofbin_monitor3_max,"in microseconds")
+tofbin_monitor3_min = int(t_monitor3_without_T0*.95) 
+tofbin_monitor3_max = int(t_monitor3_without_T0*1.05) 
+print("binning peak at monitor3 from times of {} to {} in microseconds".format(tofbin_monitor3_min, tofbin_monitor3_max))
 
-#
 #Time of flight histogram for the detectors
 tofbin_size = 1. #EACH BIN IS 1 microsecond by definition, this is important because later on there is an indexation of array that uses this, do not change it without care!!!
-data_3p32_meV_near_elastic = Rebin(InputWorkspace=data_3p32_meV, OutputWorkspace='data_3p32_meV_near_elastic', Params="%s,%s,%s" % (tofbin_min, tofbin_size, tofbin_max))
-
+data_3p32_meV_near_elastic = Rebin(InputWorkspace=data_3p32_meV, OutputWorkspace='data_3p32_meV_near_elastic', Params="{0},{1},{2}".format(tofbin_min, tofbin_size, tofbin_max))
 
 #time of flight for the monitors
-Rebin(InputWorkspace='monitor_3p32_mev', OutputWorkspace='monitor_3p32_mev', Params="%s,%s,%s" % (tofbin_monitor3_min, tofbin_size, tofbin_monitor3_max))
+Rebin(InputWorkspace='monitor_3p32_mev', OutputWorkspace='monitor_3p32_mev', Params="{0},{1},{2}".format(tofbin_monitor3_min, tofbin_size, tofbin_monitor3_max))
 monitor_3p32_mev = CropWorkspace(monitor_3p32_mev, StartWorkspaceIndex = 1, EndWorkspaceIndex = 1)
 
-#
 #fit a gaussian to the monitor3 peak, to get the timing_offset
 
 #extract the arrays associated with the time-of-flight spectrum for the monitor3
 monitor_3p32_mev_tof = monitor_3p32_mev.extractX()[0]
+monitor_3p32_mev_tof = monitor_3p32_mev_tof[:-1] + (monitor_3p32_mev_tof[1]-monitor_3p32_mev_tof[0])/2.
 monitor_3p32_mev_intensity = monitor_3p32_mev.extractY()[0]
 
 #get an initial guess for the fit by simply taking the maximum value of the peak
 monitor3_height_guess = np.max(monitor_3p32_mev_intensity)
-print("monitor3_height_guess", monitor3_height_guess)
+print("monitor3_height_guess = {0}".format(monitor3_height_guess) )
 monitor3_peakcenter_guess = monitor_3p32_mev_tof[np.argmax(monitor_3p32_mev_intensity)]
-print("monitor3_peakcenter_guess", monitor3_peakcenter_guess)
+print("monitor3_peakcenter_guess = {0}".format(monitor3_peakcenter_guess) )
 monitor3_sigma_guess = 10
-print("monitor3_sigma_guess", monitor3_sigma_guess)
+print("monitor3_sigma_guess = {0}".format(monitor3_sigma_guess) )
 
 
-"""
-cell method gives the resulting table workspace
-i.e. for this gaussian fit
+initial_guess = [monitor3_peakcenter_guess, monitor3_sigma_guess, monitor3_height_guess]
+popt, pcov = curve_fit(gaussian, monitor_3p32_mev_tof, monitor_3p32_mev_intensity, p0=initial_guess)
+popt_names = ['mu', 'sig', 'amp']
 
-f0.Height	0.19798322080157366	0.54893698272036207
-f0.PeakCentre	43,827.575513856682	89.900454907414655
-f0.Sigma	27.97118775540368	90.452191814182044
+monitor_3_fit_mu = popt[0]
+monitor_3_fit_sig = popt[1]
+monitor_3_fit_amp = popt[2]
 
-fit_result.OutputParameters.cell(1,0)
-"""
+print("monitor_3_fit_amp = {}".format(monitor_3_fit_amp) )
+print("monitor_3_fit_mu = {}".format(monitor_3_fit_mu) )
+print("monitor_3_fit_sig = {}".format(monitor_3_fit_sig) )
 
-
-fit_result = Fit(Function='name=Gaussian,Height='+str(monitor3_height_guess)+',PeakCentre='+str(monitor3_peakcenter_guess)+',Sigma='+str(monitor3_sigma_guess), InputWorkspace=monitor_3p32_mev, Output=monitor_3p32_mev, OutputCompositeMembers=True)
-
-monitor_3_fit_height = fit_result.OutputParameters.cell(0,1)
-monitor_3_fit_center = fit_result.OutputParameters.cell(1,1)
-monitor_3_fit_sigma = fit_result.OutputParameters.cell(2,1)
-
-print("monitor_3_fit_height", monitor_3_fit_height)
-print("monitor_3_fit_center", monitor_3_fit_center)
-print("monitor_3_fit_sigma", monitor_3_fit_sigma)
-
-timing_offset = monitor_3_fit_center - t_expected_monitor3
+timing_offset = monitor_3_fit_mu - t_monitor3_without_T0
 print("timing_offset found by peak arrival time at monitor3", timing_offset)
-
+print(tzce)
 
 #
 #plot the detector time of flight in the region of interest
@@ -226,8 +213,8 @@ fig_mon, ax_mon = plt.subplots(subplot_kw={'projection':'mantid'})
 ax_mon.plot(monitor_3p32_mev)
 ax_mon.legend()
 
-ax_mon.plot(monitor_3p32_mev_tof, monitor_3_fit_height*gaussian(monitor_3p32_mev_tof, monitor_3_fit_center, monitor_3_fit_sigma) )
-ax_mon.set_xlim([monitor_3_fit_center-5*monitor_3_fit_sigma, monitor_3_fit_center+5*monitor_3_fit_sigma])
+ax_mon.plot(monitor_3p32_mev_tof, gaussian(monitor_3p32_mev_tof, monitor_3_fit_mu, monitor_3_fit_sig, monitor_3_fit_amp) )
+ax_mon.set_xlim([monitor_3_fit_mu-5*monitor_3_fit_sig, monitor_3_fit_mu+5*monitor_3_fit_sig])
 
 plt.show()
 
