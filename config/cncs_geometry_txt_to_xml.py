@@ -2,7 +2,8 @@
 
 NUM_PIXELS_PER_TUBE = 128
 NUM_TUBES_PER_BANK = 8
-TUBE_SIZE = 2.06 #meter
+TUBE_SIZE = 2.00 #meter
+#######TUBE_SIZE = 2.06 #meter
 TUBE_WIDTH = 0.0254 #meter
 AIR_GAP_WIDTH = 0.002032 #meter
 PIXELS_PER_BANK = NUM_TUBES_PER_BANK * NUM_PIXELS_PER_TUBE
@@ -30,7 +31,8 @@ if __name__ == "__main__":
     try:
         geom_input_file = sys.argv[1]
     except IndexError:
-        geom_input_file = "SNS/CNCS/CNCS_geom_2017B.txt"
+        #geom_input_file = "SNS/CNCS/CNCS_geom_2017B.txt"
+        print('oops, must have a CL argument of the .txt file')
         
     # Set header information
     comment = "Created by Andrei Savici"
