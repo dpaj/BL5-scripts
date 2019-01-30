@@ -16,6 +16,7 @@ FLIPY = 180.0 # flip y orientation
 TUBE_PRESSURE = ("tube_pressure", 6.0, "atm")
 TUBE_THICKNESS = ("tube_thickness", 0.0008, "metre")
 TUBE_TEMPERATURE = ("tube_temperature", 290.0, "K")
+VALID_FROM = "2019-01-30 10:00:00"
 
 def convert(value):
     return float(value) / CONVERT_TO_METERS
@@ -37,7 +38,7 @@ if __name__ == "__main__":
     # Set header information
     comment = "Created by Andrei Savici"
     # Time needs to be in UTC?
-    valid_from = "2017-08-07 10:00:00"
+    valid_from = VALID_FROM
 
     # Get geometry information file
     inst_name = "CNCS"
