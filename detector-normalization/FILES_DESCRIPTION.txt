@@ -1,0 +1,22 @@
+#DAS control scripts that are run to get the nexus files
+Quasi_White_Beam_3p32meV_2hrs_10C.py
+Quasi_White_Beam_3p32meV_3hrs_15C.py
+Quasi_White_Beam_3p32meV_6hrs_30C.py
+Quasi_White_Beam.py
+
+#Gabriele Sala method to store chopper parameters that interfaces with DAS python scripting
+quasiwhitebeam.sav
+
+#view the vanadium file
+view_vanadium.py
+
+#generate a processed vanadium file for normalization and masking
+process-vanadium.py
+
+#some utilities to look at intensity variations pre-normalization
+ARCS-view_vanadium.py
+ARCS-intensity-within-tube-of-vanadium.py
+intensity-within-tube-of-vanadium.py
+
+#description of ideology
+thoughts.txt

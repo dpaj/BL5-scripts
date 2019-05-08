@@ -43,11 +43,6 @@ fitted_tzero_error_list = []
 
 for runs in runs_list:
     file_names = [data_folder + 'CNCS_{0}.nxs.h5'.format(r) for r in runs]
-    #data = Load('+'.join(file_names))
-
-    #
-    #load the monitors
-
 
     fig_mon, ax_mon = plt.subplots(subplot_kw={'projection':'mantid'})
 
@@ -57,10 +52,7 @@ for runs in runs_list:
 
     for this_run in file_names:
 
-        #monitor = LoadNexusMonitors(file_names[0])
-        monitor = LoadNexusMonitors(this_run)
-        #print(dir(monitor))
-        
+        monitor = LoadNexusMonitors(this_run)      
 
         #LoadInstrument(data,FileName='/SNS/users/vdp/CNCS/2018B/CNCS_Definition_Pajerowski.xml', RewriteSpectraMap=False)
 
@@ -69,7 +61,6 @@ for runs in runs_list:
         vi = 437.4*np.sqrt(Ei)
         print("vi", vi, "m/s")
 
-        #
         #Get L1 (distance from source to sample), t1 (time from source to sample)
         instr = monitor.getInstrument()
 
@@ -77,7 +68,6 @@ for runs in runs_list:
         monitor2_position = instr[2][1].getPos() #monitor that is directly after chopper 2, the first bandwidth chopper, should be ~7.556 m from the source
         monitor3_position = instr[2][2].getPos() #monitor that is directly after choppers 4+5, the double disc choppers, should be ~34.836 m from the source
         #monitor3 is the one that is most useful in this case
-
 
         source_position = instr.getSource().getPos()
         sample_position = instr.getSample().getPos()
@@ -88,11 +78,9 @@ for runs in runs_list:
         #monitormev_log = LoadNexusLogs(
         Phase1 = monitor.getRun()['Phase1'].getStatistics().median
 
-
         #the expected time to get to monitor3
         t_expected_monitor3 = source_to_monitor3/vi * 1e6
         print("t_expected_monitor3", t_expected_monitor3, "microseconds")
-
 
         tofbin_monitor3_min = int(t_expected_monitor3*.95) 
         tofbin_monitor3_max = int(t_expected_monitor3*1.05) 
@@ -206,9 +194,6 @@ plt.plot([1,1.55,3.32,6.59,12.0,25.0,80.0], [136.37,101.34,85.21,67.24,38.32,12.
 plt.legend()
 plt.show()
 
-
-
-
 print(fitted_tzero_list)
 
 print(popt_tzerofit[0]-popt_tzerofit[1]*np.log(ei_list)-popt_tzerofit[2]*np.log(ei_list)*np.log(ei_list)-popt_tzerofit[3]*np.log(ei_list)*np.log(ei_list)*np.log(ei_list))
@@ -221,6 +206,5 @@ np.save('/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/HF_fitted_tze
 
 #save the fit parameters
 np.save('/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/HF_tzerofit_params', popt_tzerofit)
-
 
 #plt.close('all')

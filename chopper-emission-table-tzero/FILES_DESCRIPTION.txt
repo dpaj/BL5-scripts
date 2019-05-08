@@ -1,4 +1,4 @@
-#python scripts
+###python scripts
 
 #DAS control scripts that are run to get the nexus files
 Tzero_chopper_scan_HF_gabry_paj.py
@@ -15,3 +15,25 @@ make-a-DAS-tzero-emissiontable.py #this makes the .sh file that is then executed
 
 #a utility script to visualize the tzeros of the different chopper openings
 overplot-chopper-emission-tzero-HF-AI-HR.py
+
+
+###numpy arrays
+#the ei_list, fitted_tzero_list, and fitted_tzero_error_list are the outputs from the chopper-emission-table-tzero-fit-from-nxs.py scripts
+#the tzerofit_params are also outputs from the chopper-emission-table-tzero-fit-from-nxs.py scripts, and correspond to the coefficients of the polynomial that is then used in make-a-DAS-tzero-emissiontable.py
+HF_ei_list.npy
+HF_fitted_tzero_list.npy
+HF_fitted_tzero_error_list.npy
+HF_tzerofit_params.npy
+AI_ei_list.npy
+AI_fitted_tzero_list.npy
+AI_fitted_tzero_error_list.npy
+AI_tzerofit_params.npy
+HR_ei_list.npy
+HR_fitted_tzero_list.npy
+HR_fitted_tzero_error_list.npy
+HR_tzerofit_params.npy
+
+###shell scripts
+get-emission-table.sh #if run on bl5-dasopi1.sns.gov, return the current emission table that defines the chopper absolute phases to the source
+paj-emissiontable-2019A.sh #if run on bl5-dasopi1.sns.gov, updates the chopper absolute phases
+

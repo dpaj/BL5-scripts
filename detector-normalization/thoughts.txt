@@ -14,5 +14,13 @@ run without a cryostat to avoid the multiple scattering
 
 assume over the small q-range that all scattering is elastic, and ignore the debye-waller
 
+###
+
+the processed vanadium file:
+includes efficiency and the measure solid angle, by definition; cannot extricate the two
+
+ideally would be some way to divide by the proton charge and the (illuminated) vanadium mask
+
 ***
 need to define the VanadiumIntegrationRange, apparently the typical way is to define in time-of-flight, although maybe energy-space would be better for a more constant background..?
+
