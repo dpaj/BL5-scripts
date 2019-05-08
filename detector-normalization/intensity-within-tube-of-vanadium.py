@@ -1,6 +1,10 @@
 import matplotlib.pyplot as plt
 import re as re
 import numpy as np
+from mantid.simpleapi import *
+sys.path.insert(0,"/opt/mantidnightly/bin")
+
+
 
 """
 -rw-r--r-- 1 snsdata users  22M May  7  2018 van_265987.nxs
@@ -22,13 +26,13 @@ this_file = '/SNS/CNCS/IPTS-20360/shared/autoreduce/van_273266.nxs'
 
 van=LoadNexus(Filename=this_file)
 
-i=mtd['van'].getInstrument()
+instr=mtd['van'].getInstrument()
 sample = instr.getSample()
 samplepos = sample.getPos()
-beampos = samplepos - source.getPos()
 source = instr.getSource()
+beampos = samplepos - source.getPos()
 
-pixel_height = float(re.search(r'<ns1:height val="(.*?)"/>', i.getDetector(1000).shape().getShapeXML()).group(1))
+pixel_height = float(re.search(r'<ns1:height val="(.*?)"/>', instr.getDetector(1000).shape().getShapeXML()).group(1))
 
 pxl_intensity_list = []
 for this_detector in range(0,51200):
@@ -43,7 +47,7 @@ plt.figure()
 for tube_number in range(1,400,50):
     #tube_number = 423
     first_pixel = tube_number * 128
-    pixel_height = float(re.search(r'<ns1:height val="(.*?)"/>', i.getDetector(first_pixel).shape().getShapeXML()).group(1))
+    pixel_height = float(re.search(r'<ns1:height val="(.*?)"/>', instr.getDetector(first_pixel).shape().getShapeXML()).group(1))
     this_tube_intensity_list = []
     this_tube_solid_angle_list = []
     for this_detector in range(first_pixel,first_pixel+128):

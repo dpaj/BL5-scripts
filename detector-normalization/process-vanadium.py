@@ -26,7 +26,7 @@ Divide(LHSWorkspace='CNCS_{}_nxs_Rebin'.format(run_number),RHSWorkspace='intensi
 
 
 #save the processed vanadium file
-SaveNexus(InputWorkspace="normalized_vanadium", Filename= '/SNS/CNCS/IPTS-20360/shared/vanadium_files/custom_processed_van_{}.nxs'.format(run_number)) 
+SaveNexus(InputWorkspace="normalized_vanadium", Filename= '~/DELETE_ME_custom_processed_van_{}.nxs'.format(run_number)) 
 
 normalized_vanadium_intensity_array = mtd['normalized_vanadium'].extractY()
 normalized_vanadium_intensity_mean = float(normalized_vanadium_intensity_array[normalized_vanadium_intensity_array>0].mean())
