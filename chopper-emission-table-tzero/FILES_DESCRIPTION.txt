@@ -1,0 +1,17 @@
+#python scripts
+
+#DAS control scripts that are run to get the nexus files
+Tzero_chopper_scan_HF_gabry_paj.py
+Tzero_chopper_scan_AI_gabry_paj.py
+Tzero_chopper_scan_HR_gabry_paj.py
+
+#fit the monitor data to extract the chopper tzero parameters
+HF-chopper-emission-table-tzero-fit-from-nxs.py
+AI-chopper-emission-table-tzero-fit-from-nxs.py
+HR-chopper-emission-table-tzero-fit-from-nxs.py
+
+#generate the bash script
+make-a-DAS-tzero-emissiontable.py #this makes the .sh file that is then executed on the bl5-dasopi1.sns.gov machine that directly updates the chopper parameters
+
+#a utility script to visualize the tzeros of the different chopper openings
+overplot-chopper-emission-tzero-HF-AI-HR.py

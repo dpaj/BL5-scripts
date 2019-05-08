@@ -6,7 +6,6 @@ import os
 def my_tzero_func(e, e0, e1, e2, e3):
 	return e0 - e1*np.log(e) - e2*np.log(e)*np.log(e) - e3*np.log(e)*np.log(e)*np.log(e)
 
-#file_to_write = "paj-emissiontable-2018B.sh"
 file_to_write = "/SNS/CNCS/shared/BL5-scripts/chopper-emission-table-tzero/paj-emissiontable-2019A.sh"
 num_points = int(200)
 min_energy = 0.3 #meV

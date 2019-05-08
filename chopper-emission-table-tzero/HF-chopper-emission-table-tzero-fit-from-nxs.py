@@ -23,30 +23,19 @@ data_folder = '/SNS/CNCS/IPTS-22728/nexus/' #this is the real thing living in th
 #define the runs and read in the data
 
 cut_the_run_range = 5
-                   #1.00 meV, 1.55 meV, 3.32 meV, 6.59 meV, 12 meV, 25meV, 45meV, 80meVINCOMPLETE
-runs_list = [range(298982+cut_the_run_range, 299011+1-cut_the_run_range), 
-    range(299012+cut_the_run_range, 299041+1-cut_the_run_range), 
-    range(299042+cut_the_run_range, 299071+1-cut_the_run_range), 
-    range(299072+cut_the_run_range, 299101+1-cut_the_run_range), 
-    range(299102+cut_the_run_range, 299131+1-cut_the_run_range),
-    range(299139+cut_the_run_range, 299168+1-cut_the_run_range),
-    range(299169+cut_the_run_range, 299198+1-cut_the_run_range),
-    range(299199+cut_the_run_range, 299221+1-cut_the_run_range*0),]
-runs_list = [range(299229, 299293-6)] #from a 2pC table scan
-                   #1.00 meV, 1.55 meV, 3.32 meV, 6.59 meV, 12 meV, 25meV, 45meV, 80meV from Table scan
-runs_list = [range(298982+cut_the_run_range, 299011+1-cut_the_run_range), 
-    range(299012+cut_the_run_range, 299041+1-cut_the_run_range), 
-    range(299042+cut_the_run_range, 299071+1-cut_the_run_range), 
-    range(299072+cut_the_run_range, 299101+1-cut_the_run_range), 
-    range(299102+cut_the_run_range, 299131+1-cut_the_run_range),
-    range(299139+cut_the_run_range, 299168+1-cut_the_run_range),
-    range(299169+cut_the_run_range, 299198+1-cut_the_run_range),
-    range(299229, 299259-6),]
+
+E_1p00_runs = range(298982+cut_the_run_range, 299011+1-cut_the_run_range)
+E_1p55_runs = range(299012+cut_the_run_range, 299041+1-cut_the_run_range)
+E_3p32_runs = range(299042+cut_the_run_range, 299071+1-cut_the_run_range)
+E_6p59_runs = range(299072+cut_the_run_range, 299101+1-cut_the_run_range)
+E_12p0_runs = range(299102+cut_the_run_range, 299131+1-cut_the_run_range)
+E_25p0_runs = range(299139+cut_the_run_range, 299168+1-cut_the_run_range)
+E_45p0_runs = range(299169+cut_the_run_range, 299198+1-cut_the_run_range)
+E_80p0_runs = range(299229, 299259-6)
+
+runs_list = [E_1p00_runs, E_1p55_runs, E_3p32_runs, E_6p59_runs, E_12p0_runs, E_25p0_runs, E_45p0_runs, E_80p0_runs]
     
-#runs_list = [range(299261, 299293+1), range(299102+cut_the_run_range, 299131+1-cut_the_run_range)] #compare 2 scans of 12 meV
-
 #plt.close('all')
-
 
 fitted_tzero_list = []
 ei_list = []
@@ -118,12 +107,7 @@ for runs in runs_list:
         monitor_tof = monitor.extractX()[0]
         monitor_intensity = monitor.extractY()[0]
 
-        
         ax_mon.plot(monitor)
-        
-
-        ##print(np.shape(monitor_tof[:-1]))
-        ##print(np.shape(monitor_intensity))
         
         t_observed_monitor3 = np.sum(np.dot(monitor_tof[:-1]+0.5*tofbin_size, monitor_intensity)) / np.sum(monitor_intensity)
         total_intensity = np.sum(monitor_intensity)
@@ -132,9 +116,6 @@ for runs in runs_list:
         Phase1_list.append(Phase1)
         total_intensity_list.append(total_intensity)
         t_zero_list.append(t_zero)
-        
-        
-
 
         #ax_mon.plot(monitor_tof[:-1]+0.5*tofbin_size,  monitor_intensity)
         #ax_mon.plot(monitor_tof, monitor_3_fit_height*gaussian(monitor_tof, monitor_3_fit_center, monitor_3_fit_sigma) )
@@ -148,7 +129,6 @@ for runs in runs_list:
     print(total_intensity)
     print(Phase1)
 
-
     f, axarr = plt.subplots(2, sharex=True)
     axarr[0].scatter(Phase1_list, t_zero_list)
     axarr[0].set_ylabel('T-zero (microseconds)')
@@ -158,15 +138,12 @@ for runs in runs_list:
 
     axarr[1].set_xlabel('Phase of chopper 1')
 
-
-
     f.show()
 
     my_fit_max = 18
 
     popt, pcov = curve_fit(gaussian, Phase1_list[0:my_fit_max], total_intensity_list[0:my_fit_max], p0 = (Phase1_list[np.argmax(total_intensity_list)], 100., 400.))
     popt_t0, pcov_t0 = curve_fit(linear_func, Phase1_list[0:my_fit_max], t_zero_list[0:my_fit_max], p0 = (1., 10.))
-
 
     f_fit, axarr_fit = plt.subplots(2, sharex=True)
     axarr_fit[0].scatter(Phase1_list, t_zero_list)
@@ -189,7 +166,6 @@ for runs in runs_list:
     axarr_fit[1].text(np.min(Phase1_list),popt[2]*0.2,"amp="+str(popt[2]))
 
     f_fit.show()
-
 
     #print(pcov_t0[0,0])
     fitted_tzero = popt_t0[0] + popt_t0[1]*popt[0]
