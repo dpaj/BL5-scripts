@@ -17,9 +17,9 @@ print("########################################################################"
 
 # Function to Change the phase
 def phase_scan_array(center_phase):
-    part1 = np.arange(center_phase-700,center_phase-200,100)
-    part2 = np.arange(center_phase-200,center_phase+200,20)
-    part3 = np.arange(center_phase+200,center_phase+700,100)
+    part1 = np.arange(center_phase-700,center_phase-200-1,100)
+    part2 = np.arange(center_phase-200,center_phase+200-1,20)
+    part3 = np.arange(center_phase+200,center_phase+700-1,100)
     
     all_together = np.concatenate([part1, part2, part3])
     return all_together
