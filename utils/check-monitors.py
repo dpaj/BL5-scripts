@@ -3,14 +3,15 @@ import matplotlib.pyplot as plt
 
 
 #monitor = LoadNexusMonitors('	/SNS/CNCS/IPTS-22728/nexus/CNCS_308320.nxs.h5')#No sample 	Bottom Loading CCR 	12 meV first day of startup 	beam ramping 	05:37:26 	2019/06/21 12:17:04 EDT 	2019/06/21 17:54:30 EDT 	0.13 
-#monitor = LoadNexusMonitors('	/SNS/CNCS/IPTS-22728/nexus/CNCS_299743.nxs.h5')#No sample 	Bottom Loading CCR 	HF many energies for det tzero 	V-foil, HF, Ei=12.0 meV 	00:04:02 	2019/01/23 05:17:52 EST 	2019/01/23 05:21:54 EST 	0.33
+monitor = LoadNexusMonitors('	/SNS/CNCS/IPTS-22728/nexus/CNCS_299743.nxs.h5')#No sample 	Bottom Loading CCR 	HF many energies for det tzero 	V-foil, HF, Ei=12.0 meV 	00:04:02 	2019/01/23 05:17:52 EST 	2019/01/23 05:21:54 EST 	0.33
 
 #monitor = LoadNexusMonitors('	/SNS/CNCS/IPTS-22728/nexus/CNCS_308331.nxs.h5') #
-monitor = LoadNexusMonitors('	/SNS/CNCS/IPTS-22728/nexus/CNCS_308348.nxs.h5') #
+#monitor = LoadNexusMonitors('	/SNS/CNCS/IPTS-22728/nexus/CNCS_308347.nxs.h5') #
 
 LoadInstrument(monitor,FileName='/SNS/CNCS/shared/BL5-scripts/detector-positions/CNCS_Definition-addBM4-pre2019B.xml', RewriteSpectraMap=False)
 
-run_was_with_bm4 = 1
+run_was_with_bm4 = 0
+divide_by_this_pC = 0.13
 
 BM1_pos = monitor.getInstrument()[2][0].getPos()
 BM2_pos = monitor.getInstrument()[2][1].getPos()

@@ -111,7 +111,7 @@ van = Load(processed_vanadium)
 
 #define the runs and read in the data
 data_folder = '/SNS/CNCS/IPTS-22728/nexus/'
-runs_3p32_meV = [299738] #longer run
+runs_3p32_meV = [308598, 308596] #longer run
 ###runs_3p32_meV = [299753] #short run
 file_names_3p32_meV = [data_folder + 'CNCS_{0}.nxs.h5'.format(r) for r in runs_3p32_meV]
 data_3p32_meV = Load('+'.join(file_names_3p32_meV))
@@ -121,7 +121,7 @@ monitor_3p32_mev = LoadNexusMonitors(file_names_3p32_meV[0])
 
 #load the instrument geometry
 #LoadInstrument(data_3p32_meV,FileName='/SNS/CNCS/shared/geometry/CNCS_Definition_2018B2.xml', RewriteSpectraMap=False)
-LoadInstrument(data_3p32_meV,FileName='/SNS/CNCS/shared/BL5-scripts/detector-positions/CNCS_Definition_2019A.xml', RewriteSpectraMap=False)
+#LoadInstrument(data_3p32_meV,FileName='/SNS/CNCS/shared/BL5-scripts/detector-distances/CNCS_Definition_2019A.xml', RewriteSpectraMap=False)
 
 #detector_height = 2.06
 detector_height = data_3p32_meV.getInstrument().getDetector(0).shape().getBoundingBox().width()[1]*128.
@@ -483,7 +483,7 @@ ax_banks = fig_banks.add_subplot(111, projection='3d')
 #ax_banks.set_proj_type('ortho')
 
 #f = open('/SNS/users/vdp/CNCS/2018B-2/CNCS_geom_Pajerowski_2018B-2.txt', 'w')
-f = open('/SNS/CNCS/shared/BL5-scripts/2019A/CNCS_geom_Pajerowski_2019A-test.txt', 'w')
+f = open('/SNS/CNCS/shared/BL5-scripts/2019B/CNCS_geom_Pajerowski_2019B-prelim.txt', 'w')
 f.write('BankAngle BankDistance Bank_xpos Bank_ypos Bank_zpos\n')
 
 two_theta_list = []

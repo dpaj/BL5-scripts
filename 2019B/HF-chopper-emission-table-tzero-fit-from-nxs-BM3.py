@@ -24,18 +24,20 @@ data_folder = '/SNS/CNCS/IPTS-22728/nexus/' #this is the real thing living in th
 
 cut_the_run_range = 0
 
-E_1p00_runs = range(308522+cut_the_run_range, 308538+1-cut_the_run_range)
-#E_1p55_runs = range(308385+cut_the_run_range, 308417+1-cut_the_run_range)
-#E_3p32_runs = range(308418+cut_the_run_range, 308450+1-cut_the_run_range)
-#E_6p59_runs = range(308451+cut_the_run_range, 308483+1-cut_the_run_range)
-#E_12p0_runs = range(308484+cut_the_run_range, 308516+1-cut_the_run_range)
-#E_25p0_runs = range(299139+cut_the_run_range, 299168+1-cut_the_run_range)
+E_1p00_runs = range(308522+cut_the_run_range, 308554+1-cut_the_run_range)
+E_1p55_runs = range(308555+cut_the_run_range, 308587+1-cut_the_run_range)
+E_3p32_runs = range(308600+cut_the_run_range, 308632+1-cut_the_run_range)
+E_6p59_runs = range(308633+cut_the_run_range, 308665+1-cut_the_run_range)
+E_12p0_runs = range(308666+cut_the_run_range, 308698+1-cut_the_run_range)
+E_25p0_runs = range(308699+cut_the_run_range, 308731+1-cut_the_run_range)
 #E_45p0_runs = range(299169+cut_the_run_range, 299198+1-cut_the_run_range)
-#E_80p0_runs = range(299229, 299259-6)
+E_80p0_runs = range(308732, 308738+1)
 
 #runs_list = [E_1p00_runs, E_1p55_runs, E_3p32_runs, E_6p59_runs, E_12p0_runs, E_25p0_runs, E_45p0_runs, E_80p0_runs]
-runs_list = [E_1p00_runs]#
-    
+runs_list = [E_1p00_runs, E_1p55_runs, E_3p32_runs, E_6p59_runs, E_12p0_runs, E_25p0_runs]#
+runs_list = [E_80p0_runs]#
+
+
 #plt.close('all')
 
 fitted_tzero_list = []
@@ -130,7 +132,7 @@ for runs in runs_list:
 
     f.show()
 
-    my_fit_max = 18
+    my_fit_max = 22 # previously 18
 
     popt, pcov = curve_fit(gaussian, Phase1_list[0:my_fit_max], total_intensity_list[0:my_fit_max], p0 = (Phase1_list[np.argmax(total_intensity_list)], 100., 400.))
     popt_t0, pcov_t0 = curve_fit(linear_func, Phase1_list[0:my_fit_max], t_zero_list[0:my_fit_max], p0 = (1., 10.))
@@ -169,7 +171,7 @@ for runs in runs_list:
     ei_list.append(Ei)
 
 plt.figure()
-
+print(fitted_tzero_list)
 #ei_list = [1., 1.55, 3.32, 6.59, 12., 25., 80.]
 
 popt_tzerofit, pcov_tzerofit = curve_fit(tzero_function, ei_list, fitted_tzero_list, p0 = (111.67, -28.527, -1.4753, 0.0001) )

@@ -22,20 +22,19 @@ data_folder = '/SNS/CNCS/IPTS-22728/nexus/' #this is the real thing living in th
 
 #define the runs and read in the data
 
-cut_the_run_range = 0
+cut_the_run_range = 5
 
-E_1p00_runs = range(308522+cut_the_run_range, 308554+1-cut_the_run_range)
-E_1p55_runs = range(308555+cut_the_run_range, 308587+1-cut_the_run_range)
-E_3p32_runs = range(308600+cut_the_run_range, 308632+1-cut_the_run_range)
-E_6p59_runs = range(308633+cut_the_run_range, 308665+1-cut_the_run_range)
-E_12p0_runs = range(308666+cut_the_run_range, 308698+1-cut_the_run_range)
-E_25p0_runs = range(308699+cut_the_run_range, 308731+1-cut_the_run_range)
-#E_45p0_runs = range(299169+cut_the_run_range, 299198+1-cut_the_run_range)
-#E_80p0_runs = range(299229, 299259-6)
+E_1p00_runs = range(298982+cut_the_run_range, 299011+1-cut_the_run_range)
+E_1p55_runs = range(299012+cut_the_run_range, 299041+1-cut_the_run_range)
+E_3p32_runs = range(299042+cut_the_run_range, 299071+1-cut_the_run_range)
+E_6p59_runs = range(299072+cut_the_run_range, 299101+1-cut_the_run_range)
+E_12p0_runs = range(299102+cut_the_run_range, 299131+1-cut_the_run_range)
+E_25p0_runs = range(299139+cut_the_run_range, 299168+1-cut_the_run_range)
+E_45p0_runs = range(299169+cut_the_run_range, 299198+1-cut_the_run_range)
+E_80p0_runs = range(299229, 299259-6)
 
-#runs_list = [E_1p00_runs, E_1p55_runs, E_3p32_runs, E_6p59_runs, E_12p0_runs, E_25p0_runs, E_45p0_runs, E_80p0_runs]
-runs_list = [E_1p00_runs, E_1p55_runs, E_6p59_runs, E_12p0_runs, E_25p0_runs]#
-
+runs_list = [E_1p00_runs, E_1p55_runs, E_3p32_runs, E_6p59_runs, E_12p0_runs, E_25p0_runs, E_45p0_runs, E_80p0_runs]
+    
 #plt.close('all')
 
 fitted_tzero_list = []
@@ -53,9 +52,9 @@ for runs in runs_list:
 
     for this_run in file_names:
 
-        monitor = LoadNexusMonitors(this_run)
+        monitor = LoadNexusMonitors(this_run)      
 
-        LoadInstrument(monitor,FileName='/SNS/CNCS/shared/BL5-scripts/2019B/CNCS_Definition-addBM4-pre2019B.xml', RewriteSpectraMap=False)
+        #LoadInstrument(data,FileName='/SNS/users/vdp/CNCS/2018B/CNCS_Definition_Pajerowski.xml', RewriteSpectraMap=False)
 
         Ei, _FMP, _FMI, T0 = GetEi(monitor)
 
@@ -68,40 +67,39 @@ for runs in runs_list:
         monitor1_position = instr[2][0].getPos() #now defunct monitor that is directly in front of chopper 1, the fermi chopper, should be ~6.313 m from the source
         monitor2_position = instr[2][1].getPos() #monitor that is directly after chopper 2, the first bandwidth chopper, should be ~7.556 m from the source
         monitor3_position = instr[2][2].getPos() #monitor that is directly after choppers 4+5, the double disc choppers, should be ~34.836 m from the source
-        monitor4_position = instr[2][3].getPos() #monitor that is after the sample position,
+        #monitor3 is the one that is most useful in this case
 
         source_position = instr.getSource().getPos()
         sample_position = instr.getSample().getPos()
         L1 = np.linalg.norm(sample_position-source_position)
-        source_to_monitor4 = np.linalg.norm(monitor4_position-source_position)
-        
+        source_to_monitor3 = np.linalg.norm(monitor3_position-source_position)
         t1 = L1/vi*1e6 #in microseconds
-        t_monitor4 = source_to_monitor4/vi*1e6
+        t_monitor3 = source_to_monitor3/vi*1e6
         #monitormev_log = LoadNexusLogs(
         Phase1 = monitor.getRun()['Phase1'].getStatistics().median
 
-        #the expected time to get to monitor4
-        t_expected_monitor4 = source_to_monitor4/vi * 1e6
-        print("t_expected_monitor4", t_expected_monitor4, "microseconds")
+        #the expected time to get to monitor3
+        t_expected_monitor3 = source_to_monitor3/vi * 1e6
+        print("t_expected_monitor3", t_expected_monitor3, "microseconds")
 
-        tofbin_monitor4_min = int(t_expected_monitor4*.5) 
-        tofbin_monitor4_max = int(t_expected_monitor4*1.5) 
-        print("peak at monitor4 from times of", tofbin_monitor4_min, "to",tofbin_monitor4_max,"in microseconds")
+        tofbin_monitor3_min = int(t_expected_monitor3*.95) 
+        tofbin_monitor3_max = int(t_expected_monitor3*1.05) 
+        print("peak at monitor3 from times of", tofbin_monitor3_min, "to",tofbin_monitor3_max,"in microseconds")
 
         #time of flight for the monitors
         tofbin_size = 1.
-        Rebin(InputWorkspace='monitor', OutputWorkspace='monitor', Params="%s,%s,%s" % (tofbin_monitor4_min, tofbin_size, tofbin_monitor4_max))
-        monitor = CropWorkspace(monitor, StartWorkspaceIndex = 2, EndWorkspaceIndex = 2)
+        Rebin(InputWorkspace='monitor', OutputWorkspace='monitor', Params="%s,%s,%s" % (tofbin_monitor3_min, tofbin_size, tofbin_monitor3_max))
+        monitor = CropWorkspace(monitor, StartWorkspaceIndex = 1, EndWorkspaceIndex = 1)
 
-        #extract the arrays associated with the time-of-flight spectrum for the monitor4
+        #extract the arrays associated with the time-of-flight spectrum for the monitor3
         monitor_tof = monitor.extractX()[0]
         monitor_intensity = monitor.extractY()[0]
 
         ax_mon.plot(monitor)
         
-        t_observed_monitor4 = np.sum(np.dot(monitor_tof[:-1]+0.5*tofbin_size, monitor_intensity)) / np.sum(monitor_intensity)
+        t_observed_monitor3 = np.sum(np.dot(monitor_tof[:-1]+0.5*tofbin_size, monitor_intensity)) / np.sum(monitor_intensity)
         total_intensity = np.sum(monitor_intensity)
-        t_zero = t_observed_monitor4 - t_expected_monitor4
+        t_zero = t_observed_monitor3 - t_expected_monitor3
         
         Phase1_list.append(Phase1)
         total_intensity_list.append(total_intensity)
@@ -124,13 +122,13 @@ for runs in runs_list:
     axarr[0].set_ylabel('T-zero (microseconds)')
     axarr[0].set_title('Ei='+str(Ei)+'meV')
     axarr[1].scatter(Phase1_list, total_intensity_list)
-    axarr[1].set_ylabel('Intensity at monitor 4')
+    axarr[1].set_ylabel('Intensity at monitor 3')
 
     axarr[1].set_xlabel('Phase of chopper 1')
 
     f.show()
 
-    my_fit_max = 22
+    my_fit_max = 18
 
     popt, pcov = curve_fit(gaussian, Phase1_list[0:my_fit_max], total_intensity_list[0:my_fit_max], p0 = (Phase1_list[np.argmax(total_intensity_list)], 100., 400.))
     popt_t0, pcov_t0 = curve_fit(linear_func, Phase1_list[0:my_fit_max], t_zero_list[0:my_fit_max], p0 = (1., 10.))
@@ -148,7 +146,7 @@ for runs in runs_list:
     axarr_fit[1].scatter(Phase1_list, total_intensity_list)
     axarr_fit[1].plot(Phase1_list,gaussian(Phase1_list, popt[0], popt[1], popt[2]), linestyle='--')
     axarr_fit[1].plot(Phase1_list[0:my_fit_max],gaussian(Phase1_list[0:my_fit_max], popt[0], popt[1], popt[2]), linewidth=3)
-    axarr_fit[1].set_ylabel('Intensity at monitor 4')
+    axarr_fit[1].set_ylabel('Intensity at monitor 3')
     axarr_fit[1].set_xlabel('Phase of chopper 1')
     #axarr_fit[1].set_title('Ei='+str(Ei)+'meV')
     axarr_fit[1].text(np.min(Phase1_list),popt[2]*0.0,"center="+str(popt[0]))
@@ -162,7 +160,7 @@ for runs in runs_list:
     #fitted_tzero_error = pcov_t0[0,0] + pcov_t0[1,1]*popt[0]
     fitted_tzero_error = popt_t0[1]*pcov[0,0]
     print(Ei, fitted_tzero)
-    print(Phase1_list)
+    
     ####
     fitted_tzero_list.append(fitted_tzero)
     fitted_tzero_error_list.append(fitted_tzero_error)
