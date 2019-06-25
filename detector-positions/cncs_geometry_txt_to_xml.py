@@ -47,7 +47,7 @@ if __name__ == "__main__":
     xml_outfile = inst_name+"_Definition.xml"
  
     det = MantidGeom(inst_name, comment=comment, valid_from=valid_from)
-    det.addSnsDefaults()
+    det.addSnsDefaults(theta_sign_axis="x")
     det.addComment("SOURCE AND SAMPLE POSITION")
     det.addModerator(-36.262)
     det.addSamplePosition()

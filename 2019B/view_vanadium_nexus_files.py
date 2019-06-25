@@ -19,7 +19,7 @@ van=LoadNexus(Filename='/SNS/CNCS/shared/UsefulMantidScripts_2018/Buckyballs/sha
 MaskBTP(Workspace = 'van', Instrument = 'CNCS', Bank = '5-10')
 def powderNexusToMD(filename=None, van='van', tib_min = None, tib_max = None, apply_TIB = '1', T0_fitted = None):
     raw = Load(Filename=filename, OutputWorkspace='raw')
-    LoadInstrument(raw,FileName='/SNS/CNCS/shared/BL5-scripts/2019B/CNCS_Definition-addBM4-refinedetectors-pre2019B.xml', RewriteSpectraMap=False)
+    LoadInstrument(raw,FileName='/SNS/CNCS/shared/BL5-scripts/2019B/CNCS_Definition-2019B.xml', RewriteSpectraMap=False)
     MaskDetectors(Workspace=raw,MaskedWorkspace=van)
     Ei,_,_,T0=GetEi(InputWorkspace=raw)
     Qmax = 1.1*2*np.pi/ (   (  9/np.sqrt(Ei)  ) /2./np.sin(120./2.*np.pi/180.)   ) 
