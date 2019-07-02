@@ -27,9 +27,4 @@ def tzero_interp(ei = 12, mode = 1):
         HR_interp = interp.interp1d(HR_ei_tzero[::-1], HR_m3_tzero[::-1])
         return HR_interp(ei)
     else:#unknown
-        return -1
-
-
-print(tzero_interp(12, 1))
-print(tzero_interp(12, 3))
-print(tzero_interp(12, 0))
+        return 0

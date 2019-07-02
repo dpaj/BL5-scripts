@@ -12,35 +12,39 @@ import scipy.optimize as opt
 #parameters section
 #this part changes with web input
 MaskBTPParameters=[]
-${mask}
+MaskBTPParameters.append({'Pixel': '113-128'})
+MaskBTPParameters.append({'Pixel': '1-15'})
+MaskBTPParameters.append({'Bank': '36-50'})
+MaskBTPParameters.append({'Bank': '1-2'})
+
 #MaskBTPParameters.append({'Pixel': '1-43,95-128'})
 #MaskBTPParameters.append({'Pixel': '1-7,122-128'})
 #MaskBTPParameters.append({'Bank': '36-50'})#8T magnet
-raw_vanadium="${raw_vanadium}"
-processed_vanadium="${processed_vanadium}"
-VanadiumIntegrationRange=[${vanadium_integration_min},${vanadium_integration_max}]#integration range for Vanadium in TOF at 1.0 meV
-grouping="${grouping}" #allowed values 1x1, 2x1, 4x1, 8x1, 8x2 powder
-Emin="${e_min}"
-Emax="${e_max}"
-Estep="${e_step}"
-E_pars_in_mev=${e_pars_in_mev}
-TIB_min="${tib_min}"
-TIB_max="${tib_max}"
-T0="${t0}"
-Motor_names="${motor_names}"
-Temperature_names="${temperature_names}"
-create_elastic_nxspe=${create_elastic_nxspe} #+-0.1Ei, 5 steps
-create_MDnxs=${create_md_nxs}
-a="${a}"
-b="${b}"
-c="${c}"
-alpha="${alpha}"
-beta="${beta}"
-gamma="${gamma}"
-uVector="${u_vector}"
-vVector="${v_vector}"
-sub_directory="${sub_directory}"
-auto_tzero_flag = ${auto_tzero_flag}
+raw_vanadium="/SNS/CNCS/IPTS-22728/nexus/CNCS_299824.nxs.h5"
+processed_vanadium="processed_van_299824_8degree_beam_stop.nxs"
+VanadiumIntegrationRange=[49500.0,50500.0]#integration range for Vanadium in TOF at 1.0 meV
+grouping="powder" #allowed values 1x1, 2x1, 4x1, 8x1, 8x2 powder
+Emin="-0.2"
+Emax="0.95"
+Estep="0.005"
+E_pars_in_mev=False
+TIB_min=""
+TIB_max=""
+T0=""
+Motor_names="omega"
+Temperature_names="SampleTemp,sampletemp,SensorB,SensorA,temp5,temp8,sensor0normal,SensorC,Temp4"
+create_elastic_nxspe=False #+-0.1Ei, 5 steps
+create_MDnxs=False
+a="10.6"
+b="10.6"
+c="10.6"
+alpha="90.0"
+beta="90.0"
+gamma="90.0"
+uVector="-1,1,0"
+vVector="-1,-1,2"
+sub_directory=""
+auto_tzero_flag = False
 
 #parameters not on the webpage
 #below remains unchanged
@@ -98,6 +102,7 @@ def preprocessVanadium(Raw,Processed,Parameters):
 def preprocessData(filename):
     dictdata={}
     __IWS=LoadEventNexus(filename)
+    LoadInstrument(__IWS,FileName='/SNS/CNCS/shared/BL5-scripts/detector-positions/CNCS_Definition_2019A.xml', RewriteSpectraMap=False)
     #this bit is for the ESS detector prototype
     #xmin,xmax=__IWS.readX(0)
     #__tmp=Rebin(InputWorkspace=__IWS,Params=str(xmin)+',1,'+str(xmax),PreserveEvents=False)
@@ -182,49 +187,18 @@ def fittingt0(Eguess,ws):
     else:
         T0_fitted = TOF_sliced[np.argmax(I_sliced)] - t_elastic_no_offset
     return T0_fitted
-
-def tzero_interp(ei = 12, mode = 1):
-    """
-    ei in meV
-    chopper modes: HF = 1, AI = 3, HR = 0
-    return a t-zero in microseconds
-    """
-
-    run_cycle = '2019A'
-
-    if mode == 1:#HF
-        HF_m3_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-m3-tzero-{1}.npy'.format('HF' ,run_cycle))
-        HF_ei_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-ei-tzero-{1}.npy'.format('HF',run_cycle))
-        HF_interp = interp.interp1d(HF_ei_tzero[::-1], HF_m3_tzero[::-1])
-        return HF_interp(ei)
-    elif mode == 3:#AI
-        AI_m3_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-m3-tzero-{1}.npy'.format('AI' ,run_cycle))
-        AI_ei_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-ei-tzero-{1}.npy'.format('AI',run_cycle))
-        AI_interp = interp.interp1d(AI_ei_tzero[::-1], AI_m3_tzero[::-1])
-        return AI_interp(ei)
-    elif mode == 0:#HR
-        HR_m3_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-m3-tzero-{1}.npy'.format('HR' ,run_cycle))
-        HR_ei_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-ei-tzero-{1}.npy'.format('HR',run_cycle))
-        HR_interp = interp.interp1d(HR_ei_tzero[::-1], HR_m3_tzero[::-1])
-        return HR_interp(ei)
-    else:#unknown
-        return 0
-
 def preprocesst0(Eguess,ws):
     if auto_tzero_flag:
         t0 = fittingt0(Eguess,ws)
     else:
         try:
-            #t0=float(T0)
-            mode=ws.run()['DoubleDiskMode'].timeAverageValue()
-            _Ei,_FMP,_FMI,t0=GetEi(ws)
-            t0 = tzero_interp(_Ei, mode)
+            t0=float(T0)
         except ValueError:
             mode=ws.run()['DoubleDiskMode'].timeAverageValue()
             _Ei,_FMP,_FMI,t0=GetEi(ws)
             if (mode!=1):
                 t0-=5.91
-    AddSampleLog(Workspace=ws,LogName="CalculatedT0",LogText=str(t0),LogType="Number")
+        AddSampleLog(Workspace=ws,LogName="CalculatedT0",LogText=str(t0),LogType="Number")
     return t0
 
 def preprocessTIB(EGuess,ws):
@@ -285,7 +259,10 @@ if __name__ == "__main__":
     output_directory=sys.argv[2]
     
     ar_changed=check_newer_script("CNCS",output_directory)
-    DownloadInstrument(ForceUpdate=True)
+    try:
+        DownloadInstrument(ForceUpdate=True)
+    except:
+        pass
     
     cfgfile_path=os.path.join(output_directory,configfile)
     if not os.path.isfile(cfgfile_path):
