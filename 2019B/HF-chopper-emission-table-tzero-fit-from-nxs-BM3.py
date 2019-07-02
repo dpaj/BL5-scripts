@@ -31,12 +31,10 @@ E_6p59_runs = range(308633+cut_the_run_range, 308665+1-cut_the_run_range)
 E_12p0_runs = range(308666+cut_the_run_range, 308698+1-cut_the_run_range)
 E_25p0_runs = range(308699+cut_the_run_range, 308731+1-cut_the_run_range)
 #E_45p0_runs = range(299169+cut_the_run_range, 299198+1-cut_the_run_range)
-E_80p0_runs = range(308732, 308738+1)
+E_80p0_runs = range(308732, 308757+1)
 
 #runs_list = [E_1p00_runs, E_1p55_runs, E_3p32_runs, E_6p59_runs, E_12p0_runs, E_25p0_runs, E_45p0_runs, E_80p0_runs]
-runs_list = [E_1p00_runs, E_1p55_runs, E_3p32_runs, E_6p59_runs, E_12p0_runs, E_25p0_runs]#
-runs_list = [E_80p0_runs]#
-
+runs_list = [E_1p00_runs, E_1p55_runs, E_3p32_runs, E_6p59_runs, E_12p0_runs, E_25p0_runs, E_80p0_runs]#
 
 #plt.close('all')
 
@@ -194,6 +192,9 @@ plt.ylabel('fitted t-zero (microseconds)')
 
 #data from 2018 emission table
 plt.plot([1,1.55,3.32,6.59,12.0,25.0,80.0], [136.37,101.34,85.21,67.24,38.32,12.08,-62.67], 'mo', label = '2018 measurement')
+
+#data from 2019A emission table
+plt.plot([1,1.55,3.32, 6.59, 12.0, 25.0, 45.0, 80.0], [223.44514475411961, 195.78325790688905, 175.53999529352768, 144.73943626817254, 120.84264626516142, 87.784663610300413, 48.630315681110119, -20.854216066039044], 'ms', label = '2019A measurement')
 
 plt.legend()
 plt.show()

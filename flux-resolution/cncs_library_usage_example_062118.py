@@ -1,4 +1,5 @@
 from cncs import displayFluxResPlots, calcFluxRes
+import matplotlib.pyplot as plt
 
 calcFluxRes("HF", 10.)
 calcFluxRes("HR", 10.)

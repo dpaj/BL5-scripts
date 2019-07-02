@@ -1,7 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import sys
 sys.path.append('/opt/mantidnightly/bin/')
 from mantid.simpleapi import *
+from mantid import plots
 
 
 #processed vanadium file for solid angle and detector normalization
