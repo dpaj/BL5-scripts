@@ -20,8 +20,8 @@ MaskBTPParameters.append({'Bank': '1,2,36-38'})
 #MaskBTPParameters.append({'Pixel': '1-43,95-128'})
 #MaskBTPParameters.append({'Pixel': '1-7,122-128'})
 #MaskBTPParameters.append({'Bank': '36-50'})#8T magnet
-raw_vanadium="/SNS/CNCS/IPTS-21344/nexus/CNCS_277537.nxs.h5"
-processed_vanadium="van_277537_different_mask.nxs"
+raw_vanadium="/SNS/CNCS/IPTS-22728/nexus/CNCS_308761.nxs.h5"
+processed_vanadium="processed_van_308761_no_beamstop_17C.nxs"
 VanadiumIntegrationRange=[49500.0,50500.0]#integration range for Vanadium in TOF at 1.0 meV
 grouping="2x1" #allowed values 1x1, 2x1, 4x1, 8x1, 8x2 powder
 Emin="-0.25"
@@ -44,7 +44,7 @@ gamma="90.0"
 uVector="1,1,0"
 vVector="0,0,1"
 sub_directory=""
-auto_tzero_flag = True
+auto_tzero_flag = False
 
 #parameters not on the webpage
 #below remains unchanged
@@ -200,17 +200,26 @@ def tzero_interp(ei = 12, mode = 1):
         HF_m3_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-m3-tzero-{1}.npy'.format('HF' ,run_cycle))
         HF_ei_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-ei-tzero-{1}.npy'.format('HF',run_cycle))
         HF_interp = interp.interp1d(HF_ei_tzero[::-1], HF_m3_tzero[::-1])
-        return HF_interp(ei)
+        try:
+            return float(HF_interp(ei))
+        except:
+            return float(T0)
     elif mode == 3:#AI
         AI_m3_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-m3-tzero-{1}.npy'.format('AI' ,run_cycle))
         AI_ei_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-ei-tzero-{1}.npy'.format('AI',run_cycle))
         AI_interp = interp.interp1d(AI_ei_tzero[::-1], AI_m3_tzero[::-1])
-        return AI_interp(ei)
+        try:
+            return float(AI_interp(ei))
+        except:
+            return float(T0)
     elif mode == 0:#HR
         HR_m3_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-m3-tzero-{1}.npy'.format('HR' ,run_cycle))
         HR_ei_tzero = np.load('/SNS/CNCS/shared/BL5-scripts/{0}-ei-tzero-{1}.npy'.format('HR',run_cycle))
         HR_interp = interp.interp1d(HR_ei_tzero[::-1], HR_m3_tzero[::-1])
-        return HR_interp(ei)
+        try:
+            return float(HR_interp(ei))
+        except:
+            return float(T0)
     else:#unknown
         return 0
 
@@ -222,7 +231,10 @@ def preprocesst0(Eguess,ws):
             #t0=float(T0)
             mode=ws.run()['DoubleDiskMode'].timeAverageValue()
             _Ei,_FMP,_FMI,t0=GetEi(ws)
+            print(_Ei, type(_Ei) )
+            print(mode, type(mode) )
             t0 = tzero_interp(_Ei, mode)
+            print(t0, type(t0) )
         except ValueError:
             mode=ws.run()['DoubleDiskMode'].timeAverageValue()
             _Ei,_FMP,_FMI,t0=GetEi(ws)
