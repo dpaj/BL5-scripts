@@ -1,0 +1,5 @@
+2018-06-26 13:35:27 Line Log cleared
+2018-06-26 13:35:27 Starting IPTS-20360 on 2018-06-26
+2018-06-26 13:36:35 New X/Y Signal ROI at 2Theta=[56,62] Phi=[-5,5]
+2018-06-26 13:38:36 New X/Y Signal ROI at 2Theta=[56,62] Phi=[-5,5]
+2018-06-26 13:46:24 New X/Y Signal ROI at 2Theta=[96,103] Phi=[0,8]

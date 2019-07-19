@@ -1,0 +1,714 @@
+2018-07-02 15:46:02 Line Log cleared
+2018-07-02 15:46:02 Starting IPTS-16472 on 2018-07-02
+2018-07-03 09:56:05 Drive Axis2 to 60 Degree
+2018-07-03 09:57:18 Drive Axis2 to 8 Degree
+2018-07-03 13:44:29 Drive Axis2 to 10 Degree
+2018-07-03 17:00:55 Setting: a=13.4968 b=9.9359 c=6.8917 alpha=90 beta=90 gamma=90
+2018-07-03 17:01:32 Setting U vec: h=0 k=1 l=0
+2018-07-03 17:01:41 Setting V vec: h=0 k=0 l=1
+2018-07-03 17:05:40 New X/Y Signal ROI at 2Theta=[23,29] Phi=[-5,5]
+2018-07-03 17:05:50 New X/Y Signal ROI at 2Theta=[23,29] Phi=[-7,7]
+2018-07-03 17:21:54 Set Title: Dummy run
+2018-07-03 17:22:33 Set Incident Energy to 3.32 meV
+2018-07-03 18:04:51 Set Title: Dummy run
+2018-07-03 18:04:51 Set Incident Energy to 3.32 meV
+2018-07-03 19:00:53 Set Incident Energy to 3.32 meV
+2018-07-03 19:00:53 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 19:00:55 Drive Axis2 to -180 Degree
+2018-07-03 19:17:11 Set Incident Energy to 3.32 meV
+2018-07-03 19:17:11 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 19:17:21 Drive Axis2 to -178 Degree
+2018-07-03 19:27:45 Set Incident Energy to 3.32 meV
+2018-07-03 19:27:45 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 19:27:55 Drive Axis2 to -176 Degree
+2018-07-03 19:36:15 Set Incident Energy to 3.32 meV
+2018-07-03 19:36:15 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 19:36:25 Drive Axis2 to -174 Degree
+2018-07-03 19:43:34 Set Incident Energy to 3.32 meV
+2018-07-03 19:43:34 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 19:43:44 Drive Axis2 to -172 Degree
+2018-07-03 19:50:17 Set Incident Energy to 3.32 meV
+2018-07-03 19:50:17 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 19:50:27 Drive Axis2 to -170 Degree
+2018-07-03 19:57:19 Set Incident Energy to 3.32 meV
+2018-07-03 19:57:19 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 19:57:29 Drive Axis2 to -168 Degree
+2018-07-03 20:03:59 Set Incident Energy to 3.32 meV
+2018-07-03 20:03:59 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 20:04:09 Drive Axis2 to -166 Degree
+2018-07-03 20:10:39 Set Incident Energy to 3.32 meV
+2018-07-03 20:10:39 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 20:10:49 Drive Axis2 to -164 Degree
+2018-07-03 20:17:40 Set Incident Energy to 3.32 meV
+2018-07-03 20:17:40 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 20:17:50 Drive Axis2 to -162 Degree
+2018-07-03 20:24:20 Set Incident Energy to 3.32 meV
+2018-07-03 20:24:20 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 20:24:30 Drive Axis2 to -160 Degree
+2018-07-03 20:31:00 Set Incident Energy to 3.32 meV
+2018-07-03 20:31:00 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 20:31:10 Drive Axis2 to -158 Degree
+2018-07-03 20:37:40 Set Incident Energy to 3.32 meV
+2018-07-03 20:37:40 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 20:37:50 Drive Axis2 to -156 Degree
+2018-07-03 20:44:47 Set Incident Energy to 3.32 meV
+2018-07-03 20:44:47 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 20:44:57 Drive Axis2 to -154 Degree
+2018-07-03 20:51:27 Set Incident Energy to 3.32 meV
+2018-07-03 20:51:27 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 20:51:38 Drive Axis2 to -152 Degree
+2018-07-03 20:58:37 Set Incident Energy to 3.32 meV
+2018-07-03 20:58:37 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 20:58:47 Drive Axis2 to -150 Degree
+2018-07-03 21:05:18 Set Incident Energy to 3.32 meV
+2018-07-03 21:05:18 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 21:05:28 Drive Axis2 to -148 Degree
+2018-07-03 21:11:58 Set Incident Energy to 3.32 meV
+2018-07-03 21:11:58 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 21:12:08 Drive Axis2 to -146 Degree
+2018-07-03 21:18:39 Set Incident Energy to 3.32 meV
+2018-07-03 21:18:39 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 21:18:49 Drive Axis2 to -144 Degree
+2018-07-03 21:25:20 Set Incident Energy to 3.32 meV
+2018-07-03 21:25:20 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 21:25:30 Drive Axis2 to -142 Degree
+2018-07-03 21:32:01 Set Incident Energy to 3.32 meV
+2018-07-03 21:32:01 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 21:32:11 Drive Axis2 to -140 Degree
+2018-07-03 21:38:42 Set Incident Energy to 3.32 meV
+2018-07-03 21:38:42 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 21:38:53 Drive Axis2 to -138 Degree
+2018-07-03 21:45:23 Set Incident Energy to 3.32 meV
+2018-07-03 21:45:23 Set Title: (ND4)2FeCl5D2O T=1.4 K En=1.55 meV
+2018-07-03 21:45:33 Drive Axis2 to -136 Degree
+2018-07-03 21:52:00 Set Incident Energy to 3.32 meV
+2018-07-03 21:52:00 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-134 deg
+2018-07-03 21:52:10 Drive Axis2 to -134 Degree
+2018-07-03 21:58:40 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-132 deg
+2018-07-03 21:58:50 Drive Axis2 to -132 Degree
+2018-07-03 22:05:20 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-130 deg
+2018-07-03 22:05:30 Drive Axis2 to -130 Degree
+2018-07-03 22:12:00 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-128 deg
+2018-07-03 22:12:10 Drive Axis2 to -128 Degree
+2018-07-03 22:18:41 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-126 deg
+2018-07-03 22:18:51 Drive Axis2 to -126 Degree
+2018-07-03 22:25:21 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-124 deg
+2018-07-03 22:25:31 Drive Axis2 to -124 Degree
+2018-07-03 22:32:01 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-122 deg
+2018-07-03 22:32:12 Drive Axis2 to -122 Degree
+2018-07-03 22:38:41 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-120 deg
+2018-07-03 22:38:51 Drive Axis2 to -120 Degree
+2018-07-03 22:45:22 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-118 deg
+2018-07-03 22:45:32 Drive Axis2 to -118 Degree
+2018-07-03 22:52:02 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-116 deg
+2018-07-03 22:52:12 Drive Axis2 to -116 Degree
+2018-07-03 22:58:41 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-114 deg
+2018-07-03 22:58:51 Drive Axis2 to -114 Degree
+2018-07-03 23:05:20 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-112 deg
+2018-07-03 23:05:31 Drive Axis2 to -112 Degree
+2018-07-03 23:12:00 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-110 deg
+2018-07-03 23:12:11 Drive Axis2 to -110 Degree
+2018-07-03 23:18:40 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-108 deg
+2018-07-03 23:18:50 Drive Axis2 to -108 Degree
+2018-07-03 23:25:19 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-106 deg
+2018-07-03 23:25:29 Drive Axis2 to -106 Degree
+2018-07-03 23:31:59 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-104 deg
+2018-07-03 23:32:09 Drive Axis2 to -104 Degree
+2018-07-03 23:38:39 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-102 deg
+2018-07-03 23:38:49 Drive Axis2 to -102 Degree
+2018-07-03 23:45:18 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-100 deg
+2018-07-03 23:45:29 Drive Axis2 to -100 Degree
+2018-07-03 23:51:58 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-98 deg
+2018-07-03 23:52:08 Drive Axis2 to -98 Degree
+2018-07-03 23:58:38 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-96 deg
+2018-07-03 23:58:48 Drive Axis2 to -96 Degree
+2018-07-04 00:05:17 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-94 deg
+2018-07-04 00:05:27 Drive Axis2 to -94 Degree
+2018-07-04 00:11:57 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-92 deg
+2018-07-04 00:12:07 Drive Axis2 to -92 Degree
+2018-07-04 00:18:37 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-90 deg
+2018-07-04 00:18:47 Drive Axis2 to -90 Degree
+2018-07-04 00:25:15 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-88 deg
+2018-07-04 00:25:25 Drive Axis2 to -88 Degree
+2018-07-04 00:31:55 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-86 deg
+2018-07-04 00:32:05 Drive Axis2 to -86 Degree
+2018-07-04 00:38:34 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-84 deg
+2018-07-04 00:38:44 Drive Axis2 to -84 Degree
+2018-07-04 00:45:13 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-82 deg
+2018-07-04 00:45:24 Drive Axis2 to -82 Degree
+2018-07-04 00:51:53 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-80 deg
+2018-07-04 00:52:03 Drive Axis2 to -80 Degree
+2018-07-04 00:58:33 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-78 deg
+2018-07-04 00:58:43 Drive Axis2 to -78 Degree
+2018-07-04 01:05:12 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-76 deg
+2018-07-04 01:05:22 Drive Axis2 to -76 Degree
+2018-07-04 01:11:51 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-74 deg
+2018-07-04 01:12:01 Drive Axis2 to -74 Degree
+2018-07-04 01:18:30 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-72 deg
+2018-07-04 01:18:40 Drive Axis2 to -72 Degree
+2018-07-04 01:25:09 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-70 deg
+2018-07-04 01:25:20 Drive Axis2 to -70 Degree
+2018-07-04 01:31:49 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-68 deg
+2018-07-04 01:31:59 Drive Axis2 to -68 Degree
+2018-07-04 01:38:28 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-66 deg
+2018-07-04 01:38:39 Drive Axis2 to -66 Degree
+2018-07-04 01:45:33 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-64 deg
+2018-07-04 01:45:43 Drive Axis2 to -64 Degree
+2018-07-04 01:52:13 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-62 deg
+2018-07-04 01:52:23 Drive Axis2 to -62 Degree
+2018-07-04 01:59:34 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-60 deg
+2018-07-04 01:59:45 Drive Axis2 to -60 Degree
+2018-07-04 02:06:38 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-58 deg
+2018-07-04 02:06:48 Drive Axis2 to -58 Degree
+2018-07-04 02:13:17 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-56 deg
+2018-07-04 02:13:27 Drive Axis2 to -56 Degree
+2018-07-04 02:19:56 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-54 deg
+2018-07-04 02:20:07 Drive Axis2 to -54 Degree
+2018-07-04 02:26:35 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-52 deg
+2018-07-04 02:26:46 Drive Axis2 to -52 Degree
+2018-07-04 02:33:15 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-50 deg
+2018-07-04 02:33:25 Drive Axis2 to -50 Degree
+2018-07-04 02:39:55 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-48 deg
+2018-07-04 02:40:05 Drive Axis2 to -48 Degree
+2018-07-04 02:46:34 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-46 deg
+2018-07-04 02:46:45 Drive Axis2 to -46 Degree
+2018-07-04 02:53:14 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-44 deg
+2018-07-04 02:53:24 Drive Axis2 to -44 Degree
+2018-07-04 02:59:53 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-42 deg
+2018-07-04 03:00:04 Drive Axis2 to -42 Degree
+2018-07-04 03:06:33 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-40 deg
+2018-07-04 03:06:43 Drive Axis2 to -40 Degree
+2018-07-04 03:13:13 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-38 deg
+2018-07-04 03:13:23 Drive Axis2 to -38 Degree
+2018-07-04 03:19:52 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-36 deg
+2018-07-04 03:20:02 Drive Axis2 to -36 Degree
+2018-07-04 03:26:31 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-34 deg
+2018-07-04 03:26:41 Drive Axis2 to -34 Degree
+2018-07-04 03:33:11 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-32 deg
+2018-07-04 03:33:21 Drive Axis2 to -32 Degree
+2018-07-04 03:39:50 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-30 deg
+2018-07-04 03:40:01 Drive Axis2 to -30 Degree
+2018-07-04 03:46:30 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-28 deg
+2018-07-04 03:46:40 Drive Axis2 to -28 Degree
+2018-07-04 03:53:10 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-26 deg
+2018-07-04 03:53:20 Drive Axis2 to -26 Degree
+2018-07-04 03:59:48 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-24 deg
+2018-07-04 03:59:59 Drive Axis2 to -24 Degree
+2018-07-04 04:06:28 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-22 deg
+2018-07-04 04:06:38 Drive Axis2 to -22 Degree
+2018-07-04 04:13:06 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-20 deg
+2018-07-04 04:13:16 Drive Axis2 to -20 Degree
+2018-07-04 04:20:07 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-18 deg
+2018-07-04 04:20:17 Drive Axis2 to -18 Degree
+2018-07-04 04:26:47 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-16 deg
+2018-07-04 04:26:57 Drive Axis2 to -16 Degree
+2018-07-04 04:33:26 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-14 deg
+2018-07-04 04:33:36 Drive Axis2 to -14 Degree
+2018-07-04 04:40:06 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-12 deg
+2018-07-04 04:40:16 Drive Axis2 to -12 Degree
+2018-07-04 04:46:45 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-10 deg
+2018-07-04 04:46:55 Drive Axis2 to -10 Degree
+2018-07-04 04:53:24 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-8 deg
+2018-07-04 04:53:34 Drive Axis2 to -8 Degree
+2018-07-04 05:00:03 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-6 deg
+2018-07-04 05:00:13 Drive Axis2 to -6 Degree
+2018-07-04 05:06:42 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-4 deg
+2018-07-04 05:06:52 Drive Axis2 to -4 Degree
+2018-07-04 05:13:21 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-2 deg
+2018-07-04 05:13:31 Drive Axis2 to -2 Degree
+2018-07-04 05:20:00 Set Title: (ND4)2FeCl5D2O T=1.4 K w=0 deg
+2018-07-04 05:20:11 Drive Axis2 to 0 Degree
+2018-07-04 05:26:40 Set Title: (ND4)2FeCl5D2O T=1.4 K w=2 deg
+2018-07-04 05:26:51 Drive Axis2 to 2 Degree
+2018-07-04 05:33:20 Set Title: (ND4)2FeCl5D2O T=1.4 K w=4 deg
+2018-07-04 05:33:30 Drive Axis2 to 4 Degree
+2018-07-04 05:40:00 Set Title: (ND4)2FeCl5D2O T=1.4 K w=6 deg
+2018-07-04 05:40:11 Drive Axis2 to 6 Degree
+2018-07-04 05:46:41 Set Title: (ND4)2FeCl5D2O T=1.4 K w=8 deg
+2018-07-04 05:46:51 Drive Axis2 to 8 Degree
+2018-07-04 05:53:21 Set Title: (ND4)2FeCl5D2O T=1.4 K w=10 deg
+2018-07-04 05:53:32 Drive Axis2 to 10 Degree
+2018-07-04 06:00:02 Set Title: (ND4)2FeCl5D2O T=1.4 K w=12 deg
+2018-07-04 06:00:12 Drive Axis2 to 12 Degree
+2018-07-04 06:06:41 Set Title: (ND4)2FeCl5D2O T=1.4 K w=14 deg
+2018-07-04 06:06:51 Drive Axis2 to 14 Degree
+2018-07-04 06:13:20 Set Title: (ND4)2FeCl5D2O T=1.4 K w=16 deg
+2018-07-04 06:13:30 Drive Axis2 to 16 Degree
+2018-07-04 06:20:00 Set Title: (ND4)2FeCl5D2O T=1.4 K w=18 deg
+2018-07-04 06:20:10 Drive Axis2 to 18 Degree
+2018-07-04 06:26:40 Set Title: (ND4)2FeCl5D2O T=1.4 K w=20 deg
+2018-07-04 06:26:50 Drive Axis2 to 20 Degree
+2018-07-04 06:33:20 Set Title: (ND4)2FeCl5D2O T=1.4 K w=22 deg
+2018-07-04 06:33:30 Drive Axis2 to 22 Degree
+2018-07-04 06:40:00 Set Title: (ND4)2FeCl5D2O T=1.4 K w=24 deg
+2018-07-04 06:40:10 Drive Axis2 to 24 Degree
+2018-07-04 06:46:39 Set Title: (ND4)2FeCl5D2O T=1.4 K w=26 deg
+2018-07-04 06:46:49 Drive Axis2 to 26 Degree
+2018-07-04 06:53:18 Set Title: (ND4)2FeCl5D2O T=1.4 K w=28 deg
+2018-07-04 06:53:28 Drive Axis2 to 28 Degree
+2018-07-04 06:59:58 Set Title: (ND4)2FeCl5D2O T=1.4 K w=30 deg
+2018-07-04 07:00:08 Drive Axis2 to 30 Degree
+2018-07-04 07:06:37 Set Title: (ND4)2FeCl5D2O T=1.4 K w=32 deg
+2018-07-04 07:06:47 Drive Axis2 to 32 Degree
+2018-07-04 07:13:17 Set Title: (ND4)2FeCl5D2O T=1.4 K w=34 deg
+2018-07-04 07:13:28 Drive Axis2 to 34 Degree
+2018-07-04 07:19:58 Set Title: (ND4)2FeCl5D2O T=1.4 K w=36 deg
+2018-07-04 07:20:08 Drive Axis2 to 36 Degree
+2018-07-04 07:26:39 Set Title: (ND4)2FeCl5D2O T=1.4 K w=38 deg
+2018-07-04 07:26:49 Drive Axis2 to 38 Degree
+2018-07-04 07:33:20 Set Title: (ND4)2FeCl5D2O T=1.4 K w=40 deg
+2018-07-04 07:33:30 Drive Axis2 to 40 Degree
+2018-07-04 07:40:01 Set Title: (ND4)2FeCl5D2O T=1.4 K w=42 deg
+2018-07-04 07:40:11 Drive Axis2 to 42 Degree
+2018-07-04 07:46:42 Set Title: (ND4)2FeCl5D2O T=1.4 K w=44 deg
+2018-07-04 07:46:52 Drive Axis2 to 44 Degree
+2018-07-04 07:53:23 Set Title: (ND4)2FeCl5D2O T=1.4 K w=46 deg
+2018-07-04 07:53:33 Drive Axis2 to 46 Degree
+2018-07-04 08:00:04 Set Title: (ND4)2FeCl5D2O T=1.4 K w=48 deg
+2018-07-04 08:00:14 Drive Axis2 to 48 Degree
+2018-07-04 08:06:45 Set Title: (ND4)2FeCl5D2O T=1.4 K w=50 deg
+2018-07-04 08:06:55 Drive Axis2 to 50 Degree
+2018-07-04 08:13:25 Set Title: (ND4)2FeCl5D2O T=1.4 K w=52 deg
+2018-07-04 08:13:35 Drive Axis2 to 52 Degree
+2018-07-04 08:20:05 Set Title: (ND4)2FeCl5D2O T=1.4 K w=54 deg
+2018-07-04 08:20:15 Drive Axis2 to 54 Degree
+2018-07-04 08:26:46 Set Title: (ND4)2FeCl5D2O T=1.4 K w=56 deg
+2018-07-04 08:26:56 Drive Axis2 to 56 Degree
+2018-07-04 08:33:27 Set Title: (ND4)2FeCl5D2O T=1.4 K w=58 deg
+2018-07-04 08:33:37 Drive Axis2 to 58 Degree
+2018-07-04 08:40:07 Set Title: (ND4)2FeCl5D2O T=1.4 K w=60 deg
+2018-07-04 08:40:17 Drive Axis2 to 60 Degree
+2018-07-04 08:46:49 Set Title: (ND4)2FeCl5D2O T=1.4 K w=62 deg
+2018-07-04 08:46:59 Drive Axis2 to 62 Degree
+2018-07-04 08:53:31 Set Title: (ND4)2FeCl5D2O T=1.4 K w=64 deg
+2018-07-04 08:53:41 Drive Axis2 to 64 Degree
+2018-07-04 09:00:12 Set Title: (ND4)2FeCl5D2O T=1.4 K w=66 deg
+2018-07-04 09:00:22 Drive Axis2 to 66 Degree
+2018-07-04 09:06:53 Set Title: (ND4)2FeCl5D2O T=1.4 K w=68 deg
+2018-07-04 09:07:03 Drive Axis2 to 68 Degree
+2018-07-04 09:13:32 Set Title: (ND4)2FeCl5D2O T=1.4 K w=70 deg
+2018-07-04 09:13:42 Drive Axis2 to 70 Degree
+2018-07-04 09:20:12 Set Title: (ND4)2FeCl5D2O T=1.4 K w=72 deg
+2018-07-04 09:20:22 Drive Axis2 to 72 Degree
+2018-07-04 09:26:52 Set Title: (ND4)2FeCl5D2O T=1.4 K w=74 deg
+2018-07-04 09:27:03 Drive Axis2 to 74 Degree
+2018-07-04 09:33:34 Set Title: (ND4)2FeCl5D2O T=1.4 K w=76 deg
+2018-07-04 09:33:44 Drive Axis2 to 76 Degree
+2018-07-04 09:40:15 Set Title: (ND4)2FeCl5D2O T=1.4 K w=78 deg
+2018-07-04 09:40:25 Drive Axis2 to 78 Degree
+2018-07-04 09:46:56 Set Title: (ND4)2FeCl5D2O T=1.4 K w=80 deg
+2018-07-04 09:47:07 Drive Axis2 to 80 Degree
+2018-07-04 09:53:37 Set Title: (ND4)2FeCl5D2O T=1.4 K w=82 deg
+2018-07-04 09:53:47 Drive Axis2 to 82 Degree
+2018-07-04 10:00:17 Set Title: (ND4)2FeCl5D2O T=1.4 K w=84 deg
+2018-07-04 10:00:28 Drive Axis2 to 84 Degree
+2018-07-04 10:06:59 Set Title: (ND4)2FeCl5D2O T=1.4 K w=86 deg
+2018-07-04 10:07:09 Drive Axis2 to 86 Degree
+2018-07-04 10:13:40 Set Title: (ND4)2FeCl5D2O T=1.4 K w=88 deg
+2018-07-04 10:13:50 Drive Axis2 to 88 Degree
+2018-07-04 10:20:22 Set Title: (ND4)2FeCl5D2O T=1.4 K w=90 deg
+2018-07-04 10:20:32 Drive Axis2 to 90 Degree
+2018-07-04 10:27:04 Set Title: (ND4)2FeCl5D2O T=1.4 K w=92 deg
+2018-07-04 10:27:14 Drive Axis2 to 92 Degree
+2018-07-04 10:33:46 Set Title: (ND4)2FeCl5D2O T=1.4 K w=94 deg
+2018-07-04 10:33:56 Drive Axis2 to 94 Degree
+2018-07-04 10:40:27 Set Title: (ND4)2FeCl5D2O T=1.4 K w=96 deg
+2018-07-04 10:40:37 Drive Axis2 to 96 Degree
+2018-07-04 10:47:07 Set Title: (ND4)2FeCl5D2O T=1.4 K w=98 deg
+2018-07-04 10:47:17 Drive Axis2 to 98 Degree
+2018-07-04 10:53:48 Set Title: (ND4)2FeCl5D2O T=1.4 K w=100 deg
+2018-07-04 10:53:59 Drive Axis2 to 100 Degree
+2018-07-04 11:00:30 Set Title: (ND4)2FeCl5D2O T=1.4 K w=102 deg
+2018-07-04 11:00:41 Drive Axis2 to 102 Degree
+2018-07-04 11:07:12 Set Title: (ND4)2FeCl5D2O T=1.4 K w=104 deg
+2018-07-04 11:07:22 Drive Axis2 to 104 Degree
+2018-07-04 11:13:53 Set Title: (ND4)2FeCl5D2O T=1.4 K w=106 deg
+2018-07-04 11:14:04 Drive Axis2 to 106 Degree
+2018-07-04 11:20:36 Set Title: (ND4)2FeCl5D2O T=1.4 K w=108 deg
+2018-07-04 11:20:46 Drive Axis2 to 108 Degree
+2018-07-04 11:27:18 Set Title: (ND4)2FeCl5D2O T=1.4 K w=110 deg
+2018-07-04 11:27:29 Drive Axis2 to 110 Degree
+2018-07-04 11:34:01 Set Title: (ND4)2FeCl5D2O T=1.4 K w=112 deg
+2018-07-04 11:34:12 Drive Axis2 to 112 Degree
+2018-07-04 11:40:43 Set Title: (ND4)2FeCl5D2O T=1.4 K w=114 deg
+2018-07-04 11:40:53 Drive Axis2 to 114 Degree
+2018-07-04 11:47:25 Set Title: (ND4)2FeCl5D2O T=1.4 K w=116 deg
+2018-07-04 11:47:35 Drive Axis2 to 116 Degree
+2018-07-04 11:54:06 Set Title: (ND4)2FeCl5D2O T=1.4 K w=118 deg
+2018-07-04 11:54:16 Drive Axis2 to 118 Degree
+2018-07-04 12:00:47 Set Title: (ND4)2FeCl5D2O T=1.4 K w=120 deg
+2018-07-04 12:00:57 Drive Axis2 to 120 Degree
+2018-07-04 12:07:29 Set Title: (ND4)2FeCl5D2O T=1.4 K w=122 deg
+2018-07-04 12:07:39 Drive Axis2 to 122 Degree
+2018-07-04 12:14:11 Set Title: (ND4)2FeCl5D2O T=1.4 K w=124 deg
+2018-07-04 12:14:21 Drive Axis2 to 124 Degree
+2018-07-04 12:20:52 Set Title: (ND4)2FeCl5D2O T=1.4 K w=126 deg
+2018-07-04 12:21:02 Drive Axis2 to 126 Degree
+2018-07-04 12:27:34 Set Title: (ND4)2FeCl5D2O T=1.4 K w=128 deg
+2018-07-04 12:27:44 Drive Axis2 to 128 Degree
+2018-07-04 12:34:17 Set Title: (ND4)2FeCl5D2O T=1.4 K w=130 deg
+2018-07-04 12:34:27 Drive Axis2 to 130 Degree
+2018-07-04 12:41:00 Set Title: (ND4)2FeCl5D2O T=1.4 K w=132 deg
+2018-07-04 12:41:10 Drive Axis2 to 132 Degree
+2018-07-04 12:47:42 Set Title: (ND4)2FeCl5D2O T=1.4 K w=134 deg
+2018-07-04 12:47:52 Drive Axis2 to 134 Degree
+2018-07-04 12:54:50 Set Title: (ND4)2FeCl5D2O T=1.4 K w=136 deg
+2018-07-04 12:55:00 Drive Axis2 to 136 Degree
+2018-07-04 13:01:32 Set Title: (ND4)2FeCl5D2O T=1.4 K w=138 deg
+2018-07-04 13:01:42 Drive Axis2 to 138 Degree
+2018-07-04 13:08:13 Set Title: (ND4)2FeCl5D2O T=1.4 K w=140 deg
+2018-07-04 13:08:23 Drive Axis2 to 140 Degree
+2018-07-04 13:14:55 Set Title: (ND4)2FeCl5D2O T=1.4 K w=142 deg
+2018-07-04 13:15:05 Drive Axis2 to 142 Degree
+2018-07-04 13:21:37 Set Title: (ND4)2FeCl5D2O T=1.4 K w=144 deg
+2018-07-04 13:21:47 Drive Axis2 to 144 Degree
+2018-07-04 13:28:19 Set Title: (ND4)2FeCl5D2O T=1.4 K w=146 deg
+2018-07-04 13:28:29 Drive Axis2 to 146 Degree
+2018-07-04 13:35:01 Set Title: (ND4)2FeCl5D2O T=1.4 K w=148 deg
+2018-07-04 13:35:11 Drive Axis2 to 148 Degree
+2018-07-04 13:41:43 Set Title: (ND4)2FeCl5D2O T=1.4 K w=150 deg
+2018-07-04 13:41:53 Drive Axis2 to 150 Degree
+2018-07-04 13:48:26 Set Title: (ND4)2FeCl5D2O T=1.4 K w=152 deg
+2018-07-04 13:48:36 Drive Axis2 to 152 Degree
+2018-07-04 13:55:08 Set Title: (ND4)2FeCl5D2O T=1.4 K w=154 deg
+2018-07-04 13:55:18 Drive Axis2 to 154 Degree
+2018-07-04 14:01:50 Set Title: (ND4)2FeCl5D2O T=1.4 K w=156 deg
+2018-07-04 14:02:00 Drive Axis2 to 156 Degree
+2018-07-04 14:08:32 Set Title: (ND4)2FeCl5D2O T=1.4 K w=158 deg
+2018-07-04 14:08:42 Drive Axis2 to 158 Degree
+2018-07-04 14:15:14 Set Title: (ND4)2FeCl5D2O T=1.4 K w=160 deg
+2018-07-04 14:15:24 Drive Axis2 to 160 Degree
+2018-07-04 14:21:56 Set Title: (ND4)2FeCl5D2O T=1.4 K w=162 deg
+2018-07-04 14:22:06 Drive Axis2 to 162 Degree
+2018-07-04 14:28:38 Set Title: (ND4)2FeCl5D2O T=1.4 K w=164 deg
+2018-07-04 14:28:49 Drive Axis2 to 164 Degree
+2018-07-04 14:35:19 Set Title: (ND4)2FeCl5D2O T=1.4 K w=166 deg
+2018-07-04 14:35:30 Drive Axis2 to 166 Degree
+2018-07-04 14:42:01 Set Title: (ND4)2FeCl5D2O T=1.4 K w=168 deg
+2018-07-04 14:42:12 Drive Axis2 to 168 Degree
+2018-07-04 14:48:44 Set Title: (ND4)2FeCl5D2O T=1.4 K w=170 deg
+2018-07-04 14:48:54 Drive Axis2 to 170 Degree
+2018-07-04 14:55:26 Set Title: (ND4)2FeCl5D2O T=1.4 K w=172 deg
+2018-07-04 14:55:37 Drive Axis2 to 172 Degree
+2018-07-04 15:02:09 Set Title: (ND4)2FeCl5D2O T=1.4 K w=174 deg
+2018-07-04 15:02:19 Drive Axis2 to 174 Degree
+2018-07-04 15:08:52 Set Title: (ND4)2FeCl5D2O T=1.4 K w=176 deg
+2018-07-04 15:09:02 Drive Axis2 to 176 Degree
+2018-07-04 15:15:34 Set Title: (ND4)2FeCl5D2O T=1.4 K w=178 deg
+2018-07-04 15:15:44 Drive Axis2 to 178 Degree
+2018-07-04 15:22:16 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-179 deg
+2018-07-04 15:34:27 Drive Axis2 to -179 Degree
+2018-07-04 15:41:00 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-177 deg
+2018-07-04 15:41:10 Drive Axis2 to -177 Degree
+2018-07-04 15:47:43 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-175 deg
+2018-07-04 15:47:54 Drive Axis2 to -175 Degree
+2018-07-04 15:54:26 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-173 deg
+2018-07-04 15:54:36 Drive Axis2 to -173 Degree
+2018-07-04 16:01:09 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-171 deg
+2018-07-04 16:01:19 Drive Axis2 to -171 Degree
+2018-07-04 16:07:52 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-169 deg
+2018-07-04 16:08:02 Drive Axis2 to -169 Degree
+2018-07-04 16:14:35 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-167 deg
+2018-07-04 16:14:45 Drive Axis2 to -167 Degree
+2018-07-04 16:25:38 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-165 deg
+2018-07-04 16:25:48 Drive Axis2 to -165 Degree
+2018-07-04 16:32:21 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-163 deg
+2018-07-04 16:32:31 Drive Axis2 to -163 Degree
+2018-07-04 16:39:04 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-161 deg
+2018-07-04 16:39:14 Drive Axis2 to -161 Degree
+2018-07-04 16:45:44 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-159 deg
+2018-07-04 16:45:55 Drive Axis2 to -159 Degree
+2018-07-04 16:52:24 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-157 deg
+2018-07-04 16:52:34 Drive Axis2 to -157 Degree
+2018-07-04 16:59:04 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-155 deg
+2018-07-04 16:59:14 Drive Axis2 to -155 Degree
+2018-07-04 17:05:44 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-153 deg
+2018-07-04 17:05:54 Drive Axis2 to -153 Degree
+2018-07-04 17:12:23 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-151 deg
+2018-07-04 17:12:33 Drive Axis2 to -151 Degree
+2018-07-04 17:19:02 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-149 deg
+2018-07-04 17:19:12 Drive Axis2 to -149 Degree
+2018-07-04 17:25:41 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-147 deg
+2018-07-04 17:25:51 Drive Axis2 to -147 Degree
+2018-07-04 17:32:21 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-145 deg
+2018-07-04 17:32:31 Drive Axis2 to -145 Degree
+2018-07-04 17:39:00 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-143 deg
+2018-07-04 17:39:10 Drive Axis2 to -143 Degree
+2018-07-04 17:45:39 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-141 deg
+2018-07-04 17:45:49 Drive Axis2 to -141 Degree
+2018-07-04 17:52:18 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-139 deg
+2018-07-04 17:52:29 Drive Axis2 to -139 Degree
+2018-07-04 17:58:58 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-137 deg
+2018-07-04 17:59:08 Drive Axis2 to -137 Degree
+2018-07-04 18:05:37 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-135 deg
+2018-07-04 18:05:47 Drive Axis2 to -135 Degree
+2018-07-04 18:12:16 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-133 deg
+2018-07-04 18:12:27 Drive Axis2 to -133 Degree
+2018-07-04 18:18:55 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-131 deg
+2018-07-04 18:19:06 Drive Axis2 to -131 Degree
+2018-07-04 18:25:34 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-129 deg
+2018-07-04 18:25:44 Drive Axis2 to -129 Degree
+2018-07-04 18:32:13 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-127 deg
+2018-07-04 18:32:23 Drive Axis2 to -127 Degree
+2018-07-04 18:38:54 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-125 deg
+2018-07-04 18:39:04 Drive Axis2 to -125 Degree
+2018-07-04 18:45:33 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-123 deg
+2018-07-04 18:45:43 Drive Axis2 to -123 Degree
+2018-07-04 18:52:13 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-121 deg
+2018-07-04 18:52:23 Drive Axis2 to -121 Degree
+2018-07-04 18:58:54 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-119 deg
+2018-07-04 18:59:04 Drive Axis2 to -119 Degree
+2018-07-04 19:05:33 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-117 deg
+2018-07-04 19:05:43 Drive Axis2 to -117 Degree
+2018-07-04 19:12:13 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-115 deg
+2018-07-04 19:12:23 Drive Axis2 to -115 Degree
+2018-07-04 19:18:53 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-113 deg
+2018-07-04 19:19:03 Drive Axis2 to -113 Degree
+2018-07-04 19:25:32 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-111 deg
+2018-07-04 19:25:42 Drive Axis2 to -111 Degree
+2018-07-04 19:32:11 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-109 deg
+2018-07-04 19:32:21 Drive Axis2 to -109 Degree
+2018-07-04 19:38:50 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-107 deg
+2018-07-04 19:39:00 Drive Axis2 to -107 Degree
+2018-07-04 19:45:29 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-105 deg
+2018-07-04 19:45:39 Drive Axis2 to -105 Degree
+2018-07-04 19:52:09 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-103 deg
+2018-07-04 19:52:19 Drive Axis2 to -103 Degree
+2018-07-04 19:58:47 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-101 deg
+2018-07-04 19:58:57 Drive Axis2 to -101 Degree
+2018-07-04 20:05:27 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-99 deg
+2018-07-04 20:05:37 Drive Axis2 to -99 Degree
+2018-07-04 20:12:06 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-97 deg
+2018-07-04 20:12:16 Drive Axis2 to -97 Degree
+2018-07-04 20:18:45 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-95 deg
+2018-07-04 20:18:56 Drive Axis2 to -95 Degree
+2018-07-04 20:25:25 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-93 deg
+2018-07-04 20:25:35 Drive Axis2 to -93 Degree
+2018-07-04 20:32:05 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-91 deg
+2018-07-04 20:32:15 Drive Axis2 to -91 Degree
+2018-07-04 20:38:44 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-89 deg
+2018-07-04 20:38:54 Drive Axis2 to -89 Degree
+2018-07-04 20:45:22 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-87 deg
+2018-07-04 20:45:32 Drive Axis2 to -87 Degree
+2018-07-04 20:52:01 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-85 deg
+2018-07-04 20:52:11 Drive Axis2 to -85 Degree
+2018-07-04 20:58:39 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-83 deg
+2018-07-04 20:58:49 Drive Axis2 to -83 Degree
+2018-07-04 21:05:18 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-81 deg
+2018-07-04 21:05:28 Drive Axis2 to -81 Degree
+2018-07-04 21:11:57 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-79 deg
+2018-07-04 21:12:07 Drive Axis2 to -79 Degree
+2018-07-04 21:18:36 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-77 deg
+2018-07-04 21:18:46 Drive Axis2 to -77 Degree
+2018-07-04 21:25:15 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-75 deg
+2018-07-04 21:25:26 Drive Axis2 to -75 Degree
+2018-07-04 21:31:55 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-73 deg
+2018-07-04 21:32:05 Drive Axis2 to -73 Degree
+2018-07-04 21:38:34 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-71 deg
+2018-07-04 21:38:44 Drive Axis2 to -71 Degree
+2018-07-04 21:45:12 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-69 deg
+2018-07-04 21:45:22 Drive Axis2 to -69 Degree
+2018-07-04 21:51:51 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-67 deg
+2018-07-04 21:52:01 Drive Axis2 to -67 Degree
+2018-07-04 21:58:30 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-65 deg
+2018-07-04 21:58:40 Drive Axis2 to -65 Degree
+2018-07-04 22:05:08 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-63 deg
+2018-07-04 22:05:18 Drive Axis2 to -63 Degree
+2018-07-04 22:11:47 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-61 deg
+2018-07-04 22:11:57 Drive Axis2 to -61 Degree
+2018-07-04 22:18:26 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-59 deg
+2018-07-04 22:18:37 Drive Axis2 to -59 Degree
+2018-07-04 22:25:06 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-57 deg
+2018-07-04 22:25:16 Drive Axis2 to -57 Degree
+2018-07-04 22:31:45 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-55 deg
+2018-07-04 22:31:55 Drive Axis2 to -55 Degree
+2018-07-04 22:38:23 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-53 deg
+2018-07-04 22:38:34 Drive Axis2 to -53 Degree
+2018-07-04 22:45:02 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-51 deg
+2018-07-04 22:45:12 Drive Axis2 to -51 Degree
+2018-07-04 22:51:40 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-49 deg
+2018-07-04 22:51:51 Drive Axis2 to -49 Degree
+2018-07-04 22:58:19 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-47 deg
+2018-07-04 22:58:29 Drive Axis2 to -47 Degree
+2018-07-04 23:04:57 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-45 deg
+2018-07-04 23:05:07 Drive Axis2 to -45 Degree
+2018-07-04 23:11:35 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-43 deg
+2018-07-04 23:11:45 Drive Axis2 to -43 Degree
+2018-07-04 23:18:35 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-41 deg
+2018-07-04 23:18:45 Drive Axis2 to -41 Degree
+2018-07-04 23:25:14 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-39 deg
+2018-07-04 23:25:24 Drive Axis2 to -39 Degree
+2018-07-04 23:31:55 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-37 deg
+2018-07-04 23:32:05 Drive Axis2 to -37 Degree
+2018-07-04 23:38:35 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-35 deg
+2018-07-04 23:38:45 Drive Axis2 to -35 Degree
+2018-07-04 23:45:15 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-33 deg
+2018-07-04 23:45:25 Drive Axis2 to -33 Degree
+2018-07-04 23:51:54 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-31 deg
+2018-07-04 23:52:05 Drive Axis2 to -31 Degree
+2018-07-04 23:58:34 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-29 deg
+2018-07-04 23:58:44 Drive Axis2 to -29 Degree
+2018-07-05 00:05:13 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-27 deg
+2018-07-05 00:05:23 Drive Axis2 to -27 Degree
+2018-07-05 00:11:52 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-25 deg
+2018-07-05 00:12:02 Drive Axis2 to -25 Degree
+2018-07-05 00:18:31 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-23 deg
+2018-07-05 00:18:42 Drive Axis2 to -23 Degree
+2018-07-05 00:25:10 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-21 deg
+2018-07-05 00:25:20 Drive Axis2 to -21 Degree
+2018-07-05 00:31:50 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-19 deg
+2018-07-05 00:32:01 Drive Axis2 to -19 Degree
+2018-07-05 00:38:29 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-17 deg
+2018-07-05 00:38:40 Drive Axis2 to -17 Degree
+2018-07-05 00:45:09 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-15 deg
+2018-07-05 00:45:19 Drive Axis2 to -15 Degree
+2018-07-05 00:51:48 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-13 deg
+2018-07-05 00:51:59 Drive Axis2 to -13 Degree
+2018-07-05 00:58:27 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-11 deg
+2018-07-05 00:58:37 Drive Axis2 to -11 Degree
+2018-07-05 01:05:05 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-9 deg
+2018-07-05 01:05:15 Drive Axis2 to -9 Degree
+2018-07-05 01:11:44 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-7 deg
+2018-07-05 01:11:54 Drive Axis2 to -7 Degree
+2018-07-05 01:18:22 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-5 deg
+2018-07-05 01:18:33 Drive Axis2 to -5 Degree
+2018-07-05 01:25:02 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-3 deg
+2018-07-05 01:25:12 Drive Axis2 to -3 Degree
+2018-07-05 01:31:41 Set Title: (ND4)2FeCl5D2O T=1.4 K w=-1 deg
+2018-07-05 01:31:51 Drive Axis2 to -1 Degree
+2018-07-05 01:38:20 Set Title: (ND4)2FeCl5D2O T=1.4 K w=1 deg
+2018-07-05 01:38:30 Drive Axis2 to 1 Degree
+2018-07-05 01:44:58 Set Title: (ND4)2FeCl5D2O T=1.4 K w=3 deg
+2018-07-05 01:45:08 Drive Axis2 to 3 Degree
+2018-07-05 01:51:36 Set Title: (ND4)2FeCl5D2O T=1.4 K w=5 deg
+2018-07-05 01:51:46 Drive Axis2 to 5 Degree
+2018-07-05 01:58:16 Set Title: (ND4)2FeCl5D2O T=1.4 K w=7 deg
+2018-07-05 01:58:26 Drive Axis2 to 7 Degree
+2018-07-05 02:04:55 Set Title: (ND4)2FeCl5D2O T=1.4 K w=9 deg
+2018-07-05 02:05:05 Drive Axis2 to 9 Degree
+2018-07-05 02:11:33 Set Title: (ND4)2FeCl5D2O T=1.4 K w=11 deg
+2018-07-05 02:11:44 Drive Axis2 to 11 Degree
+2018-07-05 02:59:10 Set Title: (ND4)2FeCl5D2O T=1.4 K w=13 deg
+2018-07-05 02:59:20 Drive Axis2 to 13 Degree
+2018-07-05 03:05:48 Set Title: (ND4)2FeCl5D2O T=1.4 K w=15 deg
+2018-07-05 03:05:58 Drive Axis2 to 15 Degree
+2018-07-05 03:13:03 Set Title: (ND4)2FeCl5D2O T=1.4 K w=17 deg
+2018-07-05 03:13:13 Drive Axis2 to 17 Degree
+2018-07-05 03:19:40 Set Title: (ND4)2FeCl5D2O T=1.4 K w=19 deg
+2018-07-05 03:19:50 Drive Axis2 to 19 Degree
+2018-07-05 03:26:18 Set Title: (ND4)2FeCl5D2O T=1.4 K w=21 deg
+2018-07-05 03:26:28 Drive Axis2 to 21 Degree
+2018-07-05 03:32:55 Set Title: (ND4)2FeCl5D2O T=1.4 K w=23 deg
+2018-07-05 03:33:05 Drive Axis2 to 23 Degree
+2018-07-05 03:40:10 Set Title: (ND4)2FeCl5D2O T=1.4 K w=25 deg
+2018-07-05 03:40:20 Drive Axis2 to 25 Degree
+2018-07-05 03:46:48 Set Title: (ND4)2FeCl5D2O T=1.4 K w=27 deg
+2018-07-05 03:46:58 Drive Axis2 to 27 Degree
+2018-07-05 03:53:24 Set Title: (ND4)2FeCl5D2O T=1.4 K w=29 deg
+2018-07-05 03:53:35 Drive Axis2 to 29 Degree
+2018-07-05 04:00:03 Set Title: (ND4)2FeCl5D2O T=1.4 K w=31 deg
+2018-07-05 04:00:13 Drive Axis2 to 31 Degree
+2018-07-05 04:06:40 Set Title: (ND4)2FeCl5D2O T=1.4 K w=33 deg
+2018-07-05 04:06:50 Drive Axis2 to 33 Degree
+2018-07-05 04:13:18 Set Title: (ND4)2FeCl5D2O T=1.4 K w=35 deg
+2018-07-05 04:13:28 Drive Axis2 to 35 Degree
+2018-07-05 04:19:56 Set Title: (ND4)2FeCl5D2O T=1.4 K w=37 deg
+2018-07-05 04:20:06 Drive Axis2 to 37 Degree
+2018-07-05 04:26:34 Set Title: (ND4)2FeCl5D2O T=1.4 K w=39 deg
+2018-07-05 04:26:44 Drive Axis2 to 39 Degree
+2018-07-05 04:33:12 Set Title: (ND4)2FeCl5D2O T=1.4 K w=41 deg
+2018-07-05 04:33:22 Drive Axis2 to 41 Degree
+2018-07-05 04:39:51 Set Title: (ND4)2FeCl5D2O T=1.4 K w=43 deg
+2018-07-05 04:40:01 Drive Axis2 to 43 Degree
+2018-07-05 04:46:30 Set Title: (ND4)2FeCl5D2O T=1.4 K w=45 deg
+2018-07-05 04:46:40 Drive Axis2 to 45 Degree
+2018-07-05 04:53:08 Set Title: (ND4)2FeCl5D2O T=1.4 K w=47 deg
+2018-07-05 04:53:18 Drive Axis2 to 47 Degree
+2018-07-05 04:59:46 Set Title: (ND4)2FeCl5D2O T=1.4 K w=49 deg
+2018-07-05 04:59:56 Drive Axis2 to 49 Degree
+2018-07-05 05:06:25 Set Title: (ND4)2FeCl5D2O T=1.4 K w=51 deg
+2018-07-05 05:06:35 Drive Axis2 to 51 Degree
+2018-07-05 05:13:04 Set Title: (ND4)2FeCl5D2O T=1.4 K w=53 deg
+2018-07-05 05:13:14 Drive Axis2 to 53 Degree
+2018-07-05 05:19:43 Set Title: (ND4)2FeCl5D2O T=1.4 K w=55 deg
+2018-07-05 05:19:53 Drive Axis2 to 55 Degree
+2018-07-05 05:26:22 Set Title: (ND4)2FeCl5D2O T=1.4 K w=57 deg
+2018-07-05 05:26:32 Drive Axis2 to 57 Degree
+2018-07-05 05:33:01 Set Title: (ND4)2FeCl5D2O T=1.4 K w=59 deg
+2018-07-05 05:33:12 Drive Axis2 to 59 Degree
+2018-07-05 05:39:41 Set Title: (ND4)2FeCl5D2O T=1.4 K w=61 deg
+2018-07-05 05:39:51 Drive Axis2 to 61 Degree
+2018-07-05 05:46:19 Set Title: (ND4)2FeCl5D2O T=1.4 K w=63 deg
+2018-07-05 05:46:29 Drive Axis2 to 63 Degree
+2018-07-05 05:52:59 Set Title: (ND4)2FeCl5D2O T=1.4 K w=65 deg
+2018-07-05 05:53:09 Drive Axis2 to 65 Degree
+2018-07-05 05:59:38 Set Title: (ND4)2FeCl5D2O T=1.4 K w=67 deg
+2018-07-05 05:59:48 Drive Axis2 to 67 Degree
+2018-07-05 06:06:18 Set Title: (ND4)2FeCl5D2O T=1.4 K w=69 deg
+2018-07-05 06:06:28 Drive Axis2 to 69 Degree
+2018-07-05 06:12:57 Set Title: (ND4)2FeCl5D2O T=1.4 K w=71 deg
+2018-07-05 06:13:07 Drive Axis2 to 71 Degree
+2018-07-05 06:19:35 Set Title: (ND4)2FeCl5D2O T=1.4 K w=73 deg
+2018-07-05 06:19:46 Drive Axis2 to 73 Degree
+2018-07-05 06:26:14 Set Title: (ND4)2FeCl5D2O T=1.4 K w=75 deg
+2018-07-05 06:26:24 Drive Axis2 to 75 Degree
+2018-07-05 06:32:51 Set Title: (ND4)2FeCl5D2O T=1.4 K w=77 deg
+2018-07-05 06:33:01 Drive Axis2 to 77 Degree
+2018-07-05 06:39:28 Set Title: (ND4)2FeCl5D2O T=1.4 K w=79 deg
+2018-07-05 06:39:38 Drive Axis2 to 79 Degree
+2018-07-05 06:47:16 Set Title: (ND4)2FeCl5D2O T=1.4 K w=81 deg
+2018-07-05 06:47:26 Drive Axis2 to 81 Degree
+2018-07-05 06:53:55 Set Title: (ND4)2FeCl5D2O T=1.4 K w=83 deg
+2018-07-05 06:54:05 Drive Axis2 to 83 Degree
+2018-07-05 07:00:33 Set Title: (ND4)2FeCl5D2O T=1.4 K w=85 deg
+2018-07-05 07:00:44 Drive Axis2 to 85 Degree
+2018-07-05 07:07:13 Set Title: (ND4)2FeCl5D2O T=1.4 K w=87 deg
+2018-07-05 07:07:23 Drive Axis2 to 87 Degree
+2018-07-05 07:13:52 Set Title: (ND4)2FeCl5D2O T=1.4 K w=89 deg
+2018-07-05 07:14:02 Drive Axis2 to 89 Degree
+2018-07-05 07:20:31 Set Title: (ND4)2FeCl5D2O T=1.4 K w=91 deg
+2018-07-05 07:20:41 Drive Axis2 to 91 Degree
+2018-07-05 07:27:09 Set Title: (ND4)2FeCl5D2O T=1.4 K w=93 deg
+2018-07-05 07:27:19 Drive Axis2 to 93 Degree
+2018-07-05 07:33:48 Set Title: (ND4)2FeCl5D2O T=1.4 K w=95 deg
+2018-07-05 07:33:58 Drive Axis2 to 95 Degree
+2018-07-05 07:40:46 Set Title: (ND4)2FeCl5D2O T=1.4 K w=97 deg
+2018-07-05 07:40:56 Drive Axis2 to 97 Degree
+2018-07-05 07:47:24 Set Title: (ND4)2FeCl5D2O T=1.4 K w=99 deg
+2018-07-05 07:47:34 Drive Axis2 to 99 Degree
+2018-07-05 07:54:23 Set Title: (ND4)2FeCl5D2O T=1.4 K w=101 deg
+2018-07-05 07:54:33 Drive Axis2 to 101 Degree
+2018-07-05 08:01:01 Set Title: (ND4)2FeCl5D2O T=1.4 K w=103 deg
+2018-07-05 08:01:11 Drive Axis2 to 103 Degree
+2018-07-05 08:07:39 Set Title: (ND4)2FeCl5D2O T=1.4 K w=105 deg
+2018-07-05 08:07:49 Drive Axis2 to 105 Degree
+2018-07-05 08:14:16 Set Title: (ND4)2FeCl5D2O T=1.4 K w=107 deg
+2018-07-05 08:14:27 Drive Axis2 to 107 Degree
+2018-07-05 08:20:54 Set Title: (ND4)2FeCl5D2O T=1.4 K w=109 deg
+2018-07-05 08:21:04 Drive Axis2 to 109 Degree
+2018-07-05 08:27:31 Set Title: (ND4)2FeCl5D2O T=1.4 K w=111 deg
+2018-07-05 08:27:42 Drive Axis2 to 111 Degree
+2018-07-05 08:34:09 Set Title: (ND4)2FeCl5D2O T=1.4 K w=113 deg
+2018-07-05 08:34:19 Drive Axis2 to 113 Degree
+2018-07-05 08:41:15 Set Title: (ND4)2FeCl5D2O T=1.4 K w=115 deg
+2018-07-05 08:41:25 Drive Axis2 to 115 Degree
+2018-07-05 08:53:30 Relative Scan axis2, run 277966
+2018-07-05 08:57:05 Drive Axis2 to 71.5173286177 Degree
+2018-07-05 09:00:24 Drive Axis2 to 144.935818809 Degree
+2018-07-05 09:00:24 New X/Y Signal ROI at 2Theta=[-1.39320774935,3.60679225065] Phi=[-5.13381294824,4.86618705176]
+2018-07-05 09:00:24 Driving to: (0,4,0) at Omega=144.935818809
+2018-07-05 09:02:45 Relative Scan axis2, run 277968
+2018-07-05 09:08:55 Drive Axis2 to 45.3938642923 Degree
+2018-07-05 09:08:55 New X/Y Signal ROI at 2Theta=[-1.7231162311,3.2768837689] Phi=[-5.68277873215,4.31722126785]
+2018-07-05 09:08:55 Driving to: (0,0,2) at Omega=45.3938642923
+2018-07-05 09:16:55 Drive Axis2 to 45.3938642923 Degree
+2018-07-05 09:16:55 New X/Y Signal ROI at 2Theta=[42.0121611303,47.0121611303] Phi=[-5.68277873215,4.31722126785]
+2018-07-05 09:16:55 Driving to: (0,0,2) at Omega=45.3938642923
+2018-07-05 09:18:18 Drive Axis2 to 45.3938642923 Degree
+2018-07-05 09:18:18 New X/Y Signal ROI at 2Theta=[42.0121611303,47.0121611303] Phi=[-5.68277873215,4.31722126785]
+2018-07-05 09:18:18 Driving to: (0,0,2) at Omega=45.3938642923
+2018-07-05 09:18:40 Relative Scan axis2, run 277970
+2018-07-05 09:25:07 Drive Axis2 to 113.377347526 Degree
+2018-07-05 09:25:07 New X/Y Signal ROI at 2Theta=[49.3523678827,54.3523678827] Phi=[-4.48644217071,5.51355782929]
+2018-07-05 09:25:07 Driving to: (0,3,1) at Omega=113.377347526
+2018-07-05 09:26:52 Relative Scan axis2, run 277973

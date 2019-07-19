@@ -1,0 +1,3 @@
+2018-06-30 08:17:43 Line Log cleared
+2018-06-30 08:17:43 Starting IPTS-21455 on 2018-06-30
+2018-06-30 08:18:14 Set Title: Setting Energy 25 meV and cooling

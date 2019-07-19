@@ -1,0 +1,1166 @@
+2019-01-10 16:06:33 Line Log cleared
+2019-01-10 16:06:33 Starting IPTS-22728 on 2019-01-10
+2019-01-11 09:55:08 New X/Y Signal ROI at 2Theta=[30,38] Phi=[12,20]
+2019-01-12 10:28:40 Set Title: test-scan
+2019-01-12 22:59:16 Set Title: low power mode, monitor pulse energy scan, Ei=81.74512 meV
+2019-01-12 22:59:56 Set Incident Energy to 81.74512 meV
+2019-01-12 23:37:58 Set Title: low power mode, monitor pulse energy scan, Ei=81.74512 meV
+2019-01-12 23:37:58 Set Incident Energy to 81.74512 meV
+2019-01-12 23:42:57 Set Title: low power mode, monitor pulse energy scan, Ei=36.3311644444 meV
+2019-01-12 23:43:45 Set Incident Energy to 36.3311644444 meV
+2019-01-12 23:48:45 Set Title: low power mode, monitor pulse energy scan, Ei=20.43628 meV
+2019-01-12 23:49:33 Set Incident Energy to 20.43628 meV
+2019-01-12 23:54:33 Set Title: low power mode, monitor pulse energy scan, Ei=13.0792192 meV
+2019-01-12 23:55:22 Set Incident Energy to 13.0792192 meV
+2019-01-13 00:00:22 Set Title: low power mode, monitor pulse energy scan, Ei=12.0 meV
+2019-01-13 00:00:59 Set Incident Energy to 12.0 meV
+2019-01-13 00:05:59 Set Title: low power mode, monitor pulse energy scan, Ei=11.0 meV
+2019-01-13 00:06:35 Set Incident Energy to 11.0 meV
+2019-01-13 00:11:35 Set Title: low power mode, monitor pulse energy scan, Ei=10.0 meV
+2019-01-13 00:12:11 Set Incident Energy to 10.0 meV
+2019-01-13 00:17:11 Set Title: low power mode, monitor pulse energy scan, Ei=9.08279111111 meV
+2019-01-13 00:17:48 Set Incident Energy to 9.08279111111 meV
+2019-01-13 00:22:48 Set Title: low power mode, monitor pulse energy scan, Ei=7.9 meV
+2019-01-13 00:23:28 Set Incident Energy to 7.9 meV
+2019-01-13 00:28:28 Set Title: low power mode, monitor pulse energy scan, Ei=6.67307102041 meV
+2019-01-13 00:29:04 Set Incident Energy to 6.67307102041 meV
+2019-01-13 00:34:04 Set Title: low power mode, monitor pulse energy scan, Ei=6.0 meV
+2019-01-13 00:34:41 Set Incident Energy to 6.0 meV
+2019-01-13 00:39:41 Set Title: low power mode, monitor pulse energy scan, Ei=5.10907 meV
+2019-01-13 00:40:19 Set Incident Energy to 5.10907 meV
+2019-01-13 00:45:18 Set Title: low power mode, monitor pulse energy scan, Ei=4.5 meV
+2019-01-13 00:45:55 Set Incident Energy to 4.5 meV
+2019-01-13 00:50:55 Set Title: low power mode, monitor pulse energy scan, Ei=4.03679604938 meV
+2019-01-13 00:51:35 Set Incident Energy to 4.03679604938 meV
+2019-01-13 00:56:35 Set Title: low power mode, monitor pulse energy scan, Ei=3.32 meV
+2019-01-13 00:57:29 Set Incident Energy to 3.32 meV
+2019-01-13 01:02:29 Set Title: low power mode, monitor pulse energy scan, Ei=3.2698048 meV
+2019-01-13 01:03:02 Set Incident Energy to 3.2698048 meV
+2019-01-13 01:08:02 Set Title: low power mode, monitor pulse energy scan, Ei=2.70231801653 meV
+2019-01-13 01:08:53 Set Incident Energy to 2.70231801653 meV
+2019-01-13 01:13:53 Set Title: low power mode, monitor pulse energy scan, Ei=2.27069777778 meV
+2019-01-13 01:14:43 Set Incident Energy to 2.27069777778 meV
+2019-01-13 01:19:43 Set Title: low power mode, monitor pulse energy scan, Ei=1.93479573964 meV
+2019-01-13 01:20:33 Set Incident Energy to 1.93479573964 meV
+2019-01-13 01:25:33 Set Title: low power mode, monitor pulse energy scan, Ei=1.6682677551 meV
+2019-01-13 01:26:29 Set Incident Energy to 1.6682677551 meV
+2019-01-13 01:31:29 Set Title: low power mode, monitor pulse energy scan, Ei=1.45324657778 meV
+2019-01-13 01:32:09 Set Incident Energy to 1.45324657778 meV
+2019-01-13 01:37:09 Set Title: low power mode, monitor pulse energy scan, Ei=1.2772675 meV
+2019-01-13 01:37:57 Set Incident Energy to 1.2772675 meV
+2019-01-13 01:42:57 Set Title: low power mode, monitor pulse energy scan, Ei=1.13142034602 meV
+2019-01-13 01:43:45 Set Incident Energy to 1.13142034602 meV
+2019-01-13 01:48:45 Set Title: low power mode, monitor pulse energy scan, Ei=1.00919901235 meV
+2019-01-13 01:49:38 Set Incident Energy to 1.00919901235 meV
+2019-01-13 01:54:38 Set Title: low power mode, monitor pulse energy scan, Ei=0.905763102493 meV
+2019-01-13 01:55:31 Set Incident Energy to 0.905763102493 meV
+2019-01-13 02:00:31 Set Title: low power mode, monitor pulse energy scan, Ei=0.8174512 meV
+2019-01-13 02:01:25 Set Incident Energy to 0.8174512 meV
+2019-01-13 02:06:25 Set Title: low power mode, monitor pulse energy scan, Ei=0.741452335601 meV
+2019-01-13 02:07:14 Set Incident Energy to 0.741452335601 meV
+2019-01-13 02:12:14 Set Title: low power mode, monitor pulse energy scan, Ei=0.54 meV
+2019-01-13 02:13:02 Set Incident Energy to 0.54 meV
+2019-01-13 09:07:52 Set Title: low power mode, monitor pulse energy scan, Ei=81.74512 meV
+2019-01-13 09:08:44 Set Incident Energy to 81.74512 meV
+2019-01-14 15:12:04 New X/Y Background ROI at 2Theta=[124,130] Phi=[13.1,19.1]
+2019-01-14 15:12:22 New X/Y Background ROI at 2Theta=[124,130] Phi=[13.1,21.1]
+2019-01-14 15:12:34 New X/Y Background ROI at 2Theta=[124,135] Phi=[13.1,21.1]
+2019-01-14 15:12:44 New X/Y Background ROI at 2Theta=[124,133] Phi=[13.1,21.1]
+2019-01-14 15:12:49 New X/Y Background ROI at 2Theta=[124,132] Phi=[13.1,21.1]
+2019-01-14 15:12:59 New X/Y Background ROI at 2Theta=[124,130] Phi=[13.1,25.1]
+2019-01-14 15:13:03 New X/Y Background ROI at 2Theta=[124,130] Phi=[13.1,24.1]
+2019-01-14 15:18:52 New X/Y Background ROI at 2Theta=[124,130] Phi=[13.1,24.1]
+2019-01-14 15:18:59 New X/Y Background ROI at 2Theta=[124,130] Phi=[13.1,22.1]
+2019-01-14 15:19:03 New X/Y Background ROI at 2Theta=[124,130] Phi=[13.1,21.1]
+2019-01-14 15:20:07 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,21.1]
+2019-01-14 15:20:20 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,21.4]
+2019-01-14 15:20:25 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,21.5]
+2019-01-14 15:20:29 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,22.5]
+2019-01-14 15:20:47 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,21.5]
+2019-01-14 15:20:51 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,21.8]
+2019-01-14 15:20:56 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,21.9]
+2019-01-14 15:21:01 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,22]
+2019-01-14 15:21:18 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,21.95]
+2019-01-14 15:21:24 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,21.98]
+2019-01-14 15:21:28 New X/Y Background ROI at 2Theta=[124,130.56] Phi=[13.1,21.96]
+2019-01-14 15:21:35 New X/Y Signal ROI at 2Theta=[124,130.56] Phi=[13.1,21.96]
+2019-01-14 15:21:58 New X/Y Signal ROI at 2Theta=[124,130.56] Phi=[13.1,25.96]
+2019-01-14 15:26:05 New X/Y Signal ROI at 2Theta=[124,130.56] Phi=[13.1,25.96]
+2019-01-14 15:26:16 New X/Y Signal ROI at 2Theta=[124,130.56] Phi=[13.1,21.96]
+2019-01-14 15:26:34 New X/Y Signal ROI at 2Theta=[124,130.56] Phi=[13.1,21.9]
+2019-01-14 15:28:11 New X/Y Background ROI at 2Theta=[35.63,45.63] Phi=[173.9,181.9]
+2019-01-14 15:28:50 New X/Y Background ROI at 2Theta=[35.63,45.63] Phi=[174.9,180.9]
+2019-01-14 15:29:03 New X/Y Background ROI at 2Theta=[35.63,45.63] Phi=[175.9,179.9]
+2019-01-14 18:51:24 Set Title: test-chopper-set
+2019-01-14 18:52:55 Set Title: test-chopper-set
+2019-01-14 22:23:50 Set Title: emission table scan for chopper t0
+2019-01-15 10:47:04 New X/Y Signal ROI at 2Theta=[120,140] Phi=[-5,5]
+2019-01-15 14:29:22 New X/Y Background ROI at 2Theta=[30.32,38.32] Phi=[-5,5]
+2019-01-15 14:29:53 New X/Y Background ROI at 2Theta=[30.32,38.32] Phi=[-5.0,5.0]
+2019-01-15 14:31:25 New X/Y Signal ROI at 2Theta=[30.32,38.32] Phi=[-5.0,5.0]
+2019-01-15 14:31:39 New X/Y Signal ROI at 2Theta=[30.32,38.32] Phi=[-5,5]
+2019-01-15 14:33:26 New X/Y Background ROI at 2Theta=[30.32,38.32] Phi=[-5.0,5.0]
+2019-01-15 16:14:23 Set Incident Energy to 1.0 meV
+2019-01-15 16:14:23 Set Title: HF Test for Tzero at E=1.0 meV
+2019-01-15 16:22:29 Set Incident Energy to 1.55 meV
+2019-01-15 16:22:29 Set Title: HF Test for Tzero at E=1.55 meV
+2019-01-15 16:26:20 Set Incident Energy to 1.0 meV
+2019-01-15 16:26:20 Set Title: HF Test for Tzero at E=1.0 meV
+2019-01-15 19:15:55 Set Incident Energy to 1.0 meV
+2019-01-15 19:15:55 Set Title: HF Test for Tzero at E=1.0 meV
+2019-01-15 19:37:24 Set Incident Energy to 1.0 meV
+2019-01-15 19:37:24 Set Title: HF Test for Tzero at E=1.0 meV
+2019-01-15 20:00:51 Set Incident Energy to 1.0 meV
+2019-01-15 20:00:51 Set Title: HF Test for Tzero at E=1.0 meV
+2019-01-15 20:06:18 Set Title: test Change_phase_entry function return
+2019-01-15 20:06:31 Set Title: test Change_phase_entry function return
+2019-01-15 20:07:17 Set Title: test Change_phase_entry function return
+2019-01-15 20:09:54 Set Title: test Change_phase_entry function return
+2019-01-15 20:11:59 Set Title: test Change_phase_entry function return
+2019-01-15 20:12:07 Set Title: test Change_phase_entry function return
+2019-01-15 20:17:06 Set Title: test Change_phase_entry function return
+2019-01-15 20:17:33 Set Title: test Change_phase_entry function return
+2019-01-15 20:18:57 Set Title: test Change_phase_entry function return
+2019-01-15 20:19:25 Set Title: test Change_phase_entry function return
+2019-01-15 20:20:23 Set Incident Energy to 1.11 meV
+2019-01-15 20:20:24 Set Title: test Change_phase_entry function return
+2019-01-15 20:20:24 Set Incident Energy to 1.11 meV
+2019-01-15 20:20:25 Set Title: test Change_phase_entry function return
+2019-01-15 20:22:47 Set Title: test Change_phase_entry function return
+2019-01-15 20:23:59 Set Incident Energy to 1.0 meV
+2019-01-15 20:23:59 Set Title: test Change_phase_entry function return
+2019-01-15 20:39:29 Set Incident Energy to 1.0 meV
+2019-01-15 20:39:29 Set Title: HF Test for Tzero at E=1.0 meV
+2019-01-15 20:43:34 Set Incident Energy to 1.0 meV
+2019-01-15 20:43:34 Set Title: HF Test for Tzero at E=1.0 meV
+2019-01-15 20:53:00 Set Incident Energy to 1.55 meV
+2019-01-15 20:53:00 Set Title: HF Test for Tzero at E=1.55 meV
+2019-01-15 21:02:35 Set Incident Energy to 12.0 meV
+2019-01-15 21:04:10 Set Incident Energy to 1.0 meV
+2019-01-15 21:04:10 Set Title: test Change_phase_entry function return
+2019-01-15 23:50:20 Set Incident Energy to 1.0 meV
+2019-01-15 23:50:20 Set Title: test Change_phase_entry function return
+2019-01-15 23:59:50 Set Incident Energy to 1.0 meV
+2019-01-15 23:59:50 Set Title: HF Test for Tzero at E=1.0 meV
+2019-01-16 02:36:00 Set Incident Energy to 1.55 meV
+2019-01-16 02:36:00 Set Title: HF Test for Tzero at E=1.55 meV
+2019-01-16 04:04:29 Set Incident Energy to 3.32 meV
+2019-01-16 04:04:29 Set Title: HF Test for Tzero at E=3.32 meV
+2019-01-16 05:03:55 Set Incident Energy to 6.59 meV
+2019-01-16 05:03:55 Set Title: HF Test for Tzero at E=6.59 meV
+2019-01-16 06:17:49 Set Incident Energy to 12.0 meV
+2019-01-16 06:17:49 Set Title: HF Test for Tzero at E=12.0 meV
+2019-01-16 07:32:03 Set Incident Energy to 25.0 meV
+2019-01-16 07:32:03 Set Title: HF Test for Tzero at E=25.0 meV
+2019-01-16 14:01:35 Changed Phase Mode to Energy.
+2019-01-16 14:02:14 Set Incident Energy to 25.0 meV
+2019-01-16 14:02:14 Set Title: HF Test for Tzero at E=25.0 meV
+2019-01-16 14:02:15 Changed Phase Mode to Total Delay.
+2019-01-16 17:42:42 Changed Phase Mode to Energy.
+2019-01-16 17:43:41 Set Incident Energy to 45.0 meV
+2019-01-16 17:43:41 Set Title: HF Test for Tzero at E=45.0 meV
+2019-01-16 17:43:41 Changed Phase Mode to Total Delay.
+2019-01-17 15:06:56 Changed Phase Mode to Energy.
+2019-01-17 15:07:49 Set Incident Energy to 80.0 meV
+2019-01-17 15:07:49 Set Title: HF Test for Tzero at E=80.0 meV
+2019-01-17 15:07:49 Changed Phase Mode to Total Delay.
+2019-01-19 14:00:14 Changed Phase Mode to Energy.
+2019-01-19 14:00:52 Set Incident Energy to 1.0 meV
+2019-01-19 14:00:52 Set Title: AI Test for Tzero at E=1.0 meV
+2019-01-19 14:00:52 Changed Phase Mode to Total Delay.
+2019-01-19 16:27:16 Changed Phase Mode to Energy.
+2019-01-19 16:28:12 Set Incident Energy to 1.55 meV
+2019-01-19 16:28:12 Set Title: AI Test for Tzero at E=1.55 meV
+2019-01-19 16:28:12 Changed Phase Mode to Total Delay.
+2019-01-19 17:55:53 Changed Phase Mode to Energy.
+2019-01-19 17:56:42 Set Incident Energy to 3.32 meV
+2019-01-19 17:56:42 Set Title: AI Test for Tzero at E=3.32 meV
+2019-01-19 17:56:42 Changed Phase Mode to Total Delay.
+2019-01-19 18:55:40 Changed Phase Mode to Energy.
+2019-01-19 18:56:33 Set Incident Energy to 6.59 meV
+2019-01-19 18:56:33 Set Title: AI Test for Tzero at E=6.59 meV
+2019-01-19 18:56:33 Changed Phase Mode to Total Delay.
+2019-01-19 20:09:53 Changed Phase Mode to Energy.
+2019-01-19 20:10:35 Set Incident Energy to 12.0 meV
+2019-01-19 20:10:35 Set Title: AI Test for Tzero at E=12.0 meV
+2019-01-19 20:10:35 Changed Phase Mode to Total Delay.
+2019-01-19 21:24:00 Changed Phase Mode to Energy.
+2019-01-19 21:24:42 Set Incident Energy to 25.0 meV
+2019-01-19 21:24:42 Set Title: AI Test for Tzero at E=25.0 meV
+2019-01-19 21:24:42 Changed Phase Mode to Total Delay.
+2019-01-20 01:03:24 Changed Phase Mode to Energy.
+2019-01-20 01:04:20 Set Incident Energy to 45.0 meV
+2019-01-20 01:04:20 Set Title: AI Test for Tzero at E=45.0 meV
+2019-01-20 01:04:20 Changed Phase Mode to Total Delay.
+2019-01-20 17:46:51 Changed Phase Mode to Energy.
+2019-01-20 17:47:43 Set Incident Energy to 80.0 meV
+2019-01-20 17:47:43 Set Title: AI Test for Tzero at E=80.0 meV
+2019-01-20 17:47:43 Changed Phase Mode to Total Delay.
+2019-01-21 23:59:02 Set Incident Energy to 1.0 meV
+2019-01-21 23:59:02 Set Title: HR Test for Tzero at E=1.0 meV
+2019-01-22 02:50:24 Set Incident Energy to 1.55 meV
+2019-01-22 02:50:24 Set Title: HR Test for Tzero at E=1.55 meV
+2019-01-22 04:20:28 Set Incident Energy to 3.32 meV
+2019-01-22 04:20:28 Set Title: HR Test for Tzero at E=3.32 meV
+2019-01-22 05:21:19 Set Incident Energy to 6.59 meV
+2019-01-22 05:21:19 Set Title: HR Test for Tzero at E=6.59 meV
+2019-01-22 06:36:39 Set Incident Energy to 12.0 meV
+2019-01-22 06:36:39 Set Title: HR Test for Tzero at E=12.0 meV
+2019-01-22 07:51:59 Set Incident Energy to 25.0 meV
+2019-01-22 07:51:59 Set Title: HR Test for Tzero at E=25.0 meV
+2019-01-22 17:36:19 Set Incident Energy to 12.0 meV
+2019-01-22 17:36:19 Set Title: HF_180Hz Test for Tzero at E=12.0 meV
+2019-01-22 18:50:34 Set Incident Energy to 12.0 meV
+2019-01-22 19:23:21 Set Title: V-foil white beam, Ei=3.32 meV  300 K
+2019-01-22 19:25:17 Set Incident Energy to 3.32 meV
+2019-01-22 22:30:04 Set Title: V-foil white beam, Ei=3.32 meV  300 K
+2019-01-22 22:30:04 Set Incident Energy to 3.32 meV
+2019-01-23 00:54:35 Set Incident Energy to 3.3 meV
+2019-01-23 00:54:35 Set Title: V-foil HF, Ei=3.32 meV  300 K
+2019-01-23 00:55:09 Set Incident Energy to 3.32 meV
+2019-01-23 04:57:43 Set Title: V-foil, HF, Ei=81.74512 meV
+2019-01-23 04:58:36 Set Incident Energy to 81.74512 meV
+2019-01-23 05:02:37 Set Title: V-foil, HF, Ei=36.3311644444 meV
+2019-01-23 05:03:29 Set Incident Energy to 36.3311644444 meV
+2019-01-23 05:07:31 Set Title: V-foil, HF, Ei=20.43628 meV
+2019-01-23 05:08:21 Set Incident Energy to 20.43628 meV
+2019-01-23 05:12:24 Set Title: V-foil, HF, Ei=13.0792192 meV
+2019-01-23 05:13:17 Set Incident Energy to 13.0792192 meV
+2019-01-23 05:17:18 Set Title: V-foil, HF, Ei=12.0 meV
+2019-01-23 05:17:52 Set Incident Energy to 12.0 meV
+2019-01-23 05:21:55 Set Title: V-foil, HF, Ei=11.0 meV
+2019-01-23 05:22:31 Set Incident Energy to 11.0 meV
+2019-01-23 05:26:50 Set Title: V-foil, HF, Ei=10.0 meV
+2019-01-23 05:27:27 Set Incident Energy to 10.0 meV
+2019-01-23 05:31:29 Set Title: V-foil, HF, Ei=9.08279111111 meV
+2019-01-23 05:32:07 Set Incident Energy to 9.08279111111 meV
+2019-01-23 05:36:08 Set Title: V-foil, HF, Ei=7.9 meV
+2019-01-23 05:36:47 Set Incident Energy to 7.9 meV
+2019-01-23 05:40:50 Set Title: V-foil, HF, Ei=6.67307102041 meV
+2019-01-23 05:41:27 Set Incident Energy to 6.67307102041 meV
+2019-01-23 05:45:29 Set Title: V-foil, HF, Ei=6.0 meV
+2019-01-23 05:46:05 Set Incident Energy to 6.0 meV
+2019-01-23 05:50:06 Set Title: V-foil, HF, Ei=5.10907 meV
+2019-01-23 05:50:43 Set Incident Energy to 5.10907 meV
+2019-01-23 05:54:44 Set Title: V-foil, HF, Ei=4.5 meV
+2019-01-23 05:55:18 Set Incident Energy to 4.5 meV
+2019-01-23 05:59:20 Set Title: V-foil, HF, Ei=4.03679604938 meV
+2019-01-23 06:00:00 Set Incident Energy to 4.03679604938 meV
+2019-01-23 06:04:01 Set Title: V-foil, HF, Ei=3.32 meV
+2019-01-23 06:04:51 Set Incident Energy to 3.32 meV
+2019-01-23 06:08:53 Set Title: V-foil, HF, Ei=3.2698048 meV
+2019-01-23 06:09:24 Set Incident Energy to 3.2698048 meV
+2019-01-23 06:13:26 Set Title: V-foil, HF, Ei=2.70231801653 meV
+2019-01-23 06:14:19 Set Incident Energy to 2.70231801653 meV
+2019-01-23 06:18:20 Set Title: V-foil, HF, Ei=2.27069777778 meV
+2019-01-23 06:19:01 Set Incident Energy to 2.27069777778 meV
+2019-01-23 06:23:04 Set Title: V-foil, HF, Ei=1.93479573964 meV
+2019-01-23 06:23:58 Set Incident Energy to 1.93479573964 meV
+2019-01-23 06:27:59 Set Title: V-foil, HF, Ei=1.6682677551 meV
+2019-01-23 06:28:49 Set Incident Energy to 1.6682677551 meV
+2019-01-23 06:32:50 Set Title: V-foil, HF, Ei=1.45324657778 meV
+2019-01-23 06:33:45 Set Incident Energy to 1.45324657778 meV
+2019-01-23 06:37:47 Set Title: V-foil, HF, Ei=1.2772675 meV
+2019-01-23 06:38:39 Set Incident Energy to 1.2772675 meV
+2019-01-23 06:42:41 Set Title: V-foil, HF, Ei=1.13142034602 meV
+2019-01-23 06:43:35 Set Incident Energy to 1.13142034602 meV
+2019-01-23 06:47:36 Set Title: V-foil, HF, Ei=1.00919901235 meV
+2019-01-23 06:48:29 Set Incident Energy to 1.00919901235 meV
+2019-01-23 06:52:30 Set Title: V-foil, HF, Ei=0.905763102493 meV
+2019-01-23 06:53:25 Set Incident Energy to 0.905763102493 meV
+2019-01-23 06:57:27 Set Title: V-foil, HF, Ei=0.8174512 meV
+2019-01-23 06:58:21 Set Incident Energy to 0.8174512 meV
+2019-01-23 07:02:23 Set Title: V-foil, HF, Ei=0.741452335601 meV
+2019-01-23 07:03:15 Set Incident Energy to 0.741452335601 meV
+2019-01-23 07:07:17 Set Title: V-foil, HF, Ei=0.54 meV
+2019-01-23 07:08:04 Set Incident Energy to 0.54 meV
+2019-01-23 07:16:23 Set Title: V-foil, AI, Ei=81.74512 meV
+2019-01-23 07:17:13 Set Incident Energy to 81.74512 meV
+2019-01-23 07:29:17 Set Title: V-foil, AI, Ei=36.3311644444 meV
+2019-01-23 07:30:09 Set Incident Energy to 36.3311644444 meV
+2019-01-23 07:42:14 Set Title: V-foil, AI, Ei=20.43628 meV
+2019-01-23 07:43:05 Set Incident Energy to 20.43628 meV
+2019-01-23 07:55:10 Set Title: V-foil, AI, Ei=13.0792192 meV
+2019-01-23 07:55:59 Set Incident Energy to 13.0792192 meV
+2019-01-23 08:08:04 Set Title: V-foil, AI, Ei=12.0 meV
+2019-01-23 08:08:38 Set Incident Energy to 12.0 meV
+2019-01-23 08:20:42 Set Title: V-foil, AI, Ei=11.0 meV
+2019-01-23 08:21:18 Set Incident Energy to 11.0 meV
+2019-01-23 08:33:23 Set Title: V-foil, AI, Ei=10.0 meV
+2019-01-23 08:33:59 Set Incident Energy to 10.0 meV
+2019-01-23 08:46:03 Set Title: V-foil, AI, Ei=9.08279111111 meV
+2019-01-23 08:46:38 Set Incident Energy to 9.08279111111 meV
+2019-01-23 08:58:44 Set Title: V-foil, AI, Ei=7.9 meV
+2019-01-23 08:59:21 Set Incident Energy to 7.9 meV
+2019-01-23 09:11:25 Set Title: V-foil, AI, Ei=6.67307102041 meV
+2019-01-23 09:12:03 Set Incident Energy to 6.67307102041 meV
+2019-01-23 09:24:06 Set Title: V-foil, AI, Ei=6.0 meV
+2019-01-23 09:24:43 Set Incident Energy to 6.0 meV
+2019-01-23 09:36:46 Set Title: V-foil, AI, Ei=5.10907 meV
+2019-01-23 09:37:25 Set Incident Energy to 5.10907 meV
+2019-01-23 09:49:45 Set Title: V-foil, AI, Ei=4.5 meV
+2019-01-23 09:50:20 Set Incident Energy to 4.5 meV
+2019-01-23 10:02:23 Set Title: V-foil, AI, Ei=4.03679604938 meV
+2019-01-23 10:03:00 Set Incident Energy to 4.03679604938 meV
+2019-01-23 10:15:31 Set Title: V-foil, AI, Ei=3.32 meV
+2019-01-23 10:16:29 Set Incident Energy to 3.32 meV
+2019-01-23 10:28:50 Set Title: V-foil, AI, Ei=3.2698048 meV
+2019-01-23 10:29:21 Set Incident Energy to 3.2698048 meV
+2019-01-23 10:41:25 Set Title: V-foil, AI, Ei=2.70231801653 meV
+2019-01-23 10:42:15 Set Incident Energy to 2.70231801653 meV
+2019-01-23 10:54:19 Set Title: V-foil, AI, Ei=2.27069777778 meV
+2019-01-23 10:55:09 Set Incident Energy to 2.27069777778 meV
+2019-01-23 11:07:15 Set Title: V-foil, AI, Ei=1.93479573964 meV
+2019-01-23 11:08:05 Set Incident Energy to 1.93479573964 meV
+2019-01-23 11:20:33 Set Title: V-foil, AI, Ei=1.6682677551 meV
+2019-01-23 11:21:22 Set Incident Energy to 1.6682677551 meV
+2019-01-23 11:36:32 Set Title: V-foil, AI, Ei=1.45324657778 meV
+2019-01-23 11:37:21 Set Incident Energy to 1.45324657778 meV
+2019-01-23 11:49:26 Set Title: V-foil, AI, Ei=1.2772675 meV
+2019-01-23 11:50:18 Set Incident Energy to 1.2772675 meV
+2019-01-23 12:02:23 Set Title: V-foil, AI, Ei=1.13142034602 meV
+2019-01-23 12:03:11 Set Incident Energy to 1.13142034602 meV
+2019-01-23 12:15:16 Set Title: V-foil, AI, Ei=1.00919901235 meV
+2019-01-23 12:16:09 Set Incident Energy to 1.00919901235 meV
+2019-01-23 12:28:13 Set Title: V-foil, AI, Ei=0.905763102493 meV
+2019-01-23 12:29:09 Set Incident Energy to 0.905763102493 meV
+2019-01-23 12:41:12 Set Title: V-foil, AI, Ei=0.8174512 meV
+2019-01-23 12:42:05 Set Incident Energy to 0.8174512 meV
+2019-01-23 12:54:10 Set Title: V-foil, AI, Ei=0.741452335601 meV
+2019-01-23 12:55:03 Set Incident Energy to 0.741452335601 meV
+2019-01-23 13:07:08 Set Title: V-foil, AI, Ei=0.54 meV
+2019-01-23 13:07:58 Set Incident Energy to 0.54 meV
+2019-01-23 13:23:37 Set Title: V-foil, HR, Ei=81.74512 meV
+2019-01-23 13:24:28 Set Incident Energy to 81.74512 meV
+2019-01-23 14:00:47 Set Title: V-foil, HR, Ei=36.3311644444 meV
+2019-01-23 14:01:38 Set Incident Energy to 36.3311644444 meV
+2019-01-23 14:31:05 Set Title: V-foil white beam, Ei=3.32 meV  300 K
+2019-01-23 15:11:47 Set Title: V-foil, HR, Ei=81.74512 meV
+2019-01-23 15:12:28 Set Incident Energy to 81.74512 meV
+2019-01-23 15:49:19 Set Title: V-foil, HR, Ei=36.3311644444 meV
+2019-01-23 15:50:11 Set Incident Energy to 36.3311644444 meV
+2019-01-23 16:28:41 Set Title: V-foil, HR, Ei=20.43628 meV
+2019-01-23 16:29:31 Set Incident Energy to 20.43628 meV
+2019-01-23 17:05:54 Set Title: V-foil, HR, Ei=13.0792192 meV
+2019-01-23 17:06:41 Set Incident Energy to 13.0792192 meV
+2019-01-23 17:43:09 Set Title: V-foil, HR, Ei=12.0 meV
+2019-01-23 17:43:45 Set Incident Energy to 12.0 meV
+2019-01-23 18:20:53 Set Title: V-foil, HR, Ei=11.0 meV
+2019-01-23 18:21:29 Set Incident Energy to 11.0 meV
+2019-01-23 18:58:30 Set Title: V-foil, HR, Ei=10.0 meV
+2019-01-23 18:59:05 Set Incident Energy to 10.0 meV
+2019-01-23 19:35:52 Set Title: V-foil, HR, Ei=9.08279111111 meV
+2019-01-23 19:36:29 Set Incident Energy to 9.08279111111 meV
+2019-01-23 20:16:26 Set Title: V-foil, HR, Ei=7.9 meV
+2019-01-23 20:17:05 Set Incident Energy to 7.9 meV
+2019-01-23 20:53:29 Set Title: V-foil, HR, Ei=6.67307102041 meV
+2019-01-23 20:54:09 Set Incident Energy to 6.67307102041 meV
+2019-01-23 21:30:30 Set Title: V-foil, HR, Ei=6.0 meV
+2019-01-23 21:31:07 Set Incident Energy to 6.0 meV
+2019-01-23 22:07:25 Set Title: V-foil, HR, Ei=5.10907 meV
+2019-01-23 22:08:03 Set Incident Energy to 5.10907 meV
+2019-01-23 22:44:27 Set Title: V-foil, HR, Ei=4.5 meV
+2019-01-23 22:45:05 Set Incident Energy to 4.5 meV
+2019-01-23 23:21:25 Set Title: V-foil, HR, Ei=4.03679604938 meV
+2019-01-23 23:22:01 Set Incident Energy to 4.03679604938 meV
+2019-01-23 23:58:18 Set Title: V-foil, HR, Ei=3.32 meV
+2019-01-23 23:59:09 Set Incident Energy to 3.32 meV
+2019-01-24 00:35:27 Set Title: V-foil, HR, Ei=3.2698048 meV
+2019-01-24 00:36:22 Set Incident Energy to 3.2698048 meV
+2019-01-24 01:12:42 Set Title: V-foil, HR, Ei=2.70231801653 meV
+2019-01-24 01:13:35 Set Incident Energy to 2.70231801653 meV
+2019-01-24 01:50:18 Set Title: V-foil, HR, Ei=2.27069777778 meV
+2019-01-24 01:51:09 Set Incident Energy to 2.27069777778 meV
+2019-01-24 02:27:42 Set Title: V-foil, HR, Ei=1.93479573964 meV
+2019-01-24 02:28:32 Set Incident Energy to 1.93479573964 meV
+2019-01-24 03:04:53 Set Title: V-foil, HR, Ei=1.6682677551 meV
+2019-01-24 03:05:47 Set Incident Energy to 1.6682677551 meV
+2019-01-24 03:42:03 Set Title: V-foil, HR, Ei=1.45324657778 meV
+2019-01-24 03:42:53 Set Incident Energy to 1.45324657778 meV
+2019-01-24 04:20:14 Set Title: V-foil, HR, Ei=1.2772675 meV
+2019-01-24 04:21:05 Set Incident Energy to 1.2772675 meV
+2019-01-24 04:57:21 Set Title: V-foil, HR, Ei=1.13142034602 meV
+2019-01-24 04:58:19 Set Incident Energy to 1.13142034602 meV
+2019-01-24 05:35:46 Set Title: V-foil, HR, Ei=1.00919901235 meV
+2019-01-24 05:36:41 Set Incident Energy to 1.00919901235 meV
+2019-01-24 06:12:56 Set Title: V-foil, HR, Ei=0.905763102493 meV
+2019-01-24 06:13:47 Set Incident Energy to 0.905763102493 meV
+2019-01-24 06:50:01 Set Title: V-foil, HR, Ei=0.8174512 meV
+2019-01-24 06:50:55 Set Incident Energy to 0.8174512 meV
+2019-01-24 07:27:13 Set Title: V-foil, HR, Ei=0.741452335601 meV
+2019-01-24 07:28:03 Set Incident Energy to 0.741452335601 meV
+2019-01-24 07:41:51 Set Title: V-foil white beam, Ei=3.32 meV  300 K
+2019-01-24 07:42:45 Set Incident Energy to 3.32 meV
+2019-01-24 14:51:57 Set Incident Energy to 12 meV
+2019-01-24 14:51:57 Set Title: MnBi2Te4, CCR10 T=cooling K, Ei=12 meV
+2019-01-24 14:52:35 Set Incident Energy to 0.54 meV
+2019-01-24 14:57:39 Set Incident Energy to 12 meV
+2019-01-24 14:57:39 Set Title: MnBi2Te4, CCR10 T=cooling K, Ei=12 meV
+2019-01-24 14:57:40 Set Incident Energy to 12 meV
+2019-01-24 15:09:52 Set Title: MnBi2Te4, CCR10 T=cooling K, Ei=12 meV
+2019-01-24 15:09:52 Set Incident Energy to 12 meV
+2019-01-24 15:22:03 Set Title: MnBi2Te4, CCR10 T=cooling K, Ei=12 meV
+2019-01-24 15:22:03 Set Incident Energy to 12 meV
+2019-01-24 15:34:16 Set Title: MnBi2Te4, CCR10 T=cooling K, Ei=12 meV
+2019-01-24 15:34:16 Set Incident Energy to 12 meV
+2019-01-24 15:46:52 Set Title: MnBi2Te4, CCR10 T=cooling K, Ei=12 meV
+2019-01-24 15:46:52 Set Incident Energy to 12 meV
+2019-01-24 15:50:45 Setting ccr10s2 Temperature : 30 K
+2019-01-24 15:50:45 Set Title: MnBi2Te4, CCR10 T=30 K, Ei=12 meV
+2019-01-24 15:50:45 Set Incident Energy to 12 meV
+2019-01-24 16:51:49 Set Title: MnBi2Te4, CCR10 T=30 K, Ei=12 meV
+2019-01-24 16:51:49 Set Incident Energy to 12 meV
+2019-01-24 17:52:43 Set Title: MnBi2Te4, CCR10 T=30 K, Ei=12 meV
+2019-01-24 17:52:43 Set Incident Energy to 12 meV
+2019-01-24 18:53:08 Set Title: MnBi2Te4, CCR10 T=30 K, Ei=12 meV
+2019-01-24 18:53:08 Set Incident Energy to 12 meV
+2019-01-24 20:52:55 Set Title: MnBi2Te4, CCR10 T=30 K, Ei=20 meV
+2019-01-24 20:53:34 Set Incident Energy to 20 meV
+2019-01-24 21:54:01 Set Title: MnBi2Te4, CCR10 T=30 K, Ei=20 meV
+2019-01-24 21:54:01 Set Incident Energy to 20 meV
+2019-01-24 22:54:12 Set Title: MnBi2Te4, CCR10 T=30 K, Ei=20 meV
+2019-01-24 22:54:12 Set Incident Energy to 20 meV
+2019-01-24 23:31:21 Set Incident Energy to 12 meV
+2019-01-24 23:31:21 Set Title: MnBi2Te4, CCR10 T=cooling to base, Ei=12 meV
+2019-01-24 23:31:22 Set Incident Energy to 12 meV
+2019-01-24 23:43:32 Set Title: MnBi2Te4, CCR10 T=cooling to base, Ei=12 meV
+2019-01-24 23:43:32 Set Incident Energy to 12 meV
+2019-01-24 23:55:42 Set Title: MnBi2Te4, CCR10 T=cooling to base, Ei=12 meV
+2019-01-24 23:55:42 Set Incident Energy to 12 meV
+2019-01-25 00:01:04 Setting ccr10s2 Temperature : 4 K
+2019-01-25 00:01:04 Set Title: MnBi2Te4, CCR10 T=base, Ei=12 meV
+2019-01-25 00:01:04 Set Incident Energy to 12 meV
+2019-01-25 01:01:35 Set Title: MnBi2Te4, CCR10 T=base, Ei=12 meV
+2019-01-25 01:01:35 Set Incident Energy to 12 meV
+2019-01-25 02:01:44 Set Title: MnBi2Te4, CCR10 T=base, Ei=12 meV
+2019-01-25 02:01:44 Set Incident Energy to 12 meV
+2019-01-25 03:01:57 Set Title: MnBi2Te4, CCR10 T=base, Ei=12 meV
+2019-01-25 03:01:57 Set Incident Energy to 12 meV
+2019-01-25 04:02:33 Set Title: MnBi2Te4, CCR10 T=base, Ei=3.32 meV
+2019-01-25 04:03:21 Set Incident Energy to 3.32 meV
+2019-01-25 05:03:35 Set Title: MnBi2Te4, CCR10 T=base, Ei=3.32 meV
+2019-01-25 05:03:35 Set Incident Energy to 3.32 meV
+2019-01-25 06:04:08 Set Title: MnBi2Te4, CCR10 T=base, Ei=3.32 meV
+2019-01-25 06:04:08 Set Incident Energy to 3.32 meV
+2019-01-25 07:04:45 Set Title: MnBi2Te4, CCR10 T=base, Ei=3.32 meV
+2019-01-25 07:04:45 Set Incident Energy to 3.32 meV
+2019-01-25 08:05:25 Set Title: MnBi2Te4, CCR10 T=base, Ei=20 meV
+2019-01-25 08:06:09 Set Incident Energy to 20 meV
+2019-01-25 09:06:23 Set Title: MnBi2Te4, CCR10 T=base, Ei=20 meV
+2019-01-25 09:06:23 Set Incident Energy to 20 meV
+2019-01-25 10:06:53 Set Title: MnBi2Te4, CCR10 T=base, Ei=20 meV
+2019-01-25 10:06:53 Set Incident Energy to 20 meV
+2019-01-25 11:07:21 Set Title: MnBi2Te4, CCR10 T=base, Ei=20 meV
+2019-01-25 11:07:21 Set Incident Energy to 20 meV
+2019-01-25 11:08:21 Setting ccr10s2 Temperature : 4 K
+2019-01-25 11:08:21 Set Title: MnBi2Te4, CCR10 T=base, Ei=36.3 meV
+2019-01-25 11:09:01 Set Incident Energy to 36.3 meV
+2019-01-25 12:09:54 Set Title: MnBi2Te4, CCR10 T=base, Ei=36.3 meV
+2019-01-25 12:09:54 Set Incident Energy to 36.3 meV
+2019-01-25 13:10:18 Set Title: MnBi2Te4, CCR10 T=base, Ei=36.3 meV
+2019-01-25 13:10:18 Set Incident Energy to 36.3 meV
+2019-01-25 14:20:37 Setting ccr10s2 Temperature : 4 K
+2019-01-25 14:20:37 Set Title: MnBi2Te4, CCR10 T=base, Ei=6.59 meV
+2019-01-25 14:20:37 Set Incident Energy to 6.59 meV
+2019-01-25 15:28:03 Setting ccr10s2 Temperature : 30 K
+2019-01-25 15:28:03 Set Title: MnBi2Te4, CCR10 T=30 K, Ei=3.32 meV
+2019-01-25 15:28:42 Set Incident Energy to 3.32 meV
+2019-01-25 18:20:22 Set Incident Energy to 25 meV
+2019-01-25 18:20:22 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 18:20:22 Set Incident Energy to 25 meV
+2019-01-25 18:20:34 Set Incident Energy to 25 meV
+2019-01-25 18:20:34 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 18:20:34 Set Incident Energy to 25 meV
+2019-01-25 18:32:46 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 18:32:46 Set Incident Energy to 25 meV
+2019-01-25 18:45:22 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 18:45:22 Set Incident Energy to 25 meV
+2019-01-25 18:57:34 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 18:57:34 Set Incident Energy to 25 meV
+2019-01-25 19:09:47 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 19:09:47 Set Incident Energy to 25 meV
+2019-01-25 19:21:59 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 19:21:59 Set Incident Energy to 25 meV
+2019-01-25 19:34:11 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 19:34:11 Set Incident Energy to 25 meV
+2019-01-25 19:36:03 Set Incident Energy to 25 meV
+2019-01-25 19:36:03 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 19:36:03 Set Incident Energy to 25 meV
+2019-01-25 19:48:33 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 19:48:33 Set Incident Energy to 25 meV
+2019-01-25 20:00:45 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 20:00:45 Set Incident Energy to 25 meV
+2019-01-25 20:12:57 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 20:12:57 Set Incident Energy to 25 meV
+2019-01-25 20:25:10 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 20:25:10 Set Incident Energy to 25 meV
+2019-01-25 20:41:09 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 20:41:09 Set Incident Energy to 25 meV
+2019-01-25 20:53:22 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 20:53:22 Set Incident Energy to 25 meV
+2019-01-25 21:05:34 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 21:05:34 Set Incident Energy to 25 meV
+2019-01-25 21:17:50 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 21:17:50 Set Incident Energy to 25 meV
+2019-01-25 21:30:06 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 21:30:06 Set Incident Energy to 25 meV
+2019-01-25 21:42:17 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 21:42:17 Set Incident Energy to 25 meV
+2019-01-25 21:57:44 Set Title: SCTWO 0p95, CCR10 T=cooling K, Ei=25 meV
+2019-01-25 21:57:44 Set Incident Energy to 25 meV
+2019-01-25 21:57:57 Set Incident Energy to 25 meV
+2019-01-25 21:58:52 Set Incident Energy to 25 meV
+2019-01-25 21:58:52 Setting ccr10s2 Temperature : 8 K
+2019-01-25 21:58:52 Set Title: SCTWO 0p95, CCR10 T=heating 8 K, Ei=25 meV
+2019-01-25 21:58:52 Set Incident Energy to 25 meV
+2019-01-25 22:05:04 Set Title: SCTWO 0p95, CCR10 T=heating 8 K, Ei=25 meV
+2019-01-25 22:05:04 Set Incident Energy to 25 meV
+2019-01-25 22:11:14 Set Title: SCTWO 0p95, CCR10 T=heating 8 K, Ei=25 meV
+2019-01-25 22:11:14 Set Incident Energy to 25 meV
+2019-01-25 22:23:53 Setting ccr10s2 Temperature : 10 K
+2019-01-25 22:23:53 Set Title: SCTWO 0p95, CCR10 T=heating 10 K, Ei=25 meV
+2019-01-25 22:23:53 Set Incident Energy to 25 meV
+2019-01-25 22:30:04 Set Title: SCTWO 0p95, CCR10 T=heating 10 K, Ei=25 meV
+2019-01-25 22:30:04 Set Incident Energy to 25 meV
+2019-01-25 22:36:16 Set Title: SCTWO 0p95, CCR10 T=heating 10 K, Ei=25 meV
+2019-01-25 22:36:16 Set Incident Energy to 25 meV
+2019-01-25 22:48:27 Setting ccr10s2 Temperature : 12.5 K
+2019-01-25 22:48:27 Set Title: SCTWO 0p95, CCR10 T=heating 12.5 K, Ei=25 meV
+2019-01-25 22:48:27 Set Incident Energy to 25 meV
+2019-01-25 22:54:38 Set Title: SCTWO 0p95, CCR10 T=heating 12.5 K, Ei=25 meV
+2019-01-25 22:54:38 Set Incident Energy to 25 meV
+2019-01-25 23:00:49 Set Title: SCTWO 0p95, CCR10 T=heating 12.5 K, Ei=25 meV
+2019-01-25 23:00:49 Set Incident Energy to 25 meV
+2019-01-25 23:13:01 Setting ccr10s2 Temperature : 15 K
+2019-01-25 23:13:01 Set Title: SCTWO 0p95, CCR10 T=heating 15 K, Ei=25 meV
+2019-01-25 23:13:01 Set Incident Energy to 25 meV
+2019-01-25 23:19:13 Set Title: SCTWO 0p95, CCR10 T=heating 15 K, Ei=25 meV
+2019-01-25 23:19:13 Set Incident Energy to 25 meV
+2019-01-25 23:25:23 Set Title: SCTWO 0p95, CCR10 T=heating 15 K, Ei=25 meV
+2019-01-25 23:25:23 Set Incident Energy to 25 meV
+2019-01-25 23:37:57 Setting ccr10s2 Temperature : 17.5 K
+2019-01-25 23:37:57 Set Title: SCTWO 0p95, CCR10 T=heating 17.5 K, Ei=25 meV
+2019-01-25 23:37:57 Set Incident Energy to 25 meV
+2019-01-25 23:44:08 Set Title: SCTWO 0p95, CCR10 T=heating 17.5 K, Ei=25 meV
+2019-01-25 23:44:08 Set Incident Energy to 25 meV
+2019-01-25 23:50:18 Set Title: SCTWO 0p95, CCR10 T=heating 17.5 K, Ei=25 meV
+2019-01-25 23:50:18 Set Incident Energy to 25 meV
+2019-01-26 00:06:05 Setting ccr10s2 Temperature : 20 K
+2019-01-26 00:06:05 Set Title: SCTWO 0p95, CCR10 T=heating 20 K, Ei=25 meV
+2019-01-26 00:06:05 Set Incident Energy to 25 meV
+2019-01-26 00:12:18 Set Title: SCTWO 0p95, CCR10 T=heating 20 K, Ei=25 meV
+2019-01-26 00:12:18 Set Incident Energy to 25 meV
+2019-01-26 00:18:30 Set Title: SCTWO 0p95, CCR10 T=heating 20 K, Ei=25 meV
+2019-01-26 00:18:30 Set Incident Energy to 25 meV
+2019-01-26 00:30:40 Setting ccr10s2 Temperature : 22.5 K
+2019-01-26 00:30:41 Set Title: SCTWO 0p95, CCR10 T=heating 22.5 K, Ei=25 meV
+2019-01-26 00:30:41 Set Incident Energy to 25 meV
+2019-01-26 00:36:51 Set Title: SCTWO 0p95, CCR10 T=heating 22.5 K, Ei=25 meV
+2019-01-26 00:36:51 Set Incident Energy to 25 meV
+2019-01-26 00:43:01 Set Title: SCTWO 0p95, CCR10 T=heating 22.5 K, Ei=25 meV
+2019-01-26 00:43:01 Set Incident Energy to 25 meV
+2019-01-26 00:55:13 Setting ccr10s2 Temperature : 25 K
+2019-01-26 00:55:13 Set Title: SCTWO 0p95, CCR10 T=heating 25 K, Ei=25 meV
+2019-01-26 00:55:13 Set Incident Energy to 25 meV
+2019-01-26 01:01:41 Set Title: SCTWO 0p95, CCR10 T=heating 25 K, Ei=25 meV
+2019-01-26 01:01:41 Set Incident Energy to 25 meV
+2019-01-26 01:07:52 Set Title: SCTWO 0p95, CCR10 T=heating 25 K, Ei=25 meV
+2019-01-26 01:07:52 Set Incident Energy to 25 meV
+2019-01-26 01:20:04 Setting ccr10s2 Temperature : 27.5 K
+2019-01-26 01:20:04 Set Title: SCTWO 0p95, CCR10 T=heating 27.5 K, Ei=25 meV
+2019-01-26 01:20:04 Set Incident Energy to 25 meV
+2019-01-26 01:26:15 Set Title: SCTWO 0p95, CCR10 T=heating 27.5 K, Ei=25 meV
+2019-01-26 01:26:15 Set Incident Energy to 25 meV
+2019-01-26 01:32:25 Set Title: SCTWO 0p95, CCR10 T=heating 27.5 K, Ei=25 meV
+2019-01-26 01:32:25 Set Incident Energy to 25 meV
+2019-01-26 01:44:35 Setting ccr10s2 Temperature : 30 K
+2019-01-26 01:44:35 Set Title: SCTWO 0p95, CCR10 T=heating 30 K, Ei=25 meV
+2019-01-26 01:44:35 Set Incident Energy to 25 meV
+2019-01-26 01:50:47 Set Title: SCTWO 0p95, CCR10 T=heating 30 K, Ei=25 meV
+2019-01-26 01:50:47 Set Incident Energy to 25 meV
+2019-01-26 01:56:58 Set Title: SCTWO 0p95, CCR10 T=heating 30 K, Ei=25 meV
+2019-01-26 01:56:58 Set Incident Energy to 25 meV
+2019-01-26 02:09:09 Setting ccr10s2 Temperature : 32.5 K
+2019-01-26 02:09:09 Set Title: SCTWO 0p95, CCR10 T=heating 32.5 K, Ei=25 meV
+2019-01-26 02:09:09 Set Incident Energy to 25 meV
+2019-01-26 02:15:20 Set Title: SCTWO 0p95, CCR10 T=heating 32.5 K, Ei=25 meV
+2019-01-26 02:15:20 Set Incident Energy to 25 meV
+2019-01-26 02:21:48 Set Title: SCTWO 0p95, CCR10 T=heating 32.5 K, Ei=25 meV
+2019-01-26 02:21:48 Set Incident Energy to 25 meV
+2019-01-26 02:34:00 Setting ccr10s2 Temperature : 35 K
+2019-01-26 02:34:00 Set Title: SCTWO 0p95, CCR10 T=heating 35 K, Ei=25 meV
+2019-01-26 02:34:00 Set Incident Energy to 25 meV
+2019-01-26 02:40:12 Set Title: SCTWO 0p95, CCR10 T=heating 35 K, Ei=25 meV
+2019-01-26 02:40:12 Set Incident Energy to 25 meV
+2019-01-26 02:46:22 Set Title: SCTWO 0p95, CCR10 T=heating 35 K, Ei=25 meV
+2019-01-26 02:46:22 Set Incident Energy to 25 meV
+2019-01-26 02:58:35 Setting ccr10s2 Temperature : 37.5 K
+2019-01-26 02:58:35 Set Title: SCTWO 0p95, CCR10 T=heating 37.5 K, Ei=25 meV
+2019-01-26 02:58:35 Set Incident Energy to 25 meV
+2019-01-26 03:04:46 Set Title: SCTWO 0p95, CCR10 T=heating 37.5 K, Ei=25 meV
+2019-01-26 03:04:46 Set Incident Energy to 25 meV
+2019-01-26 03:10:57 Set Title: SCTWO 0p95, CCR10 T=heating 37.5 K, Ei=25 meV
+2019-01-26 03:10:57 Set Incident Energy to 25 meV
+2019-01-26 03:23:10 Setting ccr10s2 Temperature : 40 K
+2019-01-26 03:23:10 Set Title: SCTWO 0p95, CCR10 T=heating 40 K, Ei=25 meV
+2019-01-26 03:23:10 Set Incident Energy to 25 meV
+2019-01-26 03:29:22 Set Title: SCTWO 0p95, CCR10 T=heating 40 K, Ei=25 meV
+2019-01-26 03:29:22 Set Incident Energy to 25 meV
+2019-01-26 03:35:33 Set Title: SCTWO 0p95, CCR10 T=heating 40 K, Ei=25 meV
+2019-01-26 03:35:33 Set Incident Energy to 25 meV
+2019-01-26 03:48:00 Setting ccr10s2 Temperature : 40 K
+2019-01-26 03:48:00 Set Incident Energy to 25 meV
+2019-01-26 03:48:00 Set Title: SCTWO 0p95, CCR10 T=40 K, Ei=25 meV
+2019-01-26 03:48:00 Set Incident Energy to 25 meV
+2019-01-26 04:00:11 Set Title: SCTWO 0p95, CCR10 T=40 K, Ei=25 meV
+2019-01-26 04:00:11 Set Incident Energy to 25 meV
+2019-01-26 04:12:24 Set Title: SCTWO 0p95, CCR10 T=40 K, Ei=25 meV
+2019-01-26 04:12:24 Set Incident Energy to 25 meV
+2019-01-26 04:25:19 Set Incident Energy to 3.32 meV
+2019-01-26 04:25:20 Setting ccr10s2 Temperature : 40 K
+2019-01-26 04:25:20 Set Title: SCTWO 0p95, CCR10 T=cooling 40 K, Ei=3.32 meV
+2019-01-26 04:25:20 Set Incident Energy to 3.32 meV
+2019-01-26 04:31:33 Set Title: SCTWO 0p95, CCR10 T=cooling 40 K, Ei=3.32 meV
+2019-01-26 04:31:33 Set Incident Energy to 3.32 meV
+2019-01-26 04:44:03 Setting ccr10s2 Temperature : 35 K
+2019-01-26 04:44:03 Set Title: SCTWO 0p95, CCR10 T=cooling 35 K, Ei=3.32 meV
+2019-01-26 04:44:03 Set Incident Energy to 3.32 meV
+2019-01-26 04:50:15 Set Title: SCTWO 0p95, CCR10 T=cooling 35 K, Ei=3.32 meV
+2019-01-26 04:50:15 Set Incident Energy to 3.32 meV
+2019-01-26 05:02:43 Setting ccr10s2 Temperature : 30 K
+2019-01-26 05:02:43 Set Title: SCTWO 0p95, CCR10 T=cooling 30 K, Ei=3.32 meV
+2019-01-26 05:02:43 Set Incident Energy to 3.32 meV
+2019-01-26 05:08:55 Set Title: SCTWO 0p95, CCR10 T=cooling 30 K, Ei=3.32 meV
+2019-01-26 05:08:55 Set Incident Energy to 3.32 meV
+2019-01-26 05:21:20 Setting ccr10s2 Temperature : 25 K
+2019-01-26 05:21:20 Set Title: SCTWO 0p95, CCR10 T=cooling 25 K, Ei=3.32 meV
+2019-01-26 05:21:20 Set Incident Energy to 3.32 meV
+2019-01-26 05:27:30 Set Title: SCTWO 0p95, CCR10 T=cooling 25 K, Ei=3.32 meV
+2019-01-26 05:27:30 Set Incident Energy to 3.32 meV
+2019-01-26 05:39:53 Setting ccr10s2 Temperature : 20 K
+2019-01-26 05:39:53 Set Title: SCTWO 0p95, CCR10 T=cooling 20 K, Ei=3.32 meV
+2019-01-26 05:39:53 Set Incident Energy to 3.32 meV
+2019-01-26 05:46:06 Set Title: SCTWO 0p95, CCR10 T=cooling 20 K, Ei=3.32 meV
+2019-01-26 05:46:06 Set Incident Energy to 3.32 meV
+2019-01-26 05:58:28 Setting ccr10s2 Temperature : 15 K
+2019-01-26 05:58:28 Set Title: SCTWO 0p95, CCR10 T=cooling 15 K, Ei=3.32 meV
+2019-01-26 05:58:28 Set Incident Energy to 3.32 meV
+2019-01-26 06:04:40 Set Title: SCTWO 0p95, CCR10 T=cooling 15 K, Ei=3.32 meV
+2019-01-26 06:04:40 Set Incident Energy to 3.32 meV
+2019-01-26 06:17:26 Setting ccr10s2 Temperature : 10 K
+2019-01-26 06:17:26 Set Title: SCTWO 0p95, CCR10 T=cooling 10 K, Ei=3.32 meV
+2019-01-26 06:17:26 Set Incident Energy to 3.32 meV
+2019-01-26 06:23:37 Set Title: SCTWO 0p95, CCR10 T=cooling 10 K, Ei=3.32 meV
+2019-01-26 06:23:37 Set Incident Energy to 3.32 meV
+2019-01-26 06:36:21 Setting ccr10s2 Temperature : 4 K
+2019-01-26 06:36:21 Set Title: SCTWO 0p95, CCR10 T=cooling 4 K, Ei=3.32 meV
+2019-01-26 06:36:21 Set Incident Energy to 3.32 meV
+2019-01-26 06:42:33 Set Title: SCTWO 0p95, CCR10 T=cooling 4 K, Ei=3.32 meV
+2019-01-26 06:42:33 Set Incident Energy to 3.32 meV
+2019-01-26 06:54:46 Set Incident Energy to 3.32 meV
+2019-01-26 06:54:46 Set Title: SCTWO 0p95, CCR10 T=6 K, Ei=3.32 meV
+2019-01-26 06:54:46 Set Incident Energy to 3.32 meV
+2019-01-26 07:06:57 Set Title: SCTWO 0p95, CCR10 T=6 K, Ei=3.32 meV
+2019-01-26 07:06:57 Set Incident Energy to 3.32 meV
+2019-01-26 07:19:09 Set Title: SCTWO 0p95, CCR10 T=6 K, Ei=3.32 meV
+2019-01-26 07:19:09 Set Incident Energy to 3.32 meV
+2019-01-26 07:31:21 Set Title: SCTWO 0p95, CCR10 T=6 K, Ei=3.32 meV
+2019-01-26 07:31:21 Set Incident Energy to 3.32 meV
+2019-01-26 07:43:32 Set Title: SCTWO 0p95, CCR10 T=6 K, Ei=3.32 meV
+2019-01-26 07:43:32 Set Incident Energy to 3.32 meV
+2019-01-26 07:47:03 Set Incident Energy to 25 meV
+2019-01-26 07:47:35 Set Incident Energy to 25 meV
+2019-01-26 07:47:35 Setting ccr10s2 Temperature : 50 K
+2019-01-26 07:47:35 Set Title: SCTWO 0p95, CCR10 T=heating 50 K, Ei=25 meV
+2019-01-26 07:47:35 Set Incident Energy to 25 meV
+2019-01-26 07:53:46 Set Title: SCTWO 0p95, CCR10 T=heating 50 K, Ei=25 meV
+2019-01-26 07:53:46 Set Incident Energy to 25 meV
+2019-01-26 07:59:56 Set Title: SCTWO 0p95, CCR10 T=heating 50 K, Ei=25 meV
+2019-01-26 07:59:56 Set Incident Energy to 25 meV
+2019-01-26 16:57:33 Set Incident Energy to 25 meV
+2019-01-26 17:00:21 Set Incident Energy to 25 meV
+2019-01-26 17:00:21 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=25 meV
+2019-01-26 17:00:21 Set Incident Energy to 25 meV
+2019-01-26 17:12:32 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=25 meV
+2019-01-26 17:12:32 Set Incident Energy to 25 meV
+2019-01-26 17:24:43 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=25 meV
+2019-01-26 17:24:43 Set Incident Energy to 25 meV
+2019-01-26 17:36:54 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=25 meV
+2019-01-26 17:36:54 Set Incident Energy to 25 meV
+2019-01-26 18:50:41 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=25 meV
+2019-01-26 18:50:41 Set Incident Energy to 25 meV
+2019-01-26 19:02:52 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=25 meV
+2019-01-26 19:02:52 Set Incident Energy to 25 meV
+2019-01-26 19:15:05 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=25 meV
+2019-01-26 19:15:05 Set Incident Energy to 25 meV
+2019-01-26 19:16:39 Set Incident Energy to 25 meV
+2019-01-26 19:16:39 Set Title: SCTWO 0p3, CCR10 T=30 K, Ei=25 meV
+2019-01-26 19:16:39 Set Incident Energy to 25 meV
+2019-01-26 19:28:51 Set Title: SCTWO 0p3, CCR10 T=30 K, Ei=25 meV
+2019-01-26 19:28:51 Set Incident Energy to 25 meV
+2019-01-26 19:41:03 Set Title: SCTWO 0p3, CCR10 T=30 K, Ei=25 meV
+2019-01-26 19:41:03 Set Incident Energy to 25 meV
+2019-01-26 19:53:14 Set Title: SCTWO 0p3, CCR10 T=30 K, Ei=25 meV
+2019-01-26 19:53:14 Set Incident Energy to 25 meV
+2019-01-26 20:27:33 Set Title: SCTWO 0p3, CCR10 T=30 K, Ei=25 meV
+2019-01-26 20:27:33 Set Incident Energy to 25 meV
+2019-01-26 20:39:46 Set Title: SCTWO 0p3, CCR10 T=30 K, Ei=25 meV
+2019-01-26 20:39:46 Set Incident Energy to 25 meV
+2019-01-26 20:42:35 Set Incident Energy to 3.32 meV
+2019-01-26 20:42:35 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=3.32 meV
+2019-01-26 20:42:36 Set Incident Energy to 3.32 meV
+2019-01-26 20:54:51 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=3.32 meV
+2019-01-26 20:54:51 Set Incident Energy to 3.32 meV
+2019-01-26 21:07:04 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=3.32 meV
+2019-01-26 21:07:04 Set Incident Energy to 3.32 meV
+2019-01-26 22:07:31 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=3.32 meV
+2019-01-26 22:07:31 Set Incident Energy to 3.32 meV
+2019-01-26 23:08:46 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=3.32 meV
+2019-01-26 23:08:46 Set Incident Energy to 3.32 meV
+2019-01-27 00:16:44 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=3.32 meV
+2019-01-27 00:16:44 Set Incident Energy to 3.32 meV
+2019-01-27 01:17:56 Set Incident Energy to 3.32 meV
+2019-01-27 01:18:18 Setting ccr10s2 Temperature : 40 K
+2019-01-27 01:18:18 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-27 01:18:18 Set Incident Energy to 3.32 meV
+2019-01-27 01:30:30 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-27 01:30:30 Set Incident Energy to 3.32 meV
+2019-01-27 01:42:41 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-27 01:42:41 Set Incident Energy to 3.32 meV
+2019-01-27 02:43:30 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-27 02:43:30 Set Incident Energy to 3.32 meV
+2019-01-27 03:43:54 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-27 03:43:54 Set Incident Energy to 3.32 meV
+2019-01-27 04:48:52 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-27 04:48:52 Set Incident Energy to 3.32 meV
+2019-01-27 05:55:15 Setting ccr10s2 Temperature : 20 K
+2019-01-27 05:55:15 Set Title: SCTWO 0p3, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-27 05:55:15 Set Incident Energy to 3.32 meV
+2019-01-27 06:07:26 Set Title: SCTWO 0p3, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-27 06:07:26 Set Incident Energy to 3.32 meV
+2019-01-27 06:19:39 Set Title: SCTWO 0p3, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-27 06:19:39 Set Incident Energy to 3.32 meV
+2019-01-27 07:20:03 Set Title: SCTWO 0p3, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-27 07:20:03 Set Incident Energy to 3.32 meV
+2019-01-27 08:20:27 Set Title: SCTWO 0p3, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-27 08:20:27 Set Incident Energy to 3.32 meV
+2019-01-27 08:47:03 Set Incident Energy to 3.32 meV
+2019-01-27 08:47:03 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=3.32 meV
+2019-01-27 08:47:03 Set Incident Energy to 3.32 meV
+2019-01-27 08:50:21 Set Incident Energy to 3.32 meV
+2019-01-27 08:50:21 Setting ccr10s2 Temperature : 60 K
+2019-01-27 08:50:21 Set Title: SCTWO 0p3, CCR10 T=heating 60 K, Ei=3.32 meV
+2019-01-27 08:50:21 Set Incident Energy to 3.32 meV
+2019-01-27 08:56:33 Set Title: SCTWO 0p3, CCR10 T=heating 60 K, Ei=3.32 meV
+2019-01-27 08:56:33 Set Incident Energy to 3.32 meV
+2019-01-27 09:14:17 Set Title: SCTWO 0p3, CCR10 T=heating 60 K, Ei=3.32 meV
+2019-01-27 09:14:17 Set Incident Energy to 3.32 meV
+2019-01-27 09:27:06 Setting ccr10s2 Temperature : 80 K
+2019-01-27 09:27:06 Set Title: SCTWO 0p3, CCR10 T=heating 80 K, Ei=3.32 meV
+2019-01-27 09:27:06 Set Incident Energy to 3.32 meV
+2019-01-27 09:33:17 Set Title: SCTWO 0p3, CCR10 T=heating 80 K, Ei=3.32 meV
+2019-01-27 09:33:17 Set Incident Energy to 3.32 meV
+2019-01-27 09:45:29 Set Title: SCTWO 0p3, CCR10 T=heating 80 K, Ei=3.32 meV
+2019-01-27 09:45:29 Set Incident Energy to 3.32 meV
+2019-01-27 09:58:26 Setting ccr10s2 Temperature : 100 K
+2019-01-27 09:58:26 Set Title: SCTWO 0p3, CCR10 T=heating 100 K, Ei=3.32 meV
+2019-01-27 09:58:26 Set Incident Energy to 3.32 meV
+2019-01-27 10:09:15 Set Title: SCTWO 0p3, CCR10 T=heating 100 K, Ei=3.32 meV
+2019-01-27 10:09:15 Set Incident Energy to 3.32 meV
+2019-01-27 10:21:29 Set Title: SCTWO 0p3, CCR10 T=heating 100 K, Ei=3.32 meV
+2019-01-27 10:21:29 Set Incident Energy to 3.32 meV
+2019-01-27 10:33:40 Set Incident Energy to 3.32 meV
+2019-01-27 10:33:40 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=3.32 meV
+2019-01-27 10:33:40 Set Incident Energy to 3.32 meV
+2019-01-27 10:45:53 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=3.32 meV
+2019-01-27 10:45:53 Set Incident Energy to 3.32 meV
+2019-01-27 10:58:07 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=3.32 meV
+2019-01-27 10:58:07 Set Incident Energy to 3.32 meV
+2019-01-27 11:10:36 Set Incident Energy to 3.32 meV
+2019-01-27 11:10:36 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=3.32 meV
+2019-01-27 11:10:36 Set Incident Energy to 3.32 meV
+2019-01-27 11:22:52 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=3.32 meV
+2019-01-27 11:22:52 Set Incident Energy to 3.32 meV
+2019-01-27 11:35:24 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=3.32 meV
+2019-01-27 11:35:24 Set Incident Energy to 3.32 meV
+2019-01-27 11:36:29 Set Incident Energy to 25 meV
+2019-01-27 11:36:29 Set Title: SCTWO 0p3, CCR10 T=50 K, Ei=25 meV
+2019-01-27 11:36:30 Set Incident Energy to 25 meV
+2019-01-27 11:38:14 Set Incident Energy to 25 meV
+2019-01-27 11:38:14 Set Title: SCTWO 0p3, CCR10 T=50 K, Ei=25 meV
+2019-01-27 11:38:14 Set Incident Energy to 25 meV
+2019-01-27 11:50:51 Set Title: SCTWO 0p3, CCR10 T=50 K, Ei=25 meV
+2019-01-27 11:50:51 Set Incident Energy to 25 meV
+2019-01-27 11:54:52 Set Incident Energy to 3.32 meV
+2019-01-27 11:54:52 Set Title: SCTWO 0p3, CCR10 T=10 K, Ei=3.32 meV
+2019-01-27 11:54:53 Set Incident Energy to 3.32 meV
+2019-01-27 12:05:40 Set Title: SCTWO 0p3, CCR10 T=10 K, Ei=3.32 meV
+2019-01-27 12:05:40 Set Incident Energy to 3.32 meV
+2019-01-27 12:11:59 Set Title: SCTWO 0p3, CCR10 T=10 K, Ei=3.32 meV
+2019-01-27 12:11:59 Set Incident Energy to 3.32 meV
+2019-01-27 12:18:18 Set Title: SCTWO 0p3, CCR10 T=10 K, Ei=3.32 meV
+2019-01-27 12:18:18 Set Incident Energy to 3.32 meV
+2019-01-27 12:24:33 Set Title: SCTWO 0p3, CCR10 T=10 K, Ei=3.32 meV
+2019-01-27 12:24:33 Set Incident Energy to 3.32 meV
+2019-01-27 12:42:36 Set Title: SCTWO 0p3, CCR10 T=10 K, Ei=3.32 meV
+2019-01-27 12:42:36 Set Incident Energy to 3.32 meV
+2019-01-27 12:42:47 Set Incident Energy to 3.32 meV
+2019-01-27 12:42:52 Setting ccr10s2 Temperature : 15 K
+2019-01-27 12:42:52 Set Title: SCTWO 0p3, CCR10 T=15 K, Ei=3.32 meV
+2019-01-27 12:42:52 Set Incident Energy to 3.32 meV
+2019-01-27 12:49:05 Set Title: SCTWO 0p3, CCR10 T=15 K, Ei=3.32 meV
+2019-01-27 12:49:05 Set Incident Energy to 3.32 meV
+2019-01-27 13:01:19 Set Title: SCTWO 0p3, CCR10 T=15 K, Ei=3.32 meV
+2019-01-27 13:01:19 Set Incident Energy to 3.32 meV
+2019-01-27 13:13:45 Setting ccr10s2 Temperature : 25 K
+2019-01-27 13:13:45 Set Title: SCTWO 0p3, CCR10 T=25 K, Ei=3.32 meV
+2019-01-27 13:13:45 Set Incident Energy to 3.32 meV
+2019-01-27 13:24:15 Set Title: SCTWO 0p3, CCR10 T=25 K, Ei=3.32 meV
+2019-01-27 13:24:15 Set Incident Energy to 3.32 meV
+2019-01-27 13:36:44 Set Title: SCTWO 0p3, CCR10 T=25 K, Ei=3.32 meV
+2019-01-27 13:36:44 Set Incident Energy to 3.32 meV
+2019-01-27 13:49:21 Setting ccr10s2 Temperature : 30 K
+2019-01-27 13:49:21 Set Title: SCTWO 0p3, CCR10 T=30 K, Ei=3.32 meV
+2019-01-27 13:49:21 Set Incident Energy to 3.32 meV
+2019-01-27 13:55:34 Set Title: SCTWO 0p3, CCR10 T=30 K, Ei=3.32 meV
+2019-01-27 13:55:34 Set Incident Energy to 3.32 meV
+2019-01-27 14:07:47 Set Title: SCTWO 0p3, CCR10 T=30 K, Ei=3.32 meV
+2019-01-27 14:07:47 Set Incident Energy to 3.32 meV
+2019-01-27 14:20:10 Setting ccr10s2 Temperature : 35 K
+2019-01-27 14:20:10 Set Title: SCTWO 0p3, CCR10 T=35 K, Ei=3.32 meV
+2019-01-27 14:20:10 Set Incident Energy to 3.32 meV
+2019-01-27 14:26:21 Set Title: SCTWO 0p3, CCR10 T=35 K, Ei=3.32 meV
+2019-01-27 14:26:21 Set Incident Energy to 3.32 meV
+2019-01-27 14:38:35 Set Title: SCTWO 0p3, CCR10 T=35 K, Ei=3.32 meV
+2019-01-27 14:38:35 Set Incident Energy to 3.32 meV
+2019-01-27 14:51:02 Setting ccr10s2 Temperature : 45 K
+2019-01-27 14:51:02 Set Title: SCTWO 0p3, CCR10 T=45 K, Ei=3.32 meV
+2019-01-27 14:51:02 Set Incident Energy to 3.32 meV
+2019-01-27 14:57:15 Set Title: SCTWO 0p3, CCR10 T=45 K, Ei=3.32 meV
+2019-01-27 14:57:15 Set Incident Energy to 3.32 meV
+2019-01-27 15:09:29 Set Title: SCTWO 0p3, CCR10 T=45 K, Ei=3.32 meV
+2019-01-27 15:09:29 Set Incident Energy to 3.32 meV
+2019-01-27 15:21:53 Setting ccr10s2 Temperature : 50 K
+2019-01-27 15:21:53 Set Title: SCTWO 0p3, CCR10 T=50 K, Ei=3.32 meV
+2019-01-27 15:21:53 Set Incident Energy to 3.32 meV
+2019-01-27 15:28:05 Set Title: SCTWO 0p3, CCR10 T=50 K, Ei=3.32 meV
+2019-01-27 15:28:05 Set Incident Energy to 3.32 meV
+2019-01-27 15:40:17 Set Title: SCTWO 0p3, CCR10 T=50 K, Ei=3.32 meV
+2019-01-27 15:40:17 Set Incident Energy to 3.32 meV
+2019-01-27 15:52:31 Set Incident Energy to 3.32 meV
+2019-01-27 15:52:41 Setting ccr10s2 Temperature : 55 K
+2019-01-27 15:52:41 Set Title: SCTWO 0p3, CCR10 T=55 K, Ei=3.32 meV
+2019-01-27 15:52:41 Set Incident Energy to 3.32 meV
+2019-01-27 15:58:54 Set Title: SCTWO 0p3, CCR10 T=55 K, Ei=3.32 meV
+2019-01-27 15:58:54 Set Incident Energy to 3.32 meV
+2019-01-27 16:11:09 Set Title: SCTWO 0p3, CCR10 T=55 K, Ei=3.32 meV
+2019-01-27 16:11:09 Set Incident Energy to 3.32 meV
+2019-01-27 16:23:23 Set Incident Energy to 3.32 meV
+2019-01-27 16:23:47 Setting ccr10s2 Temperature : 70 K
+2019-01-27 16:23:47 Set Title: SCTWO 0p3, CCR10 T=70 K, Ei=3.32 meV
+2019-01-27 16:23:47 Set Incident Energy to 3.32 meV
+2019-01-27 16:30:00 Set Title: SCTWO 0p3, CCR10 T=70 K, Ei=3.32 meV
+2019-01-27 16:30:00 Set Incident Energy to 3.32 meV
+2019-01-27 16:42:14 Set Title: SCTWO 0p3, CCR10 T=70 K, Ei=3.32 meV
+2019-01-27 16:42:14 Set Incident Energy to 3.32 meV
+2019-01-27 16:55:48 Set Incident Energy to 45 meV
+2019-01-27 16:55:48 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 16:55:49 Set Incident Energy to 45 meV
+2019-01-27 17:08:02 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 17:08:02 Set Incident Energy to 45 meV
+2019-01-27 17:20:16 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 17:20:16 Set Incident Energy to 45 meV
+2019-01-27 17:32:53 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 17:32:53 Set Incident Energy to 45 meV
+2019-01-27 17:45:08 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 17:45:08 Set Incident Energy to 45 meV
+2019-01-27 17:57:53 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 17:57:53 Set Incident Energy to 45 meV
+2019-01-27 18:10:24 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 18:10:24 Set Incident Energy to 45 meV
+2019-01-27 18:22:37 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 18:22:37 Set Incident Energy to 45 meV
+2019-01-27 18:34:51 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 18:34:51 Set Incident Energy to 45 meV
+2019-01-27 18:47:05 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 18:47:05 Set Incident Energy to 45 meV
+2019-01-27 18:51:37 Set Incident Energy to 45 meV
+2019-01-27 18:51:37 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=45 meV
+2019-01-27 18:51:37 Set Incident Energy to 45 meV
+2019-01-27 19:03:52 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=45 meV
+2019-01-27 19:03:52 Set Incident Energy to 45 meV
+2019-01-27 19:16:08 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=45 meV
+2019-01-27 19:16:08 Set Incident Energy to 45 meV
+2019-01-27 19:28:22 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=45 meV
+2019-01-27 19:28:23 Set Incident Energy to 45 meV
+2019-01-27 19:33:31 Set Incident Energy to 25 meV
+2019-01-27 19:33:31 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=25 meV
+2019-01-27 19:33:32 Set Incident Energy to 25 meV
+2019-01-27 19:45:46 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=25 meV
+2019-01-27 19:45:46 Set Incident Energy to 25 meV
+2019-01-27 19:58:01 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=25 meV
+2019-01-27 19:58:01 Set Incident Energy to 25 meV
+2019-01-27 20:10:17 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=25 meV
+2019-01-27 20:10:17 Set Incident Energy to 25 meV
+2019-01-27 20:22:31 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=25 meV
+2019-01-27 20:22:31 Set Incident Energy to 25 meV
+2019-01-27 20:34:45 Set Incident Energy to 25 meV
+2019-01-27 20:34:45 Set Title: SCTWO 0p3, CCR10 T=100 K, Ei=25 meV
+2019-01-27 20:34:45 Set Incident Energy to 25 meV
+2019-01-27 20:44:07 Set Incident Energy to 45 meV
+2019-01-27 20:44:07 Set Title: SCTWO 0p3, CCR10 cooling to T=6 K, Ei=45 meV
+2019-01-27 20:44:08 Set Incident Energy to 45 meV
+2019-01-27 20:56:22 Set Title: SCTWO 0p3, CCR10 cooling to T=6 K, Ei=45 meV
+2019-01-27 20:56:22 Set Incident Energy to 45 meV
+2019-01-27 21:08:37 Set Title: SCTWO 0p3, CCR10 cooling to T=6 K, Ei=45 meV
+2019-01-27 21:08:37 Set Incident Energy to 45 meV
+2019-01-27 21:09:00 Set Incident Energy to 45 meV
+2019-01-27 21:09:00 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 21:09:00 Set Incident Energy to 45 meV
+2019-01-27 21:21:14 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 21:21:14 Set Incident Energy to 45 meV
+2019-01-27 22:21:42 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 22:21:42 Set Incident Energy to 45 meV
+2019-01-27 23:22:09 Set Title: SCTWO 0p3, CCR10 T=6 K, Ei=45 meV
+2019-01-27 23:22:09 Set Incident Energy to 45 meV
+2019-01-28 00:23:00 Setting ccr10s2 Temperature : 40 K
+2019-01-28 00:23:00 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=45 meV
+2019-01-28 00:23:00 Set Incident Energy to 45 meV
+2019-01-28 00:35:15 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=45 meV
+2019-01-28 00:35:15 Set Incident Energy to 45 meV
+2019-01-28 00:47:31 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=45 meV
+2019-01-28 00:47:31 Set Incident Energy to 45 meV
+2019-01-28 01:48:01 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=45 meV
+2019-01-28 01:48:01 Set Incident Energy to 45 meV
+2019-01-28 02:48:53 Set Title: SCTWO 0p3, CCR10 T=heating 40 K, Ei=45 meV
+2019-01-28 02:48:53 Set Incident Energy to 45 meV
+2019-01-28 03:53:06 Setting ccr10s2 Temperature : 70 K
+2019-01-28 03:53:06 Set Title: SCTWO 0p3, CCR10 T=heating 70 K, Ei=45 meV
+2019-01-28 03:53:06 Set Incident Energy to 45 meV
+2019-01-28 04:05:22 Set Title: SCTWO 0p3, CCR10 T=heating 70 K, Ei=45 meV
+2019-01-28 04:05:22 Set Incident Energy to 45 meV
+2019-01-28 04:17:36 Set Title: SCTWO 0p3, CCR10 T=heating 70 K, Ei=45 meV
+2019-01-28 04:17:36 Set Incident Energy to 45 meV
+2019-01-28 05:18:06 Set Title: SCTWO 0p3, CCR10 T=heating 70 K, Ei=45 meV
+2019-01-28 05:18:06 Set Incident Energy to 45 meV
+2019-01-28 06:18:39 Set Title: SCTWO 0p3, CCR10 T=heating 70 K, Ei=45 meV
+2019-01-28 06:18:39 Set Incident Energy to 45 meV
+2019-01-28 07:21:41 Setting ccr10s2 Temperature : 100 K
+2019-01-28 07:21:41 Set Title: SCTWO 0p3, CCR10 T=heating 100 K, Ei=45 meV
+2019-01-28 07:21:41 Set Incident Energy to 45 meV
+2019-01-28 07:33:56 Set Title: SCTWO 0p3, CCR10 T=heating 100 K, Ei=45 meV
+2019-01-28 07:33:56 Set Incident Energy to 45 meV
+2019-01-28 07:46:09 Set Title: SCTWO 0p3, CCR10 T=heating 100 K, Ei=45 meV
+2019-01-28 07:46:09 Set Incident Energy to 45 meV
+2019-01-28 08:46:33 Set Title: SCTWO 0p3, CCR10 T=heating 100 K, Ei=45 meV
+2019-01-28 08:46:33 Set Incident Energy to 45 meV
+2019-01-28 09:47:39 Set Title: SCTWO 0p3, CCR10 T=heating 100 K, Ei=45 meV
+2019-01-28 09:47:39 Set Incident Energy to 45 meV
+2019-01-28 10:48:03 Set Incident Energy to 45 meV
+2019-01-28 10:48:03 Set Title: SCTWO 0p3, CCR10 dump, Ei=45 meV
+2019-01-28 10:48:03 Set Incident Energy to 45 meV
+2019-01-28 13:45:33 Setting: a=10 b=10 c=10 alpha=90 beta=90 gamma=90
+2019-01-28 13:45:39 Setting U vec: h=1 k=1 l=0
+2019-01-28 13:45:52 Setting V vec: h=0 k=0 l=1
+2019-01-28 14:29:04 Set Incident Energy to 3.32 meV
+2019-01-28 14:29:04 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 14:29:04 Set Incident Energy to 3.32 meV
+2019-01-28 14:41:18 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 14:41:18 Set Incident Energy to 3.32 meV
+2019-01-28 14:53:33 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 14:53:33 Set Incident Energy to 3.32 meV
+2019-01-28 15:05:51 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 15:05:51 Set Incident Energy to 3.32 meV
+2019-01-28 15:18:05 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 15:18:05 Set Incident Energy to 3.32 meV
+2019-01-28 15:30:19 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 15:30:19 Set Incident Energy to 3.32 meV
+2019-01-28 15:42:33 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 15:42:33 Set Incident Energy to 3.32 meV
+2019-01-28 15:54:47 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 15:54:47 Set Incident Energy to 3.32 meV
+2019-01-28 16:07:02 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 16:07:02 Set Incident Energy to 3.32 meV
+2019-01-28 16:19:18 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 16:19:18 Set Incident Energy to 3.32 meV
+2019-01-28 16:31:31 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 16:31:31 Set Incident Energy to 3.32 meV
+2019-01-28 16:43:46 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 16:43:46 Set Incident Energy to 3.32 meV
+2019-01-28 16:56:02 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 16:56:02 Set Incident Energy to 3.32 meV
+2019-01-28 17:03:14 Set Incident Energy to 3.32 meV
+2019-01-28 17:03:14 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 17:03:14 Set Incident Energy to 3.32 meV
+2019-01-28 17:15:45 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 17:15:45 Set Incident Energy to 3.32 meV
+2019-01-28 17:27:59 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 17:27:59 Set Incident Energy to 3.32 meV
+2019-01-28 17:40:15 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 17:40:15 Set Incident Energy to 3.32 meV
+2019-01-28 17:52:29 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 17:52:29 Set Incident Energy to 3.32 meV
+2019-01-28 18:05:02 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-28 18:05:02 Set Incident Energy to 3.32 meV
+2019-01-28 18:05:13 Set Incident Energy to 3.32 meV
+2019-01-28 18:05:35 Setting ccr10s2 Temperature : 40 K
+2019-01-28 18:05:35 Set Title: SCTWO 0p4, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-28 18:05:35 Set Incident Energy to 3.32 meV
+2019-01-28 18:11:49 Set Title: SCTWO 0p4, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-28 18:11:49 Set Incident Energy to 3.32 meV
+2019-01-28 18:24:22 Set Title: SCTWO 0p4, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-28 18:24:22 Set Incident Energy to 3.32 meV
+2019-01-28 18:37:17 Setting ccr10s2 Temperature : 70 K
+2019-01-28 18:37:17 Set Title: SCTWO 0p4, CCR10 T=heating 70 K, Ei=3.32 meV
+2019-01-28 18:37:17 Set Incident Energy to 3.32 meV
+2019-01-28 18:43:30 Set Title: SCTWO 0p4, CCR10 T=heating 70 K, Ei=3.32 meV
+2019-01-28 18:43:30 Set Incident Energy to 3.32 meV
+2019-01-28 18:55:46 Set Title: SCTWO 0p4, CCR10 T=heating 70 K, Ei=3.32 meV
+2019-01-28 18:55:46 Set Incident Energy to 3.32 meV
+2019-01-28 19:09:10 Setting ccr10s2 Temperature : 100 K
+2019-01-28 19:09:10 Set Title: SCTWO 0p4, CCR10 T=heating 100 K, Ei=3.32 meV
+2019-01-28 19:09:10 Set Incident Energy to 3.32 meV
+2019-01-28 19:15:39 Set Title: SCTWO 0p4, CCR10 T=heating 100 K, Ei=3.32 meV
+2019-01-28 19:15:39 Set Incident Energy to 3.32 meV
+2019-01-28 19:27:54 Set Title: SCTWO 0p4, CCR10 T=heating 100 K, Ei=3.32 meV
+2019-01-28 19:27:54 Set Incident Energy to 3.32 meV
+2019-01-28 19:40:10 Set Title: SCTWO 0p4, CCR10 T=heating 100 K, Ei=3.32 meV
+2019-01-28 19:40:10 Set Incident Energy to 3.32 meV
+2019-01-28 19:52:25 Set Title: SCTWO 0p4, CCR10 T=heating 100 K, Ei=3.32 meV
+2019-01-28 19:52:25 Set Incident Energy to 3.32 meV
+2019-01-28 20:04:40 Set Title: SCTWO 0p4, CCR10 T=heating 100 K, Ei=3.32 meV
+2019-01-28 20:04:40 Set Incident Energy to 3.32 meV
+2019-01-28 20:23:23 Set Incident Energy to 3.32 meV
+2019-01-28 20:23:23 Setting ccr10s2 Temperature : 70 K
+2019-01-28 20:23:23 Set Title: SCTWO 0p4, CCR10 T=heating 70 K, Ei=3.32 meV
+2019-01-28 20:23:23 Set Incident Energy to 3.32 meV
+2019-01-28 20:26:13 Set Incident Energy to 3.32 meV
+2019-01-28 20:26:13 Setting ccr10s2 Temperature : 70 K
+2019-01-28 20:26:13 Set Title: SCTWO 0p4, CCR10 T=heating 70 K, Ei=3.32 meV
+2019-01-28 20:26:13 Set Incident Energy to 3.32 meV
+2019-01-28 20:32:26 Set Title: SCTWO 0p4, CCR10 T=heating 70 K, Ei=3.32 meV
+2019-01-28 20:32:26 Set Incident Energy to 3.32 meV
+2019-01-28 20:44:42 Set Title: SCTWO 0p4, CCR10 T=heating 70 K, Ei=3.32 meV
+2019-01-28 20:44:42 Set Incident Energy to 3.32 meV
+2019-01-28 20:58:05 Setting ccr10s2 Temperature : 60 K
+2019-01-28 20:58:05 Set Title: SCTWO 0p4, CCR10 T=heating 60 K, Ei=3.32 meV
+2019-01-28 20:58:05 Set Incident Energy to 3.32 meV
+2019-01-28 21:04:19 Set Title: SCTWO 0p4, CCR10 T=heating 60 K, Ei=3.32 meV
+2019-01-28 21:04:19 Set Incident Energy to 3.32 meV
+2019-01-28 21:10:32 Set Title: SCTWO 0p4, CCR10 T=heating 60 K, Ei=3.32 meV
+2019-01-28 21:10:32 Set Incident Energy to 3.32 meV
+2019-01-28 21:22:48 Set Title: SCTWO 0p4, CCR10 T=heating 60 K, Ei=3.32 meV
+2019-01-28 21:22:48 Set Incident Energy to 3.32 meV
+2019-01-28 21:35:03 Set Title: SCTWO 0p4, CCR10 T=heating 60 K, Ei=3.32 meV
+2019-01-28 21:35:03 Set Incident Energy to 3.32 meV
+2019-01-28 21:47:17 Set Title: SCTWO 0p4, CCR10 T=heating 60 K, Ei=3.32 meV
+2019-01-28 21:47:17 Set Incident Energy to 3.32 meV
+2019-01-28 22:00:31 Setting ccr10s2 Temperature : 50 K
+2019-01-28 22:00:31 Set Title: SCTWO 0p4, CCR10 T=heating 50 K, Ei=3.32 meV
+2019-01-28 22:00:31 Set Incident Energy to 3.32 meV
+2019-01-28 22:06:43 Set Title: SCTWO 0p4, CCR10 T=heating 50 K, Ei=3.32 meV
+2019-01-28 22:06:43 Set Incident Energy to 3.32 meV
+2019-01-28 22:12:55 Set Title: SCTWO 0p4, CCR10 T=heating 50 K, Ei=3.32 meV
+2019-01-28 22:12:55 Set Incident Energy to 3.32 meV
+2019-01-28 22:25:09 Set Title: SCTWO 0p4, CCR10 T=heating 50 K, Ei=3.32 meV
+2019-01-28 22:25:09 Set Incident Energy to 3.32 meV
+2019-01-28 22:37:24 Set Title: SCTWO 0p4, CCR10 T=heating 50 K, Ei=3.32 meV
+2019-01-28 22:37:24 Set Incident Energy to 3.32 meV
+2019-01-28 22:49:55 Set Title: SCTWO 0p4, CCR10 T=heating 50 K, Ei=3.32 meV
+2019-01-28 22:49:55 Set Incident Energy to 3.32 meV
+2019-01-28 23:03:00 Setting ccr10s2 Temperature : 40 K
+2019-01-28 23:03:00 Set Title: SCTWO 0p4, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-28 23:03:00 Set Incident Energy to 3.32 meV
+2019-01-28 23:09:14 Set Title: SCTWO 0p4, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-28 23:09:14 Set Incident Energy to 3.32 meV
+2019-01-28 23:21:31 Set Title: SCTWO 0p4, CCR10 T=heating 40 K, Ei=3.32 meV
+2019-01-28 23:21:31 Set Incident Energy to 3.32 meV
+2019-01-28 23:34:25 Setting ccr10s2 Temperature : 30 K
+2019-01-28 23:34:25 Set Title: SCTWO 0p4, CCR10 T=heating 30 K, Ei=3.32 meV
+2019-01-28 23:34:25 Set Incident Energy to 3.32 meV
+2019-01-28 23:40:39 Set Title: SCTWO 0p4, CCR10 T=heating 30 K, Ei=3.32 meV
+2019-01-28 23:40:39 Set Incident Energy to 3.32 meV
+2019-01-28 23:46:51 Set Title: SCTWO 0p4, CCR10 T=heating 30 K, Ei=3.32 meV
+2019-01-28 23:46:51 Set Incident Energy to 3.32 meV
+2019-01-28 23:59:07 Set Title: SCTWO 0p4, CCR10 T=heating 30 K, Ei=3.32 meV
+2019-01-28 23:59:07 Set Incident Energy to 3.32 meV
+2019-01-29 00:11:22 Set Title: SCTWO 0p4, CCR10 T=heating 30 K, Ei=3.32 meV
+2019-01-29 00:11:22 Set Incident Energy to 3.32 meV
+2019-01-29 00:23:38 Set Title: SCTWO 0p4, CCR10 T=heating 30 K, Ei=3.32 meV
+2019-01-29 00:23:38 Set Incident Energy to 3.32 meV
+2019-01-29 00:36:20 Setting ccr10s2 Temperature : 20 K
+2019-01-29 00:36:20 Set Title: SCTWO 0p4, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-29 00:36:20 Set Incident Energy to 3.32 meV
+2019-01-29 00:42:33 Set Title: SCTWO 0p4, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-29 00:42:33 Set Incident Energy to 3.32 meV
+2019-01-29 00:48:46 Set Title: SCTWO 0p4, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-29 00:48:46 Set Incident Energy to 3.32 meV
+2019-01-29 01:01:02 Set Title: SCTWO 0p4, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-29 01:01:02 Set Incident Energy to 3.32 meV
+2019-01-29 01:13:19 Set Title: SCTWO 0p4, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-29 01:13:19 Set Incident Energy to 3.32 meV
+2019-01-29 01:25:35 Set Title: SCTWO 0p4, CCR10 T=heating 20 K, Ei=3.32 meV
+2019-01-29 01:25:35 Set Incident Energy to 3.32 meV
+2019-01-29 01:39:22 Set Incident Energy to 3.32 meV
+2019-01-29 01:39:22 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-29 01:39:22 Set Incident Energy to 3.32 meV
+2019-01-29 01:51:35 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-29 01:51:35 Set Incident Energy to 3.32 meV
+2019-01-29 02:03:48 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-29 02:03:48 Set Incident Energy to 3.32 meV
+2019-01-29 02:05:15 Set Incident Energy to 3.32 meV
+2019-01-29 02:05:15 Setting ccr10s2 Temperature : 4 K
+2019-01-29 02:05:15 Set Title: SCTWO 0p4, CCR10 T=4 K, Ei=3.32 meV
+2019-01-29 02:05:15 Set Incident Energy to 3.32 meV
+2019-01-29 02:17:29 Set Title: SCTWO 0p4, CCR10 T=4 K, Ei=3.32 meV
+2019-01-29 02:17:29 Set Incident Energy to 3.32 meV
+2019-01-29 02:29:44 Set Title: SCTWO 0p4, CCR10 T=4 K, Ei=3.32 meV
+2019-01-29 02:29:44 Set Incident Energy to 3.32 meV
+2019-01-29 02:41:59 Set Title: SCTWO 0p4, CCR10 T=4 K, Ei=3.32 meV
+2019-01-29 02:41:59 Set Incident Energy to 3.32 meV
+2019-01-29 02:54:43 Setting ccr10s2 Temperature : 10 K
+2019-01-29 02:54:43 Set Title: SCTWO 0p4, CCR10 T=10 K, Ei=3.32 meV
+2019-01-29 02:54:43 Set Incident Energy to 3.32 meV
+2019-01-29 03:00:56 Set Title: SCTWO 0p4, CCR10 T=10 K, Ei=3.32 meV
+2019-01-29 03:00:56 Set Incident Energy to 3.32 meV
+2019-01-29 03:07:10 Set Title: SCTWO 0p4, CCR10 T=10 K, Ei=3.32 meV
+2019-01-29 03:07:10 Set Incident Energy to 3.32 meV
+2019-01-29 03:19:26 Set Title: SCTWO 0p4, CCR10 T=10 K, Ei=3.32 meV
+2019-01-29 03:19:26 Set Incident Energy to 3.32 meV
+2019-01-29 03:31:41 Set Title: SCTWO 0p4, CCR10 T=10 K, Ei=3.32 meV
+2019-01-29 03:31:41 Set Incident Energy to 3.32 meV
+2019-01-29 03:43:56 Set Title: SCTWO 0p4, CCR10 T=10 K, Ei=3.32 meV
+2019-01-29 03:43:56 Set Incident Energy to 3.32 meV
+2019-01-29 03:56:17 Setting ccr10s2 Temperature : 15 K
+2019-01-29 03:56:17 Set Title: SCTWO 0p4, CCR10 T=15 K, Ei=3.32 meV
+2019-01-29 03:56:17 Set Incident Energy to 3.32 meV
+2019-01-29 04:02:30 Set Title: SCTWO 0p4, CCR10 T=15 K, Ei=3.32 meV
+2019-01-29 04:02:30 Set Incident Energy to 3.32 meV
+2019-01-29 04:08:44 Set Title: SCTWO 0p4, CCR10 T=15 K, Ei=3.32 meV
+2019-01-29 04:08:44 Set Incident Energy to 3.32 meV
+2019-01-29 04:21:01 Set Title: SCTWO 0p4, CCR10 T=15 K, Ei=3.32 meV
+2019-01-29 04:21:01 Set Incident Energy to 3.32 meV
+2019-01-29 04:33:17 Set Title: SCTWO 0p4, CCR10 T=15 K, Ei=3.32 meV
+2019-01-29 04:33:17 Set Incident Energy to 3.32 meV
+2019-01-29 04:45:33 Set Title: SCTWO 0p4, CCR10 T=15 K, Ei=3.32 meV
+2019-01-29 04:45:33 Set Incident Energy to 3.32 meV
+2019-01-29 04:57:56 Setting ccr10s2 Temperature : 25 K
+2019-01-29 04:57:56 Set Title: SCTWO 0p4, CCR10 T=25 K, Ei=3.32 meV
+2019-01-29 04:57:56 Set Incident Energy to 3.32 meV
+2019-01-29 05:04:11 Set Title: SCTWO 0p4, CCR10 T=25 K, Ei=3.32 meV
+2019-01-29 05:04:11 Set Incident Energy to 3.32 meV
+2019-01-29 05:10:24 Set Title: SCTWO 0p4, CCR10 T=25 K, Ei=3.32 meV
+2019-01-29 05:10:24 Set Incident Energy to 3.32 meV
+2019-01-29 05:22:41 Set Title: SCTWO 0p4, CCR10 T=25 K, Ei=3.32 meV
+2019-01-29 05:22:41 Set Incident Energy to 3.32 meV
+2019-01-29 05:35:31 Set Title: SCTWO 0p4, CCR10 T=25 K, Ei=3.32 meV
+2019-01-29 05:35:31 Set Incident Energy to 3.32 meV
+2019-01-29 05:47:46 Set Title: SCTWO 0p4, CCR10 T=25 K, Ei=3.32 meV
+2019-01-29 05:47:46 Set Incident Energy to 3.32 meV
+2019-01-29 06:00:11 Set Incident Energy to 3.32 meV
+2019-01-29 06:00:11 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-29 06:00:11 Set Incident Energy to 3.32 meV
+2019-01-29 06:12:28 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-29 06:12:28 Set Incident Energy to 3.32 meV
+2019-01-29 06:24:44 Set Title: SCTWO 0p4, CCR10 cooling to 6K, Ei=3.32 meV
+2019-01-29 06:24:44 Set Incident Energy to 3.32 meV

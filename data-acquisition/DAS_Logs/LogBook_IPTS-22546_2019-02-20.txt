@@ -1,0 +1,6 @@
+2019-02-20 09:04:05 Line Log cleared
+2019-02-20 09:04:05 Starting IPTS-22546 on 2019-02-20
+2019-02-20 09:05:18 Set Incident Energy to 3.0 meV
+2019-02-20 09:05:18 Set Title: Vanadium, Ei=3.0, T= RT
+2019-02-20 11:14:51 Set Incident Energy to 3.0 meV
+2019-02-20 11:14:51 Set Title: NiNb, Ei=3.0, T= heating test

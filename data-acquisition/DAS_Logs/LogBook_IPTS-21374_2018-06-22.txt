@@ -1,0 +1,72 @@
+2018-06-20 16:35:01 Line Log cleared
+2018-06-20 16:35:01 Starting IPTS-21374 on 2018-06-20
+2018-06-20 16:43:48 Scanning samplez, run 276949
+2018-06-20 18:28:59 Set Title: initial cooling NNP in CCR10 Ei=5.0 meV
+2018-06-20 18:29:43 Set Incident Energy to 5.0 meV
+2018-06-20 18:42:50 Set Title: initial cooling NNP in CCR10 Ei=30.0 meV
+2018-06-20 18:43:43 Set Incident Energy to 30.0 meV
+2018-06-20 19:28:28 Set Title: initial cooling NNP in CCR10 Ei=10.0 meV
+2018-06-20 19:29:08 Set Incident Energy to 10.0 meV
+2018-06-20 19:42:13 Set Title: initial cooling NNP in CCR10 Ei=5.0 meV
+2018-06-20 19:42:56 Set Incident Energy to 5.0 meV
+2018-06-20 19:56:02 Set Title: initial cooling NNP in CCR10 Ei=12.0 meV
+2018-06-20 19:56:51 Set Incident Energy to 12.0 meV
+2018-06-20 20:10:17 Set Title: initial cooling NNP in CCR10 Ei=3 meV
+2018-06-20 20:11:04 Set Incident Energy to 3 meV
+2018-06-20 20:36:58 Set Title: baseT NNP in CCR10 Ei=3.0 meV
+2018-06-20 20:36:58 Set Incident Energy to 3.0 meV
+2018-06-20 21:29:19 Set Title: baseT NNP in CCR10 Ei=3.0 meV
+2018-06-20 21:29:19 Set Incident Energy to 3.0 meV
+2018-06-20 22:21:07 Set Title: baseT NNP in CCR10 Ei=3.0 meV
+2018-06-20 22:21:07 Set Incident Energy to 3.0 meV
+2018-06-20 23:13:15 Set Title: baseT NNP in CCR10 Ei=3.0 meV
+2018-06-20 23:13:15 Set Incident Energy to 3.0 meV
+2018-06-21 00:05:31 Set Title: baseT NNP in CCR10 Ei=6.59 meV
+2018-06-21 00:06:08 Set Incident Energy to 6.59 meV
+2018-06-21 00:58:05 Set Title: baseT NNP in CCR10 Ei=6.59 meV
+2018-06-21 00:58:05 Set Incident Energy to 6.59 meV
+2018-06-21 01:50:21 Set Title: baseT NNP in CCR10 Ei=6.59 meV
+2018-06-21 01:50:21 Set Incident Energy to 6.59 meV
+2018-06-21 02:42:36 Set Title: baseT NNP in CCR10 Ei=6.59 meV
+2018-06-21 02:42:36 Set Incident Energy to 6.59 meV
+2018-06-21 03:34:21 Set Title: baseT NNP in CCR10 Ei=12.0 meV
+2018-06-21 03:35:05 Set Incident Energy to 12.0 meV
+2018-06-21 04:27:17 Set Title: baseT NNP in CCR10 Ei=12.0 meV
+2018-06-21 04:27:17 Set Incident Energy to 12.0 meV
+2018-06-21 05:22:19 Set Title: baseT NNP in CCR10 Ei=12.0 meV
+2018-06-21 05:22:19 Set Incident Energy to 12.0 meV
+2018-06-21 06:14:10 Set Title: baseT NNP in CCR10 Ei=12.0 meV
+2018-06-21 06:14:10 Set Incident Energy to 12.0 meV
+2018-06-21 07:05:59 Set Title: baseT NNP in CCR10 Ei=25.0 meV
+2018-06-21 07:06:39 Set Incident Energy to 25.0 meV
+2018-06-21 07:58:31 Set Title: baseT NNP in CCR10 Ei=25.0 meV
+2018-06-21 07:58:31 Set Incident Energy to 25.0 meV
+2018-06-21 14:51:39 Set Title: baseT NNP in CCR10 Ei=5.0 meV
+2018-06-21 14:54:24 Set Title: dummy scan
+2018-06-21 14:55:09 Set Incident Energy to 3.32 meV
+2018-06-21 17:04:22 Set Title: highT NNP in CCR10 Ei=3.0 meV
+2018-06-21 17:04:59 Set Incident Energy to 3.0 meV
+2018-06-21 17:58:37 Set Title: highT NNP in CCR10 Ei=3.0 meV
+2018-06-21 17:58:37 Set Incident Energy to 3.0 meV
+2018-06-21 18:50:49 Set Title: highT NNP in CCR10 Ei=3.0 meV
+2018-06-21 18:50:49 Set Incident Energy to 3.0 meV
+2018-06-21 19:42:44 Set Title: highT NNP in CCR10 Ei=3.0 meV
+2018-06-21 19:42:44 Set Incident Energy to 3.0 meV
+2018-06-21 20:35:04 Set Title: highT NNP in CCR10 Ei=6.59 meV
+2018-06-21 20:35:43 Set Incident Energy to 6.59 meV
+2018-06-21 21:28:29 Set Title: highT NNP in CCR10 Ei=6.59 meV
+2018-06-21 21:28:29 Set Incident Energy to 6.59 meV
+2018-06-21 22:20:24 Set Title: highT NNP in CCR10 Ei=6.59 meV
+2018-06-21 22:20:24 Set Incident Energy to 6.59 meV
+2018-06-21 23:12:18 Set Title: highT NNP in CCR10 Ei=6.59 meV
+2018-06-21 23:12:18 Set Incident Energy to 6.59 meV
+2018-06-22 05:25:32 Set Title: highT NNP in CCR10 Ei=12.0 meV
+2018-06-22 05:26:15 Set Incident Energy to 12.0 meV
+2018-06-22 06:18:53 Set Title: highT NNP in CCR10 Ei=12.0 meV
+2018-06-22 06:18:53 Set Incident Energy to 12.0 meV
+2018-06-22 07:10:39 Set Title: highT NNP in CCR10 Ei=12.0 meV
+2018-06-22 07:10:39 Set Incident Energy to 12.0 meV
+2018-06-22 08:02:29 Set Title: highT NNP in CCR10 Ei=12.0 meV
+2018-06-22 08:02:29 Set Incident Energy to 12.0 meV
+2018-06-22 08:54:04 Set Title: highT NNP in CCR10 Ei=25.0 meV
+2018-06-22 08:54:45 Set Incident Energy to 25.0 meV

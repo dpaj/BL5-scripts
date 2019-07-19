@@ -1,0 +1,44 @@
+2018-10-02 10:58:42 Line Log cleared
+2018-10-02 10:58:42 Starting IPTS-20360 on 2018-10-02
+2018-10-02 10:58:56 Set Title: Check New library
+2018-10-02 10:59:19 Comment: Check command
+2018-10-02 10:59:34 New X/Y Signal ROI at 2Theta=[90,100] Phi=[-5,5]
+2018-10-02 11:15:21 Set Title: dummy scan
+2018-10-02 15:08:42 Setting the magnetic field at 0.1 Tesla
+2018-10-02 15:08:50 Setting the magnetic field at 0.0 Tesla
+2018-10-02 15:13:47 Setting the magnetic field at 0.1 Tesla
+2018-10-02 15:14:55 Setting the magnetic field at 0.1 Tesla
+2018-10-02 15:15:04 Setting the magnetic field at 0.0 Tesla
+2018-10-02 15:37:55 Drive V-stick to 18 mm
+2018-10-02 15:38:05 Drive V-stick to 20 mm
+2018-10-02 15:43:52 Drive V-stick to 18 mm
+2018-10-02 15:44:18 Drive V-stick to 0 mm
+2018-10-02 15:45:21 Drive V-stick to 18 mm
+2018-10-02 15:45:29 Drive V-stick to 20 mm
+2018-10-02 16:08:09 Setting the magnetic field at 0.1 Tesla
+2018-10-02 16:08:24 Set Title: dummy scan check
+2018-10-02 16:14:36 Setting the magnetic field at 0.0 Tesla
+2018-10-02 16:19:44 Set Title: dummy scan check
+2018-10-02 16:32:59 Set Title: dummy while beam is ramping
+2018-10-02 17:53:37 Set Title: V-foil white beam, Ei=1.55 meV  100 K
+2018-10-02 20:55:12 Set Title: V-foil white beam, Ei=3.0 meV  100 K
+2018-10-02 21:12:35 Set Title: V-foil white beam, Ei=3.0 meV  100 K
+2018-10-02 21:13:25 Set Incident Energy to 3.0 meV
+2018-10-02 22:23:49 Set Title: V-foil white beam, Ei=3.32 meV  100 K
+2018-10-02 22:24:27 Set Incident Energy to 3.32 meV
+2018-10-03 01:25:38 Set Title: V-foil white beam, Ei=1.55 meV  100 K
+2018-10-03 01:26:27 Set Incident Energy to 1.55 meV
+2018-10-03 04:48:55 Set Title: V-foil HF, Ei=1.55 meV  100 K
+2018-10-03 04:49:25 Set Incident Energy to 1.55 meV
+2018-10-03 05:19:28 Set Title: V-foil HF, Ei=3.32 meV  100 K
+2018-10-03 05:20:21 Set Incident Energy to 3.32 meV
+2018-10-03 05:50:47 Set Title: V-foil HF, Ei=12.0 meV  100 K
+2018-10-03 05:51:40 Set Incident Energy to 12.0 meV
+2018-10-03 06:22:02 Set Title: V-foil HF, Ei=60 meV  100 K
+2018-10-03 06:22:53 Set Incident Energy to 60 meV
+2018-10-03 06:55:43 Set Title: V-foil KL, Ei=1.55 meV  100 K
+2018-10-03 06:56:34 Set Incident Energy to 1.55 meV
+2018-10-03 07:26:35 Set Title: V-foil KL, Ei=3.32 meV  100 K
+2018-10-03 07:27:26 Set Incident Energy to 3.32 meV
+2018-10-03 07:57:26 Set Title: V-foil KL, Ei=12.0 meV  100 K
+2018-10-03 07:58:18 Set Incident Energy to 12.0 meV

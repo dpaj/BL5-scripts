@@ -1,0 +1,563 @@
+2018-11-13 13:43:14 Line Log cleared
+2018-11-13 13:43:14 Starting IPTS-20726 on 2018-11-13
+2018-11-13 14:52:13 Setting U vec: h=1 k=0 l=0
+2018-11-13 14:52:18 Setting V vec: h=0 k=0 l=1
+2018-11-13 14:56:16 Relative Scan axis1, run 298473
+2018-11-13 15:01:59 Drive Axis1 to 131.678121716 Degree
+2018-11-13 15:01:59 New X/Y Signal ROI at 2Theta=[96.212764881,101.212764881] Phi=[-2.04781932626,7.95218067374]
+2018-11-13 15:02:00 Driving to: (3,0,0) at Omega=131.678121716
+2018-11-13 15:04:57 Relative Scan axis1, run 298474
+2018-11-13 15:16:57 Drive Axis1 to 87.5463727152 Degree
+2018-11-13 15:16:57 New X/Y Signal ROI at 2Theta=[69.8082712668,74.8082712668] Phi=[-7.60720198122,2.39279801878]
+2018-11-13 15:16:57 Driving to: (2,0,4) at Omega=87.5463727152
+2018-11-13 15:17:36 Relative Scan axis1, run 298475
+2018-11-13 15:22:52 Set Title: Check coverage for Mantid
+2018-11-13 15:28:00 Set Title: Check (101) family at 12 meV
+2018-11-13 15:28:34 Drive Axis1 to 80.7682926482 Degree
+2018-11-13 15:28:34 New X/Y Signal ROI at 2Theta=[28.1198667046,33.1198667046] Phi=[-6.87986022792,3.12013977208]
+2018-11-13 15:28:34 Driving to: (1,0,1) at Omega=80.7682926482
+2018-11-13 15:30:07 Relative Scan axis1, run 298477
+2018-11-13 15:34:16 Drive Axis1 to 114.186141242 Degree
+2018-11-13 15:34:16 New X/Y Signal ROI at 2Theta=[28.1283452467,33.1283452467] Phi=[-5.64593821812,4.35406178188]
+2018-11-13 15:34:16 Driving to: (1,0,-1) at Omega=114.186141242
+2018-11-13 15:34:42 Relative Scan axis1, run 298478
+2018-11-13 15:39:30 Drive Axis1 to -99.2317073518 Degree
+2018-11-13 15:39:30 New X/Y Signal ROI at 2Theta=[28.1198667046,33.1198667046] Phi=[-3.12013977208,6.87986022792]
+2018-11-13 15:39:30 Driving to: (-1,0,-1) at Omega=-99.2317073518
+2018-11-13 15:43:42 Relative Scan axis1, run 298479
+2018-11-13 15:47:51 Drive Axis1 to -65.813858758 Degree
+2018-11-13 15:47:51 New X/Y Signal ROI at 2Theta=[28.1283452467,33.1283452467] Phi=[-4.35406178188,5.64593821812]
+2018-11-13 15:47:51 Driving to: (-1,0,1) at Omega=-65.813858758
+2018-11-13 15:48:12 Relative Scan axis1, run 298480
+2018-11-13 15:52:49 Drive Axis1 to 176.451986562 Degree
+2018-11-13 15:52:49 New X/Y Signal ROI at 2Theta=[6.21260854276,11.2126085428] Phi=[-2.92585595506,7.07414404494]
+2018-11-13 15:52:49 Driving to: (0,0,-1) at Omega=176.451986562
+2018-11-13 16:32:22 Drive Axis1 to 121.613625649 Degree
+2018-11-13 16:32:22 New X/Y Signal ROI at 2Theta=[14.4698386823,19.4698386823] Phi=[-5.02562468131,4.97437531869]
+2018-11-13 16:32:22 Driving to: (0.5,0,-1) at Omega=121.613625649
+2018-11-13 16:34:13 Set Title: Sitting on family (0.5,0,1)
+2018-11-13 16:35:41 Set Incident Energy to 12 meV
+2018-11-13 16:37:33 Drive Axis1 to 59.6531060634 Degree
+2018-11-13 16:37:33 New X/Y Signal ROI at 2Theta=[14.4624382313,19.4624382313] Phi=[-7.17954578292,2.82045421708]
+2018-11-13 16:37:33 Driving to: (0.5,0,1) at Omega=59.6531060634
+2018-11-13 16:39:51 Set Incident Energy to 12 meV
+2018-11-13 16:42:36 Set Incident Energy to 12 meV
+2018-11-13 16:47:59 Set Incident Energy to 12 meV
+2018-11-13 16:50:33 Set Incident Energy to 12 meV
+2018-11-13 16:52:53 Drive Axis1 to 45.6995345481 Degree
+2018-11-13 16:52:53 New X/Y Signal ROI at 2Theta=[14.4611046795,19.4611046795] Phi=[-56.130554482,-46.130554482]
+2018-11-13 16:52:53 Driving to: (0.5,-0.5,1) at Omega=45.6995345481
+2018-11-13 16:58:43 Drive Axis1 to 43.6788886859 Degree
+2018-11-13 16:58:43 New X/Y Signal ROI at 2Theta=[14.468278224,19.468278224] Phi=[41.1746988776,51.1746988776]
+2018-11-13 16:58:43 Driving to: (0,0.5,1) at Omega=43.6788886859
+2018-11-13 17:00:44 Drive Axis1 to 39.9114870501 Degree
+2018-11-13 17:00:44 New X/Y Signal ROI at 2Theta=[9.23354668764,14.2335466876] Phi=[40.8333736265,50.8333736265]
+2018-11-13 17:00:44 Driving to: (0,0.5,1) at Omega=39.9114870501
+2018-11-13 17:04:45 Relative Scan axis1, run 298486
+2018-11-13 17:09:39 Drive Axis1 to 39.9114870501 Degree
+2018-11-13 17:09:39 New X/Y Signal ROI at 2Theta=[9.23354668764,14.2335466876] Phi=[40.8333736265,50.8333736265]
+2018-11-13 17:09:39 Driving to: (0,0.5,1) at Omega=39.9114870501
+2018-11-13 17:10:47 New X/Y Signal ROI at 2Theta=[6.9,10.9] Phi=[14.5,18.5]
+2018-11-13 17:11:12 New X/Y Signal ROI at 2Theta=[6.9,10.9] Phi=[29,35]
+2018-11-13 17:11:25 New X/Y Signal ROI at 2Theta=[6.9,10.9] Phi=[38,45]
+2018-11-13 17:11:33 New X/Y Signal ROI at 2Theta=[6.9,10.9] Phi=[37,54]
+2018-11-13 17:11:38 New X/Y Signal ROI at 2Theta=[6.9,10.9] Phi=[37,52]
+2018-11-13 17:11:45 New X/Y Signal ROI at 2Theta=[6.9,10.9] Phi=[36,50]
+2018-11-13 17:28:55 Set Title: Ramping field scan number 0 of 550 at 25 meV
+2018-11-13 17:29:31 Set Title: Ramping field scan number 1 of 550 at 25 meV
+2018-11-13 17:30:08 Set Title: Ramping field scan number 2 of 550 at 25 meV
+2018-11-13 17:30:44 Set Title: Ramping field scan number 3 of 550 at 25 meV
+2018-11-13 17:31:20 Set Title: Ramping field scan number 4 of 550 at 25 meV
+2018-11-13 17:31:57 Set Title: Ramping field scan number 5 of 550 at 25 meV
+2018-11-13 17:32:34 Set Title: Ramping field scan number 6 of 550 at 25 meV
+2018-11-13 17:33:10 Set Title: Ramping field scan number 7 of 550 at 25 meV
+2018-11-13 17:33:46 Set Title: Ramping field scan number 8 of 550 at 25 meV
+2018-11-13 17:34:22 Set Title: Ramping field scan number 9 of 550 at 25 meV
+2018-11-13 17:34:59 Set Title: Ramping field scan number 10 of 550 at 25 meV
+2018-11-13 17:35:35 Set Title: Ramping field scan number 11 of 550 at 25 meV
+2018-11-13 17:36:12 Set Title: Ramping field scan number 12 of 550 at 25 meV
+2018-11-13 17:36:49 Set Title: Ramping field scan number 13 of 550 at 25 meV
+2018-11-13 17:37:25 Set Title: Ramping field scan number 14 of 550 at 25 meV
+2018-11-13 17:38:01 Set Title: Ramping field scan number 15 of 550 at 25 meV
+2018-11-13 17:38:38 Set Title: Ramping field scan number 16 of 550 at 25 meV
+2018-11-13 17:39:14 Set Title: Ramping field scan number 17 of 550 at 25 meV
+2018-11-13 17:39:50 Set Title: Ramping field scan number 18 of 550 at 25 meV
+2018-11-13 17:40:26 Set Title: Ramping field scan number 19 of 550 at 25 meV
+2018-11-13 17:41:03 Set Title: Ramping field scan number 20 of 550 at 25 meV
+2018-11-13 17:41:39 Set Title: Ramping field scan number 21 of 550 at 25 meV
+2018-11-13 17:42:16 Set Title: Ramping field scan number 22 of 550 at 25 meV
+2018-11-13 17:42:52 Set Title: Ramping field scan number 23 of 550 at 25 meV
+2018-11-13 17:43:28 Set Title: Ramping field scan number 24 of 550 at 25 meV
+2018-11-13 17:44:04 Set Title: Ramping field scan number 25 of 550 at 25 meV
+2018-11-13 17:44:40 Set Title: Ramping field scan number 26 of 550 at 25 meV
+2018-11-13 17:45:17 Set Title: Ramping field scan number 27 of 550 at 25 meV
+2018-11-13 17:45:53 Set Title: Ramping field scan number 28 of 550 at 25 meV
+2018-11-13 17:46:29 Set Title: Ramping field scan number 29 of 550 at 25 meV
+2018-11-13 17:47:06 Set Title: Ramping field scan number 30 of 550 at 25 meV
+2018-11-13 17:47:42 Set Title: Ramping field scan number 31 of 550 at 25 meV
+2018-11-13 17:48:19 Set Title: Ramping field scan number 32 of 550 at 25 meV
+2018-11-13 17:48:55 Set Title: Ramping field scan number 33 of 550 at 25 meV
+2018-11-13 17:49:32 Set Title: Ramping field scan number 34 of 550 at 25 meV
+2018-11-13 17:50:32 Set Title: Ramping field scan number 35 of 550 at 25 meV
+2018-11-13 17:51:08 Set Title: Ramping field scan number 36 of 550 at 25 meV
+2018-11-13 17:51:45 Set Title: Ramping field scan number 37 of 550 at 25 meV
+2018-11-13 17:52:21 Set Title: Ramping field scan number 38 of 550 at 25 meV
+2018-11-13 17:52:57 Set Title: Ramping field scan number 39 of 550 at 25 meV
+2018-11-13 17:53:33 Set Title: Ramping field scan number 40 of 550 at 25 meV
+2018-11-13 17:54:09 Set Title: Ramping field scan number 41 of 550 at 25 meV
+2018-11-13 17:54:46 Set Title: Ramping field scan number 42 of 550 at 25 meV
+2018-11-13 20:23:38 Drive Axis1 to 131.537232205 Degree
+2018-11-13 20:23:38 New X/Y Signal ROI at 2Theta=[96.2077870921,101.207787092] Phi=[-6.952468906,3.047531094]
+2018-11-13 20:23:38 Driving to: (3,0,0) at Omega=131.537232205
+2018-11-13 20:28:46 Relative Scan axis1, run 298531
+2018-11-13 20:36:06 Drive Axis1 to 20.3268150878 Degree
+2018-11-13 20:36:06 New X/Y Signal ROI at 2Theta=[51.7191716362,56.7191716362] Phi=[-8.2099034192,1.7900965808]
+2018-11-13 20:36:06 Driving to: (0,0,6) at Omega=20.3268150878
+2018-11-13 20:39:16 Relative Scan axis1, run 298533
+2018-11-13 20:45:55 Drive Axis1 to 88.5894473413 Degree
+2018-11-13 20:45:55 New X/Y Signal ROI at 2Theta=[69.7887921451,74.7887921451] Phi=[-8.33076755951,1.66923244049]
+2018-11-13 20:45:55 Driving to: (2,0,4) at Omega=88.5894473413
+2018-11-13 20:47:31 Relative Scan axis1, run 298535
+2018-11-13 20:55:03 Set Incident Energy to 12 meV
+2018-11-13 20:55:03 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-20 deg
+2018-11-13 20:57:43 Drive Axis1 to -20 Degree
+2018-11-13 21:04:57 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-18 deg
+2018-11-13 21:05:04 Drive Axis1 to -18 Degree
+2018-11-13 21:12:18 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-16 deg
+2018-11-13 21:12:25 Drive Axis1 to -16 Degree
+2018-11-13 21:19:39 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-14 deg
+2018-11-13 21:19:46 Drive Axis1 to -14 Degree
+2018-11-13 21:27:00 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-12 deg
+2018-11-13 21:27:06 Drive Axis1 to -12 Degree
+2018-11-13 21:34:21 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-10 deg
+2018-11-13 21:34:28 Drive Axis1 to -10 Degree
+2018-11-13 21:41:42 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-8 deg
+2018-11-13 21:41:48 Drive Axis1 to -8 Degree
+2018-11-13 21:49:03 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-6 deg
+2018-11-13 21:49:09 Drive Axis1 to -6 Degree
+2018-11-13 21:56:23 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-4 deg
+2018-11-13 21:56:30 Drive Axis1 to -4 Degree
+2018-11-13 22:03:42 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-2 deg
+2018-11-13 22:03:49 Drive Axis1 to -2 Degree
+2018-11-13 22:11:03 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=0 deg
+2018-11-13 22:11:10 Drive Axis1 to 0 Degree
+2018-11-13 22:18:23 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=2 deg
+2018-11-13 22:18:29 Drive Axis1 to 2 Degree
+2018-11-13 22:25:42 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=4 deg
+2018-11-13 22:25:49 Drive Axis1 to 4 Degree
+2018-11-13 22:33:02 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=6 deg
+2018-11-13 22:33:08 Drive Axis1 to 6 Degree
+2018-11-13 22:40:50 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=8 deg
+2018-11-13 22:40:56 Drive Axis1 to 8 Degree
+2018-11-13 22:48:08 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=10 deg
+2018-11-13 22:48:15 Drive Axis1 to 10 Degree
+2018-11-13 22:55:29 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=12 deg
+2018-11-13 22:55:36 Drive Axis1 to 12 Degree
+2018-11-13 23:02:49 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=14 deg
+2018-11-13 23:02:56 Drive Axis1 to 14 Degree
+2018-11-13 23:10:09 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=16 deg
+2018-11-13 23:10:16 Drive Axis1 to 16 Degree
+2018-11-13 23:17:29 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=18 deg
+2018-11-13 23:17:36 Drive Axis1 to 18 Degree
+2018-11-13 23:24:49 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=20 deg
+2018-11-13 23:24:55 Drive Axis1 to 20 Degree
+2018-11-13 23:32:08 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=22 deg
+2018-11-13 23:32:15 Drive Axis1 to 22 Degree
+2018-11-13 23:39:30 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=24 deg
+2018-11-13 23:39:36 Drive Axis1 to 24 Degree
+2018-11-13 23:46:49 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=26 deg
+2018-11-13 23:46:56 Drive Axis1 to 26 Degree
+2018-11-13 23:54:09 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=28 deg
+2018-11-13 23:54:16 Drive Axis1 to 28 Degree
+2018-11-14 00:01:29 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=30 deg
+2018-11-14 00:01:36 Drive Axis1 to 30 Degree
+2018-11-14 00:08:49 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=32 deg
+2018-11-14 00:08:56 Drive Axis1 to 32 Degree
+2018-11-14 00:16:10 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=34 deg
+2018-11-14 00:16:16 Drive Axis1 to 34 Degree
+2018-11-14 00:23:30 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=36 deg
+2018-11-14 00:23:37 Drive Axis1 to 36 Degree
+2018-11-14 00:30:51 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=38 deg
+2018-11-14 00:30:58 Drive Axis1 to 38 Degree
+2018-11-14 00:38:11 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=40 deg
+2018-11-14 00:38:18 Drive Axis1 to 40 Degree
+2018-11-14 00:45:31 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=42 deg
+2018-11-14 00:45:38 Drive Axis1 to 42 Degree
+2018-11-14 00:52:53 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=44 deg
+2018-11-14 00:53:00 Drive Axis1 to 44 Degree
+2018-11-14 01:00:14 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=46 deg
+2018-11-14 01:00:21 Drive Axis1 to 46 Degree
+2018-11-14 01:07:34 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=48 deg
+2018-11-14 01:07:41 Drive Axis1 to 48 Degree
+2018-11-14 01:14:54 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=50 deg
+2018-11-14 01:15:01 Drive Axis1 to 50 Degree
+2018-11-14 01:22:15 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=52 deg
+2018-11-14 01:22:21 Drive Axis1 to 52 Degree
+2018-11-14 01:29:36 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=54 deg
+2018-11-14 01:29:42 Drive Axis1 to 54 Degree
+2018-11-14 01:36:56 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=56 deg
+2018-11-14 01:37:02 Drive Axis1 to 56 Degree
+2018-11-14 01:44:16 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=58 deg
+2018-11-14 01:44:22 Drive Axis1 to 58 Degree
+2018-11-14 01:51:37 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=60 deg
+2018-11-14 01:51:43 Drive Axis1 to 60 Degree
+2018-11-14 01:58:57 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=62 deg
+2018-11-14 01:59:04 Drive Axis1 to 62 Degree
+2018-11-14 02:06:17 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=64 deg
+2018-11-14 02:06:24 Drive Axis1 to 64 Degree
+2018-11-14 02:13:37 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=66 deg
+2018-11-14 02:13:44 Drive Axis1 to 66 Degree
+2018-11-14 02:20:58 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=68 deg
+2018-11-14 02:21:04 Drive Axis1 to 68 Degree
+2018-11-14 02:28:18 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=70 deg
+2018-11-14 02:28:24 Drive Axis1 to 70 Degree
+2018-11-14 02:35:38 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=72 deg
+2018-11-14 02:35:45 Drive Axis1 to 72 Degree
+2018-11-14 02:42:58 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=74 deg
+2018-11-14 02:43:05 Drive Axis1 to 74 Degree
+2018-11-14 02:50:19 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=76 deg
+2018-11-14 02:50:25 Drive Axis1 to 76 Degree
+2018-11-14 02:57:40 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=78 deg
+2018-11-14 02:57:46 Drive Axis1 to 78 Degree
+2018-11-14 03:05:00 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=80 deg
+2018-11-14 03:05:07 Drive Axis1 to 80 Degree
+2018-11-14 03:12:20 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=82 deg
+2018-11-14 03:12:27 Drive Axis1 to 82 Degree
+2018-11-14 03:19:41 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=84 deg
+2018-11-14 03:19:48 Drive Axis1 to 84 Degree
+2018-11-14 03:27:01 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=86 deg
+2018-11-14 03:27:08 Drive Axis1 to 86 Degree
+2018-11-14 03:34:21 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=88 deg
+2018-11-14 03:34:28 Drive Axis1 to 88 Degree
+2018-11-14 03:41:43 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=90 deg
+2018-11-14 03:41:49 Drive Axis1 to 90 Degree
+2018-11-14 03:49:03 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=92 deg
+2018-11-14 03:49:09 Drive Axis1 to 92 Degree
+2018-11-14 03:56:23 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=94 deg
+2018-11-14 03:56:30 Drive Axis1 to 94 Degree
+2018-11-14 04:03:44 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=96 deg
+2018-11-14 04:03:50 Drive Axis1 to 96 Degree
+2018-11-14 04:11:04 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=98 deg
+2018-11-14 04:11:11 Drive Axis1 to 98 Degree
+2018-11-14 04:18:25 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=100 deg
+2018-11-14 04:18:31 Drive Axis1 to 100 Degree
+2018-11-14 04:25:46 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=102 deg
+2018-11-14 04:25:52 Drive Axis1 to 102 Degree
+2018-11-14 04:33:07 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=104 deg
+2018-11-14 04:33:13 Drive Axis1 to 104 Degree
+2018-11-14 04:40:28 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=106 deg
+2018-11-14 04:40:35 Drive Axis1 to 106 Degree
+2018-11-14 04:47:51 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=108 deg
+2018-11-14 04:47:57 Drive Axis1 to 108 Degree
+2018-11-14 04:55:12 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=110 deg
+2018-11-14 04:55:19 Drive Axis1 to 110 Degree
+2018-11-14 05:02:33 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=112 deg
+2018-11-14 05:02:40 Drive Axis1 to 112 Degree
+2018-11-14 05:09:54 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=114 deg
+2018-11-14 05:10:00 Drive Axis1 to 114 Degree
+2018-11-14 05:17:14 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=116 deg
+2018-11-14 05:17:21 Drive Axis1 to 116 Degree
+2018-11-14 05:24:35 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=118 deg
+2018-11-14 05:24:42 Drive Axis1 to 118 Degree
+2018-11-14 05:31:56 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=120 deg
+2018-11-14 05:32:02 Drive Axis1 to 120 Degree
+2018-11-14 05:39:17 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=122 deg
+2018-11-14 05:39:23 Drive Axis1 to 122 Degree
+2018-11-14 05:46:37 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=124 deg
+2018-11-14 05:46:44 Drive Axis1 to 124 Degree
+2018-11-14 05:53:58 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=126 deg
+2018-11-14 05:54:04 Drive Axis1 to 126 Degree
+2018-11-14 06:01:19 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=128 deg
+2018-11-14 06:01:25 Drive Axis1 to 128 Degree
+2018-11-14 06:08:40 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=130 deg
+2018-11-14 06:08:47 Drive Axis1 to 130 Degree
+2018-11-14 06:16:02 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=132 deg
+2018-11-14 06:16:08 Drive Axis1 to 132 Degree
+2018-11-14 06:23:22 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=134 deg
+2018-11-14 06:23:29 Drive Axis1 to 134 Degree
+2018-11-14 06:30:42 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=136 deg
+2018-11-14 06:30:49 Drive Axis1 to 136 Degree
+2018-11-14 06:38:03 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=138 deg
+2018-11-14 06:38:09 Drive Axis1 to 138 Degree
+2018-11-14 06:45:24 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=140 deg
+2018-11-14 06:45:31 Drive Axis1 to 140 Degree
+2018-11-14 06:52:45 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=142 deg
+2018-11-14 06:52:51 Drive Axis1 to 142 Degree
+2018-11-14 07:00:06 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=144 deg
+2018-11-14 07:00:12 Drive Axis1 to 144 Degree
+2018-11-14 07:07:27 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=146 deg
+2018-11-14 07:07:34 Drive Axis1 to 146 Degree
+2018-11-14 07:14:48 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=148 deg
+2018-11-14 07:14:55 Drive Axis1 to 148 Degree
+2018-11-14 07:22:10 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=150 deg
+2018-11-14 07:22:16 Drive Axis1 to 150 Degree
+2018-11-14 07:29:31 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=152 deg
+2018-11-14 07:29:37 Drive Axis1 to 152 Degree
+2018-11-14 07:36:53 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=154 deg
+2018-11-14 07:36:59 Drive Axis1 to 154 Degree
+2018-11-14 07:44:15 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=156 deg
+2018-11-14 07:44:21 Drive Axis1 to 156 Degree
+2018-11-14 07:51:36 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=158 deg
+2018-11-14 07:51:42 Drive Axis1 to 158 Degree
+2018-11-14 07:58:57 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=160 deg
+2018-11-14 07:59:04 Drive Axis1 to 160 Degree
+2018-11-14 08:06:18 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=162 deg
+2018-11-14 08:06:25 Drive Axis1 to 162 Degree
+2018-11-14 08:13:40 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=164 deg
+2018-11-14 08:13:47 Drive Axis1 to 164 Degree
+2018-11-14 08:21:02 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=166 deg
+2018-11-14 08:21:08 Drive Axis1 to 166 Degree
+2018-11-14 08:28:24 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=168 deg
+2018-11-14 08:28:31 Drive Axis1 to 168 Degree
+2018-11-14 08:35:47 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=170 deg
+2018-11-14 08:35:53 Drive Axis1 to 170 Degree
+2018-11-14 08:43:09 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=172 deg
+2018-11-14 08:43:15 Drive Axis1 to 172 Degree
+2018-11-14 08:50:32 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=174 deg
+2018-11-14 08:50:38 Drive Axis1 to 174 Degree
+2018-11-14 08:57:56 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=176 deg
+2018-11-14 08:58:03 Drive Axis1 to 176 Degree
+2018-11-14 09:05:19 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=178 deg
+2018-11-14 09:05:25 Drive Axis1 to 178 Degree
+2018-11-14 09:12:42 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=180 deg
+2018-11-14 09:12:49 Drive Axis1 to 180 Degree
+2018-11-14 09:20:04 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-19 deg
+2018-11-14 09:24:46 Drive Axis1 to -19 Degree
+2018-11-14 09:32:03 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-17 deg
+2018-11-14 09:32:10 Drive Axis1 to -17 Degree
+2018-11-14 09:39:26 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-15 deg
+2018-11-14 09:39:33 Drive Axis1 to -15 Degree
+2018-11-14 09:46:50 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-13 deg
+2018-11-14 09:46:56 Drive Axis1 to -13 Degree
+2018-11-14 09:54:13 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-11 deg
+2018-11-14 09:54:20 Drive Axis1 to -11 Degree
+2018-11-14 10:01:36 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-9 deg
+2018-11-14 10:01:43 Drive Axis1 to -9 Degree
+2018-11-14 10:08:59 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-7 deg
+2018-11-14 10:09:06 Drive Axis1 to -7 Degree
+2018-11-14 10:16:23 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-5 deg
+2018-11-14 10:16:29 Drive Axis1 to -5 Degree
+2018-11-14 10:23:45 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-3 deg
+2018-11-14 10:23:52 Drive Axis1 to -3 Degree
+2018-11-14 10:31:08 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=-1 deg
+2018-11-14 10:31:15 Drive Axis1 to -1 Degree
+2018-11-14 10:38:31 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=1 deg
+2018-11-14 10:38:37 Drive Axis1 to 1 Degree
+2018-11-14 10:45:54 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=3 deg
+2018-11-14 10:46:00 Drive Axis1 to 3 Degree
+2018-11-14 10:53:16 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=5 deg
+2018-11-14 10:53:23 Drive Axis1 to 5 Degree
+2018-11-14 11:00:39 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=7 deg
+2018-11-14 11:00:45 Drive Axis1 to 7 Degree
+2018-11-14 11:08:02 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=9 deg
+2018-11-14 11:08:09 Drive Axis1 to 9 Degree
+2018-11-14 11:15:25 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=11 deg
+2018-11-14 11:15:32 Drive Axis1 to 11 Degree
+2018-11-14 11:22:48 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=13 deg
+2018-11-14 11:22:55 Drive Axis1 to 13 Degree
+2018-11-14 11:30:11 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=15 deg
+2018-11-14 11:30:18 Drive Axis1 to 15 Degree
+2018-11-14 11:37:33 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=17 deg
+2018-11-14 11:37:40 Drive Axis1 to 17 Degree
+2018-11-14 11:44:56 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=19 deg
+2018-11-14 11:45:02 Drive Axis1 to 19 Degree
+2018-11-14 11:52:19 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=21 deg
+2018-11-14 11:52:25 Drive Axis1 to 21 Degree
+2018-11-14 11:59:41 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=23 deg
+2018-11-14 11:59:47 Drive Axis1 to 23 Degree
+2018-11-14 12:07:03 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=25 deg
+2018-11-14 12:07:09 Drive Axis1 to 25 Degree
+2018-11-14 12:14:26 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=27 deg
+2018-11-14 12:14:32 Drive Axis1 to 27 Degree
+2018-11-14 12:21:49 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=29 deg
+2018-11-14 12:21:55 Drive Axis1 to 29 Degree
+2018-11-14 12:29:11 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=31 deg
+2018-11-14 12:29:18 Drive Axis1 to 31 Degree
+2018-11-14 12:36:35 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=33 deg
+2018-11-14 12:36:41 Drive Axis1 to 33 Degree
+2018-11-14 12:43:57 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=35 deg
+2018-11-14 12:44:04 Drive Axis1 to 35 Degree
+2018-11-14 12:51:21 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=37 deg
+2018-11-14 12:51:28 Drive Axis1 to 37 Degree
+2018-11-14 12:58:44 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=39 deg
+2018-11-14 12:58:51 Drive Axis1 to 39 Degree
+2018-11-14 13:06:08 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=41 deg
+2018-11-14 13:06:15 Drive Axis1 to 41 Degree
+2018-11-14 13:13:32 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=43 deg
+2018-11-14 13:13:39 Drive Axis1 to 43 Degree
+2018-11-14 13:20:56 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=45 deg
+2018-11-14 13:21:02 Drive Axis1 to 45 Degree
+2018-11-14 13:28:19 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=47 deg
+2018-11-14 13:28:25 Drive Axis1 to 47 Degree
+2018-11-14 13:35:42 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=49 deg
+2018-11-14 13:35:49 Drive Axis1 to 49 Degree
+2018-11-14 13:43:06 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=51 deg
+2018-11-14 13:43:13 Drive Axis1 to 51 Degree
+2018-11-14 13:50:32 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=53 deg
+2018-11-14 13:50:39 Drive Axis1 to 53 Degree
+2018-11-14 13:57:57 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=55 deg
+2018-11-14 13:58:04 Drive Axis1 to 55 Degree
+2018-11-14 14:05:22 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=57 deg
+2018-11-14 14:05:28 Drive Axis1 to 57 Degree
+2018-11-14 14:12:46 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=59 deg
+2018-11-14 14:12:53 Drive Axis1 to 59 Degree
+2018-11-14 14:20:10 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=61 deg
+2018-11-14 14:20:17 Drive Axis1 to 61 Degree
+2018-11-14 14:27:34 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=63 deg
+2018-11-14 14:27:40 Drive Axis1 to 63 Degree
+2018-11-14 14:34:57 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=65 deg
+2018-11-14 14:35:04 Drive Axis1 to 65 Degree
+2018-11-14 14:42:20 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=67 deg
+2018-11-14 14:42:27 Drive Axis1 to 67 Degree
+2018-11-14 14:49:45 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=69 deg
+2018-11-14 14:49:52 Drive Axis1 to 69 Degree
+2018-11-14 14:57:10 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=71 deg
+2018-11-14 14:57:16 Drive Axis1 to 71 Degree
+2018-11-14 15:04:34 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=73 deg
+2018-11-14 15:04:41 Drive Axis1 to 73 Degree
+2018-11-14 15:11:57 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=75 deg
+2018-11-14 15:12:04 Drive Axis1 to 75 Degree
+2018-11-14 15:19:21 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=77 deg
+2018-11-14 15:19:28 Drive Axis1 to 77 Degree
+2018-11-14 15:26:46 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=79 deg
+2018-11-14 15:26:52 Drive Axis1 to 79 Degree
+2018-11-14 15:34:10 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=81 deg
+2018-11-14 15:34:17 Drive Axis1 to 81 Degree
+2018-11-14 15:41:35 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=83 deg
+2018-11-14 15:41:42 Drive Axis1 to 83 Degree
+2018-11-14 15:49:00 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=85 deg
+2018-11-14 15:49:07 Drive Axis1 to 85 Degree
+2018-11-14 15:56:25 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=87 deg
+2018-11-14 15:56:31 Drive Axis1 to 87 Degree
+2018-11-14 16:03:50 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=89 deg
+2018-11-14 16:03:56 Drive Axis1 to 89 Degree
+2018-11-14 16:11:15 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=91 deg
+2018-11-14 16:11:21 Drive Axis1 to 91 Degree
+2018-11-14 16:18:40 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=93 deg
+2018-11-14 16:18:47 Drive Axis1 to 93 Degree
+2018-11-14 16:26:06 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=95 deg
+2018-11-14 16:26:13 Drive Axis1 to 95 Degree
+2018-11-14 16:33:32 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=97 deg
+2018-11-14 16:33:39 Drive Axis1 to 97 Degree
+2018-11-14 16:40:58 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=99 deg
+2018-11-14 16:41:05 Drive Axis1 to 99 Degree
+2018-11-14 16:48:24 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=101 deg
+2018-11-14 16:48:31 Drive Axis1 to 101 Degree
+2018-11-14 16:55:50 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=103 deg
+2018-11-14 16:55:56 Drive Axis1 to 103 Degree
+2018-11-14 17:03:15 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=105 deg
+2018-11-14 17:03:22 Drive Axis1 to 105 Degree
+2018-11-14 17:10:40 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=107 deg
+2018-11-14 17:10:47 Drive Axis1 to 107 Degree
+2018-11-14 17:18:05 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=109 deg
+2018-11-14 17:18:12 Drive Axis1 to 109 Degree
+2018-11-14 17:25:31 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=111 deg
+2018-11-14 17:25:38 Drive Axis1 to 111 Degree
+2018-11-14 17:32:57 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=113 deg
+2018-11-14 17:33:03 Drive Axis1 to 113 Degree
+2018-11-14 17:40:22 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=115 deg
+2018-11-14 17:40:29 Drive Axis1 to 115 Degree
+2018-11-14 17:47:47 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=117 deg
+2018-11-14 17:47:53 Drive Axis1 to 117 Degree
+2018-11-14 17:55:11 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=119 deg
+2018-11-14 17:55:18 Drive Axis1 to 119 Degree
+2018-11-14 18:02:36 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=121 deg
+2018-11-14 18:02:43 Drive Axis1 to 121 Degree
+2018-11-14 18:10:02 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=123 deg
+2018-11-14 18:10:08 Drive Axis1 to 123 Degree
+2018-11-14 18:17:26 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=125 deg
+2018-11-14 18:17:33 Drive Axis1 to 125 Degree
+2018-11-14 18:24:50 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=127 deg
+2018-11-14 18:24:56 Drive Axis1 to 127 Degree
+2018-11-14 18:32:11 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=129 deg
+2018-11-14 18:32:18 Drive Axis1 to 129 Degree
+2018-11-14 18:39:33 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=131 deg
+2018-11-14 18:39:39 Drive Axis1 to 131 Degree
+2018-11-14 18:46:55 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=133 deg
+2018-11-14 18:47:01 Drive Axis1 to 133 Degree
+2018-11-14 18:54:16 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=135 deg
+2018-11-14 18:54:23 Drive Axis1 to 135 Degree
+2018-11-14 19:01:37 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=137 deg
+2018-11-14 19:01:44 Drive Axis1 to 137 Degree
+2018-11-14 19:08:59 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=139 deg
+2018-11-14 19:09:05 Drive Axis1 to 139 Degree
+2018-11-14 19:16:22 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=141 deg
+2018-11-14 19:16:28 Drive Axis1 to 141 Degree
+2018-11-14 19:23:45 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=143 deg
+2018-11-14 19:23:51 Drive Axis1 to 143 Degree
+2018-11-14 19:31:05 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=145 deg
+2018-11-14 19:31:12 Drive Axis1 to 145 Degree
+2018-11-14 19:38:28 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=147 deg
+2018-11-14 19:38:34 Drive Axis1 to 147 Degree
+2018-11-14 19:45:48 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=149 deg
+2018-11-14 19:45:55 Drive Axis1 to 149 Degree
+2018-11-14 19:53:11 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=151 deg
+2018-11-14 19:53:17 Drive Axis1 to 151 Degree
+2018-11-14 20:00:32 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=153 deg
+2018-11-14 20:00:39 Drive Axis1 to 153 Degree
+2018-11-14 20:07:54 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=155 deg
+2018-11-14 20:08:00 Drive Axis1 to 155 Degree
+2018-11-14 20:15:14 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=157 deg
+2018-11-14 20:15:21 Drive Axis1 to 157 Degree
+2018-11-14 20:22:36 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=159 deg
+2018-11-14 20:22:42 Drive Axis1 to 159 Degree
+2018-11-14 20:29:57 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=161 deg
+2018-11-14 20:30:03 Drive Axis1 to 161 Degree
+2018-11-14 20:37:18 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=163 deg
+2018-11-14 20:37:25 Drive Axis1 to 163 Degree
+2018-11-14 20:44:38 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=165 deg
+2018-11-14 20:44:45 Drive Axis1 to 165 Degree
+2018-11-14 20:52:00 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=167 deg
+2018-11-14 20:52:06 Drive Axis1 to 167 Degree
+2018-11-14 20:59:21 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=169 deg
+2018-11-14 20:59:27 Drive Axis1 to 169 Degree
+2018-11-14 21:06:41 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=171 deg
+2018-11-14 21:06:48 Drive Axis1 to 171 Degree
+2018-11-14 21:14:03 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=173 deg
+2018-11-14 21:14:09 Drive Axis1 to 173 Degree
+2018-11-14 21:21:23 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=175 deg
+2018-11-14 21:21:30 Drive Axis1 to 175 Degree
+2018-11-14 21:28:44 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=177 deg
+2018-11-14 21:28:50 Drive Axis1 to 177 Degree
+2018-11-14 21:36:04 Set Title: RuCl3, H=11 T, T=2.7 K, Ei=12 meV, w=179 deg
+2018-11-14 21:36:11 Drive Axis1 to 179 Degree
+2018-11-14 21:44:58 Drive Axis1 to -20 Degree
+2018-11-14 22:25:57 Set Incident Energy to 12 meV
+2018-11-14 22:25:57 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=-20 deg
+2018-11-14 22:25:58 Drive Axis1 to -20 Degree
+2018-11-14 22:33:13 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=-18 deg
+2018-11-14 22:33:19 Drive Axis1 to -18 Degree
+2018-11-14 22:40:34 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=-16 deg
+2018-11-14 22:40:40 Drive Axis1 to -16 Degree
+2018-11-14 22:47:56 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=-14 deg
+2018-11-14 22:48:02 Drive Axis1 to -14 Degree
+2018-11-14 22:55:40 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=-12 deg
+2018-11-14 22:55:46 Drive Axis1 to -12 Degree
+2018-11-14 23:03:01 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=-10 deg
+2018-11-14 23:03:07 Drive Axis1 to -10 Degree
+2018-11-14 23:10:21 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=-8 deg
+2018-11-14 23:10:28 Drive Axis1 to -8 Degree
+2018-11-14 23:17:42 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=-6 deg
+2018-11-14 23:17:49 Drive Axis1 to -6 Degree
+2018-11-14 23:25:04 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=-4 deg
+2018-11-14 23:25:11 Drive Axis1 to -4 Degree
+2018-11-14 23:32:26 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=-2 deg
+2018-11-14 23:32:33 Drive Axis1 to -2 Degree
+2018-11-14 23:39:48 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=0 deg
+2018-11-14 23:39:54 Drive Axis1 to 0 Degree
+2018-11-14 23:47:10 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=2 deg
+2018-11-14 23:47:17 Drive Axis1 to 2 Degree
+2018-11-14 23:54:33 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=4 deg
+2018-11-14 23:54:40 Drive Axis1 to 4 Degree
+2018-11-15 00:01:56 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=6 deg
+2018-11-15 00:02:02 Drive Axis1 to 6 Degree
+2018-11-15 00:09:18 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=8 deg
+2018-11-15 00:09:25 Drive Axis1 to 8 Degree
+2018-11-15 00:16:41 Set Title: RuCl3, H=8 T, T=2.7 K, Ei=12 meV, w=10 deg
+2018-11-15 00:16:47 Drive Axis1 to 10 Degree
+2018-11-15 17:48:46 Set Incident Energy to 12 meV
+2018-11-15 17:48:46 Set Title: dummy run ramping beam
+2018-11-30 13:15:24 Set Title: SNS
+2018-11-30 13:16:58 peacan pie
+2018-11-30 13:35:12 Move Sample Z to 305 mm
+2018-11-30 13:38:09 Move Sample Z to 295.0 mm

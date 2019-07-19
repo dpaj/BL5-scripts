@@ -1,0 +1,58 @@
+2018-06-06 15:10:11 Line Log cleared
+2018-06-06 15:10:11 Starting IPTS-20360 on 2018-06-06
+2018-06-06 15:10:38 Set Title: Vanadium foil test for Flux intensity and Energy Resolution
+2018-06-06 15:40:08 Set Title: V-foil HF, T=300 K, Ei=81.74512 meV
+2018-06-06 15:40:49 Set Incident Energy to 81.74512 meV
+2018-06-06 16:19:38 Set Title: V-foil HF, T=300 K, Ei=36.3311644444 meV
+2018-06-06 16:20:32 Set Incident Energy to 36.3311644444 meV
+2018-06-06 16:59:22 Set Title: V-foil HF, T=300 K, Ei=20.43628 meV
+2018-06-06 17:00:17 Set Incident Energy to 20.43628 meV
+2018-06-06 17:18:22 comment: SampleZ position for CCR10 is 198.44, The beamstop is directly attached
+2018-06-06 17:39:05 Set Title: V-foil HF, T=300 K, Ei=13.0792192 meV
+2018-06-06 17:39:56 Set Incident Energy to 13.0792192 meV
+2018-06-06 18:18:45 Set Title: V-foil HF, T=300 K, Ei=9.08279111111 meV
+2018-06-06 18:19:33 Set Incident Energy to 9.08279111111 meV
+2018-06-06 18:58:24 Set Title: V-foil HF, T=300 K, Ei=6.67307102041 meV
+2018-06-06 18:59:17 Set Incident Energy to 6.67307102041 meV
+2018-06-06 19:38:06 Set Title: V-foil HF, T=300 K, Ei=5.10907 meV
+2018-06-06 19:38:57 Set Incident Energy to 5.10907 meV
+2018-06-06 20:17:47 Set Title: V-foil HF, T=300 K, Ei=4.03679604938 meV
+2018-06-06 20:18:40 Set Incident Energy to 4.03679604938 meV
+2018-06-06 20:57:27 Set Title: V-foil HF, T=300 K, Ei=3.2698048 meV
+2018-06-06 20:58:15 Set Incident Energy to 3.2698048 meV
+2018-06-06 21:37:04 Set Title: V-foil HF, T=300 K, Ei=2.70231801653 meV
+2018-06-06 21:37:53 Set Incident Energy to 2.70231801653 meV
+2018-06-06 22:16:40 Set Title: V-foil HF, T=300 K, Ei=2.27069777778 meV
+2018-06-06 22:17:33 Set Incident Energy to 2.27069777778 meV
+2018-06-06 22:56:17 Set Title: V-foil HF, T=300 K, Ei=1.93479573964 meV
+2018-06-06 22:57:09 Set Incident Energy to 1.93479573964 meV
+2018-06-06 23:35:51 Set Title: V-foil HF, T=300 K, Ei=1.6682677551 meV
+2018-06-06 23:36:43 Set Incident Energy to 1.6682677551 meV
+2018-06-07 00:15:25 Set Title: V-foil HF, T=300 K, Ei=1.45324657778 meV
+2018-06-07 00:16:16 Set Incident Energy to 1.45324657778 meV
+2018-06-07 00:55:17 Set Title: V-foil HF, T=300 K, Ei=1.2772675 meV
+2018-06-07 00:56:07 Set Incident Energy to 1.2772675 meV
+2018-06-07 01:35:29 Set Title: V-foil HF, T=300 K, Ei=1.13142034602 meV
+2018-06-07 01:36:23 Set Incident Energy to 1.13142034602 meV
+2018-06-07 02:15:01 Set Title: V-foil HF, T=300 K, Ei=1.00919901235 meV
+2018-06-07 02:15:53 Set Incident Energy to 1.00919901235 meV
+2018-06-07 02:57:37 Set Title: V-foil HF, T=300 K, Ei=0.905763102493 meV
+2018-06-07 02:58:31 Set Incident Energy to 0.905763102493 meV
+2018-06-07 03:38:24 Set Title: V-foil HF, T=300 K, Ei=0.8174512 meV
+2018-06-07 03:39:15 Set Incident Energy to 0.8174512 meV
+2018-06-07 04:19:15 Set Title: V-foil HF, T=300 K, Ei=0.741452335601 meV
+2018-06-07 04:19:58 Set Incident Energy to 0.741452335601 meV
+2018-06-07 05:03:25 Set Title: V-foil AI, T=300 K, Ei=81.74512 meV
+2018-06-07 05:04:17 Set Incident Energy to 81.74512 meV
+2018-06-07 05:46:05 Set Title: V-foil AI, T=300 K, Ei=36.3311644444 meV
+2018-06-07 05:46:55 Set Incident Energy to 36.3311644444 meV
+2018-06-07 06:25:46 Set Title: V-foil AI, T=300 K, Ei=20.43628 meV
+2018-06-07 06:26:39 Set Incident Energy to 20.43628 meV
+2018-06-07 07:05:29 Set Title: V-foil AI, T=300 K, Ei=13.0792192 meV
+2018-06-07 07:06:23 Set Incident Energy to 13.0792192 meV
+2018-06-07 07:45:33 Set Title: V-foil AI, T=300 K, Ei=9.08279111111 meV
+2018-06-07 07:46:26 Set Incident Energy to 9.08279111111 meV
+2018-06-07 08:25:15 Set Title: V-foil AI, T=300 K, Ei=6.67307102041 meV
+2018-06-07 08:26:05 Set Incident Energy to 6.67307102041 meV
+2018-06-07 09:04:51 Set Title: V-foil AI, T=300 K, Ei=5.10907 meV
+2018-06-07 09:05:46 Set Incident Energy to 5.10907 meV

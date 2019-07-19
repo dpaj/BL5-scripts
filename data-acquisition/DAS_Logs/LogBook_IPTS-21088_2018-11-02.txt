@@ -1,0 +1,84 @@
+2018-11-01 09:14:11 Line Log cleared
+2018-11-01 09:14:11 Starting IPTS-21088 on 2018-11-01
+2018-11-01 10:20:46 Set Incident Energy to 12.0 meV
+2018-11-01 10:20:51 Set Title: TOP, Vanadium, initialcooldown
+2018-11-01 10:57:50 Set Incident Energy to 12.0 meV
+2018-11-01 10:57:55 Set Title: BOT, NBCT, initialcooldown
+2018-11-01 11:35:41 Set Incident Energy to 1.0 meV
+2018-11-01 11:35:46 Set Title: TOP, Vanadium, initialcooldown
+2018-11-01 12:12:43 Set Incident Energy to 1.0 meV
+2018-11-01 12:12:48 Set Title: BOT, NBCT, initialcooldown
+2018-11-01 12:50:26 Set Incident Energy to 3.32 meV
+2018-11-01 12:50:31 Set Title: TOP, Vanadium, initialcooldown
+2018-11-01 13:27:28 Set Incident Energy to 3.32 meV
+2018-11-01 13:27:33 Set Title: BOT, NBCT, initialcooldown
+2018-11-01 14:05:06 Set Incident Energy to 1.0 meV
+2018-11-01 14:05:11 Set Title: TOP, Vanadium, initialcooldown
+2018-11-01 16:37:16 Set Incident Energy to 1.0 meV
+2018-11-01 16:37:16 Set Title: TOP, Vanadium, baseT
+2018-11-01 17:14:11 Set Incident Energy to 1.0 meV
+2018-11-01 17:14:11 Set Title: BOT, NBCT, baseT
+2018-11-01 17:51:00 Set Incident Energy to 1.0 meV
+2018-11-01 17:51:00 Set Title: TOP, Vanadium, baseT
+2018-11-01 18:28:12 Set Incident Energy to 1.0 meV
+2018-11-01 18:28:12 Set Title: BOT, NBCT, baseT
+2018-11-01 19:05:01 Set Incident Energy to 1.0 meV
+2018-11-01 19:05:01 Set Title: TOP, Vanadium, baseT
+2018-11-01 19:42:01 Set Incident Energy to 1.0 meV
+2018-11-01 19:42:01 Set Title: BOT, NBCT, baseT
+2018-11-01 20:18:54 Set Incident Energy to 1.0 meV
+2018-11-01 20:18:54 Set Title: TOP, Vanadium, baseT
+2018-11-01 20:56:24 Set Incident Energy to 1.0 meV
+2018-11-01 20:56:24 Set Title: BOT, NBCT, baseT
+2018-11-01 21:33:14 Set Incident Energy to 1.0 meV
+2018-11-01 21:33:14 Set Title: TOP, Vanadium, baseT
+2018-11-01 22:10:38 Set Incident Energy to 1.0 meV
+2018-11-01 22:10:38 Set Title: BOT, NBCT, baseT
+2018-11-01 22:47:48 Set Incident Energy to 1.0 meV
+2018-11-01 22:47:48 Set Title: TOP, Vanadium, baseT
+2018-11-01 23:24:40 Set Incident Energy to 1.0 meV
+2018-11-01 23:24:40 Set Title: BOT, NBCT, baseT
+2018-11-01 23:51:08 Set Incident Energy to 1.0 meV
+2018-11-01 23:51:08 Set Title: BOT, NBCT, baseT
+2018-11-02 00:27:20 Set Incident Energy to 1.0 meV
+2018-11-02 00:27:20 Set Title: BOT, NBCT, baseT
+2018-11-02 01:10:10 Set Incident Energy to 1.0 meV
+2018-11-02 01:10:10 Set Title: BOT, NBCT, baseT
+2018-11-02 01:47:07 Set Incident Energy to 1.0 meV
+2018-11-02 01:47:07 Set Title: BOT, NBCT, baseT
+2018-11-02 02:23:22 Set Incident Energy to 1.0 meV
+2018-11-02 02:23:22 Set Title: BOT, NBCT, baseT
+2018-11-02 03:00:03 Set Incident Energy to 1.0 meV
+2018-11-02 03:00:03 Set Title: BOT, NBCT, baseT
+2018-11-02 03:36:18 Set Incident Energy to 1.0 meV
+2018-11-02 03:36:18 Set Title: BOT, NBCT, baseT
+2018-11-02 04:12:36 Set Incident Energy to 1.0 meV
+2018-11-02 04:12:36 Set Title: BOT, NBCT, baseT
+2018-11-02 04:48:58 Set Incident Energy to 1.0 meV
+2018-11-02 04:48:58 Set Title: BOT, NBCT, baseT
+2018-11-02 05:25:18 Set Incident Energy to 1.0 meV
+2018-11-02 05:25:18 Set Title: BOT, NBCT, baseT
+2018-11-02 06:01:42 Set Incident Energy to 1.0 meV
+2018-11-02 06:01:42 Set Title: BOT, NBCT, baseT
+2018-11-02 06:40:48 Set Incident Energy to 1.0 meV
+2018-11-02 06:40:48 Set Title: BOT, NBCT, baseT
+2018-11-02 07:17:13 Set Incident Energy to 1.0 meV
+2018-11-02 07:17:13 Set Title: BOT, NBCT, baseT
+2018-11-02 07:53:38 Set Incident Energy to 1.0 meV
+2018-11-02 07:53:38 Set Title: BOT, NBCT, baseT
+2018-11-02 08:30:00 Set Incident Energy to 1.0 meV
+2018-11-02 08:30:00 Set Title: BOT, NBCT, baseT
+2018-11-02 09:09:00 Set Incident Energy to 1.0 meV
+2018-11-02 09:09:00 Set Title: BOT, NBCT, baseT
+2018-11-02 09:47:20 Set Incident Energy to 1.0 meV
+2018-11-02 09:47:20 Set Title: BOT, NBCT, baseT
+2018-11-02 10:29:02 Set Incident Energy to 3.32 meV
+2018-11-02 10:29:02 Set Title: TOP, Vanadium, baseT
+2018-11-02 11:06:08 Set Incident Energy to 3.32 meV
+2018-11-02 11:06:08 Set Title: BOT, NBCT, baseT
+2018-11-02 11:45:49 Set Incident Energy to 3.32 meV
+2018-11-02 11:45:49 Set Title: BOT, NBCT, baseT
+2018-11-02 12:22:12 Set Incident Energy to 3.32 meV
+2018-11-02 12:22:12 Set Title: BOT, NBCT, baseT
+2018-11-02 12:59:13 Set Incident Energy to 3.32 meV
+2018-11-02 12:59:13 Set Title: BOT, NBCT, baseT

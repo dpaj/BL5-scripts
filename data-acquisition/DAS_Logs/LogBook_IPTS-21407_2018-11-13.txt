@@ -1,0 +1,2380 @@
+2018-11-06 10:50:49 Line Log cleared
+2018-11-06 10:50:49 Starting IPTS-21407 on 2018-11-06
+2018-11-07 14:35:31 Set vticryo6 Temperature : 131 K
+2018-11-07 15:04:14 Setting: a=5.126 b=5.331 c=7.313 alpha=90 beta=90 gamma=90
+2018-11-07 15:05:01 Setting U vec: h=0 k=1 l=0
+2018-11-07 15:05:06 Setting V vec: h=0 k=0 l=1
+2018-11-07 15:10:13 Relative Scan axis1, run 297294
+2018-11-07 15:45:05 Set Title: sitting (002
+2018-11-07 15:45:14 Relative Scan axis1, run 297296
+2018-11-07 15:55:27 Drive Axis1 to -23.8657474941 Degree
+2018-11-07 15:55:27 New X/Y Signal ROI at 2Theta=[56.1504273927,61.1504273927] Phi=[-5.24521227955,4.75478772045]
+2018-11-07 15:55:28 Driving to: (0,2,0) at Omega=-23.8657474941
+2018-11-07 15:58:06 Drive Axis1 to 156.134252506 Degree
+2018-11-07 15:58:06 New X/Y Signal ROI at 2Theta=[56.1504273927,61.1504273927] Phi=[-4.75478772045,5.24521227955]
+2018-11-07 15:58:06 Driving to: (0,-2,0) at Omega=156.134252506
+2018-11-07 16:01:59 Relative Scan axis1, run 297299
+2018-11-07 16:08:45 Drive Axis1 to 0.478222490902 Degree
+2018-11-07 16:08:45 New X/Y Signal ROI at 2Theta=[32.7797224297,37.7797224297] Phi=[-5.6215719176,4.3784280824]
+2018-11-07 16:08:45 Driving to: (0,1,1) at Omega=0.478222490902
+2018-11-07 16:13:30 Drive Axis1 to -39.086633253 Degree
+2018-11-07 16:13:30 New X/Y Signal ROI at 2Theta=[25.8435366399,30.8435366399] Phi=[-5.03150676803,4.96849323197]
+2018-11-07 16:13:30 Driving to: (0,1,0) at Omega=-39.086633253
+2018-11-07 16:14:40 Drive Axis1 to 140.913366747 Degree
+2018-11-07 16:14:40 New X/Y Signal ROI at 2Theta=[25.8435366399,30.8435366399] Phi=[-4.96849323197,5.03150676803]
+2018-11-07 16:14:40 Driving to: (0,-1,0) at Omega=140.913366747
+2018-11-07 16:15:49 Drive Axis1 to -67.4301740057 Degree
+2018-11-07 16:15:49 New X/Y Signal ROI at 2Theta=[25.8435366399,30.8435366399] Phi=[174.968493232,184.968493232]
+2018-11-07 16:15:49 Driving to: (0,-1,0) at Omega=-67.4301740057
+2018-11-07 16:28:05 Set Incident Energy to 3.32 meV
+2018-11-07 16:28:06 Setting cryo6 Temperature : 200.0 K
+2018-11-07 16:28:06 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=32 deg
+2018-11-07 16:28:29 Drive Axis1 to 32 Degree
+2018-11-07 16:33:55 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=33 deg
+2018-11-07 16:34:00 Drive Axis1 to 33 Degree
+2018-11-07 16:39:27 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=34 deg
+2018-11-07 16:39:31 Drive Axis1 to 34 Degree
+2018-11-07 16:44:58 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=35 deg
+2018-11-07 16:45:03 Drive Axis1 to 35 Degree
+2018-11-07 16:50:30 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=36 deg
+2018-11-07 16:50:35 Drive Axis1 to 36 Degree
+2018-11-07 16:56:02 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=37 deg
+2018-11-07 16:56:06 Drive Axis1 to 37 Degree
+2018-11-07 17:01:33 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=38 deg
+2018-11-07 17:01:38 Drive Axis1 to 38 Degree
+2018-11-07 17:07:05 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=39 deg
+2018-11-07 17:07:10 Drive Axis1 to 39 Degree
+2018-11-07 17:12:36 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=40 deg
+2018-11-07 17:12:41 Drive Axis1 to 40 Degree
+2018-11-07 17:18:08 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=41 deg
+2018-11-07 17:18:13 Drive Axis1 to 41 Degree
+2018-11-07 17:23:59 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=42 deg
+2018-11-07 17:24:04 Drive Axis1 to 42 Degree
+2018-11-07 17:29:31 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=43 deg
+2018-11-07 17:29:36 Drive Axis1 to 43 Degree
+2018-11-07 17:35:03 Setting cryo6 Temperature : 200.0 K
+2018-11-07 17:35:03 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=32 deg
+2018-11-07 17:35:34 Drive Axis1 to 32 Degree
+2018-11-07 17:41:00 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=33 deg
+2018-11-07 17:41:05 Drive Axis1 to 33 Degree
+2018-11-07 17:46:32 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=34 deg
+2018-11-07 17:46:37 Drive Axis1 to 34 Degree
+2018-11-07 17:52:04 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=35 deg
+2018-11-07 17:52:09 Drive Axis1 to 35 Degree
+2018-11-07 17:57:35 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=36 deg
+2018-11-07 17:57:40 Drive Axis1 to 36 Degree
+2018-11-07 18:03:06 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=37 deg
+2018-11-07 18:03:10 Drive Axis1 to 37 Degree
+2018-11-07 18:08:36 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=38 deg
+2018-11-07 18:08:41 Drive Axis1 to 38 Degree
+2018-11-07 18:14:08 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=39 deg
+2018-11-07 18:14:12 Drive Axis1 to 39 Degree
+2018-11-07 18:19:38 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=40 deg
+2018-11-07 18:19:43 Drive Axis1 to 40 Degree
+2018-11-07 18:25:10 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=41 deg
+2018-11-07 18:25:15 Drive Axis1 to 41 Degree
+2018-11-07 18:30:41 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=42 deg
+2018-11-07 18:30:46 Drive Axis1 to 42 Degree
+2018-11-07 18:36:12 Set Title: 8 Tesla, T=200.0 K, Ei=3.32 meV, w=43 deg
+2018-11-07 18:36:17 Drive Axis1 to 43 Degree
+2018-11-07 22:02:21 Setting cryo6 Temperature : 100.0 K
+2018-11-07 22:02:21 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=32 deg
+2018-11-07 22:02:51 Drive Axis1 to 32 Degree
+2018-11-07 22:08:17 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=33 deg
+2018-11-07 22:08:22 Drive Axis1 to 33 Degree
+2018-11-07 22:13:47 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=34 deg
+2018-11-07 22:13:52 Drive Axis1 to 34 Degree
+2018-11-07 22:19:17 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=35 deg
+2018-11-07 22:19:22 Drive Axis1 to 35 Degree
+2018-11-07 22:24:47 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=36 deg
+2018-11-07 22:24:52 Drive Axis1 to 36 Degree
+2018-11-07 22:30:17 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=37 deg
+2018-11-07 22:30:22 Drive Axis1 to 37 Degree
+2018-11-07 22:35:48 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=38 deg
+2018-11-07 22:35:53 Drive Axis1 to 38 Degree
+2018-11-07 22:41:18 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=39 deg
+2018-11-07 22:41:23 Drive Axis1 to 39 Degree
+2018-11-07 22:46:49 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=40 deg
+2018-11-07 22:46:54 Drive Axis1 to 40 Degree
+2018-11-07 22:52:19 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=41 deg
+2018-11-07 22:52:23 Drive Axis1 to 41 Degree
+2018-11-07 22:58:15 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=42 deg
+2018-11-07 22:58:19 Drive Axis1 to 42 Degree
+2018-11-07 23:04:05 Set Title: 8 Tesla, T=100.0 K, Ei=3.32 meV, w=43 deg
+2018-11-07 23:04:10 Drive Axis1 to 43 Degree
+2018-11-08 15:17:00 Set Incident Energy to 3.32 meV
+2018-11-08 15:17:00 Setting cryo6 Temperature : 1.0 K
+2018-11-08 15:17:00 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-180 deg
+2018-11-08 15:17:01 Drive Axis1 to -180 Degree
+2018-11-08 16:26:41 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-178 deg
+2018-11-08 16:26:47 Drive Axis1 to -178 Degree
+2018-11-08 16:38:41 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-176 deg
+2018-11-08 16:38:47 Drive Axis1 to -176 Degree
+2018-11-08 16:47:51 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-174 deg
+2018-11-08 16:47:58 Drive Axis1 to -174 Degree
+2018-11-08 16:55:35 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-172 deg
+2018-11-08 16:55:41 Drive Axis1 to -172 Degree
+2018-11-08 17:02:31 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-170 deg
+2018-11-08 17:02:37 Drive Axis1 to -170 Degree
+2018-11-08 17:10:00 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-168 deg
+2018-11-08 17:10:06 Drive Axis1 to -168 Degree
+2018-11-08 17:16:53 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-166 deg
+2018-11-08 17:16:59 Drive Axis1 to -166 Degree
+2018-11-08 17:23:45 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-164 deg
+2018-11-08 17:23:51 Drive Axis1 to -164 Degree
+2018-11-08 17:30:36 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-162 deg
+2018-11-08 17:30:43 Drive Axis1 to -162 Degree
+2018-11-08 17:37:28 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-160 deg
+2018-11-08 17:37:35 Drive Axis1 to -160 Degree
+2018-11-08 17:44:20 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-158 deg
+2018-11-08 17:44:27 Drive Axis1 to -158 Degree
+2018-11-08 17:51:13 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-156 deg
+2018-11-08 17:51:19 Drive Axis1 to -156 Degree
+2018-11-08 17:58:06 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-154 deg
+2018-11-08 17:58:12 Drive Axis1 to -154 Degree
+2018-11-08 18:04:58 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-152 deg
+2018-11-08 18:05:05 Drive Axis1 to -152 Degree
+2018-11-08 18:11:51 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-150 deg
+2018-11-08 18:11:57 Drive Axis1 to -150 Degree
+2018-11-08 18:27:06 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-148 deg
+2018-11-08 18:27:13 Drive Axis1 to -148 Degree
+2018-11-08 18:33:56 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-146 deg
+2018-11-08 18:34:03 Drive Axis1 to -146 Degree
+2018-11-08 18:40:36 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-144 deg
+2018-11-08 18:40:43 Drive Axis1 to -144 Degree
+2018-11-08 18:47:16 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-142 deg
+2018-11-08 18:47:23 Drive Axis1 to -142 Degree
+2018-11-08 18:54:16 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-140 deg
+2018-11-08 18:54:23 Drive Axis1 to -140 Degree
+2018-11-08 19:58:00 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-138 deg
+2018-11-08 19:58:07 Drive Axis1 to -138 Degree
+2018-11-08 20:04:39 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-136 deg
+2018-11-08 20:04:46 Drive Axis1 to -136 Degree
+2018-11-08 20:11:18 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-134 deg
+2018-11-08 20:11:24 Drive Axis1 to -134 Degree
+2018-11-08 20:18:36 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-132 deg
+2018-11-08 20:18:42 Drive Axis1 to -132 Degree
+2018-11-08 20:25:02 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-130 deg
+2018-11-08 20:25:09 Drive Axis1 to -130 Degree
+2018-11-08 20:31:30 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-128 deg
+2018-11-08 20:31:36 Drive Axis1 to -128 Degree
+2018-11-08 20:37:50 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-126 deg
+2018-11-08 20:37:56 Drive Axis1 to -126 Degree
+2018-11-08 20:44:07 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-124 deg
+2018-11-08 20:44:14 Drive Axis1 to -124 Degree
+2018-11-08 20:50:21 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-122 deg
+2018-11-08 20:50:28 Drive Axis1 to -122 Degree
+2018-11-08 20:56:27 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-120 deg
+2018-11-08 20:56:33 Drive Axis1 to -120 Degree
+2018-11-08 21:02:32 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-118 deg
+2018-11-08 21:02:39 Drive Axis1 to -118 Degree
+2018-11-08 21:08:32 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-116 deg
+2018-11-08 21:08:38 Drive Axis1 to -116 Degree
+2018-11-08 21:14:28 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-114 deg
+2018-11-08 21:14:35 Drive Axis1 to -114 Degree
+2018-11-08 21:20:23 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-112 deg
+2018-11-08 21:20:30 Drive Axis1 to -112 Degree
+2018-11-08 21:26:10 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-110 deg
+2018-11-08 21:26:17 Drive Axis1 to -110 Degree
+2018-11-08 21:31:58 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-108 deg
+2018-11-08 21:32:04 Drive Axis1 to -108 Degree
+2018-11-08 21:37:43 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-106 deg
+2018-11-08 21:37:49 Drive Axis1 to -106 Degree
+2018-11-08 21:43:57 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-104 deg
+2018-11-08 21:44:03 Drive Axis1 to -104 Degree
+2018-11-08 21:49:34 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-102 deg
+2018-11-08 21:49:40 Drive Axis1 to -102 Degree
+2018-11-08 21:55:48 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-100 deg
+2018-11-08 21:55:55 Drive Axis1 to -100 Degree
+2018-11-08 22:01:25 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-98 deg
+2018-11-08 22:01:31 Drive Axis1 to -98 Degree
+2018-11-08 22:07:01 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-96 deg
+2018-11-08 22:07:07 Drive Axis1 to -96 Degree
+2018-11-08 22:12:30 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-94 deg
+2018-11-08 22:12:36 Drive Axis1 to -94 Degree
+2018-11-08 22:17:59 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-92 deg
+2018-11-08 22:18:05 Drive Axis1 to -92 Degree
+2018-11-08 22:23:27 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-90 deg
+2018-11-08 22:23:33 Drive Axis1 to -90 Degree
+2018-11-08 22:28:48 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-88 deg
+2018-11-08 22:28:55 Drive Axis1 to -88 Degree
+2018-11-08 22:34:09 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-86 deg
+2018-11-08 22:34:16 Drive Axis1 to -86 Degree
+2018-11-08 22:39:29 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-84 deg
+2018-11-08 22:39:35 Drive Axis1 to -84 Degree
+2018-11-08 22:44:43 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-82 deg
+2018-11-08 22:44:50 Drive Axis1 to -82 Degree
+2018-11-08 22:49:58 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-80 deg
+2018-11-08 22:50:04 Drive Axis1 to -80 Degree
+2018-11-08 22:55:33 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-78 deg
+2018-11-08 22:55:39 Drive Axis1 to -78 Degree
+2018-11-08 23:01:12 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-76 deg
+2018-11-08 23:01:18 Drive Axis1 to -76 Degree
+2018-11-08 23:06:19 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-74 deg
+2018-11-08 23:06:25 Drive Axis1 to -74 Degree
+2018-11-08 23:11:25 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-72 deg
+2018-11-08 23:11:31 Drive Axis1 to -72 Degree
+2018-11-08 23:16:22 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-70 deg
+2018-11-08 23:16:28 Drive Axis1 to -70 Degree
+2018-11-08 23:21:18 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-68 deg
+2018-11-08 23:21:25 Drive Axis1 to -68 Degree
+2018-11-08 23:26:14 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-66 deg
+2018-11-08 23:26:20 Drive Axis1 to -66 Degree
+2018-11-08 23:31:10 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-64 deg
+2018-11-08 23:31:16 Drive Axis1 to -64 Degree
+2018-11-08 23:36:05 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-62 deg
+2018-11-08 23:36:12 Drive Axis1 to -62 Degree
+2018-11-08 23:41:01 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-60 deg
+2018-11-08 23:41:07 Drive Axis1 to -60 Degree
+2018-11-08 23:45:56 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-58 deg
+2018-11-08 23:46:02 Drive Axis1 to -58 Degree
+2018-11-08 23:50:52 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-56 deg
+2018-11-08 23:50:59 Drive Axis1 to -56 Degree
+2018-11-08 23:55:48 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-54 deg
+2018-11-08 23:55:54 Drive Axis1 to -54 Degree
+2018-11-09 00:00:43 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-52 deg
+2018-11-09 00:00:50 Drive Axis1 to -52 Degree
+2018-11-09 00:05:39 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-50 deg
+2018-11-09 00:05:45 Drive Axis1 to -50 Degree
+2018-11-09 00:10:35 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-48 deg
+2018-11-09 00:10:42 Drive Axis1 to -48 Degree
+2018-11-09 00:15:31 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-46 deg
+2018-11-09 00:15:38 Drive Axis1 to -46 Degree
+2018-11-09 00:55:40 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-44 deg
+2018-11-09 00:55:47 Drive Axis1 to -44 Degree
+2018-11-09 01:00:34 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-42 deg
+2018-11-09 01:00:41 Drive Axis1 to -42 Degree
+2018-11-09 01:05:30 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-40 deg
+2018-11-09 01:05:37 Drive Axis1 to -40 Degree
+2018-11-09 01:10:25 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-38 deg
+2018-11-09 01:10:32 Drive Axis1 to -38 Degree
+2018-11-09 01:15:21 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-36 deg
+2018-11-09 01:15:27 Drive Axis1 to -36 Degree
+2018-11-09 01:20:17 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-34 deg
+2018-11-09 01:20:24 Drive Axis1 to -34 Degree
+2018-11-09 01:25:12 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-32 deg
+2018-11-09 01:25:19 Drive Axis1 to -32 Degree
+2018-11-09 01:30:08 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-30 deg
+2018-11-09 01:30:14 Drive Axis1 to -30 Degree
+2018-11-09 01:35:49 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-28 deg
+2018-11-09 01:35:55 Drive Axis1 to -28 Degree
+2018-11-09 01:40:45 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-26 deg
+2018-11-09 01:40:51 Drive Axis1 to -26 Degree
+2018-11-09 01:45:40 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-24 deg
+2018-11-09 01:45:47 Drive Axis1 to -24 Degree
+2018-11-09 01:50:36 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-22 deg
+2018-11-09 01:50:42 Drive Axis1 to -22 Degree
+2018-11-09 01:55:32 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-20 deg
+2018-11-09 01:55:39 Drive Axis1 to -20 Degree
+2018-11-09 02:00:28 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-18 deg
+2018-11-09 02:00:35 Drive Axis1 to -18 Degree
+2018-11-09 02:05:24 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-16 deg
+2018-11-09 02:05:31 Drive Axis1 to -16 Degree
+2018-11-09 02:10:20 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-14 deg
+2018-11-09 02:10:27 Drive Axis1 to -14 Degree
+2018-11-09 02:15:16 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-12 deg
+2018-11-09 02:15:22 Drive Axis1 to -12 Degree
+2018-11-09 02:20:12 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-10 deg
+2018-11-09 02:20:19 Drive Axis1 to -10 Degree
+2018-11-09 02:25:08 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-8 deg
+2018-11-09 02:25:15 Drive Axis1 to -8 Degree
+2018-11-09 02:30:04 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-6 deg
+2018-11-09 02:30:11 Drive Axis1 to -6 Degree
+2018-11-09 02:35:23 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-4 deg
+2018-11-09 02:35:29 Drive Axis1 to -4 Degree
+2018-11-09 02:40:18 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=-2 deg
+2018-11-09 02:40:25 Drive Axis1 to -2 Degree
+2018-11-09 02:45:14 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=0 deg
+2018-11-09 02:45:20 Drive Axis1 to 0 Degree
+2018-11-09 02:50:09 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=2 deg
+2018-11-09 02:50:16 Drive Axis1 to 2 Degree
+2018-11-09 02:55:06 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=4 deg
+2018-11-09 02:55:13 Drive Axis1 to 4 Degree
+2018-11-09 03:00:55 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=6 deg
+2018-11-09 03:01:01 Drive Axis1 to 6 Degree
+2018-11-09 03:05:53 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=8 deg
+2018-11-09 03:06:00 Drive Axis1 to 8 Degree
+2018-11-09 03:10:50 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=10 deg
+2018-11-09 03:10:57 Drive Axis1 to 10 Degree
+2018-11-09 03:15:46 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=12 deg
+2018-11-09 03:15:53 Drive Axis1 to 12 Degree
+2018-11-09 03:20:44 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=14 deg
+2018-11-09 03:20:50 Drive Axis1 to 14 Degree
+2018-11-09 03:25:40 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=16 deg
+2018-11-09 03:25:47 Drive Axis1 to 16 Degree
+2018-11-09 03:30:37 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=18 deg
+2018-11-09 03:30:43 Drive Axis1 to 18 Degree
+2018-11-09 03:35:33 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=20 deg
+2018-11-09 03:35:40 Drive Axis1 to 20 Degree
+2018-11-09 03:40:30 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=22 deg
+2018-11-09 03:40:36 Drive Axis1 to 22 Degree
+2018-11-09 03:45:27 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=24 deg
+2018-11-09 03:45:33 Drive Axis1 to 24 Degree
+2018-11-09 03:50:50 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=26 deg
+2018-11-09 03:50:56 Drive Axis1 to 26 Degree
+2018-11-09 03:55:46 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=28 deg
+2018-11-09 03:55:53 Drive Axis1 to 28 Degree
+2018-11-09 04:01:07 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=30 deg
+2018-11-09 04:01:14 Drive Axis1 to 30 Degree
+2018-11-09 04:06:04 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=32 deg
+2018-11-09 04:06:10 Drive Axis1 to 32 Degree
+2018-11-09 04:11:30 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=34 deg
+2018-11-09 04:11:36 Drive Axis1 to 34 Degree
+2018-11-09 04:16:25 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=36 deg
+2018-11-09 04:16:32 Drive Axis1 to 36 Degree
+2018-11-09 04:21:23 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=38 deg
+2018-11-09 04:21:30 Drive Axis1 to 38 Degree
+2018-11-09 04:26:20 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=40 deg
+2018-11-09 04:26:26 Drive Axis1 to 40 Degree
+2018-11-09 04:31:40 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=42 deg
+2018-11-09 04:31:47 Drive Axis1 to 42 Degree
+2018-11-09 04:37:02 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=44 deg
+2018-11-09 04:37:08 Drive Axis1 to 44 Degree
+2018-11-09 04:41:59 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=46 deg
+2018-11-09 04:42:06 Drive Axis1 to 46 Degree
+2018-11-09 04:47:19 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=48 deg
+2018-11-09 04:47:26 Drive Axis1 to 48 Degree
+2018-11-09 04:52:16 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=50 deg
+2018-11-09 04:52:23 Drive Axis1 to 50 Degree
+2018-11-09 04:57:13 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=52 deg
+2018-11-09 04:57:19 Drive Axis1 to 52 Degree
+2018-11-09 05:02:10 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=54 deg
+2018-11-09 05:02:17 Drive Axis1 to 54 Degree
+2018-11-09 05:07:06 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=56 deg
+2018-11-09 05:07:13 Drive Axis1 to 56 Degree
+2018-11-09 05:12:02 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=58 deg
+2018-11-09 05:12:09 Drive Axis1 to 58 Degree
+2018-11-09 05:16:58 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=60 deg
+2018-11-09 05:17:05 Drive Axis1 to 60 Degree
+2018-11-09 05:21:54 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=62 deg
+2018-11-09 05:22:01 Drive Axis1 to 62 Degree
+2018-11-09 05:26:50 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=64 deg
+2018-11-09 05:26:57 Drive Axis1 to 64 Degree
+2018-11-09 05:31:46 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=66 deg
+2018-11-09 05:31:53 Drive Axis1 to 66 Degree
+2018-11-09 05:37:08 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=68 deg
+2018-11-09 05:37:15 Drive Axis1 to 68 Degree
+2018-11-09 05:42:04 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=70 deg
+2018-11-09 05:42:11 Drive Axis1 to 70 Degree
+2018-11-09 05:47:00 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=72 deg
+2018-11-09 05:47:06 Drive Axis1 to 72 Degree
+2018-11-09 05:51:55 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=74 deg
+2018-11-09 05:52:02 Drive Axis1 to 74 Degree
+2018-11-09 05:56:51 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=76 deg
+2018-11-09 05:56:58 Drive Axis1 to 76 Degree
+2018-11-09 06:02:08 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=78 deg
+2018-11-09 06:02:15 Drive Axis1 to 78 Degree
+2018-11-09 06:07:04 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=80 deg
+2018-11-09 06:07:10 Drive Axis1 to 80 Degree
+2018-11-09 06:12:00 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=82 deg
+2018-11-09 06:12:07 Drive Axis1 to 82 Degree
+2018-11-09 06:16:57 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=84 deg
+2018-11-09 06:17:03 Drive Axis1 to 84 Degree
+2018-11-09 06:21:53 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=86 deg
+2018-11-09 06:21:59 Drive Axis1 to 86 Degree
+2018-11-09 06:26:49 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=88 deg
+2018-11-09 06:26:55 Drive Axis1 to 88 Degree
+2018-11-09 06:31:45 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=90 deg
+2018-11-09 06:31:51 Drive Axis1 to 90 Degree
+2018-11-09 06:37:03 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=92 deg
+2018-11-09 06:37:09 Drive Axis1 to 92 Degree
+2018-11-09 06:42:22 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=94 deg
+2018-11-09 06:42:29 Drive Axis1 to 94 Degree
+2018-11-09 06:47:19 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=96 deg
+2018-11-09 06:47:25 Drive Axis1 to 96 Degree
+2018-11-09 06:52:16 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=98 deg
+2018-11-09 06:52:22 Drive Axis1 to 98 Degree
+2018-11-09 06:57:12 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=100 deg
+2018-11-09 06:57:19 Drive Axis1 to 100 Degree
+2018-11-09 07:02:08 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=102 deg
+2018-11-09 07:02:15 Drive Axis1 to 102 Degree
+2018-11-09 07:07:03 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=104 deg
+2018-11-09 07:07:10 Drive Axis1 to 104 Degree
+2018-11-09 07:11:59 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=106 deg
+2018-11-09 07:12:06 Drive Axis1 to 106 Degree
+2018-11-09 07:16:55 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=108 deg
+2018-11-09 07:17:01 Drive Axis1 to 108 Degree
+2018-11-09 07:21:51 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=110 deg
+2018-11-09 07:21:57 Drive Axis1 to 110 Degree
+2018-11-09 07:26:47 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=112 deg
+2018-11-09 07:26:53 Drive Axis1 to 112 Degree
+2018-11-09 07:31:43 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=114 deg
+2018-11-09 07:31:49 Drive Axis1 to 114 Degree
+2018-11-09 07:36:38 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=116 deg
+2018-11-09 07:36:45 Drive Axis1 to 116 Degree
+2018-11-09 07:41:34 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=118 deg
+2018-11-09 07:41:40 Drive Axis1 to 118 Degree
+2018-11-09 07:46:29 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=120 deg
+2018-11-09 07:46:36 Drive Axis1 to 120 Degree
+2018-11-09 07:51:24 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=122 deg
+2018-11-09 07:51:31 Drive Axis1 to 122 Degree
+2018-11-09 07:56:20 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=124 deg
+2018-11-09 07:56:27 Drive Axis1 to 124 Degree
+2018-11-09 08:01:17 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=126 deg
+2018-11-09 08:01:23 Drive Axis1 to 126 Degree
+2018-11-09 08:06:14 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=128 deg
+2018-11-09 08:06:20 Drive Axis1 to 128 Degree
+2018-11-09 08:11:10 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=130 deg
+2018-11-09 08:11:17 Drive Axis1 to 130 Degree
+2018-11-09 08:16:07 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=132 deg
+2018-11-09 08:16:14 Drive Axis1 to 132 Degree
+2018-11-09 08:21:04 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=134 deg
+2018-11-09 08:21:11 Drive Axis1 to 134 Degree
+2018-11-09 08:26:00 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=136 deg
+2018-11-09 08:26:07 Drive Axis1 to 136 Degree
+2018-11-09 08:30:56 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=138 deg
+2018-11-09 08:31:03 Drive Axis1 to 138 Degree
+2018-11-09 08:35:52 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=140 deg
+2018-11-09 08:35:59 Drive Axis1 to 140 Degree
+2018-11-09 08:40:48 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=142 deg
+2018-11-09 08:40:55 Drive Axis1 to 142 Degree
+2018-11-09 08:45:45 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=144 deg
+2018-11-09 08:45:51 Drive Axis1 to 144 Degree
+2018-11-09 08:50:40 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=146 deg
+2018-11-09 08:50:47 Drive Axis1 to 146 Degree
+2018-11-09 08:55:36 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=148 deg
+2018-11-09 08:55:43 Drive Axis1 to 148 Degree
+2018-11-09 09:00:32 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=150 deg
+2018-11-09 09:00:39 Drive Axis1 to 150 Degree
+2018-11-09 09:05:29 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=152 deg
+2018-11-09 09:05:35 Drive Axis1 to 152 Degree
+2018-11-09 09:10:24 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=154 deg
+2018-11-09 09:10:31 Drive Axis1 to 154 Degree
+2018-11-09 09:15:20 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=156 deg
+2018-11-09 09:15:26 Drive Axis1 to 156 Degree
+2018-11-09 09:20:15 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=158 deg
+2018-11-09 09:20:22 Drive Axis1 to 158 Degree
+2018-11-09 09:25:10 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=160 deg
+2018-11-09 09:25:17 Drive Axis1 to 160 Degree
+2018-11-09 09:32:22 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=162 deg
+2018-11-09 09:32:29 Drive Axis1 to 162 Degree
+2018-11-09 09:37:17 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=164 deg
+2018-11-09 09:37:24 Drive Axis1 to 164 Degree
+2018-11-09 09:42:12 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=166 deg
+2018-11-09 09:42:19 Drive Axis1 to 166 Degree
+2018-11-09 09:47:07 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=168 deg
+2018-11-09 09:47:14 Drive Axis1 to 168 Degree
+2018-11-09 09:52:02 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=170 deg
+2018-11-09 09:52:09 Drive Axis1 to 170 Degree
+2018-11-09 09:56:58 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=172 deg
+2018-11-09 09:57:05 Drive Axis1 to 172 Degree
+2018-11-09 10:01:53 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=174 deg
+2018-11-09 10:02:00 Drive Axis1 to 174 Degree
+2018-11-09 10:06:49 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=176 deg
+2018-11-09 10:06:56 Drive Axis1 to 176 Degree
+2018-11-09 10:11:45 Set Title: 2 Tesla, T=1.0 K, Ei=3.32 meV, w=178 deg
+2018-11-09 10:11:52 Drive Axis1 to 178 Degree
+2018-11-09 10:29:13 Set Incident Energy to 3.32 meV
+2018-11-09 10:29:14 Setting cryo6 Temperature : 1.0 K
+2018-11-09 10:29:14 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-180 deg
+2018-11-09 10:37:27 Drive Axis1 to -180 Degree
+2018-11-09 10:38:26 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-178 deg
+2018-11-09 10:38:32 Drive Axis1 to -178 Degree
+2018-11-09 10:39:30 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-176 deg
+2018-11-09 10:39:37 Drive Axis1 to -176 Degree
+2018-11-09 10:40:35 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-174 deg
+2018-11-09 10:40:42 Drive Axis1 to -174 Degree
+2018-11-09 10:41:40 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-172 deg
+2018-11-09 10:41:46 Drive Axis1 to -172 Degree
+2018-11-09 10:42:45 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-170 deg
+2018-11-09 10:42:52 Drive Axis1 to -170 Degree
+2018-11-09 10:43:50 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-168 deg
+2018-11-09 10:43:56 Drive Axis1 to -168 Degree
+2018-11-09 10:44:55 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-166 deg
+2018-11-09 10:45:01 Drive Axis1 to -166 Degree
+2018-11-09 10:45:59 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-164 deg
+2018-11-09 10:46:05 Drive Axis1 to -164 Degree
+2018-11-09 10:47:04 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-162 deg
+2018-11-09 10:47:10 Drive Axis1 to -162 Degree
+2018-11-09 10:48:08 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-160 deg
+2018-11-09 10:48:15 Drive Axis1 to -160 Degree
+2018-11-09 10:49:13 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-158 deg
+2018-11-09 10:49:20 Drive Axis1 to -158 Degree
+2018-11-09 10:50:18 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-156 deg
+2018-11-09 10:50:24 Drive Axis1 to -156 Degree
+2018-11-09 10:51:22 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-154 deg
+2018-11-09 10:51:29 Drive Axis1 to -154 Degree
+2018-11-09 10:52:27 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-152 deg
+2018-11-09 10:52:33 Drive Axis1 to -152 Degree
+2018-11-09 10:53:31 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-150 deg
+2018-11-09 10:53:38 Drive Axis1 to -150 Degree
+2018-11-09 10:54:36 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-148 deg
+2018-11-09 10:54:43 Drive Axis1 to -148 Degree
+2018-11-09 10:55:41 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-146 deg
+2018-11-09 10:55:48 Drive Axis1 to -146 Degree
+2018-11-09 10:56:46 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-144 deg
+2018-11-09 10:56:52 Drive Axis1 to -144 Degree
+2018-11-09 10:57:50 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-142 deg
+2018-11-09 10:57:57 Drive Axis1 to -142 Degree
+2018-11-09 10:58:55 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-140 deg
+2018-11-09 10:59:01 Drive Axis1 to -140 Degree
+2018-11-09 10:59:59 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-138 deg
+2018-11-09 11:00:06 Drive Axis1 to -138 Degree
+2018-11-09 11:01:04 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-136 deg
+2018-11-09 11:01:11 Drive Axis1 to -136 Degree
+2018-11-09 11:02:08 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-134 deg
+2018-11-09 11:02:15 Drive Axis1 to -134 Degree
+2018-11-09 11:03:12 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-132 deg
+2018-11-09 11:03:19 Drive Axis1 to -132 Degree
+2018-11-09 11:04:17 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-130 deg
+2018-11-09 11:04:24 Drive Axis1 to -130 Degree
+2018-11-09 11:05:22 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-128 deg
+2018-11-09 11:05:28 Drive Axis1 to -128 Degree
+2018-11-09 11:06:26 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-126 deg
+2018-11-09 11:06:33 Drive Axis1 to -126 Degree
+2018-11-09 11:07:31 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-124 deg
+2018-11-09 11:07:37 Drive Axis1 to -124 Degree
+2018-11-09 11:08:36 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-122 deg
+2018-11-09 11:08:42 Drive Axis1 to -122 Degree
+2018-11-09 11:09:40 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-120 deg
+2018-11-09 11:09:47 Drive Axis1 to -120 Degree
+2018-11-09 11:10:45 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-118 deg
+2018-11-09 11:10:52 Drive Axis1 to -118 Degree
+2018-11-09 11:11:50 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-116 deg
+2018-11-09 11:11:56 Drive Axis1 to -116 Degree
+2018-11-09 11:12:54 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-114 deg
+2018-11-09 11:13:01 Drive Axis1 to -114 Degree
+2018-11-09 11:13:59 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-112 deg
+2018-11-09 11:14:06 Drive Axis1 to -112 Degree
+2018-11-09 11:15:04 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-110 deg
+2018-11-09 11:15:11 Drive Axis1 to -110 Degree
+2018-11-09 11:16:09 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-108 deg
+2018-11-09 11:16:15 Drive Axis1 to -108 Degree
+2018-11-09 11:17:13 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-106 deg
+2018-11-09 11:17:20 Drive Axis1 to -106 Degree
+2018-11-09 11:18:18 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-104 deg
+2018-11-09 11:18:24 Drive Axis1 to -104 Degree
+2018-11-09 11:19:22 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-102 deg
+2018-11-09 11:19:29 Drive Axis1 to -102 Degree
+2018-11-09 11:20:27 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-100 deg
+2018-11-09 11:20:34 Drive Axis1 to -100 Degree
+2018-11-09 11:21:32 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-98 deg
+2018-11-09 11:21:39 Drive Axis1 to -98 Degree
+2018-11-09 11:22:36 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-96 deg
+2018-11-09 11:22:43 Drive Axis1 to -96 Degree
+2018-11-09 11:23:40 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-94 deg
+2018-11-09 11:23:47 Drive Axis1 to -94 Degree
+2018-11-09 11:24:45 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-92 deg
+2018-11-09 11:24:52 Drive Axis1 to -92 Degree
+2018-11-09 11:25:49 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-90 deg
+2018-11-09 11:25:56 Drive Axis1 to -90 Degree
+2018-11-09 11:26:54 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-88 deg
+2018-11-09 11:27:01 Drive Axis1 to -88 Degree
+2018-11-09 11:27:59 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-86 deg
+2018-11-09 11:28:05 Drive Axis1 to -86 Degree
+2018-11-09 11:29:04 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-84 deg
+2018-11-09 11:29:10 Drive Axis1 to -84 Degree
+2018-11-09 11:30:08 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-82 deg
+2018-11-09 11:30:15 Drive Axis1 to -82 Degree
+2018-11-09 11:31:13 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-80 deg
+2018-11-09 11:31:20 Drive Axis1 to -80 Degree
+2018-11-09 11:32:18 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-78 deg
+2018-11-09 11:32:24 Drive Axis1 to -78 Degree
+2018-11-09 11:33:22 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-76 deg
+2018-11-09 11:33:29 Drive Axis1 to -76 Degree
+2018-11-09 11:34:27 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-74 deg
+2018-11-09 11:34:34 Drive Axis1 to -74 Degree
+2018-11-09 11:35:32 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-72 deg
+2018-11-09 11:35:39 Drive Axis1 to -72 Degree
+2018-11-09 11:36:37 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-70 deg
+2018-11-09 11:36:43 Drive Axis1 to -70 Degree
+2018-11-09 11:37:41 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-68 deg
+2018-11-09 11:37:48 Drive Axis1 to -68 Degree
+2018-11-09 11:38:46 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-66 deg
+2018-11-09 11:38:53 Drive Axis1 to -66 Degree
+2018-11-09 11:39:51 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-64 deg
+2018-11-09 11:39:58 Drive Axis1 to -64 Degree
+2018-11-09 11:40:55 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-62 deg
+2018-11-09 11:41:02 Drive Axis1 to -62 Degree
+2018-11-09 11:42:00 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-60 deg
+2018-11-09 11:42:07 Drive Axis1 to -60 Degree
+2018-11-09 11:43:05 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-58 deg
+2018-11-09 11:43:11 Drive Axis1 to -58 Degree
+2018-11-09 11:44:09 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-56 deg
+2018-11-09 11:44:16 Drive Axis1 to -56 Degree
+2018-11-09 11:45:14 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-54 deg
+2018-11-09 11:45:21 Drive Axis1 to -54 Degree
+2018-11-09 11:46:19 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-52 deg
+2018-11-09 11:46:25 Drive Axis1 to -52 Degree
+2018-11-09 11:47:24 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-50 deg
+2018-11-09 11:47:30 Drive Axis1 to -50 Degree
+2018-11-09 11:48:28 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-48 deg
+2018-11-09 11:48:35 Drive Axis1 to -48 Degree
+2018-11-09 11:49:33 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-46 deg
+2018-11-09 11:49:40 Drive Axis1 to -46 Degree
+2018-11-09 11:50:38 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-44 deg
+2018-11-09 11:50:45 Drive Axis1 to -44 Degree
+2018-11-09 11:51:43 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-42 deg
+2018-11-09 11:51:49 Drive Axis1 to -42 Degree
+2018-11-09 11:52:47 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-40 deg
+2018-11-09 11:52:54 Drive Axis1 to -40 Degree
+2018-11-09 11:53:52 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-38 deg
+2018-11-09 11:53:59 Drive Axis1 to -38 Degree
+2018-11-09 11:54:57 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-36 deg
+2018-11-09 11:55:04 Drive Axis1 to -36 Degree
+2018-11-09 11:56:01 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-34 deg
+2018-11-09 11:56:08 Drive Axis1 to -34 Degree
+2018-11-09 11:57:06 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-32 deg
+2018-11-09 11:57:13 Drive Axis1 to -32 Degree
+2018-11-09 11:58:11 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-30 deg
+2018-11-09 11:58:17 Drive Axis1 to -30 Degree
+2018-11-09 11:59:16 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-28 deg
+2018-11-09 11:59:22 Drive Axis1 to -28 Degree
+2018-11-09 12:00:20 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-26 deg
+2018-11-09 12:00:27 Drive Axis1 to -26 Degree
+2018-11-09 12:01:25 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-24 deg
+2018-11-09 12:01:32 Drive Axis1 to -24 Degree
+2018-11-09 12:02:30 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-22 deg
+2018-11-09 12:02:37 Drive Axis1 to -22 Degree
+2018-11-09 12:03:35 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-20 deg
+2018-11-09 12:03:41 Drive Axis1 to -20 Degree
+2018-11-09 12:04:39 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-18 deg
+2018-11-09 12:04:46 Drive Axis1 to -18 Degree
+2018-11-09 12:05:44 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-16 deg
+2018-11-09 12:05:51 Drive Axis1 to -16 Degree
+2018-11-09 12:06:49 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-14 deg
+2018-11-09 12:06:56 Drive Axis1 to -14 Degree
+2018-11-09 12:07:54 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-12 deg
+2018-11-09 12:08:00 Drive Axis1 to -12 Degree
+2018-11-09 12:08:58 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-10 deg
+2018-11-09 12:09:05 Drive Axis1 to -10 Degree
+2018-11-09 12:10:03 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-8 deg
+2018-11-09 12:10:10 Drive Axis1 to -8 Degree
+2018-11-09 12:11:08 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-6 deg
+2018-11-09 12:11:15 Drive Axis1 to -6 Degree
+2018-11-09 12:12:13 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-4 deg
+2018-11-09 12:12:19 Drive Axis1 to -4 Degree
+2018-11-09 12:13:18 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=-2 deg
+2018-11-09 12:13:24 Drive Axis1 to -2 Degree
+2018-11-09 12:14:23 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=0 deg
+2018-11-09 12:14:29 Drive Axis1 to 0 Degree
+2018-11-09 12:15:27 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=2 deg
+2018-11-09 12:15:34 Drive Axis1 to 2 Degree
+2018-11-09 12:16:32 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=4 deg
+2018-11-09 12:16:39 Drive Axis1 to 4 Degree
+2018-11-09 12:17:37 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=6 deg
+2018-11-09 12:17:43 Drive Axis1 to 6 Degree
+2018-11-09 12:18:42 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=8 deg
+2018-11-09 12:18:48 Drive Axis1 to 8 Degree
+2018-11-09 12:19:46 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=10 deg
+2018-11-09 12:19:53 Drive Axis1 to 10 Degree
+2018-11-09 12:20:51 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=12 deg
+2018-11-09 12:20:58 Drive Axis1 to 12 Degree
+2018-11-09 12:21:56 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=14 deg
+2018-11-09 12:22:03 Drive Axis1 to 14 Degree
+2018-11-09 12:23:01 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=16 deg
+2018-11-09 12:23:07 Drive Axis1 to 16 Degree
+2018-11-09 12:24:05 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=18 deg
+2018-11-09 12:24:12 Drive Axis1 to 18 Degree
+2018-11-09 12:25:10 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=20 deg
+2018-11-09 12:25:17 Drive Axis1 to 20 Degree
+2018-11-09 12:26:15 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=22 deg
+2018-11-09 12:26:21 Drive Axis1 to 22 Degree
+2018-11-09 12:27:19 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=24 deg
+2018-11-09 12:27:26 Drive Axis1 to 24 Degree
+2018-11-09 12:28:24 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=26 deg
+2018-11-09 12:28:30 Drive Axis1 to 26 Degree
+2018-11-09 12:29:29 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=28 deg
+2018-11-09 12:29:35 Drive Axis1 to 28 Degree
+2018-11-09 12:30:33 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=30 deg
+2018-11-09 12:30:40 Drive Axis1 to 30 Degree
+2018-11-09 12:31:38 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=32 deg
+2018-11-09 12:31:45 Drive Axis1 to 32 Degree
+2018-11-09 12:32:43 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=34 deg
+2018-11-09 12:32:50 Drive Axis1 to 34 Degree
+2018-11-09 12:33:48 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=36 deg
+2018-11-09 12:33:54 Drive Axis1 to 36 Degree
+2018-11-09 12:34:52 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=38 deg
+2018-11-09 12:34:59 Drive Axis1 to 38 Degree
+2018-11-09 12:35:57 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=40 deg
+2018-11-09 12:36:04 Drive Axis1 to 40 Degree
+2018-11-09 12:37:02 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=42 deg
+2018-11-09 12:37:08 Drive Axis1 to 42 Degree
+2018-11-09 12:38:06 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=44 deg
+2018-11-09 12:38:13 Drive Axis1 to 44 Degree
+2018-11-09 12:39:11 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=46 deg
+2018-11-09 12:39:18 Drive Axis1 to 46 Degree
+2018-11-09 12:40:16 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=48 deg
+2018-11-09 12:40:22 Drive Axis1 to 48 Degree
+2018-11-09 12:41:20 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=50 deg
+2018-11-09 12:41:27 Drive Axis1 to 50 Degree
+2018-11-09 12:42:25 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=52 deg
+2018-11-09 12:42:32 Drive Axis1 to 52 Degree
+2018-11-09 12:43:30 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=54 deg
+2018-11-09 12:43:37 Drive Axis1 to 54 Degree
+2018-11-09 12:44:35 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=56 deg
+2018-11-09 12:44:41 Drive Axis1 to 56 Degree
+2018-11-09 12:45:39 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=58 deg
+2018-11-09 12:45:46 Drive Axis1 to 58 Degree
+2018-11-09 12:47:18 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=60 deg
+2018-11-09 12:47:24 Drive Axis1 to 60 Degree
+2018-11-09 12:48:23 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=62 deg
+2018-11-09 12:48:29 Drive Axis1 to 62 Degree
+2018-11-09 12:49:28 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=64 deg
+2018-11-09 12:49:34 Drive Axis1 to 64 Degree
+2018-11-09 12:50:32 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=66 deg
+2018-11-09 12:50:38 Drive Axis1 to 66 Degree
+2018-11-09 12:51:36 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=68 deg
+2018-11-09 12:51:43 Drive Axis1 to 68 Degree
+2018-11-09 12:52:41 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=70 deg
+2018-11-09 12:52:48 Drive Axis1 to 70 Degree
+2018-11-09 12:53:46 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=72 deg
+2018-11-09 12:53:53 Drive Axis1 to 72 Degree
+2018-11-09 12:54:51 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=74 deg
+2018-11-09 12:54:57 Drive Axis1 to 74 Degree
+2018-11-09 12:55:55 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=76 deg
+2018-11-09 12:56:02 Drive Axis1 to 76 Degree
+2018-11-09 12:57:00 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=78 deg
+2018-11-09 12:57:07 Drive Axis1 to 78 Degree
+2018-11-09 12:58:05 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=80 deg
+2018-11-09 12:58:11 Drive Axis1 to 80 Degree
+2018-11-09 12:59:09 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=82 deg
+2018-11-09 12:59:16 Drive Axis1 to 82 Degree
+2018-11-09 13:00:14 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=84 deg
+2018-11-09 13:00:21 Drive Axis1 to 84 Degree
+2018-11-09 13:01:19 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=86 deg
+2018-11-09 13:01:26 Drive Axis1 to 86 Degree
+2018-11-09 13:02:24 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=88 deg
+2018-11-09 13:02:30 Drive Axis1 to 88 Degree
+2018-11-09 13:03:29 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=90 deg
+2018-11-09 13:03:35 Drive Axis1 to 90 Degree
+2018-11-09 13:04:33 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=92 deg
+2018-11-09 13:04:40 Drive Axis1 to 92 Degree
+2018-11-09 13:05:38 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=94 deg
+2018-11-09 13:05:45 Drive Axis1 to 94 Degree
+2018-11-09 13:06:43 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=96 deg
+2018-11-09 13:06:49 Drive Axis1 to 96 Degree
+2018-11-09 13:07:48 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=98 deg
+2018-11-09 13:07:54 Drive Axis1 to 98 Degree
+2018-11-09 13:08:52 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=100 deg
+2018-11-09 13:08:59 Drive Axis1 to 100 Degree
+2018-11-09 13:09:57 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=102 deg
+2018-11-09 13:10:04 Drive Axis1 to 102 Degree
+2018-11-09 13:11:02 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=104 deg
+2018-11-09 13:11:08 Drive Axis1 to 104 Degree
+2018-11-09 13:12:06 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=106 deg
+2018-11-09 13:12:13 Drive Axis1 to 106 Degree
+2018-11-09 13:13:11 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=108 deg
+2018-11-09 13:13:18 Drive Axis1 to 108 Degree
+2018-11-09 13:14:16 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=110 deg
+2018-11-09 13:14:23 Drive Axis1 to 110 Degree
+2018-11-09 13:15:21 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=112 deg
+2018-11-09 13:15:27 Drive Axis1 to 112 Degree
+2018-11-09 13:16:26 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=114 deg
+2018-11-09 13:16:32 Drive Axis1 to 114 Degree
+2018-11-09 13:17:31 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=116 deg
+2018-11-09 13:17:37 Drive Axis1 to 116 Degree
+2018-11-09 13:18:35 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=118 deg
+2018-11-09 13:18:42 Drive Axis1 to 118 Degree
+2018-11-09 13:19:40 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=120 deg
+2018-11-09 13:19:47 Drive Axis1 to 120 Degree
+2018-11-09 13:20:45 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=122 deg
+2018-11-09 13:20:51 Drive Axis1 to 122 Degree
+2018-11-09 13:21:49 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=124 deg
+2018-11-09 13:21:56 Drive Axis1 to 124 Degree
+2018-11-09 13:22:54 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=126 deg
+2018-11-09 13:23:01 Drive Axis1 to 126 Degree
+2018-11-09 13:23:59 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=128 deg
+2018-11-09 13:24:06 Drive Axis1 to 128 Degree
+2018-11-09 13:25:04 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=130 deg
+2018-11-09 13:25:10 Drive Axis1 to 130 Degree
+2018-11-09 13:26:08 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=132 deg
+2018-11-09 13:26:15 Drive Axis1 to 132 Degree
+2018-11-09 13:27:13 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=134 deg
+2018-11-09 13:27:20 Drive Axis1 to 134 Degree
+2018-11-09 13:28:18 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=136 deg
+2018-11-09 13:28:24 Drive Axis1 to 136 Degree
+2018-11-09 13:29:23 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=138 deg
+2018-11-09 13:29:29 Drive Axis1 to 138 Degree
+2018-11-09 13:30:27 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=140 deg
+2018-11-09 13:30:34 Drive Axis1 to 140 Degree
+2018-11-09 13:31:32 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=142 deg
+2018-11-09 13:31:39 Drive Axis1 to 142 Degree
+2018-11-09 13:32:37 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=144 deg
+2018-11-09 13:32:43 Drive Axis1 to 144 Degree
+2018-11-09 13:33:41 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=146 deg
+2018-11-09 13:33:48 Drive Axis1 to 146 Degree
+2018-11-09 13:34:46 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=148 deg
+2018-11-09 13:34:53 Drive Axis1 to 148 Degree
+2018-11-09 13:35:51 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=150 deg
+2018-11-09 13:35:58 Drive Axis1 to 150 Degree
+2018-11-09 13:36:56 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=152 deg
+2018-11-09 13:37:02 Drive Axis1 to 152 Degree
+2018-11-09 13:38:01 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=154 deg
+2018-11-09 13:38:07 Drive Axis1 to 154 Degree
+2018-11-09 13:39:05 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=156 deg
+2018-11-09 13:39:12 Drive Axis1 to 156 Degree
+2018-11-09 13:40:10 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=158 deg
+2018-11-09 13:40:17 Drive Axis1 to 158 Degree
+2018-11-09 13:41:14 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=160 deg
+2018-11-09 13:41:21 Drive Axis1 to 160 Degree
+2018-11-09 13:42:19 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=162 deg
+2018-11-09 13:42:25 Drive Axis1 to 162 Degree
+2018-11-09 13:43:23 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=164 deg
+2018-11-09 13:43:30 Drive Axis1 to 164 Degree
+2018-11-09 13:44:28 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=166 deg
+2018-11-09 13:44:35 Drive Axis1 to 166 Degree
+2018-11-09 13:45:33 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=168 deg
+2018-11-09 13:45:40 Drive Axis1 to 168 Degree
+2018-11-09 13:46:38 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=170 deg
+2018-11-09 13:46:44 Drive Axis1 to 170 Degree
+2018-11-09 13:47:42 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=172 deg
+2018-11-09 13:47:49 Drive Axis1 to 172 Degree
+2018-11-09 13:48:47 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=174 deg
+2018-11-09 13:48:54 Drive Axis1 to 174 Degree
+2018-11-09 13:49:52 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=176 deg
+2018-11-09 13:49:59 Drive Axis1 to 176 Degree
+2018-11-09 13:51:34 Set Title: 0 Tesla, T=1.0 K, Ei=3.32 meV, w=178 deg
+2018-11-09 13:51:41 Drive Axis1 to 178 Degree
+2018-11-09 14:45:58 Set Incident Energy to 3.32 meV
+2018-11-09 14:45:59 Setting cryo6 Temperature : 1.0 K
+2018-11-09 14:45:59 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-180 deg
+2018-11-09 14:45:59 Drive Axis1 to -180 Degree
+2018-11-09 14:50:56 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-178 deg
+2018-11-09 14:51:02 Drive Axis1 to -178 Degree
+2018-11-09 14:55:51 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-176 deg
+2018-11-09 14:55:58 Drive Axis1 to -176 Degree
+2018-11-09 15:00:47 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-174 deg
+2018-11-09 15:00:54 Drive Axis1 to -174 Degree
+2018-11-09 15:05:42 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-172 deg
+2018-11-09 15:05:49 Drive Axis1 to -172 Degree
+2018-11-09 15:10:38 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-170 deg
+2018-11-09 15:10:44 Drive Axis1 to -170 Degree
+2018-11-09 15:15:33 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-168 deg
+2018-11-09 15:15:40 Drive Axis1 to -168 Degree
+2018-11-09 15:20:29 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-166 deg
+2018-11-09 15:20:36 Drive Axis1 to -166 Degree
+2018-11-09 15:25:25 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-164 deg
+2018-11-09 15:25:31 Drive Axis1 to -164 Degree
+2018-11-09 15:30:20 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-162 deg
+2018-11-09 15:30:27 Drive Axis1 to -162 Degree
+2018-11-09 15:35:16 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-160 deg
+2018-11-09 15:35:23 Drive Axis1 to -160 Degree
+2018-11-09 15:40:34 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-158 deg
+2018-11-09 15:40:41 Drive Axis1 to -158 Degree
+2018-11-09 15:45:30 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-156 deg
+2018-11-09 15:45:36 Drive Axis1 to -156 Degree
+2018-11-09 15:50:27 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-154 deg
+2018-11-09 15:50:34 Drive Axis1 to -154 Degree
+2018-11-09 15:55:23 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-152 deg
+2018-11-09 15:55:30 Drive Axis1 to -152 Degree
+2018-11-09 16:00:21 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-150 deg
+2018-11-09 16:00:27 Drive Axis1 to -150 Degree
+2018-11-09 16:52:24 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-148 deg
+2018-11-09 16:52:31 Drive Axis1 to -148 Degree
+2018-11-09 16:57:31 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-146 deg
+2018-11-09 16:57:38 Drive Axis1 to -146 Degree
+2018-11-09 17:02:30 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-144 deg
+2018-11-09 17:02:37 Drive Axis1 to -144 Degree
+2018-11-09 17:07:28 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-142 deg
+2018-11-09 17:07:34 Drive Axis1 to -142 Degree
+2018-11-09 17:12:25 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-140 deg
+2018-11-09 17:12:32 Drive Axis1 to -140 Degree
+2018-11-09 17:17:22 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-138 deg
+2018-11-09 17:17:28 Drive Axis1 to -138 Degree
+2018-11-09 17:22:18 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-136 deg
+2018-11-09 17:22:25 Drive Axis1 to -136 Degree
+2018-11-09 17:27:15 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-134 deg
+2018-11-09 17:27:21 Drive Axis1 to -134 Degree
+2018-11-09 17:32:11 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-132 deg
+2018-11-09 17:32:17 Drive Axis1 to -132 Degree
+2018-11-09 17:37:07 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-130 deg
+2018-11-09 17:37:14 Drive Axis1 to -130 Degree
+2018-11-09 17:42:04 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-128 deg
+2018-11-09 17:42:10 Drive Axis1 to -128 Degree
+2018-11-09 17:47:00 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-126 deg
+2018-11-09 17:47:07 Drive Axis1 to -126 Degree
+2018-11-09 17:51:57 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-124 deg
+2018-11-09 17:52:03 Drive Axis1 to -124 Degree
+2018-11-09 17:56:53 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-122 deg
+2018-11-09 17:56:59 Drive Axis1 to -122 Degree
+2018-11-09 18:01:49 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-120 deg
+2018-11-09 18:01:55 Drive Axis1 to -120 Degree
+2018-11-09 18:06:45 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-118 deg
+2018-11-09 18:06:51 Drive Axis1 to -118 Degree
+2018-11-09 18:11:41 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-116 deg
+2018-11-09 18:11:47 Drive Axis1 to -116 Degree
+2018-11-09 18:16:37 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-114 deg
+2018-11-09 18:16:43 Drive Axis1 to -114 Degree
+2018-11-09 18:21:33 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-112 deg
+2018-11-09 18:21:40 Drive Axis1 to -112 Degree
+2018-11-09 18:26:29 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-110 deg
+2018-11-09 18:26:36 Drive Axis1 to -110 Degree
+2018-11-09 18:31:25 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-108 deg
+2018-11-09 18:31:32 Drive Axis1 to -108 Degree
+2018-11-09 18:36:21 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-106 deg
+2018-11-09 18:36:28 Drive Axis1 to -106 Degree
+2018-11-09 18:41:17 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-104 deg
+2018-11-09 18:41:23 Drive Axis1 to -104 Degree
+2018-11-09 18:46:34 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-102 deg
+2018-11-09 18:46:40 Drive Axis1 to -102 Degree
+2018-11-09 18:51:29 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-100 deg
+2018-11-09 18:51:36 Drive Axis1 to -100 Degree
+2018-11-09 18:56:25 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-98 deg
+2018-11-09 18:56:31 Drive Axis1 to -98 Degree
+2018-11-09 19:01:20 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-96 deg
+2018-11-09 19:01:27 Drive Axis1 to -96 Degree
+2018-11-09 19:06:16 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-94 deg
+2018-11-09 19:06:22 Drive Axis1 to -94 Degree
+2018-11-09 19:11:11 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-92 deg
+2018-11-09 19:11:18 Drive Axis1 to -92 Degree
+2018-11-09 19:16:07 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-90 deg
+2018-11-09 19:16:14 Drive Axis1 to -90 Degree
+2018-11-09 19:21:03 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-88 deg
+2018-11-09 19:21:09 Drive Axis1 to -88 Degree
+2018-11-09 19:25:58 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-86 deg
+2018-11-09 19:26:05 Drive Axis1 to -86 Degree
+2018-11-09 19:30:54 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-84 deg
+2018-11-09 19:31:00 Drive Axis1 to -84 Degree
+2018-11-09 19:35:49 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-82 deg
+2018-11-09 19:35:56 Drive Axis1 to -82 Degree
+2018-11-09 19:40:44 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-80 deg
+2018-11-09 19:40:51 Drive Axis1 to -80 Degree
+2018-11-09 19:45:40 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-78 deg
+2018-11-09 19:45:46 Drive Axis1 to -78 Degree
+2018-11-09 19:50:35 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-76 deg
+2018-11-09 19:50:42 Drive Axis1 to -76 Degree
+2018-11-09 19:55:31 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-74 deg
+2018-11-09 19:55:38 Drive Axis1 to -74 Degree
+2018-11-09 20:00:27 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-72 deg
+2018-11-09 20:00:34 Drive Axis1 to -72 Degree
+2018-11-09 20:05:23 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-70 deg
+2018-11-09 20:05:29 Drive Axis1 to -70 Degree
+2018-11-09 20:10:19 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-68 deg
+2018-11-09 20:10:25 Drive Axis1 to -68 Degree
+2018-11-09 20:15:14 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-66 deg
+2018-11-09 20:15:20 Drive Axis1 to -66 Degree
+2018-11-09 20:20:10 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-64 deg
+2018-11-09 20:20:16 Drive Axis1 to -64 Degree
+2018-11-09 20:25:06 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-62 deg
+2018-11-09 20:25:12 Drive Axis1 to -62 Degree
+2018-11-09 20:30:01 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-60 deg
+2018-11-09 20:30:07 Drive Axis1 to -60 Degree
+2018-11-09 20:34:56 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-58 deg
+2018-11-09 20:35:03 Drive Axis1 to -58 Degree
+2018-11-09 20:39:52 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-56 deg
+2018-11-09 20:39:58 Drive Axis1 to -56 Degree
+2018-11-09 20:44:48 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-54 deg
+2018-11-09 20:44:54 Drive Axis1 to -54 Degree
+2018-11-09 20:49:43 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-52 deg
+2018-11-09 20:49:50 Drive Axis1 to -52 Degree
+2018-11-09 20:54:39 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-50 deg
+2018-11-09 20:54:46 Drive Axis1 to -50 Degree
+2018-11-09 20:59:35 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-48 deg
+2018-11-09 20:59:41 Drive Axis1 to -48 Degree
+2018-11-09 21:04:31 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-46 deg
+2018-11-09 21:04:37 Drive Axis1 to -46 Degree
+2018-11-09 21:09:27 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-44 deg
+2018-11-09 21:09:33 Drive Axis1 to -44 Degree
+2018-11-09 21:14:22 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-42 deg
+2018-11-09 21:14:29 Drive Axis1 to -42 Degree
+2018-11-09 21:19:18 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-40 deg
+2018-11-09 21:19:25 Drive Axis1 to -40 Degree
+2018-11-09 21:24:14 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-38 deg
+2018-11-09 21:24:21 Drive Axis1 to -38 Degree
+2018-11-09 21:29:10 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-36 deg
+2018-11-09 21:29:17 Drive Axis1 to -36 Degree
+2018-11-09 21:34:06 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-34 deg
+2018-11-09 21:34:13 Drive Axis1 to -34 Degree
+2018-11-09 21:39:02 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-32 deg
+2018-11-09 21:39:08 Drive Axis1 to -32 Degree
+2018-11-09 21:43:57 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-30 deg
+2018-11-09 21:44:04 Drive Axis1 to -30 Degree
+2018-11-09 21:48:53 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-28 deg
+2018-11-09 21:48:59 Drive Axis1 to -28 Degree
+2018-11-09 21:53:48 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-26 deg
+2018-11-09 21:53:55 Drive Axis1 to -26 Degree
+2018-11-09 21:58:43 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-24 deg
+2018-11-09 21:58:50 Drive Axis1 to -24 Degree
+2018-11-09 22:03:39 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-22 deg
+2018-11-09 22:03:46 Drive Axis1 to -22 Degree
+2018-11-09 22:08:36 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-20 deg
+2018-11-09 22:08:42 Drive Axis1 to -20 Degree
+2018-11-09 22:13:31 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-18 deg
+2018-11-09 22:13:38 Drive Axis1 to -18 Degree
+2018-11-09 22:18:27 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-16 deg
+2018-11-09 22:18:34 Drive Axis1 to -16 Degree
+2018-11-09 22:23:23 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-14 deg
+2018-11-09 22:23:30 Drive Axis1 to -14 Degree
+2018-11-09 22:28:19 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-12 deg
+2018-11-09 22:28:25 Drive Axis1 to -12 Degree
+2018-11-09 22:33:15 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-10 deg
+2018-11-09 22:33:22 Drive Axis1 to -10 Degree
+2018-11-09 22:38:11 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-8 deg
+2018-11-09 22:38:18 Drive Axis1 to -8 Degree
+2018-11-09 22:43:08 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-6 deg
+2018-11-09 22:43:14 Drive Axis1 to -6 Degree
+2018-11-09 22:48:03 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-4 deg
+2018-11-09 22:48:10 Drive Axis1 to -4 Degree
+2018-11-09 22:52:59 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=-2 deg
+2018-11-09 22:53:05 Drive Axis1 to -2 Degree
+2018-11-09 22:57:55 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=0 deg
+2018-11-09 22:58:01 Drive Axis1 to 0 Degree
+2018-11-09 23:02:51 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=2 deg
+2018-11-09 23:02:57 Drive Axis1 to 2 Degree
+2018-11-09 23:07:47 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=4 deg
+2018-11-09 23:07:53 Drive Axis1 to 4 Degree
+2018-11-09 23:12:43 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=6 deg
+2018-11-09 23:12:50 Drive Axis1 to 6 Degree
+2018-11-09 23:17:40 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=8 deg
+2018-11-09 23:17:46 Drive Axis1 to 8 Degree
+2018-11-09 23:22:36 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=10 deg
+2018-11-09 23:22:42 Drive Axis1 to 10 Degree
+2018-11-09 23:27:32 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=12 deg
+2018-11-09 23:27:38 Drive Axis1 to 12 Degree
+2018-11-09 23:32:28 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=14 deg
+2018-11-09 23:32:35 Drive Axis1 to 14 Degree
+2018-11-09 23:37:25 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=16 deg
+2018-11-09 23:37:31 Drive Axis1 to 16 Degree
+2018-11-09 23:42:21 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=18 deg
+2018-11-09 23:42:28 Drive Axis1 to 18 Degree
+2018-11-09 23:47:17 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=20 deg
+2018-11-09 23:47:24 Drive Axis1 to 20 Degree
+2018-11-09 23:52:13 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=22 deg
+2018-11-09 23:52:20 Drive Axis1 to 22 Degree
+2018-11-09 23:57:10 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=24 deg
+2018-11-09 23:57:16 Drive Axis1 to 24 Degree
+2018-11-10 00:02:05 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=26 deg
+2018-11-10 00:02:12 Drive Axis1 to 26 Degree
+2018-11-10 00:07:01 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=28 deg
+2018-11-10 00:07:08 Drive Axis1 to 28 Degree
+2018-11-10 00:11:57 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=30 deg
+2018-11-10 00:12:03 Drive Axis1 to 30 Degree
+2018-11-10 00:16:53 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=32 deg
+2018-11-10 00:16:59 Drive Axis1 to 32 Degree
+2018-11-10 00:21:48 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=34 deg
+2018-11-10 00:21:55 Drive Axis1 to 34 Degree
+2018-11-10 00:26:44 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=36 deg
+2018-11-10 00:26:50 Drive Axis1 to 36 Degree
+2018-11-10 00:31:40 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=38 deg
+2018-11-10 00:31:46 Drive Axis1 to 38 Degree
+2018-11-10 00:36:36 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=40 deg
+2018-11-10 00:36:43 Drive Axis1 to 40 Degree
+2018-11-10 00:41:32 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=42 deg
+2018-11-10 00:41:39 Drive Axis1 to 42 Degree
+2018-11-10 00:46:29 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=44 deg
+2018-11-10 00:46:35 Drive Axis1 to 44 Degree
+2018-11-10 00:51:25 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=46 deg
+2018-11-10 00:51:32 Drive Axis1 to 46 Degree
+2018-11-10 00:56:21 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=48 deg
+2018-11-10 00:56:28 Drive Axis1 to 48 Degree
+2018-11-10 01:01:19 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=50 deg
+2018-11-10 01:01:25 Drive Axis1 to 50 Degree
+2018-11-10 01:06:15 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=52 deg
+2018-11-10 01:06:22 Drive Axis1 to 52 Degree
+2018-11-10 01:11:11 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=54 deg
+2018-11-10 01:11:18 Drive Axis1 to 54 Degree
+2018-11-10 01:16:07 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=56 deg
+2018-11-10 01:16:14 Drive Axis1 to 56 Degree
+2018-11-10 01:21:04 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=58 deg
+2018-11-10 01:21:10 Drive Axis1 to 58 Degree
+2018-11-10 01:26:00 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=60 deg
+2018-11-10 01:26:07 Drive Axis1 to 60 Degree
+2018-11-10 01:30:57 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=62 deg
+2018-11-10 01:31:04 Drive Axis1 to 62 Degree
+2018-11-10 01:35:53 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=64 deg
+2018-11-10 01:36:00 Drive Axis1 to 64 Degree
+2018-11-10 01:40:49 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=66 deg
+2018-11-10 01:40:56 Drive Axis1 to 66 Degree
+2018-11-10 01:45:46 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=68 deg
+2018-11-10 01:45:52 Drive Axis1 to 68 Degree
+2018-11-10 01:50:43 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=70 deg
+2018-11-10 01:50:49 Drive Axis1 to 70 Degree
+2018-11-10 01:55:39 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=72 deg
+2018-11-10 01:55:46 Drive Axis1 to 72 Degree
+2018-11-10 02:00:35 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=74 deg
+2018-11-10 02:00:42 Drive Axis1 to 74 Degree
+2018-11-10 02:05:32 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=76 deg
+2018-11-10 02:05:38 Drive Axis1 to 76 Degree
+2018-11-10 02:10:28 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=78 deg
+2018-11-10 02:10:35 Drive Axis1 to 78 Degree
+2018-11-10 02:15:25 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=80 deg
+2018-11-10 02:15:31 Drive Axis1 to 80 Degree
+2018-11-10 02:20:21 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=82 deg
+2018-11-10 02:20:27 Drive Axis1 to 82 Degree
+2018-11-10 02:25:17 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=84 deg
+2018-11-10 02:25:24 Drive Axis1 to 84 Degree
+2018-11-10 02:30:14 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=86 deg
+2018-11-10 02:30:20 Drive Axis1 to 86 Degree
+2018-11-10 02:35:10 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=88 deg
+2018-11-10 02:35:17 Drive Axis1 to 88 Degree
+2018-11-10 02:40:07 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=90 deg
+2018-11-10 02:40:14 Drive Axis1 to 90 Degree
+2018-11-10 02:45:04 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=92 deg
+2018-11-10 02:45:10 Drive Axis1 to 92 Degree
+2018-11-10 02:50:00 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=94 deg
+2018-11-10 02:50:07 Drive Axis1 to 94 Degree
+2018-11-10 02:54:56 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=96 deg
+2018-11-10 02:55:02 Drive Axis1 to 96 Degree
+2018-11-10 02:59:53 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=98 deg
+2018-11-10 02:59:59 Drive Axis1 to 98 Degree
+2018-11-10 03:04:49 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=100 deg
+2018-11-10 03:04:56 Drive Axis1 to 100 Degree
+2018-11-10 03:09:46 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=102 deg
+2018-11-10 03:09:52 Drive Axis1 to 102 Degree
+2018-11-10 03:14:42 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=104 deg
+2018-11-10 03:14:49 Drive Axis1 to 104 Degree
+2018-11-10 03:19:39 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=106 deg
+2018-11-10 03:19:46 Drive Axis1 to 106 Degree
+2018-11-10 03:24:36 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=108 deg
+2018-11-10 03:24:42 Drive Axis1 to 108 Degree
+2018-11-10 03:29:33 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=110 deg
+2018-11-10 03:29:39 Drive Axis1 to 110 Degree
+2018-11-10 03:34:29 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=112 deg
+2018-11-10 03:34:36 Drive Axis1 to 112 Degree
+2018-11-10 03:39:26 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=114 deg
+2018-11-10 03:39:33 Drive Axis1 to 114 Degree
+2018-11-10 03:44:23 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=116 deg
+2018-11-10 03:44:30 Drive Axis1 to 116 Degree
+2018-11-10 03:49:20 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=118 deg
+2018-11-10 03:49:27 Drive Axis1 to 118 Degree
+2018-11-10 03:54:18 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=120 deg
+2018-11-10 03:54:25 Drive Axis1 to 120 Degree
+2018-11-10 03:59:15 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=122 deg
+2018-11-10 03:59:22 Drive Axis1 to 122 Degree
+2018-11-10 04:04:12 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=124 deg
+2018-11-10 04:04:19 Drive Axis1 to 124 Degree
+2018-11-10 04:09:09 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=126 deg
+2018-11-10 04:09:16 Drive Axis1 to 126 Degree
+2018-11-10 04:14:06 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=128 deg
+2018-11-10 04:14:13 Drive Axis1 to 128 Degree
+2018-11-10 04:19:04 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=130 deg
+2018-11-10 04:19:10 Drive Axis1 to 130 Degree
+2018-11-10 04:24:02 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=132 deg
+2018-11-10 04:24:08 Drive Axis1 to 132 Degree
+2018-11-10 04:28:58 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=134 deg
+2018-11-10 04:29:05 Drive Axis1 to 134 Degree
+2018-11-10 04:33:56 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=136 deg
+2018-11-10 04:34:02 Drive Axis1 to 136 Degree
+2018-11-10 04:39:14 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=138 deg
+2018-11-10 04:39:21 Drive Axis1 to 138 Degree
+2018-11-10 04:44:41 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=140 deg
+2018-11-10 04:44:47 Drive Axis1 to 140 Degree
+2018-11-10 04:49:37 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=142 deg
+2018-11-10 04:49:44 Drive Axis1 to 142 Degree
+2018-11-10 04:54:34 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=144 deg
+2018-11-10 04:54:40 Drive Axis1 to 144 Degree
+2018-11-10 04:59:31 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=146 deg
+2018-11-10 04:59:37 Drive Axis1 to 146 Degree
+2018-11-10 05:04:28 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=148 deg
+2018-11-10 05:04:34 Drive Axis1 to 148 Degree
+2018-11-10 05:09:24 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=150 deg
+2018-11-10 05:09:31 Drive Axis1 to 150 Degree
+2018-11-10 05:14:21 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=152 deg
+2018-11-10 05:14:27 Drive Axis1 to 152 Degree
+2018-11-10 05:19:17 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=154 deg
+2018-11-10 05:19:24 Drive Axis1 to 154 Degree
+2018-11-10 05:24:14 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=156 deg
+2018-11-10 05:24:20 Drive Axis1 to 156 Degree
+2018-11-10 05:29:10 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=158 deg
+2018-11-10 05:29:16 Drive Axis1 to 158 Degree
+2018-11-10 05:34:06 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=160 deg
+2018-11-10 05:34:13 Drive Axis1 to 160 Degree
+2018-11-10 05:39:03 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=162 deg
+2018-11-10 05:39:09 Drive Axis1 to 162 Degree
+2018-11-10 05:44:22 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=164 deg
+2018-11-10 05:44:28 Drive Axis1 to 164 Degree
+2018-11-10 05:49:18 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=166 deg
+2018-11-10 05:49:24 Drive Axis1 to 166 Degree
+2018-11-10 06:13:34 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=168 deg
+2018-11-10 06:13:40 Drive Axis1 to 168 Degree
+2018-11-10 06:18:29 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=170 deg
+2018-11-10 06:18:36 Drive Axis1 to 170 Degree
+2018-11-10 06:23:25 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=172 deg
+2018-11-10 06:23:32 Drive Axis1 to 172 Degree
+2018-11-10 06:28:22 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=174 deg
+2018-11-10 06:28:29 Drive Axis1 to 174 Degree
+2018-11-10 06:33:18 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=176 deg
+2018-11-10 06:33:25 Drive Axis1 to 176 Degree
+2018-11-10 06:38:14 Set Title: 8 Tesla, T=1.0 K, Ei=3.32 meV, w=178 deg
+2018-11-10 06:38:21 Drive Axis1 to 178 Degree
+2018-11-10 08:11:19 Set Incident Energy to 3.32 meV
+2018-11-10 08:11:20 Setting cryo6 Temperature : 1.0 K
+2018-11-10 08:11:20 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-180 deg
+2018-11-10 08:19:33 Drive Axis1 to -180 Degree
+2018-11-10 08:26:49 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-178 deg
+2018-11-10 08:26:55 Drive Axis1 to -178 Degree
+2018-11-10 08:34:11 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-176 deg
+2018-11-10 08:34:17 Drive Axis1 to -176 Degree
+2018-11-10 08:41:33 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-174 deg
+2018-11-10 08:41:39 Drive Axis1 to -174 Degree
+2018-11-10 08:48:55 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-172 deg
+2018-11-10 08:49:02 Drive Axis1 to -172 Degree
+2018-11-10 08:56:17 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-170 deg
+2018-11-10 08:56:24 Drive Axis1 to -170 Degree
+2018-11-10 09:03:40 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-168 deg
+2018-11-10 09:03:46 Drive Axis1 to -168 Degree
+2018-11-10 09:11:02 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-166 deg
+2018-11-10 09:11:09 Drive Axis1 to -166 Degree
+2018-11-10 09:18:25 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-164 deg
+2018-11-10 09:18:31 Drive Axis1 to -164 Degree
+2018-11-10 09:25:47 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-162 deg
+2018-11-10 09:25:54 Drive Axis1 to -162 Degree
+2018-11-10 09:33:10 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-160 deg
+2018-11-10 09:33:16 Drive Axis1 to -160 Degree
+2018-11-10 09:40:32 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-158 deg
+2018-11-10 09:40:38 Drive Axis1 to -158 Degree
+2018-11-10 09:47:53 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-156 deg
+2018-11-10 09:48:00 Drive Axis1 to -156 Degree
+2018-11-10 09:55:15 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-154 deg
+2018-11-10 09:55:22 Drive Axis1 to -154 Degree
+2018-11-10 10:02:36 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-152 deg
+2018-11-10 10:02:43 Drive Axis1 to -152 Degree
+2018-11-10 10:09:58 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-150 deg
+2018-11-10 10:10:04 Drive Axis1 to -150 Degree
+2018-11-10 10:17:19 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-148 deg
+2018-11-10 10:17:25 Drive Axis1 to -148 Degree
+2018-11-10 10:24:40 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-146 deg
+2018-11-10 10:24:47 Drive Axis1 to -146 Degree
+2018-11-10 10:32:02 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-144 deg
+2018-11-10 10:32:08 Drive Axis1 to -144 Degree
+2018-11-10 10:39:23 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-142 deg
+2018-11-10 10:39:29 Drive Axis1 to -142 Degree
+2018-11-10 10:46:44 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-140 deg
+2018-11-10 10:46:51 Drive Axis1 to -140 Degree
+2018-11-10 10:54:28 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-138 deg
+2018-11-10 10:54:34 Drive Axis1 to -138 Degree
+2018-11-10 11:01:49 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-136 deg
+2018-11-10 11:01:55 Drive Axis1 to -136 Degree
+2018-11-10 11:09:09 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-134 deg
+2018-11-10 11:09:16 Drive Axis1 to -134 Degree
+2018-11-10 11:16:30 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-132 deg
+2018-11-10 11:16:36 Drive Axis1 to -132 Degree
+2018-11-10 11:23:51 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-130 deg
+2018-11-10 11:23:58 Drive Axis1 to -130 Degree
+2018-11-10 11:31:12 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-128 deg
+2018-11-10 11:31:19 Drive Axis1 to -128 Degree
+2018-11-10 11:38:33 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-126 deg
+2018-11-10 11:38:40 Drive Axis1 to -126 Degree
+2018-11-10 11:45:54 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-124 deg
+2018-11-10 11:46:01 Drive Axis1 to -124 Degree
+2018-11-10 11:53:15 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-122 deg
+2018-11-10 11:53:22 Drive Axis1 to -122 Degree
+2018-11-10 12:00:36 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-120 deg
+2018-11-10 12:00:43 Drive Axis1 to -120 Degree
+2018-11-10 12:07:58 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-118 deg
+2018-11-10 12:08:04 Drive Axis1 to -118 Degree
+2018-11-10 12:15:19 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-116 deg
+2018-11-10 12:15:26 Drive Axis1 to -116 Degree
+2018-11-10 12:22:41 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-114 deg
+2018-11-10 12:22:47 Drive Axis1 to -114 Degree
+2018-11-10 12:30:02 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-112 deg
+2018-11-10 12:30:09 Drive Axis1 to -112 Degree
+2018-11-10 12:37:24 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-110 deg
+2018-11-10 12:37:31 Drive Axis1 to -110 Degree
+2018-11-10 12:44:46 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-108 deg
+2018-11-10 12:44:53 Drive Axis1 to -108 Degree
+2018-11-10 12:52:08 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-106 deg
+2018-11-10 12:52:15 Drive Axis1 to -106 Degree
+2018-11-10 12:59:29 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-104 deg
+2018-11-10 12:59:36 Drive Axis1 to -104 Degree
+2018-11-10 13:06:51 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-102 deg
+2018-11-10 13:06:57 Drive Axis1 to -102 Degree
+2018-11-10 13:14:12 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-100 deg
+2018-11-10 13:14:19 Drive Axis1 to -100 Degree
+2018-11-10 13:21:34 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-98 deg
+2018-11-10 13:21:41 Drive Axis1 to -98 Degree
+2018-11-10 13:28:55 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-96 deg
+2018-11-10 13:29:02 Drive Axis1 to -96 Degree
+2018-11-10 13:36:16 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-94 deg
+2018-11-10 13:36:23 Drive Axis1 to -94 Degree
+2018-11-10 13:43:38 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-92 deg
+2018-11-10 13:43:44 Drive Axis1 to -92 Degree
+2018-11-10 13:51:00 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-90 deg
+2018-11-10 13:51:06 Drive Axis1 to -90 Degree
+2018-11-10 13:58:22 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-88 deg
+2018-11-10 13:58:28 Drive Axis1 to -88 Degree
+2018-11-10 14:05:45 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-86 deg
+2018-11-10 14:05:51 Drive Axis1 to -86 Degree
+2018-11-10 14:13:07 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-84 deg
+2018-11-10 14:13:14 Drive Axis1 to -84 Degree
+2018-11-10 14:20:29 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-82 deg
+2018-11-10 14:20:36 Drive Axis1 to -82 Degree
+2018-11-10 14:42:23 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-80 deg
+2018-11-10 14:42:29 Drive Axis1 to -80 Degree
+2018-11-10 14:49:44 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-78 deg
+2018-11-10 14:49:51 Drive Axis1 to -78 Degree
+2018-11-10 14:57:06 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-76 deg
+2018-11-10 14:57:12 Drive Axis1 to -76 Degree
+2018-11-10 15:04:27 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-74 deg
+2018-11-10 15:04:34 Drive Axis1 to -74 Degree
+2018-11-10 15:11:49 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-72 deg
+2018-11-10 15:11:56 Drive Axis1 to -72 Degree
+2018-11-10 15:19:10 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-70 deg
+2018-11-10 15:19:17 Drive Axis1 to -70 Degree
+2018-11-10 15:26:32 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-68 deg
+2018-11-10 15:26:39 Drive Axis1 to -68 Degree
+2018-11-10 15:33:54 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-66 deg
+2018-11-10 15:34:01 Drive Axis1 to -66 Degree
+2018-11-10 15:41:16 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-64 deg
+2018-11-10 15:41:23 Drive Axis1 to -64 Degree
+2018-11-10 15:48:38 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-62 deg
+2018-11-10 15:48:44 Drive Axis1 to -62 Degree
+2018-11-10 15:55:59 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-60 deg
+2018-11-10 15:56:06 Drive Axis1 to -60 Degree
+2018-11-10 16:03:43 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-58 deg
+2018-11-10 16:03:49 Drive Axis1 to -58 Degree
+2018-11-10 16:11:04 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-56 deg
+2018-11-10 16:11:11 Drive Axis1 to -56 Degree
+2018-11-10 16:18:25 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-54 deg
+2018-11-10 16:18:31 Drive Axis1 to -54 Degree
+2018-11-10 16:25:45 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-52 deg
+2018-11-10 16:25:51 Drive Axis1 to -52 Degree
+2018-11-10 16:33:05 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-50 deg
+2018-11-10 16:33:12 Drive Axis1 to -50 Degree
+2018-11-10 16:40:26 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-48 deg
+2018-11-10 16:40:33 Drive Axis1 to -48 Degree
+2018-11-10 16:47:47 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-46 deg
+2018-11-10 16:47:53 Drive Axis1 to -46 Degree
+2018-11-10 16:55:07 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-44 deg
+2018-11-10 16:55:13 Drive Axis1 to -44 Degree
+2018-11-10 17:02:28 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-42 deg
+2018-11-10 17:02:34 Drive Axis1 to -42 Degree
+2018-11-10 17:09:49 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-40 deg
+2018-11-10 17:09:55 Drive Axis1 to -40 Degree
+2018-11-10 17:17:10 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-38 deg
+2018-11-10 17:17:17 Drive Axis1 to -38 Degree
+2018-11-10 17:24:31 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-36 deg
+2018-11-10 17:24:38 Drive Axis1 to -36 Degree
+2018-11-10 17:31:52 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-34 deg
+2018-11-10 17:31:59 Drive Axis1 to -34 Degree
+2018-11-10 17:39:43 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-32 deg
+2018-11-10 17:39:50 Drive Axis1 to -32 Degree
+2018-11-10 17:47:04 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-30 deg
+2018-11-10 17:47:11 Drive Axis1 to -30 Degree
+2018-11-10 17:54:25 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-28 deg
+2018-11-10 17:54:32 Drive Axis1 to -28 Degree
+2018-11-10 18:01:47 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-26 deg
+2018-11-10 18:01:53 Drive Axis1 to -26 Degree
+2018-11-10 18:09:07 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-24 deg
+2018-11-10 18:09:14 Drive Axis1 to -24 Degree
+2018-11-10 18:16:28 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-22 deg
+2018-11-10 18:16:35 Drive Axis1 to -22 Degree
+2018-11-10 18:23:49 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-20 deg
+2018-11-10 18:23:55 Drive Axis1 to -20 Degree
+2018-11-10 18:31:09 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-18 deg
+2018-11-10 18:31:15 Drive Axis1 to -18 Degree
+2018-11-10 18:38:29 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-16 deg
+2018-11-10 18:38:35 Drive Axis1 to -16 Degree
+2018-11-10 18:45:49 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-14 deg
+2018-11-10 18:45:56 Drive Axis1 to -14 Degree
+2018-11-10 18:53:09 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-12 deg
+2018-11-10 18:53:16 Drive Axis1 to -12 Degree
+2018-11-10 19:00:30 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-10 deg
+2018-11-10 19:00:36 Drive Axis1 to -10 Degree
+2018-11-10 19:07:50 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-8 deg
+2018-11-10 19:07:57 Drive Axis1 to -8 Degree
+2018-11-10 19:15:12 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-6 deg
+2018-11-10 19:15:18 Drive Axis1 to -6 Degree
+2018-11-10 19:22:32 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-4 deg
+2018-11-10 19:22:38 Drive Axis1 to -4 Degree
+2018-11-10 19:29:53 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=-2 deg
+2018-11-10 19:30:00 Drive Axis1 to -2 Degree
+2018-11-10 19:37:15 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=0 deg
+2018-11-10 19:37:21 Drive Axis1 to 0 Degree
+2018-11-10 19:44:36 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=2 deg
+2018-11-10 19:44:42 Drive Axis1 to 2 Degree
+2018-11-10 19:51:57 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=4 deg
+2018-11-10 19:52:03 Drive Axis1 to 4 Degree
+2018-11-10 19:59:18 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=6 deg
+2018-11-10 19:59:25 Drive Axis1 to 6 Degree
+2018-11-10 20:06:39 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=8 deg
+2018-11-10 20:06:46 Drive Axis1 to 8 Degree
+2018-11-10 20:14:01 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=10 deg
+2018-11-10 20:14:08 Drive Axis1 to 10 Degree
+2018-11-10 20:21:21 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=12 deg
+2018-11-10 20:21:28 Drive Axis1 to 12 Degree
+2018-11-10 20:28:41 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=14 deg
+2018-11-10 20:28:48 Drive Axis1 to 14 Degree
+2018-11-10 20:36:01 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=16 deg
+2018-11-10 20:36:08 Drive Axis1 to 16 Degree
+2018-11-10 20:43:21 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=18 deg
+2018-11-10 20:43:27 Drive Axis1 to 18 Degree
+2018-11-10 20:56:07 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=20 deg
+2018-11-10 20:56:13 Drive Axis1 to 20 Degree
+2018-11-10 21:03:26 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=22 deg
+2018-11-10 21:03:32 Drive Axis1 to 22 Degree
+2018-11-10 21:10:46 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=24 deg
+2018-11-10 21:10:53 Drive Axis1 to 24 Degree
+2018-11-10 21:18:07 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=26 deg
+2018-11-10 21:18:14 Drive Axis1 to 26 Degree
+2018-11-10 21:25:27 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=28 deg
+2018-11-10 21:25:34 Drive Axis1 to 28 Degree
+2018-11-10 21:32:46 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=30 deg
+2018-11-10 21:32:52 Drive Axis1 to 30 Degree
+2018-11-10 21:40:05 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=32 deg
+2018-11-10 21:40:11 Drive Axis1 to 32 Degree
+2018-11-10 21:47:23 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=34 deg
+2018-11-10 21:47:30 Drive Axis1 to 34 Degree
+2018-11-10 21:54:43 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=36 deg
+2018-11-10 21:54:49 Drive Axis1 to 36 Degree
+2018-11-10 22:02:01 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=38 deg
+2018-11-10 22:02:08 Drive Axis1 to 38 Degree
+2018-11-10 22:09:40 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=40 deg
+2018-11-10 22:09:47 Drive Axis1 to 40 Degree
+2018-11-10 22:17:00 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=42 deg
+2018-11-10 22:17:07 Drive Axis1 to 42 Degree
+2018-11-10 22:24:20 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=44 deg
+2018-11-10 22:24:27 Drive Axis1 to 44 Degree
+2018-11-10 22:31:42 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=46 deg
+2018-11-10 22:31:48 Drive Axis1 to 46 Degree
+2018-11-10 22:39:01 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=48 deg
+2018-11-10 22:39:08 Drive Axis1 to 48 Degree
+2018-11-10 22:46:21 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=50 deg
+2018-11-10 22:46:27 Drive Axis1 to 50 Degree
+2018-11-10 22:53:41 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=52 deg
+2018-11-10 22:53:48 Drive Axis1 to 52 Degree
+2018-11-10 23:01:01 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=54 deg
+2018-11-10 23:01:08 Drive Axis1 to 54 Degree
+2018-11-10 23:08:21 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=56 deg
+2018-11-10 23:08:27 Drive Axis1 to 56 Degree
+2018-11-10 23:15:42 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=58 deg
+2018-11-10 23:15:49 Drive Axis1 to 58 Degree
+2018-11-10 23:23:01 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=60 deg
+2018-11-10 23:23:08 Drive Axis1 to 60 Degree
+2018-11-10 23:30:21 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=62 deg
+2018-11-10 23:30:28 Drive Axis1 to 62 Degree
+2018-11-10 23:37:42 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=64 deg
+2018-11-10 23:37:48 Drive Axis1 to 64 Degree
+2018-11-10 23:45:02 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=66 deg
+2018-11-10 23:45:08 Drive Axis1 to 66 Degree
+2018-11-10 23:52:21 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=68 deg
+2018-11-10 23:52:28 Drive Axis1 to 68 Degree
+2018-11-10 23:59:41 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=70 deg
+2018-11-10 23:59:47 Drive Axis1 to 70 Degree
+2018-11-11 00:07:00 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=72 deg
+2018-11-11 00:07:07 Drive Axis1 to 72 Degree
+2018-11-11 00:14:20 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=74 deg
+2018-11-11 00:14:27 Drive Axis1 to 74 Degree
+2018-11-11 00:21:40 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=76 deg
+2018-11-11 00:21:47 Drive Axis1 to 76 Degree
+2018-11-11 00:29:00 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=78 deg
+2018-11-11 00:29:07 Drive Axis1 to 78 Degree
+2018-11-11 00:36:21 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=80 deg
+2018-11-11 00:36:28 Drive Axis1 to 80 Degree
+2018-11-11 00:43:42 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=82 deg
+2018-11-11 00:43:48 Drive Axis1 to 82 Degree
+2018-11-11 00:51:03 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=84 deg
+2018-11-11 00:51:09 Drive Axis1 to 84 Degree
+2018-11-11 00:58:24 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=86 deg
+2018-11-11 00:58:31 Drive Axis1 to 86 Degree
+2018-11-11 01:05:45 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=88 deg
+2018-11-11 01:05:52 Drive Axis1 to 88 Degree
+2018-11-11 01:13:06 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=90 deg
+2018-11-11 01:13:13 Drive Axis1 to 90 Degree
+2018-11-11 01:20:28 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=92 deg
+2018-11-11 01:20:34 Drive Axis1 to 92 Degree
+2018-11-11 01:27:48 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=94 deg
+2018-11-11 01:27:55 Drive Axis1 to 94 Degree
+2018-11-11 01:35:10 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=96 deg
+2018-11-11 01:35:16 Drive Axis1 to 96 Degree
+2018-11-11 01:42:31 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=98 deg
+2018-11-11 01:42:37 Drive Axis1 to 98 Degree
+2018-11-11 01:49:52 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=100 deg
+2018-11-11 01:49:58 Drive Axis1 to 100 Degree
+2018-11-11 01:57:14 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=102 deg
+2018-11-11 01:57:20 Drive Axis1 to 102 Degree
+2018-11-11 02:04:35 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=104 deg
+2018-11-11 02:04:42 Drive Axis1 to 104 Degree
+2018-11-11 02:11:57 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=106 deg
+2018-11-11 02:12:03 Drive Axis1 to 106 Degree
+2018-11-11 02:19:18 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=108 deg
+2018-11-11 02:19:25 Drive Axis1 to 108 Degree
+2018-11-11 02:26:40 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=110 deg
+2018-11-11 02:26:47 Drive Axis1 to 110 Degree
+2018-11-11 02:34:02 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=112 deg
+2018-11-11 02:34:09 Drive Axis1 to 112 Degree
+2018-11-11 02:41:24 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=114 deg
+2018-11-11 02:41:31 Drive Axis1 to 114 Degree
+2018-11-11 02:48:46 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=116 deg
+2018-11-11 02:48:53 Drive Axis1 to 116 Degree
+2018-11-11 02:56:08 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=118 deg
+2018-11-11 02:56:14 Drive Axis1 to 118 Degree
+2018-11-11 03:03:30 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=120 deg
+2018-11-11 03:03:36 Drive Axis1 to 120 Degree
+2018-11-11 03:10:52 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=122 deg
+2018-11-11 03:10:58 Drive Axis1 to 122 Degree
+2018-11-11 03:18:14 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=124 deg
+2018-11-11 03:18:20 Drive Axis1 to 124 Degree
+2018-11-11 03:25:36 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=126 deg
+2018-11-11 03:25:43 Drive Axis1 to 126 Degree
+2018-11-11 03:32:59 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=128 deg
+2018-11-11 03:33:05 Drive Axis1 to 128 Degree
+2018-11-11 03:40:20 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=130 deg
+2018-11-11 03:40:27 Drive Axis1 to 130 Degree
+2018-11-11 03:47:42 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=132 deg
+2018-11-11 03:47:49 Drive Axis1 to 132 Degree
+2018-11-11 03:55:04 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=134 deg
+2018-11-11 03:55:11 Drive Axis1 to 134 Degree
+2018-11-11 04:02:26 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=136 deg
+2018-11-11 04:02:33 Drive Axis1 to 136 Degree
+2018-11-11 04:09:48 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=138 deg
+2018-11-11 04:09:54 Drive Axis1 to 138 Degree
+2018-11-11 04:17:10 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=140 deg
+2018-11-11 04:17:17 Drive Axis1 to 140 Degree
+2018-11-11 04:24:31 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=142 deg
+2018-11-11 04:24:38 Drive Axis1 to 142 Degree
+2018-11-11 04:31:53 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=144 deg
+2018-11-11 04:31:59 Drive Axis1 to 144 Degree
+2018-11-11 04:39:14 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=146 deg
+2018-11-11 04:39:20 Drive Axis1 to 146 Degree
+2018-11-11 04:46:36 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=148 deg
+2018-11-11 04:46:43 Drive Axis1 to 148 Degree
+2018-11-11 04:53:58 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=150 deg
+2018-11-11 04:54:05 Drive Axis1 to 150 Degree
+2018-11-11 05:01:19 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=152 deg
+2018-11-11 05:01:26 Drive Axis1 to 152 Degree
+2018-11-11 05:08:41 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=154 deg
+2018-11-11 05:08:48 Drive Axis1 to 154 Degree
+2018-11-11 05:16:03 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=156 deg
+2018-11-11 05:16:09 Drive Axis1 to 156 Degree
+2018-11-11 05:23:24 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=158 deg
+2018-11-11 05:23:31 Drive Axis1 to 158 Degree
+2018-11-11 05:30:46 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=160 deg
+2018-11-11 05:30:53 Drive Axis1 to 160 Degree
+2018-11-11 05:38:08 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=162 deg
+2018-11-11 05:38:15 Drive Axis1 to 162 Degree
+2018-11-11 05:45:30 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=164 deg
+2018-11-11 05:45:37 Drive Axis1 to 164 Degree
+2018-11-11 05:52:52 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=166 deg
+2018-11-11 05:52:58 Drive Axis1 to 166 Degree
+2018-11-11 06:00:13 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=168 deg
+2018-11-11 06:00:20 Drive Axis1 to 168 Degree
+2018-11-11 06:07:34 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=170 deg
+2018-11-11 06:07:41 Drive Axis1 to 170 Degree
+2018-11-11 06:14:55 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=172 deg
+2018-11-11 06:15:02 Drive Axis1 to 172 Degree
+2018-11-11 06:22:16 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=174 deg
+2018-11-11 06:22:23 Drive Axis1 to 174 Degree
+2018-11-11 06:29:37 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=176 deg
+2018-11-11 06:29:44 Drive Axis1 to 176 Degree
+2018-11-11 06:36:57 Set Title: 4 Tesla, T=1.0 K, Ei=3.32 meV, w=178 deg
+2018-11-11 06:37:04 Drive Axis1 to 178 Degree
+2018-11-11 07:49:21 Set Incident Energy to 3.32 meV
+2018-11-11 07:49:21 Setting cryo6 Temperature : 1.0 K
+2018-11-11 07:49:21 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-180 deg
+2018-11-11 07:49:21 Drive Axis1 to -180 Degree
+2018-11-11 08:03:26 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-178 deg
+2018-11-11 08:03:33 Drive Axis1 to -178 Degree
+2018-11-11 08:10:47 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-176 deg
+2018-11-11 08:10:53 Drive Axis1 to -176 Degree
+2018-11-11 08:18:07 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-174 deg
+2018-11-11 08:18:13 Drive Axis1 to -174 Degree
+2018-11-11 08:29:14 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-172 deg
+2018-11-11 08:29:20 Drive Axis1 to -172 Degree
+2018-11-11 08:36:35 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-170 deg
+2018-11-11 08:36:42 Drive Axis1 to -170 Degree
+2018-11-11 08:43:56 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-168 deg
+2018-11-11 08:44:03 Drive Axis1 to -168 Degree
+2018-11-11 08:51:17 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-166 deg
+2018-11-11 08:51:23 Drive Axis1 to -166 Degree
+2018-11-11 08:58:38 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-164 deg
+2018-11-11 08:58:44 Drive Axis1 to -164 Degree
+2018-11-11 09:05:58 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-162 deg
+2018-11-11 09:06:05 Drive Axis1 to -162 Degree
+2018-11-11 09:13:19 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-160 deg
+2018-11-11 09:13:26 Drive Axis1 to -160 Degree
+2018-11-11 09:20:40 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-158 deg
+2018-11-11 09:20:47 Drive Axis1 to -158 Degree
+2018-11-11 09:28:01 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-156 deg
+2018-11-11 09:28:08 Drive Axis1 to -156 Degree
+2018-11-11 09:35:48 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-154 deg
+2018-11-11 09:35:54 Drive Axis1 to -154 Degree
+2018-11-11 09:43:09 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-152 deg
+2018-11-11 09:43:16 Drive Axis1 to -152 Degree
+2018-11-11 11:27:15 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-150 deg
+2018-11-11 11:27:21 Drive Axis1 to -150 Degree
+2018-11-11 11:34:36 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-148 deg
+2018-11-11 11:34:43 Drive Axis1 to -148 Degree
+2018-11-11 11:41:58 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-146 deg
+2018-11-11 11:42:04 Drive Axis1 to -146 Degree
+2018-11-11 11:49:19 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-144 deg
+2018-11-11 11:49:25 Drive Axis1 to -144 Degree
+2018-11-11 11:56:40 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-142 deg
+2018-11-11 11:56:47 Drive Axis1 to -142 Degree
+2018-11-11 12:04:02 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-140 deg
+2018-11-11 12:04:08 Drive Axis1 to -140 Degree
+2018-11-11 12:11:46 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-138 deg
+2018-11-11 12:11:53 Drive Axis1 to -138 Degree
+2018-11-11 12:19:08 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-136 deg
+2018-11-11 12:19:15 Drive Axis1 to -136 Degree
+2018-11-11 12:26:30 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-134 deg
+2018-11-11 12:26:37 Drive Axis1 to -134 Degree
+2018-11-11 12:33:52 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-132 deg
+2018-11-11 12:33:59 Drive Axis1 to -132 Degree
+2018-11-11 12:41:14 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-130 deg
+2018-11-11 12:41:20 Drive Axis1 to -130 Degree
+2018-11-11 12:48:35 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-128 deg
+2018-11-11 12:48:42 Drive Axis1 to -128 Degree
+2018-11-11 12:55:57 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-126 deg
+2018-11-11 12:56:04 Drive Axis1 to -126 Degree
+2018-11-11 13:03:17 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-124 deg
+2018-11-11 13:03:24 Drive Axis1 to -124 Degree
+2018-11-11 13:10:38 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-122 deg
+2018-11-11 13:10:44 Drive Axis1 to -122 Degree
+2018-11-11 13:17:58 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-120 deg
+2018-11-11 13:18:05 Drive Axis1 to -120 Degree
+2018-11-11 13:25:19 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-118 deg
+2018-11-11 13:25:26 Drive Axis1 to -118 Degree
+2018-11-11 13:32:39 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-116 deg
+2018-11-11 13:32:45 Drive Axis1 to -116 Degree
+2018-11-11 13:40:00 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-114 deg
+2018-11-11 13:40:06 Drive Axis1 to -114 Degree
+2018-11-11 13:47:20 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-112 deg
+2018-11-11 13:47:27 Drive Axis1 to -112 Degree
+2018-11-11 13:54:41 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-110 deg
+2018-11-11 13:54:48 Drive Axis1 to -110 Degree
+2018-11-11 14:02:02 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-108 deg
+2018-11-11 14:02:08 Drive Axis1 to -108 Degree
+2018-11-11 14:09:23 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-106 deg
+2018-11-11 14:09:30 Drive Axis1 to -106 Degree
+2018-11-11 14:16:44 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-104 deg
+2018-11-11 14:16:51 Drive Axis1 to -104 Degree
+2018-11-11 14:24:06 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-102 deg
+2018-11-11 14:24:12 Drive Axis1 to -102 Degree
+2018-11-11 14:31:27 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-100 deg
+2018-11-11 14:31:33 Drive Axis1 to -100 Degree
+2018-11-11 14:38:49 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-98 deg
+2018-11-11 14:38:55 Drive Axis1 to -98 Degree
+2018-11-11 14:46:10 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-96 deg
+2018-11-11 14:46:16 Drive Axis1 to -96 Degree
+2018-11-11 14:53:31 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-94 deg
+2018-11-11 14:53:37 Drive Axis1 to -94 Degree
+2018-11-11 15:00:52 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-92 deg
+2018-11-11 15:00:59 Drive Axis1 to -92 Degree
+2018-11-11 15:08:13 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-90 deg
+2018-11-11 15:08:19 Drive Axis1 to -90 Degree
+2018-11-11 15:15:35 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-88 deg
+2018-11-11 15:15:41 Drive Axis1 to -88 Degree
+2018-11-11 15:22:56 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-86 deg
+2018-11-11 15:23:02 Drive Axis1 to -86 Degree
+2018-11-11 15:30:17 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-84 deg
+2018-11-11 15:30:23 Drive Axis1 to -84 Degree
+2018-11-11 15:37:37 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-82 deg
+2018-11-11 15:37:44 Drive Axis1 to -82 Degree
+2018-11-11 15:44:59 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-80 deg
+2018-11-11 15:45:05 Drive Axis1 to -80 Degree
+2018-11-11 15:52:19 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-78 deg
+2018-11-11 15:52:26 Drive Axis1 to -78 Degree
+2018-11-11 15:59:41 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-76 deg
+2018-11-11 15:59:48 Drive Axis1 to -76 Degree
+2018-11-11 16:07:03 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-74 deg
+2018-11-11 16:07:10 Drive Axis1 to -74 Degree
+2018-11-11 16:14:24 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-72 deg
+2018-11-11 16:14:31 Drive Axis1 to -72 Degree
+2018-11-11 16:21:46 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-70 deg
+2018-11-11 16:21:53 Drive Axis1 to -70 Degree
+2018-11-11 16:29:08 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-68 deg
+2018-11-11 16:29:15 Drive Axis1 to -68 Degree
+2018-11-11 16:36:29 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-66 deg
+2018-11-11 16:36:35 Drive Axis1 to -66 Degree
+2018-11-11 16:43:49 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-64 deg
+2018-11-11 16:43:56 Drive Axis1 to -64 Degree
+2018-11-11 16:51:10 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-62 deg
+2018-11-11 16:51:17 Drive Axis1 to -62 Degree
+2018-11-11 16:58:32 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-60 deg
+2018-11-11 16:58:39 Drive Axis1 to -60 Degree
+2018-11-11 17:05:54 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-58 deg
+2018-11-11 17:06:00 Drive Axis1 to -58 Degree
+2018-11-11 17:13:16 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-56 deg
+2018-11-11 17:13:22 Drive Axis1 to -56 Degree
+2018-11-11 17:44:59 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-54 deg
+2018-11-11 17:45:06 Drive Axis1 to -54 Degree
+2018-11-11 17:52:19 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-52 deg
+2018-11-11 17:52:26 Drive Axis1 to -52 Degree
+2018-11-11 17:59:39 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-50 deg
+2018-11-11 17:59:45 Drive Axis1 to -50 Degree
+2018-11-11 18:06:59 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-48 deg
+2018-11-11 18:07:06 Drive Axis1 to -48 Degree
+2018-11-11 18:14:19 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-46 deg
+2018-11-11 18:14:25 Drive Axis1 to -46 Degree
+2018-11-11 18:21:39 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-44 deg
+2018-11-11 18:21:45 Drive Axis1 to -44 Degree
+2018-11-11 18:28:58 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-42 deg
+2018-11-11 18:29:05 Drive Axis1 to -42 Degree
+2018-11-11 18:36:19 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-40 deg
+2018-11-11 18:36:25 Drive Axis1 to -40 Degree
+2018-11-11 18:43:38 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-38 deg
+2018-11-11 18:43:45 Drive Axis1 to -38 Degree
+2018-11-11 18:50:58 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-36 deg
+2018-11-11 18:51:05 Drive Axis1 to -36 Degree
+2018-11-11 18:58:18 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-34 deg
+2018-11-11 18:58:24 Drive Axis1 to -34 Degree
+2018-11-11 19:05:38 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-32 deg
+2018-11-11 19:05:44 Drive Axis1 to -32 Degree
+2018-11-11 19:12:58 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-30 deg
+2018-11-11 19:13:04 Drive Axis1 to -30 Degree
+2018-11-11 19:20:17 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-28 deg
+2018-11-11 19:20:24 Drive Axis1 to -28 Degree
+2018-11-11 19:27:37 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-26 deg
+2018-11-11 19:27:44 Drive Axis1 to -26 Degree
+2018-11-11 19:34:57 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-24 deg
+2018-11-11 19:35:04 Drive Axis1 to -24 Degree
+2018-11-11 19:42:18 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-22 deg
+2018-11-11 19:42:25 Drive Axis1 to -22 Degree
+2018-11-11 19:49:39 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-20 deg
+2018-11-11 19:49:46 Drive Axis1 to -20 Degree
+2018-11-11 19:57:00 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-18 deg
+2018-11-11 19:57:06 Drive Axis1 to -18 Degree
+2018-11-11 20:04:20 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-16 deg
+2018-11-11 20:04:27 Drive Axis1 to -16 Degree
+2018-11-11 20:11:41 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-14 deg
+2018-11-11 20:11:47 Drive Axis1 to -14 Degree
+2018-11-11 20:19:01 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-12 deg
+2018-11-11 20:19:08 Drive Axis1 to -12 Degree
+2018-11-11 20:26:21 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-10 deg
+2018-11-11 20:26:28 Drive Axis1 to -10 Degree
+2018-11-11 20:33:42 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-8 deg
+2018-11-11 20:33:49 Drive Axis1 to -8 Degree
+2018-11-11 20:41:03 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-6 deg
+2018-11-11 20:41:09 Drive Axis1 to -6 Degree
+2018-11-11 20:48:24 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-4 deg
+2018-11-11 20:48:30 Drive Axis1 to -4 Degree
+2018-11-11 20:55:44 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=-2 deg
+2018-11-11 20:55:51 Drive Axis1 to -2 Degree
+2018-11-11 21:03:05 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=0 deg
+2018-11-11 21:03:12 Drive Axis1 to 0 Degree
+2018-11-11 21:10:26 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=2 deg
+2018-11-11 21:10:33 Drive Axis1 to 2 Degree
+2018-11-11 21:17:47 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=4 deg
+2018-11-11 21:17:54 Drive Axis1 to 4 Degree
+2018-11-11 21:25:08 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=6 deg
+2018-11-11 21:25:14 Drive Axis1 to 6 Degree
+2018-11-11 21:32:28 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=8 deg
+2018-11-11 21:32:34 Drive Axis1 to 8 Degree
+2018-11-11 21:42:34 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=10 deg
+2018-11-11 21:42:40 Drive Axis1 to 10 Degree
+2018-11-11 21:49:55 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=12 deg
+2018-11-11 21:50:01 Drive Axis1 to 12 Degree
+2018-11-11 21:57:15 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=14 deg
+2018-11-11 21:57:21 Drive Axis1 to 14 Degree
+2018-11-11 22:04:35 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=16 deg
+2018-11-11 22:04:42 Drive Axis1 to 16 Degree
+2018-11-11 22:11:55 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=18 deg
+2018-11-11 22:12:02 Drive Axis1 to 18 Degree
+2018-11-11 22:19:38 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=20 deg
+2018-11-11 22:19:45 Drive Axis1 to 20 Degree
+2018-11-11 22:26:59 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=22 deg
+2018-11-11 22:27:05 Drive Axis1 to 22 Degree
+2018-11-11 22:34:19 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=24 deg
+2018-11-11 22:34:25 Drive Axis1 to 24 Degree
+2018-11-11 22:41:39 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=26 deg
+2018-11-11 22:41:45 Drive Axis1 to 26 Degree
+2018-11-11 22:49:00 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=28 deg
+2018-11-11 22:49:06 Drive Axis1 to 28 Degree
+2018-11-11 22:56:21 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=30 deg
+2018-11-11 22:56:27 Drive Axis1 to 30 Degree
+2018-11-11 23:03:42 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=32 deg
+2018-11-11 23:03:48 Drive Axis1 to 32 Degree
+2018-11-11 23:11:04 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=34 deg
+2018-11-11 23:11:10 Drive Axis1 to 34 Degree
+2018-11-11 23:18:26 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=36 deg
+2018-11-11 23:18:33 Drive Axis1 to 36 Degree
+2018-11-11 23:25:48 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=38 deg
+2018-11-11 23:25:54 Drive Axis1 to 38 Degree
+2018-11-11 23:33:10 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=40 deg
+2018-11-11 23:33:16 Drive Axis1 to 40 Degree
+2018-11-11 23:40:31 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=42 deg
+2018-11-11 23:40:38 Drive Axis1 to 42 Degree
+2018-11-11 23:48:18 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=44 deg
+2018-11-11 23:48:24 Drive Axis1 to 44 Degree
+2018-11-11 23:55:39 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=46 deg
+2018-11-11 23:55:45 Drive Axis1 to 46 Degree
+2018-11-12 00:03:00 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=48 deg
+2018-11-12 00:03:07 Drive Axis1 to 48 Degree
+2018-11-12 00:10:22 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=50 deg
+2018-11-12 00:10:28 Drive Axis1 to 50 Degree
+2018-11-12 00:17:43 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=52 deg
+2018-11-12 00:17:50 Drive Axis1 to 52 Degree
+2018-11-12 00:25:04 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=54 deg
+2018-11-12 00:25:11 Drive Axis1 to 54 Degree
+2018-11-12 00:32:25 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=56 deg
+2018-11-12 00:32:31 Drive Axis1 to 56 Degree
+2018-11-12 00:39:45 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=58 deg
+2018-11-12 00:39:52 Drive Axis1 to 58 Degree
+2018-11-12 00:47:06 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=60 deg
+2018-11-12 00:47:13 Drive Axis1 to 60 Degree
+2018-11-12 00:54:27 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=62 deg
+2018-11-12 00:54:33 Drive Axis1 to 62 Degree
+2018-11-12 01:01:47 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=64 deg
+2018-11-12 01:01:54 Drive Axis1 to 64 Degree
+2018-11-12 01:09:09 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=66 deg
+2018-11-12 01:09:15 Drive Axis1 to 66 Degree
+2018-11-12 01:16:29 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=68 deg
+2018-11-12 01:16:36 Drive Axis1 to 68 Degree
+2018-11-12 01:23:50 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=70 deg
+2018-11-12 01:23:57 Drive Axis1 to 70 Degree
+2018-11-12 01:31:10 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=72 deg
+2018-11-12 01:31:17 Drive Axis1 to 72 Degree
+2018-11-12 01:38:32 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=74 deg
+2018-11-12 01:38:38 Drive Axis1 to 74 Degree
+2018-11-12 01:45:52 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=76 deg
+2018-11-12 01:45:59 Drive Axis1 to 76 Degree
+2018-11-12 01:53:12 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=78 deg
+2018-11-12 01:53:19 Drive Axis1 to 78 Degree
+2018-11-12 02:00:33 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=80 deg
+2018-11-12 02:00:40 Drive Axis1 to 80 Degree
+2018-11-12 02:07:54 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=82 deg
+2018-11-12 02:08:00 Drive Axis1 to 82 Degree
+2018-11-12 02:15:14 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=84 deg
+2018-11-12 02:15:21 Drive Axis1 to 84 Degree
+2018-11-12 02:22:37 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=86 deg
+2018-11-12 02:22:43 Drive Axis1 to 86 Degree
+2018-11-12 02:29:59 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=88 deg
+2018-11-12 02:30:05 Drive Axis1 to 88 Degree
+2018-11-12 02:37:22 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=90 deg
+2018-11-12 02:37:28 Drive Axis1 to 90 Degree
+2018-11-12 02:44:44 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=92 deg
+2018-11-12 02:44:51 Drive Axis1 to 92 Degree
+2018-11-12 02:52:06 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=94 deg
+2018-11-12 02:52:13 Drive Axis1 to 94 Degree
+2018-11-12 02:59:29 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=96 deg
+2018-11-12 02:59:36 Drive Axis1 to 96 Degree
+2018-11-12 03:06:52 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=98 deg
+2018-11-12 03:06:59 Drive Axis1 to 98 Degree
+2018-11-12 03:14:15 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=100 deg
+2018-11-12 03:14:22 Drive Axis1 to 100 Degree
+2018-11-12 03:21:39 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=102 deg
+2018-11-12 03:21:45 Drive Axis1 to 102 Degree
+2018-11-12 03:29:01 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=104 deg
+2018-11-12 03:29:08 Drive Axis1 to 104 Degree
+2018-11-12 03:36:24 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=106 deg
+2018-11-12 03:36:30 Drive Axis1 to 106 Degree
+2018-11-12 03:43:47 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=108 deg
+2018-11-12 03:43:53 Drive Axis1 to 108 Degree
+2018-11-12 03:51:10 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=110 deg
+2018-11-12 03:51:17 Drive Axis1 to 110 Degree
+2018-11-12 03:58:33 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=112 deg
+2018-11-12 03:58:40 Drive Axis1 to 112 Degree
+2018-11-12 04:05:57 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=114 deg
+2018-11-12 04:06:03 Drive Axis1 to 114 Degree
+2018-11-12 04:13:21 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=116 deg
+2018-11-12 04:13:27 Drive Axis1 to 116 Degree
+2018-11-12 04:20:44 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=118 deg
+2018-11-12 04:20:51 Drive Axis1 to 118 Degree
+2018-11-12 04:28:08 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=120 deg
+2018-11-12 04:28:14 Drive Axis1 to 120 Degree
+2018-11-12 04:35:32 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=122 deg
+2018-11-12 04:35:39 Drive Axis1 to 122 Degree
+2018-11-12 04:42:56 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=124 deg
+2018-11-12 04:43:02 Drive Axis1 to 124 Degree
+2018-11-12 04:50:20 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=126 deg
+2018-11-12 04:50:26 Drive Axis1 to 126 Degree
+2018-11-12 04:57:43 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=128 deg
+2018-11-12 04:57:50 Drive Axis1 to 128 Degree
+2018-11-12 05:05:06 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=130 deg
+2018-11-12 05:05:13 Drive Axis1 to 130 Degree
+2018-11-12 05:12:30 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=132 deg
+2018-11-12 05:12:36 Drive Axis1 to 132 Degree
+2018-11-12 05:19:52 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=134 deg
+2018-11-12 05:19:59 Drive Axis1 to 134 Degree
+2018-11-12 05:27:16 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=136 deg
+2018-11-12 05:27:22 Drive Axis1 to 136 Degree
+2018-11-12 05:34:39 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=138 deg
+2018-11-12 05:34:46 Drive Axis1 to 138 Degree
+2018-11-12 05:42:02 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=140 deg
+2018-11-12 05:42:09 Drive Axis1 to 140 Degree
+2018-11-12 05:49:26 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=142 deg
+2018-11-12 05:49:32 Drive Axis1 to 142 Degree
+2018-11-12 05:56:49 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=144 deg
+2018-11-12 05:56:56 Drive Axis1 to 144 Degree
+2018-11-12 06:04:13 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=146 deg
+2018-11-12 06:04:19 Drive Axis1 to 146 Degree
+2018-11-12 06:11:36 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=148 deg
+2018-11-12 06:11:43 Drive Axis1 to 148 Degree
+2018-11-12 06:19:01 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=150 deg
+2018-11-12 06:19:07 Drive Axis1 to 150 Degree
+2018-11-12 06:26:25 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=152 deg
+2018-11-12 06:26:31 Drive Axis1 to 152 Degree
+2018-11-12 06:33:48 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=154 deg
+2018-11-12 06:33:55 Drive Axis1 to 154 Degree
+2018-11-12 06:42:44 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=156 deg
+2018-11-12 06:42:51 Drive Axis1 to 156 Degree
+2018-11-12 06:50:07 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=158 deg
+2018-11-12 06:50:14 Drive Axis1 to 158 Degree
+2018-11-12 06:57:28 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=160 deg
+2018-11-12 06:57:35 Drive Axis1 to 160 Degree
+2018-11-12 07:04:49 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=162 deg
+2018-11-12 07:04:55 Drive Axis1 to 162 Degree
+2018-11-12 07:12:07 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=164 deg
+2018-11-12 07:12:14 Drive Axis1 to 164 Degree
+2018-11-12 07:19:25 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=166 deg
+2018-11-12 07:19:32 Drive Axis1 to 166 Degree
+2018-11-12 07:26:44 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=168 deg
+2018-11-12 07:26:51 Drive Axis1 to 168 Degree
+2018-11-12 07:34:03 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=170 deg
+2018-11-12 07:34:09 Drive Axis1 to 170 Degree
+2018-11-12 07:41:21 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=172 deg
+2018-11-12 07:41:27 Drive Axis1 to 172 Degree
+2018-11-12 07:49:00 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=174 deg
+2018-11-12 07:49:06 Drive Axis1 to 174 Degree
+2018-11-12 07:56:18 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=176 deg
+2018-11-12 07:56:25 Drive Axis1 to 176 Degree
+2018-11-12 08:03:37 Set Title: 6 Tesla, T=1.0 K, Ei=3.32 meV, w=178 deg
+2018-11-12 08:03:44 Drive Axis1 to 178 Degree
+2018-11-12 13:38:02 Set Incident Energy to 3.32 meV
+2018-11-12 13:38:03 Setting cryo6 Temperature : 1.0 K
+2018-11-12 13:38:03 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=-5 deg
+2018-11-12 13:38:04 Drive Axis1 to -5 Degree
+2018-11-12 13:43:29 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=-3 deg
+2018-11-12 13:43:35 Drive Axis1 to -3 Degree
+2018-11-12 13:49:00 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=-1 deg
+2018-11-12 13:49:07 Drive Axis1 to -1 Degree
+2018-11-12 13:54:33 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=1 deg
+2018-11-12 13:54:39 Drive Axis1 to 1 Degree
+2018-11-12 14:00:05 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=3 deg
+2018-11-12 14:00:12 Drive Axis1 to 3 Degree
+2018-11-12 14:05:37 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=5 deg
+2018-11-12 14:05:44 Drive Axis1 to 5 Degree
+2018-11-12 14:11:09 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=7 deg
+2018-11-12 14:11:16 Drive Axis1 to 7 Degree
+2018-11-12 14:17:06 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=9 deg
+2018-11-12 14:17:12 Drive Axis1 to 9 Degree
+2018-11-12 14:22:38 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=11 deg
+2018-11-12 14:22:44 Drive Axis1 to 11 Degree
+2018-11-12 14:28:09 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=13 deg
+2018-11-12 14:28:16 Drive Axis1 to 13 Degree
+2018-11-12 14:33:41 Set Title: Yb5%:YAlO3, H=1 T, T=1.0 K, Ei=3.32 meV, w=15 deg
+2018-11-12 14:33:47 Drive Axis1 to 15 Degree
+2018-11-12 14:42:09 Set Incident Energy to 3.32 meV
+2018-11-12 14:42:09 Setting cryo6 Temperature : 1.0 K
+2018-11-12 14:42:09 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=-5 deg
+2018-11-12 14:42:09 Drive Axis1 to -5 Degree
+2018-11-12 14:47:34 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=-3 deg
+2018-11-12 14:47:41 Drive Axis1 to -3 Degree
+2018-11-12 14:53:05 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=-1 deg
+2018-11-12 14:53:12 Drive Axis1 to -1 Degree
+2018-11-12 14:58:37 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=1 deg
+2018-11-12 14:58:43 Drive Axis1 to 1 Degree
+2018-11-12 15:04:07 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=3 deg
+2018-11-12 15:04:14 Drive Axis1 to 3 Degree
+2018-11-12 15:09:39 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=5 deg
+2018-11-12 15:09:46 Drive Axis1 to 5 Degree
+2018-11-12 15:15:10 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=7 deg
+2018-11-12 15:15:17 Drive Axis1 to 7 Degree
+2018-11-12 15:20:42 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=9 deg
+2018-11-12 15:20:49 Drive Axis1 to 9 Degree
+2018-11-12 15:26:13 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=11 deg
+2018-11-12 15:26:20 Drive Axis1 to 11 Degree
+2018-11-12 15:31:45 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=13 deg
+2018-11-12 15:31:51 Drive Axis1 to 13 Degree
+2018-11-12 15:37:16 Set Title: Yb5%:YAlO3, H=0.5 T, T=1.0 K, Ei=3.32 meV, w=15 deg
+2018-11-12 15:37:22 Drive Axis1 to 15 Degree
+2018-11-12 16:10:50 Set Incident Energy to 3.32 meV
+2018-11-12 16:10:51 Setting cryo6 Temperature : 1.0 K
+2018-11-12 16:10:51 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-180 deg
+2018-11-12 16:10:51 Drive Axis1 to -180 Degree
+2018-11-12 16:15:40 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-178 deg
+2018-11-12 16:15:46 Drive Axis1 to -178 Degree
+2018-11-12 16:20:35 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-176 deg
+2018-11-12 16:20:41 Drive Axis1 to -176 Degree
+2018-11-12 16:26:03 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-174 deg
+2018-11-12 16:26:10 Drive Axis1 to -174 Degree
+2018-11-12 16:30:59 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-172 deg
+2018-11-12 16:31:06 Drive Axis1 to -172 Degree
+2018-11-12 16:35:55 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-170 deg
+2018-11-12 16:36:01 Drive Axis1 to -170 Degree
+2018-11-12 16:40:50 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-168 deg
+2018-11-12 16:40:57 Drive Axis1 to -168 Degree
+2018-11-12 16:45:47 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-166 deg
+2018-11-12 16:45:54 Drive Axis1 to -166 Degree
+2018-11-12 16:50:43 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-164 deg
+2018-11-12 16:50:49 Drive Axis1 to -164 Degree
+2018-11-12 16:55:39 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-162 deg
+2018-11-12 16:55:45 Drive Axis1 to -162 Degree
+2018-11-12 17:00:34 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-160 deg
+2018-11-12 17:00:41 Drive Axis1 to -160 Degree
+2018-11-12 17:05:29 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-158 deg
+2018-11-12 17:05:35 Drive Axis1 to -158 Degree
+2018-11-12 17:10:24 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-156 deg
+2018-11-12 17:10:31 Drive Axis1 to -156 Degree
+2018-11-12 17:15:19 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-154 deg
+2018-11-12 17:15:26 Drive Axis1 to -154 Degree
+2018-11-12 17:20:14 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-152 deg
+2018-11-12 17:20:21 Drive Axis1 to -152 Degree
+2018-11-12 17:25:10 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-150 deg
+2018-11-12 17:25:17 Drive Axis1 to -150 Degree
+2018-11-12 17:30:05 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-148 deg
+2018-11-12 17:30:12 Drive Axis1 to -148 Degree
+2018-11-12 17:35:01 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-146 deg
+2018-11-12 17:35:08 Drive Axis1 to -146 Degree
+2018-11-12 17:39:56 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-144 deg
+2018-11-12 17:40:03 Drive Axis1 to -144 Degree
+2018-11-12 17:44:52 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-142 deg
+2018-11-12 17:44:59 Drive Axis1 to -142 Degree
+2018-11-12 17:49:48 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-140 deg
+2018-11-12 17:49:55 Drive Axis1 to -140 Degree
+2018-11-12 17:54:44 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-138 deg
+2018-11-12 17:54:51 Drive Axis1 to -138 Degree
+2018-11-12 17:59:40 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-136 deg
+2018-11-12 17:59:46 Drive Axis1 to -136 Degree
+2018-11-12 18:04:35 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-134 deg
+2018-11-12 18:04:42 Drive Axis1 to -134 Degree
+2018-11-12 18:09:31 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-132 deg
+2018-11-12 18:09:38 Drive Axis1 to -132 Degree
+2018-11-12 18:14:26 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-130 deg
+2018-11-12 18:14:33 Drive Axis1 to -130 Degree
+2018-11-12 18:19:44 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-128 deg
+2018-11-12 18:19:51 Drive Axis1 to -128 Degree
+2018-11-12 18:24:39 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-126 deg
+2018-11-12 18:24:46 Drive Axis1 to -126 Degree
+2018-11-12 18:29:34 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-124 deg
+2018-11-12 18:29:41 Drive Axis1 to -124 Degree
+2018-11-12 18:34:30 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-122 deg
+2018-11-12 18:34:36 Drive Axis1 to -122 Degree
+2018-11-12 18:39:25 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-120 deg
+2018-11-12 18:39:32 Drive Axis1 to -120 Degree
+2018-11-12 18:44:21 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-118 deg
+2018-11-12 18:44:27 Drive Axis1 to -118 Degree
+2018-11-12 18:49:16 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-116 deg
+2018-11-12 18:49:23 Drive Axis1 to -116 Degree
+2018-11-12 18:54:12 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-114 deg
+2018-11-12 18:54:18 Drive Axis1 to -114 Degree
+2018-11-12 18:59:07 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-112 deg
+2018-11-12 18:59:14 Drive Axis1 to -112 Degree
+2018-11-12 19:04:02 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-110 deg
+2018-11-12 19:04:09 Drive Axis1 to -110 Degree
+2018-11-12 19:08:57 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-108 deg
+2018-11-12 19:09:04 Drive Axis1 to -108 Degree
+2018-11-12 19:13:53 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-106 deg
+2018-11-12 19:13:59 Drive Axis1 to -106 Degree
+2018-11-12 19:18:49 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-104 deg
+2018-11-12 19:18:55 Drive Axis1 to -104 Degree
+2018-11-12 19:23:44 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-102 deg
+2018-11-12 19:23:51 Drive Axis1 to -102 Degree
+2018-11-12 19:28:59 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-100 deg
+2018-11-12 19:29:05 Drive Axis1 to -100 Degree
+2018-11-12 19:33:54 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-98 deg
+2018-11-12 19:34:00 Drive Axis1 to -98 Degree
+2018-11-12 19:38:49 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-96 deg
+2018-11-12 19:38:56 Drive Axis1 to -96 Degree
+2018-11-12 19:43:45 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-94 deg
+2018-11-12 19:43:51 Drive Axis1 to -94 Degree
+2018-11-12 19:48:40 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-92 deg
+2018-11-12 19:48:47 Drive Axis1 to -92 Degree
+2018-11-12 19:53:36 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-90 deg
+2018-11-12 19:53:42 Drive Axis1 to -90 Degree
+2018-11-12 19:58:31 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-88 deg
+2018-11-12 19:58:37 Drive Axis1 to -88 Degree
+2018-11-12 20:03:27 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-86 deg
+2018-11-12 20:03:34 Drive Axis1 to -86 Degree
+2018-11-12 20:08:23 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-84 deg
+2018-11-12 20:08:30 Drive Axis1 to -84 Degree
+2018-11-12 20:13:19 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-82 deg
+2018-11-12 20:13:26 Drive Axis1 to -82 Degree
+2018-11-12 20:18:15 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-80 deg
+2018-11-12 20:18:21 Drive Axis1 to -80 Degree
+2018-11-12 20:23:11 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-78 deg
+2018-11-12 20:23:18 Drive Axis1 to -78 Degree
+2018-11-12 20:28:07 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-76 deg
+2018-11-12 20:28:14 Drive Axis1 to -76 Degree
+2018-11-12 20:33:03 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-74 deg
+2018-11-12 20:33:10 Drive Axis1 to -74 Degree
+2018-11-12 20:37:59 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-72 deg
+2018-11-12 20:38:06 Drive Axis1 to -72 Degree
+2018-11-12 20:42:55 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-70 deg
+2018-11-12 20:43:01 Drive Axis1 to -70 Degree
+2018-11-12 20:47:50 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-68 deg
+2018-11-12 20:47:57 Drive Axis1 to -68 Degree
+2018-11-12 20:52:46 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-66 deg
+2018-11-12 20:52:52 Drive Axis1 to -66 Degree
+2018-11-12 20:57:41 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-64 deg
+2018-11-12 20:57:48 Drive Axis1 to -64 Degree
+2018-11-12 21:02:37 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-62 deg
+2018-11-12 21:02:44 Drive Axis1 to -62 Degree
+2018-11-12 21:07:32 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-60 deg
+2018-11-12 21:07:39 Drive Axis1 to -60 Degree
+2018-11-12 21:12:28 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-58 deg
+2018-11-12 21:12:35 Drive Axis1 to -58 Degree
+2018-11-12 21:17:25 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-56 deg
+2018-11-12 21:17:31 Drive Axis1 to -56 Degree
+2018-11-12 21:22:21 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-54 deg
+2018-11-12 21:22:27 Drive Axis1 to -54 Degree
+2018-11-12 21:27:18 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-52 deg
+2018-11-12 21:27:24 Drive Axis1 to -52 Degree
+2018-11-12 21:35:35 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-50 deg
+2018-11-12 21:35:41 Drive Axis1 to -50 Degree
+2018-11-12 21:40:32 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-48 deg
+2018-11-12 21:40:39 Drive Axis1 to -48 Degree
+2018-11-12 21:45:55 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-46 deg
+2018-11-12 21:46:02 Drive Axis1 to -46 Degree
+2018-11-12 21:51:09 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-44 deg
+2018-11-12 21:51:15 Drive Axis1 to -44 Degree
+2018-11-12 21:56:03 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-42 deg
+2018-11-12 21:56:10 Drive Axis1 to -42 Degree
+2018-11-12 22:00:58 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-40 deg
+2018-11-12 22:01:05 Drive Axis1 to -40 Degree
+2018-11-12 22:05:52 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-38 deg
+2018-11-12 22:05:59 Drive Axis1 to -38 Degree
+2018-11-12 22:10:47 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-36 deg
+2018-11-12 22:10:54 Drive Axis1 to -36 Degree
+2018-11-12 22:16:01 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-34 deg
+2018-11-12 22:16:07 Drive Axis1 to -34 Degree
+2018-11-12 22:20:55 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-32 deg
+2018-11-12 22:21:02 Drive Axis1 to -32 Degree
+2018-11-12 22:25:49 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-30 deg
+2018-11-12 22:25:56 Drive Axis1 to -30 Degree
+2018-11-12 22:31:22 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-28 deg
+2018-11-12 22:31:28 Drive Axis1 to -28 Degree
+2018-11-12 22:36:17 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-26 deg
+2018-11-12 22:36:23 Drive Axis1 to -26 Degree
+2018-11-12 22:41:12 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-24 deg
+2018-11-12 22:41:18 Drive Axis1 to -24 Degree
+2018-11-12 22:46:07 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-22 deg
+2018-11-12 22:46:14 Drive Axis1 to -22 Degree
+2018-11-12 22:51:02 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-20 deg
+2018-11-12 22:51:08 Drive Axis1 to -20 Degree
+2018-11-12 22:55:56 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-18 deg
+2018-11-12 22:56:03 Drive Axis1 to -18 Degree
+2018-11-12 23:00:52 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-16 deg
+2018-11-12 23:00:58 Drive Axis1 to -16 Degree
+2018-11-12 23:05:47 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-14 deg
+2018-11-12 23:05:54 Drive Axis1 to -14 Degree
+2018-11-12 23:10:42 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-12 deg
+2018-11-12 23:10:49 Drive Axis1 to -12 Degree
+2018-11-12 23:15:37 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-10 deg
+2018-11-12 23:15:44 Drive Axis1 to -10 Degree
+2018-11-12 23:20:33 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-8 deg
+2018-11-12 23:20:40 Drive Axis1 to -8 Degree
+2018-11-12 23:25:29 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-6 deg
+2018-11-12 23:25:35 Drive Axis1 to -6 Degree
+2018-11-12 23:30:24 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-4 deg
+2018-11-12 23:30:31 Drive Axis1 to -4 Degree
+2018-11-12 23:35:39 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=-2 deg
+2018-11-12 23:35:45 Drive Axis1 to -2 Degree
+2018-11-12 23:40:34 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=0 deg
+2018-11-12 23:40:41 Drive Axis1 to 0 Degree
+2018-11-12 23:45:30 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=2 deg
+2018-11-12 23:45:36 Drive Axis1 to 2 Degree
+2018-11-12 23:50:26 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=4 deg
+2018-11-12 23:50:32 Drive Axis1 to 4 Degree
+2018-11-12 23:55:22 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=6 deg
+2018-11-12 23:55:29 Drive Axis1 to 6 Degree
+2018-11-13 00:00:18 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=8 deg
+2018-11-13 00:00:25 Drive Axis1 to 8 Degree
+2018-11-13 00:05:15 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=10 deg
+2018-11-13 00:05:21 Drive Axis1 to 10 Degree
+2018-11-13 00:10:11 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=12 deg
+2018-11-13 00:10:18 Drive Axis1 to 12 Degree
+2018-11-13 00:15:08 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=14 deg
+2018-11-13 00:15:14 Drive Axis1 to 14 Degree
+2018-11-13 00:20:04 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=16 deg
+2018-11-13 00:20:11 Drive Axis1 to 16 Degree
+2018-11-13 00:25:00 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=18 deg
+2018-11-13 00:25:07 Drive Axis1 to 18 Degree
+2018-11-13 00:29:56 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=20 deg
+2018-11-13 00:30:03 Drive Axis1 to 20 Degree
+2018-11-13 00:34:52 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=22 deg
+2018-11-13 00:34:58 Drive Axis1 to 22 Degree
+2018-11-13 00:39:47 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=24 deg
+2018-11-13 00:39:54 Drive Axis1 to 24 Degree
+2018-11-13 00:44:43 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=26 deg
+2018-11-13 00:44:50 Drive Axis1 to 26 Degree
+2018-11-13 00:49:39 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=28 deg
+2018-11-13 00:49:45 Drive Axis1 to 28 Degree
+2018-11-13 00:54:53 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=30 deg
+2018-11-13 00:54:59 Drive Axis1 to 30 Degree
+2018-11-13 00:59:47 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=32 deg
+2018-11-13 00:59:53 Drive Axis1 to 32 Degree
+2018-11-13 01:04:42 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=34 deg
+2018-11-13 01:04:49 Drive Axis1 to 34 Degree
+2018-11-13 01:09:36 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=36 deg
+2018-11-13 01:09:43 Drive Axis1 to 36 Degree
+2018-11-13 01:14:31 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=38 deg
+2018-11-13 01:14:37 Drive Axis1 to 38 Degree
+2018-11-13 01:19:25 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=40 deg
+2018-11-13 01:19:32 Drive Axis1 to 40 Degree
+2018-11-13 01:24:20 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=42 deg
+2018-11-13 01:24:27 Drive Axis1 to 42 Degree
+2018-11-13 01:29:14 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=44 deg
+2018-11-13 01:29:21 Drive Axis1 to 44 Degree
+2018-11-13 01:34:09 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=46 deg
+2018-11-13 01:34:15 Drive Axis1 to 46 Degree
+2018-11-13 01:39:03 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=48 deg
+2018-11-13 01:39:10 Drive Axis1 to 48 Degree
+2018-11-13 01:43:57 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=50 deg
+2018-11-13 01:44:04 Drive Axis1 to 50 Degree
+2018-11-13 01:48:51 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=52 deg
+2018-11-13 01:48:58 Drive Axis1 to 52 Degree
+2018-11-13 01:53:45 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=54 deg
+2018-11-13 01:53:52 Drive Axis1 to 54 Degree
+2018-11-13 01:58:59 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=56 deg
+2018-11-13 01:59:06 Drive Axis1 to 56 Degree
+2018-11-13 02:03:56 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=58 deg
+2018-11-13 02:04:02 Drive Axis1 to 58 Degree
+2018-11-13 02:08:50 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=60 deg
+2018-11-13 02:08:57 Drive Axis1 to 60 Degree
+2018-11-13 02:13:44 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=62 deg
+2018-11-13 02:13:51 Drive Axis1 to 62 Degree
+2018-11-13 02:18:39 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=64 deg
+2018-11-13 02:18:45 Drive Axis1 to 64 Degree
+2018-11-13 02:23:34 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=66 deg
+2018-11-13 02:23:41 Drive Axis1 to 66 Degree
+2018-11-13 02:28:29 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=68 deg
+2018-11-13 02:28:36 Drive Axis1 to 68 Degree
+2018-11-13 02:33:24 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=70 deg
+2018-11-13 02:33:31 Drive Axis1 to 70 Degree
+2018-11-13 02:38:19 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=72 deg
+2018-11-13 02:38:26 Drive Axis1 to 72 Degree
+2018-11-13 02:43:55 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=74 deg
+2018-11-13 02:44:01 Drive Axis1 to 74 Degree
+2018-11-13 02:48:50 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=76 deg
+2018-11-13 02:48:57 Drive Axis1 to 76 Degree
+2018-11-13 02:53:46 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=78 deg
+2018-11-13 02:53:52 Drive Axis1 to 78 Degree
+2018-11-13 02:58:41 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=80 deg
+2018-11-13 02:58:47 Drive Axis1 to 80 Degree
+2018-11-13 03:03:35 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=82 deg
+2018-11-13 03:03:42 Drive Axis1 to 82 Degree
+2018-11-13 03:08:30 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=84 deg
+2018-11-13 03:08:37 Drive Axis1 to 84 Degree
+2018-11-13 03:13:25 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=86 deg
+2018-11-13 03:13:32 Drive Axis1 to 86 Degree
+2018-11-13 03:18:20 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=88 deg
+2018-11-13 03:18:27 Drive Axis1 to 88 Degree
+2018-11-13 03:23:15 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=90 deg
+2018-11-13 03:23:21 Drive Axis1 to 90 Degree
+2018-11-13 03:28:10 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=92 deg
+2018-11-13 03:28:17 Drive Axis1 to 92 Degree
+2018-11-13 03:33:06 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=94 deg
+2018-11-13 03:33:12 Drive Axis1 to 94 Degree
+2018-11-13 03:38:02 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=96 deg
+2018-11-13 03:38:09 Drive Axis1 to 96 Degree
+2018-11-13 03:42:59 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=98 deg
+2018-11-13 03:43:05 Drive Axis1 to 98 Degree
+2018-11-13 03:47:56 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=100 deg
+2018-11-13 03:48:02 Drive Axis1 to 100 Degree
+2018-11-13 03:52:52 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=102 deg
+2018-11-13 03:52:59 Drive Axis1 to 102 Degree
+2018-11-13 03:57:49 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=104 deg
+2018-11-13 03:57:56 Drive Axis1 to 104 Degree
+2018-11-13 04:02:46 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=106 deg
+2018-11-13 04:02:52 Drive Axis1 to 106 Degree
+2018-11-13 04:07:42 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=108 deg
+2018-11-13 04:07:49 Drive Axis1 to 108 Degree
+2018-11-13 04:12:39 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=110 deg
+2018-11-13 04:12:45 Drive Axis1 to 110 Degree
+2018-11-13 04:17:36 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=112 deg
+2018-11-13 04:17:43 Drive Axis1 to 112 Degree
+2018-11-13 04:22:33 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=114 deg
+2018-11-13 04:22:40 Drive Axis1 to 114 Degree
+2018-11-13 04:27:30 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=116 deg
+2018-11-13 04:27:37 Drive Axis1 to 116 Degree
+2018-11-13 04:32:27 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=118 deg
+2018-11-13 04:32:34 Drive Axis1 to 118 Degree
+2018-11-13 04:37:25 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=120 deg
+2018-11-13 04:37:32 Drive Axis1 to 120 Degree
+2018-11-13 04:42:22 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=122 deg
+2018-11-13 04:42:29 Drive Axis1 to 122 Degree
+2018-11-13 04:47:19 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=124 deg
+2018-11-13 04:47:25 Drive Axis1 to 124 Degree
+2018-11-13 04:52:16 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=126 deg
+2018-11-13 04:52:23 Drive Axis1 to 126 Degree
+2018-11-13 04:57:13 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=128 deg
+2018-11-13 04:57:20 Drive Axis1 to 128 Degree
+2018-11-13 05:02:10 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=130 deg
+2018-11-13 05:02:17 Drive Axis1 to 130 Degree
+2018-11-13 05:07:07 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=132 deg
+2018-11-13 05:07:13 Drive Axis1 to 132 Degree
+2018-11-13 05:12:04 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=134 deg
+2018-11-13 05:12:11 Drive Axis1 to 134 Degree
+2018-11-13 05:17:02 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=136 deg
+2018-11-13 05:17:08 Drive Axis1 to 136 Degree
+2018-11-13 05:21:59 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=138 deg
+2018-11-13 05:22:06 Drive Axis1 to 138 Degree
+2018-11-13 05:26:56 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=140 deg
+2018-11-13 05:27:03 Drive Axis1 to 140 Degree
+2018-11-13 05:31:54 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=142 deg
+2018-11-13 05:32:00 Drive Axis1 to 142 Degree
+2018-11-13 05:36:51 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=144 deg
+2018-11-13 05:36:58 Drive Axis1 to 144 Degree
+2018-11-13 05:41:49 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=146 deg
+2018-11-13 05:41:56 Drive Axis1 to 146 Degree
+2018-11-13 05:46:47 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=148 deg
+2018-11-13 05:46:54 Drive Axis1 to 148 Degree
+2018-11-13 05:51:45 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=150 deg
+2018-11-13 05:51:51 Drive Axis1 to 150 Degree
+2018-11-13 05:56:43 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=152 deg
+2018-11-13 05:56:49 Drive Axis1 to 152 Degree
+2018-11-13 06:01:41 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=154 deg
+2018-11-13 06:01:47 Drive Axis1 to 154 Degree
+2018-11-13 06:06:38 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=156 deg
+2018-11-13 06:06:45 Drive Axis1 to 156 Degree
+2018-11-13 06:11:36 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=158 deg
+2018-11-13 06:11:42 Drive Axis1 to 158 Degree
+2018-11-13 06:16:33 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=160 deg
+2018-11-13 06:16:40 Drive Axis1 to 160 Degree
+2018-11-13 06:21:31 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=162 deg
+2018-11-13 06:21:38 Drive Axis1 to 162 Degree
+2018-11-13 06:26:29 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=164 deg
+2018-11-13 06:26:35 Drive Axis1 to 164 Degree
+2018-11-13 06:31:26 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=166 deg
+2018-11-13 06:31:33 Drive Axis1 to 166 Degree
+2018-11-13 06:36:24 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=168 deg
+2018-11-13 06:36:31 Drive Axis1 to 168 Degree
+2018-11-13 06:41:22 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=170 deg
+2018-11-13 06:41:29 Drive Axis1 to 170 Degree
+2018-11-13 06:46:20 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=172 deg
+2018-11-13 06:46:26 Drive Axis1 to 172 Degree
+2018-11-13 06:51:18 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=174 deg
+2018-11-13 06:51:25 Drive Axis1 to 174 Degree
+2018-11-13 06:56:16 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=176 deg
+2018-11-13 06:56:23 Drive Axis1 to 176 Degree
+2018-11-13 07:01:13 Set Title: Yb5%:YAlO3, H=0 T, T=1.0 K, Ei=3.32 meV, w=178 deg
+2018-11-13 07:01:19 Drive Axis1 to 178 Degree
+2018-11-13 08:25:30 Set Incident Energy to 3.32 meV
+2018-11-13 08:25:30 Setting cryo6 Temperature : 1.0 K
+2018-11-13 08:25:30 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=-5 deg
+2018-11-13 08:26:11 Drive Axis1 to -5 Degree
+2018-11-13 08:31:39 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=-3 deg
+2018-11-13 08:31:45 Drive Axis1 to -3 Degree
+2018-11-13 08:37:12 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=-1 deg
+2018-11-13 08:37:19 Drive Axis1 to -1 Degree
+2018-11-13 09:16:13 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=1 deg
+2018-11-13 09:16:20 Drive Axis1 to 1 Degree
+2018-11-13 09:21:47 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=3 deg
+2018-11-13 09:21:54 Drive Axis1 to 3 Degree
+2018-11-13 09:27:21 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=5 deg
+2018-11-13 09:27:28 Drive Axis1 to 5 Degree
+2018-11-13 09:32:55 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=7 deg
+2018-11-13 09:33:01 Drive Axis1 to 7 Degree
+2018-11-13 09:38:50 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=9 deg
+2018-11-13 09:38:56 Drive Axis1 to 9 Degree
+2018-11-13 09:44:22 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=11 deg
+2018-11-13 09:44:29 Drive Axis1 to 11 Degree
+2018-11-13 09:49:55 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=13 deg
+2018-11-13 09:50:02 Drive Axis1 to 13 Degree
+2018-11-13 09:55:50 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=15 deg
+2018-11-13 09:55:57 Drive Axis1 to 15 Degree
+2018-11-13 10:01:23 Set Incident Energy to 3.32 meV
+2018-11-13 10:01:24 Setting cryo6 Temperature : 1.0 K
+2018-11-13 10:01:24 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=-4 deg
+2018-11-13 10:02:05 Drive Axis1 to -4 Degree
+2018-11-13 10:07:32 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=-2 deg
+2018-11-13 10:07:39 Drive Axis1 to -2 Degree
+2018-11-13 10:13:06 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=0 deg
+2018-11-13 10:13:13 Drive Axis1 to 0 Degree
+2018-11-13 10:18:40 Set Title: Yb5%:YAlO3, H=4 T, T=1.0 K, Ei=3.32 meV, w=2 deg
+2018-11-13 10:18:46 Drive Axis1 to 2 Degree
+2018-11-13 10:45:04 Set Incident Energy to 3.32 meV
+2018-11-13 10:45:05 Setting cryo6 Temperature : 1.0 K
+2018-11-13 10:45:05 Set Title: Yb5%:YAlO3, H=8 T, T=1.0 K, Ei=3.32 meV, w=-5 deg
+2018-11-13 10:45:05 Drive Axis1 to -5 Degree
+2018-11-13 10:50:34 Set Title: Yb5%:YAlO3, H=8 T, T=1.0 K, Ei=3.32 meV, w=-3 deg
+2018-11-13 10:50:41 Drive Axis1 to -3 Degree
+2018-11-13 12:25:13 Set Title: Yb5%:YAlO3, H=8 T, T=1.0 K, Ei=3.32 meV, w=-1 deg
+2018-11-13 12:25:20 Drive Axis1 to -1 Degree
+2018-11-13 12:30:46 Set Title: Yb5%:YAlO3, H=8 T, T=1.0 K, Ei=3.32 meV, w=1 deg
+2018-11-13 12:30:53 Drive Axis1 to 1 Degree
+2018-11-13 12:36:19 Set Title: Yb5%:YAlO3, H=8 T, T=1.0 K, Ei=3.32 meV, w=3 deg
+2018-11-13 12:36:25 Drive Axis1 to 3 Degree
+2018-11-13 12:41:51 Set Title: Yb5%:YAlO3, H=8 T, T=1.0 K, Ei=3.32 meV, w=5 deg
+2018-11-13 12:41:58 Drive Axis1 to 5 Degree
+2018-11-13 12:47:24 Set Title: Yb5%:YAlO3, H=8 T, T=1.0 K, Ei=3.32 meV, w=7 deg
+2018-11-13 12:47:30 Drive Axis1 to 7 Degree
+2018-11-13 12:52:56 Set Title: Yb5%:YAlO3, H=8 T, T=1.0 K, Ei=3.32 meV, w=9 deg
+2018-11-13 12:53:03 Drive Axis1 to 9 Degree
+2018-11-13 12:58:29 Set Title: Yb5%:YAlO3, H=8 T, T=1.0 K, Ei=3.32 meV, w=11 deg
+2018-11-13 12:58:36 Drive Axis1 to 11 Degree
+2018-11-13 13:04:01 Set Title: Yb5%:YAlO3, H=8 T, T=1.0 K, Ei=3.32 meV, w=13 deg
+2018-11-13 13:04:08 Drive Axis1 to 13 Degree

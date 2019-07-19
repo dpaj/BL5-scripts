@@ -1,0 +1,1187 @@
+2018-07-09 14:59:19 Line Log cleared
+2018-07-09 14:59:19 Starting IPTS-21247 on 2018-07-09
+2018-07-09 15:02:00 Set Title: Hybrid Perovskites
+2018-07-09 16:28:37 Drive Axis1 to 120 Degree
+2018-07-09 16:40:51 Set Incident Energy to 3.32 meV
+2018-07-09 17:07:17 Set Title: HyPer T=200.0 K, En=3.32 meV, pos=0.0 degs, sample=1
+2018-07-09 17:07:32 Drive Axis1 to 0.0 Degree
+2018-07-09 18:12:25 Set Title: HyPer T=200.0 K, En=3.32 meV, pos=120.0 degs, sample=2
+2018-07-09 18:12:41 Drive Axis1 to 120.0 Degree
+2018-07-09 19:11:34 Set Title: HyPer T=200.0 K, En=3.32 meV, pos=240.0 degs, sample=3
+2018-07-09 19:11:51 Drive Axis1 to 240.0 Degree
+2018-07-09 20:03:40 Setting Chopper 5 frequency to 240.0 Hz
+2018-07-09 20:04:13 Setting Chopper mode in: intermediate
+2018-07-09 20:04:52 Set Incident Energy to 2.6 meV
+2018-07-09 20:05:29 Setting Chopper 5 frequency to 240.0 Hz
+2018-07-09 20:05:39 Setting Chopper mode in: intermediate
+2018-07-09 20:05:39 Set Incident Energy to 2.6 meV
+2018-07-09 20:06:40 Set Title: HyPer T=200.0 K, En=2.6 meV, pos=0.0 degs, sample=1
+2018-07-09 20:07:10 Drive Axis1 to 0.0 Degree
+2018-07-09 21:06:40 Set Title: HyPer T=200.0 K, En=2.6 meV, pos=120.0 degs, sample=2
+2018-07-09 21:06:57 Drive Axis1 to 120.0 Degree
+2018-07-09 22:06:29 Set Title: HyPer T=200.0 K, En=2.6 meV, pos=240.0 degs, sample=3
+2018-07-09 22:06:44 Drive Axis1 to 240.0 Degree
+2018-07-09 23:08:46 Set Title: HyPer T=225.0 K, En=2.6 meV, pos=0.0 degs, sample=1
+2018-07-09 23:09:16 Drive Axis1 to 0.0 Degree
+2018-07-10 00:08:54 Set Title: HyPer T=225.0 K, En=2.6 meV, pos=120.0 degs, sample=2
+2018-07-10 00:09:09 Drive Axis1 to 120.0 Degree
+2018-07-10 01:08:41 Set Title: HyPer T=225.0 K, En=2.6 meV, pos=240.0 degs, sample=3
+2018-07-10 01:08:58 Drive Axis1 to 240.0 Degree
+2018-07-10 02:10:33 Set Title: HyPer T=256.0 K, En=2.6 meV, pos=0.0 degs, sample=1
+2018-07-10 02:11:03 Drive Axis1 to 0.0 Degree
+2018-07-10 03:10:28 Set Title: HyPer T=256.0 K, En=2.6 meV, pos=120.0 degs, sample=2
+2018-07-10 03:10:45 Drive Axis1 to 120.0 Degree
+2018-07-10 04:10:54 Set Title: HyPer T=256.0 K, En=2.6 meV, pos=240.0 degs, sample=3
+2018-07-10 04:11:09 Drive Axis1 to 240.0 Degree
+2018-07-10 05:13:27 Set Title: HyPer T=300.0 K, En=2.6 meV, pos=0.0 degs, sample=1
+2018-07-10 05:13:57 Drive Axis1 to 0.0 Degree
+2018-07-10 06:13:29 Set Title: HyPer T=300.0 K, En=2.6 meV, pos=120.0 degs, sample=2
+2018-07-10 06:13:47 Drive Axis1 to 120.0 Degree
+2018-07-10 07:13:24 Set Title: HyPer T=300.0 K, En=2.6 meV, pos=240.0 degs, sample=3
+2018-07-10 07:13:39 Drive Axis1 to 240.0 Degree
+2018-07-10 13:45:42 Drive Axis1 to 0 Degree
+2018-07-10 17:16:44 Setting Chopper 5 frequency to 240.0 Hz
+2018-07-10 17:16:44 Setting Chopper mode in: intermediate
+2018-07-10 17:17:11 Set Incident Energy to 2.6 meV
+2018-07-10 18:39:36 Set Title: HyPer T=200.0 K, En=2.6 meV, pos=0.0 degs, sample=1
+2018-07-10 18:39:37 Drive Axis1 to 0.0 Degree
+2018-07-10 19:39:07 Set Title: HyPer T=200.0 K, En=2.6 meV, pos=120.0 degs, sample=2
+2018-07-10 19:39:23 Drive Axis1 to 120.0 Degree
+2018-07-10 20:38:47 Set Title: HyPer T=200.0 K, En=2.6 meV, pos=120.0 degs, sample=3
+2018-07-10 20:38:51 Drive Axis1 to 120.0 Degree
+2018-07-10 21:38:40 Set Title: HyPer T=200.0 K, En=2.6 meV, pos=240.0 degs, sample=4
+2018-07-10 21:38:56 Drive Axis1 to 240.0 Degree
+2018-07-10 22:47:41 Set Title: HyPer T=225.0 K, En=2.6 meV, pos=0.0 degs, sample=1
+2018-07-10 22:48:11 Drive Axis1 to 0.0 Degree
+2018-07-11 02:24:19 Set Title: HyPer T=225.0 K, En=2.6 meV, pos=120.0 degs, sample=2
+2018-07-11 02:24:34 Drive Axis1 to 120.0 Degree
+2018-07-11 03:45:44 Set Title: HyPer T=225.0 K, En=2.6 meV, pos=120.0 degs, sample=3
+2018-07-11 03:45:47 Drive Axis1 to 120.0 Degree
+2018-07-11 04:45:36 Set Title: HyPer T=225.0 K, En=2.6 meV, pos=240.0 degs, sample=4
+2018-07-11 04:45:52 Drive Axis1 to 240.0 Degree
+2018-07-11 05:47:57 Set Title: HyPer T=256.0 K, En=2.6 meV, pos=0.0 degs, sample=1
+2018-07-11 05:48:26 Drive Axis1 to 0.0 Degree
+2018-07-11 06:50:17 Set Title: HyPer T=256.0 K, En=2.6 meV, pos=120.0 degs, sample=2
+2018-07-11 06:50:33 Drive Axis1 to 120.0 Degree
+2018-07-11 07:50:14 Set Title: HyPer T=256.0 K, En=2.6 meV, pos=120.0 degs, sample=3
+2018-07-11 07:50:17 Drive Axis1 to 120.0 Degree
+2018-07-11 08:52:37 Set Title: HyPer T=256.0 K, En=2.6 meV, pos=240.0 degs, sample=4
+2018-07-11 08:52:52 Drive Axis1 to 240.0 Degree
+2018-07-11 09:55:55 Set Title: HyPer T=300.0 K, En=2.6 meV, pos=0.0 degs, sample=1
+2018-07-11 09:56:24 Drive Axis1 to 0.0 Degree
+2018-07-11 11:22:32 Set Title: HyPer T=300.0 K, En=2.6 meV, pos=120.0 degs, sample=2
+2018-07-11 11:22:47 Drive Axis1 to 120.0 Degree
+2018-07-11 13:41:10 Set Title: HyPer T=300.0 K, En=2.6 meV, pos=120.0 degs, sample=3
+2018-07-11 13:41:13 Drive Axis1 to 120.0 Degree
+2018-07-11 14:40:40 Set Title: HyPer T=300.0 K, En=2.6 meV, pos=240.0 degs, sample=4
+2018-07-11 14:40:55 Drive Axis1 to 240.0 Degree
+2018-07-11 20:56:52 Set Incident Energy to 12 meV
+2018-07-11 20:56:52 Set Title: HyPer T=1.5 K, En=12 meV, pos=0.0 degs, sample=1
+2018-07-11 20:56:53 Drive Axis1 to 0.0 Degree
+2018-07-11 22:01:43 Set Title: HyPer T=1.5 K, En=12 meV, pos=120.0 degs, sample=2
+2018-07-11 22:01:58 Drive Axis1 to 120.0 Degree
+2018-07-11 23:06:50 Set Title: HyPer T=1.5 K, En=12 meV, pos=240.0 degs, sample=3
+2018-07-11 23:07:07 Drive Axis1 to 240.0 Degree
+2018-07-12 00:12:05 Set Title: HyPer T=1.5 K, En=12 meV, pos=240.0 degs, sample=4
+2018-07-12 00:12:06 Drive Axis1 to 240.0 Degree
+2018-07-12 01:17:00 Set Title: HyPer T=1.5 K, En=12 meV, pos=120.0 degs, sample=5
+2018-07-12 01:17:16 Drive Axis1 to 120.0 Degree
+2018-07-12 02:23:00 Set Title: HyPer T=1.5 K, En=12 meV, pos=0.0 degs, sample=6
+2018-07-12 02:23:16 Drive Axis1 to 0.0 Degree
+2018-07-12 03:29:59 Set Incident Energy to 25 meV
+2018-07-12 03:29:59 Set Title: HyPer T=1.5 K, En=25 meV, pos=0.0 degs, sample=1
+2018-07-12 03:30:00 Drive Axis1 to 0.0 Degree
+2018-07-12 04:34:58 Set Title: HyPer T=1.5 K, En=25 meV, pos=120.0 degs, sample=2
+2018-07-12 04:35:14 Drive Axis1 to 120.0 Degree
+2018-07-12 05:40:12 Set Title: HyPer T=1.5 K, En=25 meV, pos=240.0 degs, sample=3
+2018-07-12 05:40:29 Drive Axis1 to 240.0 Degree
+2018-07-12 06:45:32 Set Title: HyPer T=1.5 K, En=25 meV, pos=240.0 degs, sample=4
+2018-07-12 06:45:33 Drive Axis1 to 240.0 Degree
+2018-07-12 07:51:04 Set Title: HyPer T=1.5 K, En=25 meV, pos=120.0 degs, sample=5
+2018-07-12 07:51:21 Drive Axis1 to 120.0 Degree
+2018-07-12 08:56:05 Set Title: HyPer T=1.5 K, En=25 meV, pos=0.0 degs, sample=6
+2018-07-12 08:56:21 Drive Axis1 to 0.0 Degree
+2018-07-12 10:01:44 Set Incident Energy to 40 meV
+2018-07-12 10:01:44 Set Title: HyPer T=1.5 K, En=40 meV, pos=0.0 degs, sample=1
+2018-07-12 10:01:45 Drive Axis1 to 0.0 Degree
+2018-07-12 11:06:59 Set Title: HyPer T=1.5 K, En=40 meV, pos=120.0 degs, sample=2
+2018-07-12 11:07:14 Drive Axis1 to 120.0 Degree
+2018-07-12 12:12:29 Set Title: HyPer T=1.5 K, En=40 meV, pos=240.0 degs, sample=3
+2018-07-12 12:12:46 Drive Axis1 to 240.0 Degree
+2018-07-12 13:26:20 Set Title: HyPer T=1.5 K, En=40 meV, pos=240.0 degs, sample=4
+2018-07-12 13:26:21 Drive Axis1 to 240.0 Degree
+2018-07-12 15:13:49 Set Title: HyPer T=1.5 K, En=40 meV, pos=120.0 degs, sample=5
+2018-07-12 15:14:06 Drive Axis1 to 120.0 Degree
+2018-07-12 16:19:16 Set Title: HyPer T=1.5 K, En=40 meV, pos=0.0 degs, sample=6
+2018-07-12 16:19:32 Drive Axis1 to 0.0 Degree
+2018-07-12 20:56:56 Set Incident Energy to 12 meV
+2018-07-12 20:56:56 Set Title: HyPer T=1.5 K, En=12 meV, pos=0.0 degs, sample=1
+2018-07-12 20:57:26 Drive Axis1 to 0.0 Degree
+2018-07-12 22:02:14 Set Title: HyPer T=1.5 K, En=12 meV, pos=120.0 degs, sample=2
+2018-07-12 22:02:29 Drive Axis1 to 120.0 Degree
+2018-07-12 23:07:18 Set Title: HyPer T=1.5 K, En=12 meV, pos=240.0 degs, sample=3
+2018-07-12 23:07:36 Drive Axis1 to 240.0 Degree
+2018-07-13 00:12:53 Set Title: HyPer T=1.5 K, En=12 meV, pos=120.0 degs, sample=4
+2018-07-13 00:13:10 Drive Axis1 to 120.0 Degree
+2018-07-13 01:18:00 Set Title: HyPer T=1.5 K, En=12 meV, pos=0.0 degs, sample=5
+2018-07-13 01:18:16 Drive Axis1 to 0.0 Degree
+2018-07-13 02:23:50 Set Incident Energy to 25 meV
+2018-07-13 02:23:50 Set Title: HyPer T=1.5 K, En=25 meV, pos=0.0 degs, sample=1
+2018-07-13 02:23:51 Drive Axis1 to 0.0 Degree
+2018-07-13 03:28:43 Set Title: HyPer T=1.5 K, En=25 meV, pos=120.0 degs, sample=2
+2018-07-13 03:28:58 Drive Axis1 to 120.0 Degree
+2018-07-13 04:33:58 Set Title: HyPer T=1.5 K, En=25 meV, pos=240.0 degs, sample=3
+2018-07-13 04:34:16 Drive Axis1 to 240.0 Degree
+2018-07-13 05:39:41 Set Title: HyPer T=1.5 K, En=25 meV, pos=120.0 degs, sample=4
+2018-07-13 05:39:57 Drive Axis1 to 120.0 Degree
+2018-07-13 06:44:50 Set Title: HyPer T=1.5 K, En=25 meV, pos=0.0 degs, sample=5
+2018-07-13 06:45:07 Drive Axis1 to 0.0 Degree
+2018-07-13 07:50:35 Set Incident Energy to 40 meV
+2018-07-13 07:50:35 Set Title: HyPer T=1.5 K, En=40 meV, pos=0.0 degs, sample=1
+2018-07-13 07:50:36 Drive Axis1 to 0.0 Degree
+2018-07-13 08:55:27 Set Title: HyPer T=1.5 K, En=40 meV, pos=120.0 degs, sample=2
+2018-07-13 08:55:43 Drive Axis1 to 120.0 Degree
+2018-07-13 10:01:08 Set Title: HyPer T=1.5 K, En=40 meV, pos=240.0 degs, sample=3
+2018-07-13 10:01:26 Drive Axis1 to 240.0 Degree
+2018-07-13 11:06:52 Set Title: HyPer T=1.5 K, En=40 meV, pos=120.0 degs, sample=4
+2018-07-13 11:07:09 Drive Axis1 to 120.0 Degree
+2018-07-13 12:11:48 Set Title: HyPer T=1.5 K, En=40 meV, pos=0.0 degs, sample=5
+2018-07-13 12:12:04 Drive Axis1 to 0.0 Degree
+2018-07-13 13:18:13 Set Incident Energy to 12 meV
+2018-07-13 13:18:13 Set Title: HyPer T=1.5 K, En=12 meV, pos=0.0 degs, sample=1
+2018-07-13 13:18:14 Drive Axis1 to 0.0 Degree
+2018-07-13 14:22:57 Set Title: HyPer T=1.5 K, En=12 meV, pos=120.0 degs, sample=2
+2018-07-13 14:23:15 Drive Axis1 to 120.0 Degree
+2018-07-13 15:54:03 Set Incident Energy to 25 meV
+2018-07-13 15:54:03 Set Title: HyPer T=1.5 K, En=25 meV, pos=0.0 degs, sample=1
+2018-07-13 15:54:19 Drive Axis1 to 0.0 Degree
+2018-07-13 19:45:49 Set Incident Energy to 25 meV
+2018-07-13 19:45:49 Set Title: HyPer T=1.5 K, En=25 meV, pos=0.0 degs, sample=1
+2018-07-13 19:46:19 Drive Axis1 to 0.0 Degree
+2018-07-13 20:51:22 Set Title: HyPer T=1.5 K, En=25 meV, pos=120.0 degs, sample=2
+2018-07-13 20:51:37 Drive Axis1 to 120.0 Degree
+2018-07-13 21:57:59 Set Incident Energy to 40 meV
+2018-07-13 21:57:59 Set Title: HyPer T=1.5 K, En=40 meV, pos=0.0 degs, sample=1
+2018-07-13 21:58:15 Drive Axis1 to 0.0 Degree
+2018-07-13 23:03:16 Set Title: HyPer T=1.5 K, En=40 meV, pos=120.0 degs, sample=2
+2018-07-13 23:03:31 Drive Axis1 to 120.0 Degree
+2018-07-14 00:09:06 Drive Axis1 to 240.0 Degree
+2018-07-14 00:09:49 Set Incident Energy to 12 meV
+2018-07-14 00:09:49 Set Title: HyPer T=1.5 K, En=12 meV, pos=240 degs, sample=3
+2018-07-14 01:15:17 Set Incident Energy to 25 meV
+2018-07-14 01:15:17 Set Title: HyPer T=1.5 K, En=25 meV, pos=240 degs, sample=3
+2018-07-14 02:21:35 Set Incident Energy to 40 meV
+2018-07-14 02:21:35 Set Title: HyPer T=1.5 K, En=40 meV, pos=240 degs, sample=3
+2018-07-14 03:26:47 Set Incident Energy to 40 meV
+2018-07-14 03:26:47 Set Title: HyPer T=1.5 K, En=40 meV, pos=240 degs, sample=3
+2018-07-14 04:32:43 Set Incident Energy to 25 meV
+2018-07-14 04:32:43 Set Title: HyPer T=1.5 K, En=25 meV, pos=240 degs, sample=3
+2018-07-14 05:38:50 Set Incident Energy to 12 meV
+2018-07-14 05:38:50 Set Title: HyPer T=1.5 K, En=12 meV, pos=240 degs, sample=3
+2018-07-14 06:44:06 Set Incident Energy to 12 meV
+2018-07-14 06:44:06 Set Title: HyPer T=1.5 K, En=12 meV, pos=240 degs, sample=3
+2018-07-14 07:51:57 Set Incident Energy to 25 meV
+2018-07-14 07:51:57 Set Title: HyPer T=1.5 K, En=25 meV, pos=240 degs, sample=3
+2018-07-14 08:58:13 Set Incident Energy to 40 meV
+2018-07-14 08:58:13 Set Title: HyPer T=1.5 K, En=40 meV, pos=240 degs, sample=3
+2018-07-14 10:36:10 New X/Y Signal ROI at 2Theta=[50,56] Phi=[-8,2]
+2018-07-14 10:36:40 Set Title: Scanning sample z on Nuclear Peak
+2018-07-14 10:50:22 Setting: a=5.86 b=5.86 c=5.86 alpha=90 beta=90 gamma=90
+2018-07-14 10:50:56 Setting U vec: h=1 k=0 l=0
+2018-07-14 10:51:04 Setting V vec: h=0 k=1 l=0
+2018-07-14 10:52:28 Setting: a=5.86 b=5.86 c=5.86 alpha=90 beta=90 gamma=90
+2018-07-14 10:52:32 Setting U vec: h=1 k=0 l=0
+2018-07-14 10:52:34 Setting V vec: h=0 k=1 l=0
+2018-07-14 10:55:23 Relative Scan axis2, run 279289
+2018-07-14 10:59:41 Set Title: Sitting on 200
+2018-07-14 11:02:24 Drive Axis2 to -83.2197332966 Degree
+2018-07-14 11:02:24 New X/Y Signal ROI at 2Theta=[50.4153145496,55.4153145496] Phi=[-8.56488062706,1.43511937294]
+2018-07-14 11:02:24 Driving to: (0,2,0) at Omega=-83.2197332966
+2018-07-14 11:04:17 Drive Axis2 to -67.7053538309 Degree
+2018-07-14 11:04:17 New X/Y Signal ROI at 2Theta=[81.3726758034,86.3726758034] Phi=[-9.29155322515,0.70844677485]
+2018-07-14 11:04:17 Driving to: (0,3,0) at Omega=-67.7053538309
+2018-07-14 11:06:51 Drive Axis2 to -46.5381147717 Degree
+2018-07-14 11:06:51 New X/Y Signal ROI at 2Theta=[123.516689116,128.516689116] Phi=[-12.0451155611,-2.04511556111]
+2018-07-14 11:06:51 Driving to: (0,4,0) at Omega=-46.5381147717
+2018-07-14 11:10:15 Drive Axis2 to -46.2014286115 Degree
+2018-07-14 11:10:15 New X/Y Signal ROI at 2Theta=[34.2137955518,39.2137955518] Phi=[-9.7594785702,0.240521429796]
+2018-07-14 11:10:15 Driving to: (1,1,0) at Omega=-46.2014286115
+2018-07-14 11:10:43 Relative Scan axis2, run 279291
+2018-07-14 11:15:11 Set Title: Sitting on 110
+2018-07-14 11:18:17 Drive Axis2 to -96.3020093674 Degree
+2018-07-14 11:18:17 New X/Y Signal ROI at 2Theta=[23.2445811589,28.2445811589] Phi=[2.45944882128,12.4594488213]
+2018-07-14 11:18:17 Driving to: (0,1,0) at Omega=-96.3020093674
+2018-07-14 11:19:41 Relative Scan axis2, run 279293
+2018-07-14 11:23:14 Set Title: Sitting on 010
+2018-07-14 11:27:56 Drive Axis2 to -25.2020740338 Degree
+2018-07-14 11:27:56 New X/Y Signal ROI at 2Theta=[75.6126626336,80.6126626336] Phi=[-0.961185312654,9.03881468735]
+2018-07-14 11:27:56 Driving to: (2,2,0) at Omega=-25.2020740338
+2018-07-14 11:29:57 Relative Scan axis2, run 279296
+2018-07-14 11:33:39 Set Title: Sitting on 220
+2018-07-14 12:17:13 Set Incident Energy to 12 meV
+2018-07-14 12:17:13 Set Title: PbS T=1.5 K, En=12 meV, w=-90 degs
+2018-07-14 12:17:15 Drive Axis2 to -90 Degree
+2018-07-14 12:21:30 Set Title: PbS T=1.5 K, En=12 meV, w=-88 degs
+2018-07-14 12:21:41 Drive Axis2 to -88 Degree
+2018-07-14 12:25:56 Set Title: PbS T=1.5 K, En=12 meV, w=-86 degs
+2018-07-14 12:26:06 Drive Axis2 to -86 Degree
+2018-07-14 12:30:21 Set Title: PbS T=1.5 K, En=12 meV, w=-84 degs
+2018-07-14 12:30:31 Drive Axis2 to -84 Degree
+2018-07-14 12:34:45 Set Title: PbS T=1.5 K, En=12 meV, w=-82 degs
+2018-07-14 12:34:56 Drive Axis2 to -82 Degree
+2018-07-14 12:39:10 Set Title: PbS T=1.5 K, En=12 meV, w=-80 degs
+2018-07-14 12:39:20 Drive Axis2 to -80 Degree
+2018-07-14 12:46:35 Set Title: PbS T=1.5 K, En=12 meV, w=-78 degs
+2018-07-14 12:46:45 Drive Axis2 to -78 Degree
+2018-07-14 12:51:01 Set Title: PbS T=1.5 K, En=12 meV, w=-76 degs
+2018-07-14 12:51:11 Drive Axis2 to -76 Degree
+2018-07-14 12:55:26 Set Title: PbS T=1.5 K, En=12 meV, w=-74 degs
+2018-07-14 12:55:36 Drive Axis2 to -74 Degree
+2018-07-14 12:59:51 Set Title: PbS T=1.5 K, En=12 meV, w=-72 degs
+2018-07-14 13:00:01 Drive Axis2 to -72 Degree
+2018-07-14 13:04:16 Set Title: PbS T=1.5 K, En=12 meV, w=-70 degs
+2018-07-14 13:04:26 Drive Axis2 to -70 Degree
+2018-07-14 13:08:41 Set Title: PbS T=1.5 K, En=12 meV, w=-68 degs
+2018-07-14 13:08:51 Drive Axis2 to -68 Degree
+2018-07-14 13:13:05 Set Title: PbS T=1.5 K, En=12 meV, w=-66 degs
+2018-07-14 13:13:16 Drive Axis2 to -66 Degree
+2018-07-14 13:17:31 Set Title: PbS T=1.5 K, En=12 meV, w=-64 degs
+2018-07-14 13:17:41 Drive Axis2 to -64 Degree
+2018-07-14 13:21:56 Set Title: PbS T=1.5 K, En=12 meV, w=-62 degs
+2018-07-14 13:22:06 Drive Axis2 to -62 Degree
+2018-07-14 13:26:21 Set Title: PbS T=1.5 K, En=12 meV, w=-60 degs
+2018-07-14 13:26:31 Drive Axis2 to -60 Degree
+2018-07-14 13:30:46 Set Title: PbS T=1.5 K, En=12 meV, w=-58 degs
+2018-07-14 13:30:56 Drive Axis2 to -58 Degree
+2018-07-14 13:35:11 Set Title: PbS T=1.5 K, En=12 meV, w=-56 degs
+2018-07-14 13:35:21 Drive Axis2 to -56 Degree
+2018-07-14 13:39:36 Set Title: PbS T=1.5 K, En=12 meV, w=-54 degs
+2018-07-14 13:39:46 Drive Axis2 to -54 Degree
+2018-07-14 13:44:02 Set Title: PbS T=1.5 K, En=12 meV, w=-52 degs
+2018-07-14 13:44:12 Drive Axis2 to -52 Degree
+2018-07-14 13:48:27 Set Title: PbS T=1.5 K, En=12 meV, w=-50 degs
+2018-07-14 13:48:37 Drive Axis2 to -50 Degree
+2018-07-14 13:52:52 Set Title: PbS T=1.5 K, En=12 meV, w=-48 degs
+2018-07-14 13:53:03 Drive Axis2 to -48 Degree
+2018-07-14 13:57:18 Set Title: PbS T=1.5 K, En=12 meV, w=-46 degs
+2018-07-14 13:57:29 Drive Axis2 to -46 Degree
+2018-07-14 14:01:44 Set Title: PbS T=1.5 K, En=12 meV, w=-44 degs
+2018-07-14 14:01:54 Drive Axis2 to -44 Degree
+2018-07-14 14:06:08 Set Title: PbS T=1.5 K, En=12 meV, w=-42 degs
+2018-07-14 14:06:19 Drive Axis2 to -42 Degree
+2018-07-14 14:10:34 Set Title: PbS T=1.5 K, En=12 meV, w=-40 degs
+2018-07-14 14:10:44 Drive Axis2 to -40 Degree
+2018-07-14 14:14:58 Set Title: PbS T=1.5 K, En=12 meV, w=-38 degs
+2018-07-14 14:15:09 Drive Axis2 to -38 Degree
+2018-07-14 14:19:24 Set Title: PbS T=1.5 K, En=12 meV, w=-36 degs
+2018-07-14 14:19:35 Drive Axis2 to -36 Degree
+2018-07-14 14:23:50 Set Title: PbS T=1.5 K, En=12 meV, w=-34 degs
+2018-07-14 14:24:00 Drive Axis2 to -34 Degree
+2018-07-14 14:28:15 Set Title: PbS T=1.5 K, En=12 meV, w=-32 degs
+2018-07-14 14:28:26 Drive Axis2 to -32 Degree
+2018-07-14 14:32:41 Set Title: PbS T=1.5 K, En=12 meV, w=-30 degs
+2018-07-14 14:32:51 Drive Axis2 to -30 Degree
+2018-07-14 14:37:06 Set Title: PbS T=1.5 K, En=12 meV, w=-28 degs
+2018-07-14 14:37:16 Drive Axis2 to -28 Degree
+2018-07-14 14:41:32 Set Title: PbS T=1.5 K, En=12 meV, w=-26 degs
+2018-07-14 14:41:42 Drive Axis2 to -26 Degree
+2018-07-14 14:45:57 Set Title: PbS T=1.5 K, En=12 meV, w=-24 degs
+2018-07-14 14:46:08 Drive Axis2 to -24 Degree
+2018-07-14 14:50:22 Set Title: PbS T=1.5 K, En=12 meV, w=-22 degs
+2018-07-14 14:50:32 Drive Axis2 to -22 Degree
+2018-07-14 14:58:27 Set Title: PbS T=1.5 K, En=12 meV, w=-20 degs
+2018-07-14 14:58:37 Drive Axis2 to -20 Degree
+2018-07-14 15:02:57 Set Title: PbS T=1.5 K, En=12 meV, w=-18 degs
+2018-07-14 15:03:07 Drive Axis2 to -18 Degree
+2018-07-14 15:07:26 Set Title: PbS T=1.5 K, En=12 meV, w=-16 degs
+2018-07-14 15:07:37 Drive Axis2 to -16 Degree
+2018-07-14 15:11:57 Set Title: PbS T=1.5 K, En=12 meV, w=-14 degs
+2018-07-14 15:12:07 Drive Axis2 to -14 Degree
+2018-07-14 15:16:28 Set Title: PbS T=1.5 K, En=12 meV, w=-12 degs
+2018-07-14 15:16:38 Drive Axis2 to -12 Degree
+2018-07-14 15:20:58 Set Title: PbS T=1.5 K, En=12 meV, w=-10 degs
+2018-07-14 15:21:08 Drive Axis2 to -10 Degree
+2018-07-14 15:25:51 Set Title: PbS T=1.5 K, En=12 meV, w=-8 degs
+2018-07-14 15:26:01 Drive Axis2 to -8 Degree
+2018-07-14 15:30:21 Set Title: PbS T=1.5 K, En=12 meV, w=-6 degs
+2018-07-14 15:30:32 Drive Axis2 to -6 Degree
+2018-07-14 15:34:53 Set Title: PbS T=1.5 K, En=12 meV, w=-4 degs
+2018-07-14 15:35:03 Drive Axis2 to -4 Degree
+2018-07-14 15:39:24 Set Title: PbS T=1.5 K, En=12 meV, w=-2 degs
+2018-07-14 15:39:34 Drive Axis2 to -2 Degree
+2018-07-14 15:43:54 Set Title: PbS T=1.5 K, En=12 meV, w=0 degs
+2018-07-14 15:44:04 Drive Axis2 to 0 Degree
+2018-07-14 15:48:22 Set Title: PbS T=1.5 K, En=12 meV, w=2 degs
+2018-07-14 15:48:32 Drive Axis2 to 2 Degree
+2018-07-14 15:52:51 Set Title: PbS T=1.5 K, En=12 meV, w=4 degs
+2018-07-14 15:53:01 Drive Axis2 to 4 Degree
+2018-07-14 15:57:19 Set Title: PbS T=1.5 K, En=12 meV, w=6 degs
+2018-07-14 15:57:29 Drive Axis2 to 6 Degree
+2018-07-14 16:01:50 Set Title: PbS T=1.5 K, En=12 meV, w=8 degs
+2018-07-14 16:02:00 Drive Axis2 to 8 Degree
+2018-07-14 16:06:19 Set Title: PbS T=1.5 K, En=12 meV, w=10 degs
+2018-07-14 16:06:29 Drive Axis2 to 10 Degree
+2018-07-14 16:10:45 Set Title: PbS T=1.5 K, En=12 meV, w=12 degs
+2018-07-14 16:10:55 Drive Axis2 to 12 Degree
+2018-07-14 16:15:10 Set Title: PbS T=1.5 K, En=12 meV, w=14 degs
+2018-07-14 16:15:21 Drive Axis2 to 14 Degree
+2018-07-14 16:19:37 Set Title: PbS T=1.5 K, En=12 meV, w=16 degs
+2018-07-14 16:19:47 Drive Axis2 to 16 Degree
+2018-07-14 16:24:02 Set Title: PbS T=1.5 K, En=12 meV, w=18 degs
+2018-07-14 16:24:13 Drive Axis2 to 18 Degree
+2018-07-14 16:28:27 Set Title: PbS T=1.5 K, En=12 meV, w=20 degs
+2018-07-14 16:28:37 Drive Axis2 to 20 Degree
+2018-07-14 16:32:54 Set Title: PbS T=1.5 K, En=12 meV, w=22 degs
+2018-07-14 16:33:04 Drive Axis2 to 22 Degree
+2018-07-14 16:37:19 Set Title: PbS T=1.5 K, En=12 meV, w=24 degs
+2018-07-14 16:37:30 Drive Axis2 to 24 Degree
+2018-07-14 16:42:36 Set Title: PbS T=1.5 K, En=12 meV, w=26 degs
+2018-07-14 16:42:47 Drive Axis2 to 26 Degree
+2018-07-14 16:47:03 Set Title: PbS T=1.5 K, En=12 meV, w=28 degs
+2018-07-14 16:47:13 Drive Axis2 to 28 Degree
+2018-07-14 16:51:29 Set Title: PbS T=1.5 K, En=12 meV, w=30 degs
+2018-07-14 16:51:40 Drive Axis2 to 30 Degree
+2018-07-14 16:55:55 Set Title: PbS T=1.5 K, En=12 meV, w=32 degs
+2018-07-14 16:56:06 Drive Axis2 to 32 Degree
+2018-07-14 17:03:07 Set Title: PbS T=1.5 K, En=12 meV, w=34 degs
+2018-07-14 17:03:17 Drive Axis2 to 34 Degree
+2018-07-14 17:07:33 Set Title: PbS T=1.5 K, En=12 meV, w=36 degs
+2018-07-14 17:07:44 Drive Axis2 to 36 Degree
+2018-07-14 17:12:00 Set Title: PbS T=1.5 K, En=12 meV, w=38 degs
+2018-07-14 17:12:10 Drive Axis2 to 38 Degree
+2018-07-14 17:16:27 Set Title: PbS T=1.5 K, En=12 meV, w=40 degs
+2018-07-14 17:16:37 Drive Axis2 to 40 Degree
+2018-07-14 17:20:54 Set Title: PbS T=1.5 K, En=12 meV, w=42 degs
+2018-07-14 17:21:04 Drive Axis2 to 42 Degree
+2018-07-14 17:25:20 Set Title: PbS T=1.5 K, En=12 meV, w=44 degs
+2018-07-14 17:25:30 Drive Axis2 to 44 Degree
+2018-07-14 17:29:48 Set Title: PbS T=1.5 K, En=12 meV, w=46 degs
+2018-07-14 17:29:58 Drive Axis2 to 46 Degree
+2018-07-14 17:34:15 Set Title: PbS T=1.5 K, En=12 meV, w=48 degs
+2018-07-14 17:34:25 Drive Axis2 to 48 Degree
+2018-07-14 17:38:42 Set Title: PbS T=1.5 K, En=12 meV, w=50 degs
+2018-07-14 17:38:52 Drive Axis2 to 50 Degree
+2018-07-14 17:43:09 Set Title: PbS T=1.5 K, En=12 meV, w=52 degs
+2018-07-14 17:43:19 Drive Axis2 to 52 Degree
+2018-07-14 17:47:36 Set Title: PbS T=1.5 K, En=12 meV, w=54 degs
+2018-07-14 17:47:46 Drive Axis2 to 54 Degree
+2018-07-14 17:52:02 Set Title: PbS T=1.5 K, En=12 meV, w=56 degs
+2018-07-14 17:52:12 Drive Axis2 to 56 Degree
+2018-07-14 17:56:29 Set Title: PbS T=1.5 K, En=12 meV, w=58 degs
+2018-07-14 17:56:39 Drive Axis2 to 58 Degree
+2018-07-14 18:00:56 Set Title: PbS T=1.5 K, En=12 meV, w=60 degs
+2018-07-14 18:01:06 Drive Axis2 to 60 Degree
+2018-07-14 18:05:24 Set Title: PbS T=1.5 K, En=12 meV, w=62 degs
+2018-07-14 18:05:34 Drive Axis2 to 62 Degree
+2018-07-14 18:09:52 Set Title: PbS T=1.5 K, En=12 meV, w=64 degs
+2018-07-14 18:10:02 Drive Axis2 to 64 Degree
+2018-07-14 18:14:19 Set Title: PbS T=1.5 K, En=12 meV, w=66 degs
+2018-07-14 18:14:29 Drive Axis2 to 66 Degree
+2018-07-14 18:18:45 Set Title: PbS T=1.5 K, En=12 meV, w=68 degs
+2018-07-14 18:18:55 Drive Axis2 to 68 Degree
+2018-07-14 18:23:12 Set Title: PbS T=1.5 K, En=12 meV, w=70 degs
+2018-07-14 18:23:22 Drive Axis2 to 70 Degree
+2018-07-14 18:27:39 Set Title: PbS T=1.5 K, En=12 meV, w=72 degs
+2018-07-14 18:27:49 Drive Axis2 to 72 Degree
+2018-07-14 18:32:06 Set Title: PbS T=1.5 K, En=12 meV, w=74 degs
+2018-07-14 18:32:16 Drive Axis2 to 74 Degree
+2018-07-14 18:36:32 Set Title: PbS T=1.5 K, En=12 meV, w=76 degs
+2018-07-14 18:36:43 Drive Axis2 to 76 Degree
+2018-07-14 18:41:01 Set Title: PbS T=1.5 K, En=12 meV, w=78 degs
+2018-07-14 18:41:11 Drive Axis2 to 78 Degree
+2018-07-14 18:45:27 Set Title: PbS T=1.5 K, En=12 meV, w=80 degs
+2018-07-14 18:45:37 Drive Axis2 to 80 Degree
+2018-07-14 18:49:54 Set Title: PbS T=1.5 K, En=12 meV, w=82 degs
+2018-07-14 18:50:04 Drive Axis2 to 82 Degree
+2018-07-14 18:54:22 Set Title: PbS T=1.5 K, En=12 meV, w=84 degs
+2018-07-14 18:54:32 Drive Axis2 to 84 Degree
+2018-07-14 18:58:49 Set Title: PbS T=1.5 K, En=12 meV, w=86 degs
+2018-07-14 18:58:59 Drive Axis2 to 86 Degree
+2018-07-14 19:03:17 Set Title: PbS T=1.5 K, En=12 meV, w=88 degs
+2018-07-14 19:03:27 Drive Axis2 to 88 Degree
+2018-07-14 19:07:44 Set Title: PbS T=1.5 K, En=12 meV, w=90 degs
+2018-07-14 19:07:54 Drive Axis2 to 90 Degree
+2018-07-14 19:12:53 Set Incident Energy to 25 meV
+2018-07-14 19:12:53 Set Title: PbS T=1.5 K, En=25 meV, w=-90 degs
+2018-07-14 19:19:11 Drive Axis2 to -90 Degree
+2018-07-14 19:23:28 Set Title: PbS T=1.5 K, En=25 meV, w=-88 degs
+2018-07-14 19:23:38 Drive Axis2 to -88 Degree
+2018-07-14 19:27:55 Set Title: PbS T=1.5 K, En=25 meV, w=-86 degs
+2018-07-14 19:28:06 Drive Axis2 to -86 Degree
+2018-07-14 19:32:22 Set Title: PbS T=1.5 K, En=25 meV, w=-84 degs
+2018-07-14 19:32:32 Drive Axis2 to -84 Degree
+2018-07-14 19:36:49 Set Title: PbS T=1.5 K, En=25 meV, w=-82 degs
+2018-07-14 19:37:00 Drive Axis2 to -82 Degree
+2018-07-14 19:41:17 Set Title: PbS T=1.5 K, En=25 meV, w=-80 degs
+2018-07-14 19:41:27 Drive Axis2 to -80 Degree
+2018-07-14 19:45:45 Set Title: PbS T=1.5 K, En=25 meV, w=-78 degs
+2018-07-14 19:45:55 Drive Axis2 to -78 Degree
+2018-07-14 19:50:13 Set Title: PbS T=1.5 K, En=25 meV, w=-76 degs
+2018-07-14 19:50:23 Drive Axis2 to -76 Degree
+2018-07-14 19:54:39 Set Title: PbS T=1.5 K, En=25 meV, w=-74 degs
+2018-07-14 19:54:49 Drive Axis2 to -74 Degree
+2018-07-14 19:59:05 Set Title: PbS T=1.5 K, En=25 meV, w=-72 degs
+2018-07-14 19:59:16 Drive Axis2 to -72 Degree
+2018-07-14 20:03:32 Set Title: PbS T=1.5 K, En=25 meV, w=-70 degs
+2018-07-14 20:03:42 Drive Axis2 to -70 Degree
+2018-07-14 20:07:59 Set Title: PbS T=1.5 K, En=25 meV, w=-68 degs
+2018-07-14 20:08:09 Drive Axis2 to -68 Degree
+2018-07-14 20:12:25 Set Title: PbS T=1.5 K, En=25 meV, w=-66 degs
+2018-07-14 20:12:35 Drive Axis2 to -66 Degree
+2018-07-14 20:30:56 Set Title: PbS T=1.5 K, En=25 meV, w=-64 degs
+2018-07-14 20:31:06 Drive Axis2 to -64 Degree
+2018-07-14 20:35:27 Set Title: PbS T=1.5 K, En=25 meV, w=-62 degs
+2018-07-14 20:35:37 Drive Axis2 to -62 Degree
+2018-07-14 20:39:53 Set Title: PbS T=1.5 K, En=25 meV, w=-60 degs
+2018-07-14 20:40:04 Drive Axis2 to -60 Degree
+2018-07-14 20:44:20 Set Title: PbS T=1.5 K, En=25 meV, w=-58 degs
+2018-07-14 20:44:30 Drive Axis2 to -58 Degree
+2018-07-14 20:48:47 Set Title: PbS T=1.5 K, En=25 meV, w=-56 degs
+2018-07-14 20:48:57 Drive Axis2 to -56 Degree
+2018-07-14 20:53:15 Set Title: PbS T=1.5 K, En=25 meV, w=-54 degs
+2018-07-14 20:53:25 Drive Axis2 to -54 Degree
+2018-07-14 20:57:43 Set Title: PbS T=1.5 K, En=25 meV, w=-52 degs
+2018-07-14 20:57:53 Drive Axis2 to -52 Degree
+2018-07-14 21:02:10 Set Title: PbS T=1.5 K, En=25 meV, w=-50 degs
+2018-07-14 21:02:21 Drive Axis2 to -50 Degree
+2018-07-14 21:06:38 Set Title: PbS T=1.5 K, En=25 meV, w=-48 degs
+2018-07-14 21:06:48 Drive Axis2 to -48 Degree
+2018-07-14 21:11:06 Set Title: PbS T=1.5 K, En=25 meV, w=-46 degs
+2018-07-14 21:11:16 Drive Axis2 to -46 Degree
+2018-07-14 21:15:34 Set Title: PbS T=1.5 K, En=25 meV, w=-44 degs
+2018-07-14 21:15:44 Drive Axis2 to -44 Degree
+2018-07-14 21:20:01 Set Title: PbS T=1.5 K, En=25 meV, w=-42 degs
+2018-07-14 21:20:11 Drive Axis2 to -42 Degree
+2018-07-14 21:24:27 Set Title: PbS T=1.5 K, En=25 meV, w=-40 degs
+2018-07-14 21:24:38 Drive Axis2 to -40 Degree
+2018-07-14 21:28:55 Set Title: PbS T=1.5 K, En=25 meV, w=-38 degs
+2018-07-14 21:29:05 Drive Axis2 to -38 Degree
+2018-07-14 21:33:22 Set Title: PbS T=1.5 K, En=25 meV, w=-36 degs
+2018-07-14 21:33:33 Drive Axis2 to -36 Degree
+2018-07-14 21:37:50 Set Title: PbS T=1.5 K, En=25 meV, w=-34 degs
+2018-07-14 21:38:00 Drive Axis2 to -34 Degree
+2018-07-14 21:42:17 Set Title: PbS T=1.5 K, En=25 meV, w=-32 degs
+2018-07-14 21:42:27 Drive Axis2 to -32 Degree
+2018-07-14 21:46:44 Set Title: PbS T=1.5 K, En=25 meV, w=-30 degs
+2018-07-14 21:46:54 Drive Axis2 to -30 Degree
+2018-07-14 21:51:11 Set Title: PbS T=1.5 K, En=25 meV, w=-28 degs
+2018-07-14 21:51:21 Drive Axis2 to -28 Degree
+2018-07-14 21:55:38 Set Title: PbS T=1.5 K, En=25 meV, w=-26 degs
+2018-07-14 21:55:48 Drive Axis2 to -26 Degree
+2018-07-14 22:00:04 Set Title: PbS T=1.5 K, En=25 meV, w=-24 degs
+2018-07-14 22:00:15 Drive Axis2 to -24 Degree
+2018-07-14 22:04:31 Set Title: PbS T=1.5 K, En=25 meV, w=-22 degs
+2018-07-14 22:04:42 Drive Axis2 to -22 Degree
+2018-07-14 22:08:58 Set Title: PbS T=1.5 K, En=25 meV, w=-20 degs
+2018-07-14 22:09:09 Drive Axis2 to -20 Degree
+2018-07-14 22:13:26 Set Title: PbS T=1.5 K, En=25 meV, w=-18 degs
+2018-07-14 22:13:36 Drive Axis2 to -18 Degree
+2018-07-14 22:17:54 Set Title: PbS T=1.5 K, En=25 meV, w=-16 degs
+2018-07-14 22:18:04 Drive Axis2 to -16 Degree
+2018-07-14 22:22:55 Set Title: PbS T=1.5 K, En=25 meV, w=-14 degs
+2018-07-14 22:23:05 Drive Axis2 to -14 Degree
+2018-07-14 22:27:50 Set Title: PbS T=1.5 K, En=25 meV, w=-12 degs
+2018-07-14 22:28:00 Drive Axis2 to -12 Degree
+2018-07-14 22:32:17 Set Title: PbS T=1.5 K, En=25 meV, w=-10 degs
+2018-07-14 22:32:28 Drive Axis2 to -10 Degree
+2018-07-14 22:36:45 Set Title: PbS T=1.5 K, En=25 meV, w=-8 degs
+2018-07-14 22:36:55 Drive Axis2 to -8 Degree
+2018-07-14 22:41:13 Set Title: PbS T=1.5 K, En=25 meV, w=-6 degs
+2018-07-14 22:41:23 Drive Axis2 to -6 Degree
+2018-07-14 22:45:42 Set Title: PbS T=1.5 K, En=25 meV, w=-4 degs
+2018-07-14 22:45:52 Drive Axis2 to -4 Degree
+2018-07-14 22:50:09 Set Title: PbS T=1.5 K, En=25 meV, w=-2 degs
+2018-07-14 22:50:19 Drive Axis2 to -2 Degree
+2018-07-14 22:54:37 Set Title: PbS T=1.5 K, En=25 meV, w=0 degs
+2018-07-14 22:54:47 Drive Axis2 to 0 Degree
+2018-07-14 22:59:04 Set Title: PbS T=1.5 K, En=25 meV, w=2 degs
+2018-07-14 22:59:15 Drive Axis2 to 2 Degree
+2018-07-14 23:03:32 Set Title: PbS T=1.5 K, En=25 meV, w=4 degs
+2018-07-14 23:03:42 Drive Axis2 to 4 Degree
+2018-07-14 23:07:59 Set Title: PbS T=1.5 K, En=25 meV, w=6 degs
+2018-07-14 23:08:10 Drive Axis2 to 6 Degree
+2018-07-14 23:12:27 Set Title: PbS T=1.5 K, En=25 meV, w=8 degs
+2018-07-14 23:12:37 Drive Axis2 to 8 Degree
+2018-07-14 23:16:55 Set Title: PbS T=1.5 K, En=25 meV, w=10 degs
+2018-07-14 23:17:05 Drive Axis2 to 10 Degree
+2018-07-14 23:21:22 Set Title: PbS T=1.5 K, En=25 meV, w=12 degs
+2018-07-14 23:21:33 Drive Axis2 to 12 Degree
+2018-07-14 23:25:50 Set Title: PbS T=1.5 K, En=25 meV, w=14 degs
+2018-07-14 23:26:00 Drive Axis2 to 14 Degree
+2018-07-14 23:30:18 Set Title: PbS T=1.5 K, En=25 meV, w=16 degs
+2018-07-14 23:30:28 Drive Axis2 to 16 Degree
+2018-07-14 23:34:46 Set Title: PbS T=1.5 K, En=25 meV, w=18 degs
+2018-07-14 23:34:56 Drive Axis2 to 18 Degree
+2018-07-14 23:39:13 Set Title: PbS T=1.5 K, En=25 meV, w=20 degs
+2018-07-14 23:39:23 Drive Axis2 to 20 Degree
+2018-07-14 23:43:40 Set Title: PbS T=1.5 K, En=25 meV, w=22 degs
+2018-07-14 23:43:50 Drive Axis2 to 22 Degree
+2018-07-14 23:48:06 Set Title: PbS T=1.5 K, En=25 meV, w=24 degs
+2018-07-14 23:48:17 Drive Axis2 to 24 Degree
+2018-07-14 23:52:34 Set Title: PbS T=1.5 K, En=25 meV, w=26 degs
+2018-07-14 23:52:44 Drive Axis2 to 26 Degree
+2018-07-14 23:57:01 Set Title: PbS T=1.5 K, En=25 meV, w=28 degs
+2018-07-14 23:57:12 Drive Axis2 to 28 Degree
+2018-07-15 00:01:29 Set Title: PbS T=1.5 K, En=25 meV, w=30 degs
+2018-07-15 00:01:39 Drive Axis2 to 30 Degree
+2018-07-15 00:05:55 Set Title: PbS T=1.5 K, En=25 meV, w=32 degs
+2018-07-15 00:06:06 Drive Axis2 to 32 Degree
+2018-07-15 00:10:23 Set Title: PbS T=1.5 K, En=25 meV, w=34 degs
+2018-07-15 00:10:33 Drive Axis2 to 34 Degree
+2018-07-15 00:14:49 Set Title: PbS T=1.5 K, En=25 meV, w=36 degs
+2018-07-15 00:14:59 Drive Axis2 to 36 Degree
+2018-07-15 00:19:16 Set Title: PbS T=1.5 K, En=25 meV, w=38 degs
+2018-07-15 00:19:26 Drive Axis2 to 38 Degree
+2018-07-15 00:23:43 Set Title: PbS T=1.5 K, En=25 meV, w=40 degs
+2018-07-15 00:23:53 Drive Axis2 to 40 Degree
+2018-07-15 00:28:09 Set Title: PbS T=1.5 K, En=25 meV, w=42 degs
+2018-07-15 00:28:20 Drive Axis2 to 42 Degree
+2018-07-15 00:32:37 Set Title: PbS T=1.5 K, En=25 meV, w=44 degs
+2018-07-15 00:32:47 Drive Axis2 to 44 Degree
+2018-07-15 00:37:03 Set Title: PbS T=1.5 K, En=25 meV, w=46 degs
+2018-07-15 00:37:13 Drive Axis2 to 46 Degree
+2018-07-15 00:41:30 Set Title: PbS T=1.5 K, En=25 meV, w=48 degs
+2018-07-15 00:41:40 Drive Axis2 to 48 Degree
+2018-07-15 00:45:57 Set Title: PbS T=1.5 K, En=25 meV, w=50 degs
+2018-07-15 00:46:07 Drive Axis2 to 50 Degree
+2018-07-15 00:50:23 Set Title: PbS T=1.5 K, En=25 meV, w=52 degs
+2018-07-15 00:50:34 Drive Axis2 to 52 Degree
+2018-07-15 00:54:51 Set Title: PbS T=1.5 K, En=25 meV, w=54 degs
+2018-07-15 00:55:01 Drive Axis2 to 54 Degree
+2018-07-15 00:59:17 Set Title: PbS T=1.5 K, En=25 meV, w=56 degs
+2018-07-15 00:59:27 Drive Axis2 to 56 Degree
+2018-07-15 01:03:45 Set Title: PbS T=1.5 K, En=25 meV, w=58 degs
+2018-07-15 01:03:55 Drive Axis2 to 58 Degree
+2018-07-15 01:08:11 Set Title: PbS T=1.5 K, En=25 meV, w=60 degs
+2018-07-15 01:08:22 Drive Axis2 to 60 Degree
+2018-07-15 01:12:38 Set Title: PbS T=1.5 K, En=25 meV, w=62 degs
+2018-07-15 01:12:48 Drive Axis2 to 62 Degree
+2018-07-15 01:17:05 Set Title: PbS T=1.5 K, En=25 meV, w=64 degs
+2018-07-15 01:17:15 Drive Axis2 to 64 Degree
+2018-07-15 01:21:33 Set Title: PbS T=1.5 K, En=25 meV, w=66 degs
+2018-07-15 01:21:44 Drive Axis2 to 66 Degree
+2018-07-15 01:26:01 Set Title: PbS T=1.5 K, En=25 meV, w=68 degs
+2018-07-15 01:26:11 Drive Axis2 to 68 Degree
+2018-07-15 01:30:27 Set Title: PbS T=1.5 K, En=25 meV, w=70 degs
+2018-07-15 01:30:38 Drive Axis2 to 70 Degree
+2018-07-15 01:34:54 Set Title: PbS T=1.5 K, En=25 meV, w=72 degs
+2018-07-15 01:35:05 Drive Axis2 to 72 Degree
+2018-07-15 01:39:21 Set Title: PbS T=1.5 K, En=25 meV, w=74 degs
+2018-07-15 01:39:32 Drive Axis2 to 74 Degree
+2018-07-15 01:43:48 Set Title: PbS T=1.5 K, En=25 meV, w=76 degs
+2018-07-15 01:43:59 Drive Axis2 to 76 Degree
+2018-07-15 01:48:15 Set Title: PbS T=1.5 K, En=25 meV, w=78 degs
+2018-07-15 01:48:25 Drive Axis2 to 78 Degree
+2018-07-15 01:52:41 Set Title: PbS T=1.5 K, En=25 meV, w=80 degs
+2018-07-15 01:52:51 Drive Axis2 to 80 Degree
+2018-07-15 01:57:07 Set Title: PbS T=1.5 K, En=25 meV, w=82 degs
+2018-07-15 01:57:17 Drive Axis2 to 82 Degree
+2018-07-15 02:01:34 Set Title: PbS T=1.5 K, En=25 meV, w=84 degs
+2018-07-15 02:01:44 Drive Axis2 to 84 Degree
+2018-07-15 02:06:02 Set Title: PbS T=1.5 K, En=25 meV, w=86 degs
+2018-07-15 02:06:12 Drive Axis2 to 86 Degree
+2018-07-15 02:10:29 Set Title: PbS T=1.5 K, En=25 meV, w=88 degs
+2018-07-15 02:10:39 Drive Axis2 to 88 Degree
+2018-07-15 02:14:57 Set Title: PbS T=1.5 K, En=25 meV, w=90 degs
+2018-07-15 02:15:07 Drive Axis2 to 90 Degree
+2018-07-15 02:20:01 Set Incident Energy to 40 meV
+2018-07-15 02:20:01 Set Title: PbS T=1.5 K, En=40 meV, w=-90 degs
+2018-07-15 02:26:18 Drive Axis2 to -90 Degree
+2018-07-15 02:30:37 Set Title: PbS T=1.5 K, En=40 meV, w=-88 degs
+2018-07-15 02:30:47 Drive Axis2 to -88 Degree
+2018-07-15 02:35:05 Set Title: PbS T=1.5 K, En=40 meV, w=-86 degs
+2018-07-15 02:35:15 Drive Axis2 to -86 Degree
+2018-07-15 02:39:32 Set Title: PbS T=1.5 K, En=40 meV, w=-84 degs
+2018-07-15 02:39:42 Drive Axis2 to -84 Degree
+2018-07-15 02:43:59 Set Title: PbS T=1.5 K, En=40 meV, w=-82 degs
+2018-07-15 02:44:10 Drive Axis2 to -82 Degree
+2018-07-15 02:48:27 Set Title: PbS T=1.5 K, En=40 meV, w=-80 degs
+2018-07-15 02:48:37 Drive Axis2 to -80 Degree
+2018-07-15 02:52:54 Set Title: PbS T=1.5 K, En=40 meV, w=-78 degs
+2018-07-15 02:53:04 Drive Axis2 to -78 Degree
+2018-07-15 02:57:20 Set Title: PbS T=1.5 K, En=40 meV, w=-76 degs
+2018-07-15 02:57:31 Drive Axis2 to -76 Degree
+2018-07-15 03:01:48 Set Title: PbS T=1.5 K, En=40 meV, w=-74 degs
+2018-07-15 03:01:58 Drive Axis2 to -74 Degree
+2018-07-15 03:06:15 Set Title: PbS T=1.5 K, En=40 meV, w=-72 degs
+2018-07-15 03:06:25 Drive Axis2 to -72 Degree
+2018-07-15 03:10:41 Set Title: PbS T=1.5 K, En=40 meV, w=-70 degs
+2018-07-15 03:10:51 Drive Axis2 to -70 Degree
+2018-07-15 03:15:09 Set Title: PbS T=1.5 K, En=40 meV, w=-68 degs
+2018-07-15 03:15:19 Drive Axis2 to -68 Degree
+2018-07-15 03:19:36 Set Title: PbS T=1.5 K, En=40 meV, w=-66 degs
+2018-07-15 03:19:47 Drive Axis2 to -66 Degree
+2018-07-15 03:24:03 Set Title: PbS T=1.5 K, En=40 meV, w=-64 degs
+2018-07-15 03:24:14 Drive Axis2 to -64 Degree
+2018-07-15 03:28:30 Set Title: PbS T=1.5 K, En=40 meV, w=-62 degs
+2018-07-15 03:28:40 Drive Axis2 to -62 Degree
+2018-07-15 03:32:57 Set Title: PbS T=1.5 K, En=40 meV, w=-60 degs
+2018-07-15 03:33:07 Drive Axis2 to -60 Degree
+2018-07-15 03:37:24 Set Title: PbS T=1.5 K, En=40 meV, w=-58 degs
+2018-07-15 03:37:34 Drive Axis2 to -58 Degree
+2018-07-15 03:41:51 Set Title: PbS T=1.5 K, En=40 meV, w=-56 degs
+2018-07-15 03:42:01 Drive Axis2 to -56 Degree
+2018-07-15 03:46:18 Set Title: PbS T=1.5 K, En=40 meV, w=-54 degs
+2018-07-15 03:46:28 Drive Axis2 to -54 Degree
+2018-07-15 03:50:46 Set Title: PbS T=1.5 K, En=40 meV, w=-52 degs
+2018-07-15 03:50:56 Drive Axis2 to -52 Degree
+2018-07-15 03:55:13 Set Title: PbS T=1.5 K, En=40 meV, w=-50 degs
+2018-07-15 03:55:23 Drive Axis2 to -50 Degree
+2018-07-15 03:59:39 Set Title: PbS T=1.5 K, En=40 meV, w=-48 degs
+2018-07-15 03:59:49 Drive Axis2 to -48 Degree
+2018-07-15 04:04:06 Set Title: PbS T=1.5 K, En=40 meV, w=-46 degs
+2018-07-15 04:04:16 Drive Axis2 to -46 Degree
+2018-07-15 04:08:33 Set Title: PbS T=1.5 K, En=40 meV, w=-44 degs
+2018-07-15 04:08:43 Drive Axis2 to -44 Degree
+2018-07-15 04:13:00 Set Title: PbS T=1.5 K, En=40 meV, w=-42 degs
+2018-07-15 04:13:10 Drive Axis2 to -42 Degree
+2018-07-15 04:17:27 Set Title: PbS T=1.5 K, En=40 meV, w=-40 degs
+2018-07-15 04:17:37 Drive Axis2 to -40 Degree
+2018-07-15 04:21:54 Set Title: PbS T=1.5 K, En=40 meV, w=-38 degs
+2018-07-15 04:22:04 Drive Axis2 to -38 Degree
+2018-07-15 04:26:20 Set Title: PbS T=1.5 K, En=40 meV, w=-36 degs
+2018-07-15 04:26:30 Drive Axis2 to -36 Degree
+2018-07-15 04:30:47 Set Title: PbS T=1.5 K, En=40 meV, w=-34 degs
+2018-07-15 04:30:58 Drive Axis2 to -34 Degree
+2018-07-15 04:35:15 Set Title: PbS T=1.5 K, En=40 meV, w=-32 degs
+2018-07-15 04:35:25 Drive Axis2 to -32 Degree
+2018-07-15 04:39:42 Set Title: PbS T=1.5 K, En=40 meV, w=-30 degs
+2018-07-15 04:39:52 Drive Axis2 to -30 Degree
+2018-07-15 04:44:33 Set Title: PbS T=1.5 K, En=40 meV, w=-28 degs
+2018-07-15 04:44:43 Drive Axis2 to -28 Degree
+2018-07-15 04:48:59 Set Title: PbS T=1.5 K, En=40 meV, w=-26 degs
+2018-07-15 04:49:09 Drive Axis2 to -26 Degree
+2018-07-15 05:36:16 Set Title: PbS T=1.5 K, En=40 meV, w=-24 degs
+2018-07-15 05:36:26 Drive Axis2 to -24 Degree
+2018-07-15 05:40:43 Set Title: PbS T=1.5 K, En=40 meV, w=-22 degs
+2018-07-15 05:40:54 Drive Axis2 to -22 Degree
+2018-07-15 05:45:10 Set Title: PbS T=1.5 K, En=40 meV, w=-20 degs
+2018-07-15 05:45:20 Drive Axis2 to -20 Degree
+2018-07-15 05:49:37 Set Title: PbS T=1.5 K, En=40 meV, w=-18 degs
+2018-07-15 05:49:47 Drive Axis2 to -18 Degree
+2018-07-15 05:54:04 Set Title: PbS T=1.5 K, En=40 meV, w=-16 degs
+2018-07-15 05:54:14 Drive Axis2 to -16 Degree
+2018-07-15 05:58:32 Set Title: PbS T=1.5 K, En=40 meV, w=-14 degs
+2018-07-15 05:58:42 Drive Axis2 to -14 Degree
+2018-07-15 06:03:00 Set Title: PbS T=1.5 K, En=40 meV, w=-12 degs
+2018-07-15 06:03:10 Drive Axis2 to -12 Degree
+2018-07-15 06:07:27 Set Title: PbS T=1.5 K, En=40 meV, w=-10 degs
+2018-07-15 06:07:37 Drive Axis2 to -10 Degree
+2018-07-15 06:11:55 Set Title: PbS T=1.5 K, En=40 meV, w=-8 degs
+2018-07-15 06:12:05 Drive Axis2 to -8 Degree
+2018-07-15 06:16:22 Set Title: PbS T=1.5 K, En=40 meV, w=-6 degs
+2018-07-15 06:16:32 Drive Axis2 to -6 Degree
+2018-07-15 06:20:49 Set Title: PbS T=1.5 K, En=40 meV, w=-4 degs
+2018-07-15 06:20:59 Drive Axis2 to -4 Degree
+2018-07-15 06:25:16 Set Title: PbS T=1.5 K, En=40 meV, w=-2 degs
+2018-07-15 06:25:26 Drive Axis2 to -2 Degree
+2018-07-15 06:29:42 Set Title: PbS T=1.5 K, En=40 meV, w=0 degs
+2018-07-15 06:29:53 Drive Axis2 to 0 Degree
+2018-07-15 06:34:09 Set Title: PbS T=1.5 K, En=40 meV, w=2 degs
+2018-07-15 06:34:20 Drive Axis2 to 2 Degree
+2018-07-15 06:38:36 Set Title: PbS T=1.5 K, En=40 meV, w=4 degs
+2018-07-15 06:38:46 Drive Axis2 to 4 Degree
+2018-07-15 06:43:04 Set Title: PbS T=1.5 K, En=40 meV, w=6 degs
+2018-07-15 06:43:14 Drive Axis2 to 6 Degree
+2018-07-15 06:47:31 Set Title: PbS T=1.5 K, En=40 meV, w=8 degs
+2018-07-15 06:47:41 Drive Axis2 to 8 Degree
+2018-07-15 06:51:58 Set Title: PbS T=1.5 K, En=40 meV, w=10 degs
+2018-07-15 06:52:08 Drive Axis2 to 10 Degree
+2018-07-15 06:56:25 Set Title: PbS T=1.5 K, En=40 meV, w=12 degs
+2018-07-15 06:56:35 Drive Axis2 to 12 Degree
+2018-07-15 07:00:53 Set Title: PbS T=1.5 K, En=40 meV, w=14 degs
+2018-07-15 07:01:03 Drive Axis2 to 14 Degree
+2018-07-15 07:05:20 Set Title: PbS T=1.5 K, En=40 meV, w=16 degs
+2018-07-15 07:05:30 Drive Axis2 to 16 Degree
+2018-07-15 07:09:48 Set Title: PbS T=1.5 K, En=40 meV, w=18 degs
+2018-07-15 07:09:58 Drive Axis2 to 18 Degree
+2018-07-15 07:14:14 Set Title: PbS T=1.5 K, En=40 meV, w=20 degs
+2018-07-15 07:14:25 Drive Axis2 to 20 Degree
+2018-07-15 07:18:42 Set Title: PbS T=1.5 K, En=40 meV, w=22 degs
+2018-07-15 07:18:52 Drive Axis2 to 22 Degree
+2018-07-15 07:23:10 Set Title: PbS T=1.5 K, En=40 meV, w=24 degs
+2018-07-15 07:23:20 Drive Axis2 to 24 Degree
+2018-07-15 07:27:37 Set Title: PbS T=1.5 K, En=40 meV, w=26 degs
+2018-07-15 07:27:47 Drive Axis2 to 26 Degree
+2018-07-15 07:32:05 Set Title: PbS T=1.5 K, En=40 meV, w=28 degs
+2018-07-15 07:32:15 Drive Axis2 to 28 Degree
+2018-07-15 07:36:33 Set Title: PbS T=1.5 K, En=40 meV, w=30 degs
+2018-07-15 07:36:43 Drive Axis2 to 30 Degree
+2018-07-15 07:41:02 Set Title: PbS T=1.5 K, En=40 meV, w=32 degs
+2018-07-15 07:41:12 Drive Axis2 to 32 Degree
+2018-07-15 07:45:30 Set Title: PbS T=1.5 K, En=40 meV, w=34 degs
+2018-07-15 07:45:40 Drive Axis2 to 34 Degree
+2018-07-15 07:49:57 Set Title: PbS T=1.5 K, En=40 meV, w=36 degs
+2018-07-15 07:50:07 Drive Axis2 to 36 Degree
+2018-07-15 07:54:25 Set Title: PbS T=1.5 K, En=40 meV, w=38 degs
+2018-07-15 07:54:36 Drive Axis2 to 38 Degree
+2018-07-15 07:58:53 Set Title: PbS T=1.5 K, En=40 meV, w=40 degs
+2018-07-15 07:59:04 Drive Axis2 to 40 Degree
+2018-07-15 08:03:22 Set Title: PbS T=1.5 K, En=40 meV, w=42 degs
+2018-07-15 08:03:33 Drive Axis2 to 42 Degree
+2018-07-15 08:27:56 Set Title: PbS T=1.5 K, En=40 meV, w=44 degs
+2018-07-15 08:28:06 Drive Axis2 to 44 Degree
+2018-07-15 08:32:28 Set Title: PbS T=1.5 K, En=40 meV, w=46 degs
+2018-07-15 08:32:38 Drive Axis2 to 46 Degree
+2018-07-15 08:36:56 Set Title: PbS T=1.5 K, En=40 meV, w=48 degs
+2018-07-15 08:37:06 Drive Axis2 to 48 Degree
+2018-07-15 08:41:24 Set Title: PbS T=1.5 K, En=40 meV, w=50 degs
+2018-07-15 08:41:34 Drive Axis2 to 50 Degree
+2018-07-15 08:45:53 Set Title: PbS T=1.5 K, En=40 meV, w=52 degs
+2018-07-15 08:46:03 Drive Axis2 to 52 Degree
+2018-07-15 08:50:20 Set Title: PbS T=1.5 K, En=40 meV, w=54 degs
+2018-07-15 08:50:30 Drive Axis2 to 54 Degree
+2018-07-15 08:54:47 Set Title: PbS T=1.5 K, En=40 meV, w=56 degs
+2018-07-15 08:54:57 Drive Axis2 to 56 Degree
+2018-07-15 08:59:15 Set Title: PbS T=1.5 K, En=40 meV, w=58 degs
+2018-07-15 08:59:25 Drive Axis2 to 58 Degree
+2018-07-15 09:03:42 Set Title: PbS T=1.5 K, En=40 meV, w=60 degs
+2018-07-15 09:03:52 Drive Axis2 to 60 Degree
+2018-07-15 09:08:09 Set Title: PbS T=1.5 K, En=40 meV, w=62 degs
+2018-07-15 09:08:19 Drive Axis2 to 62 Degree
+2018-07-15 09:12:36 Set Title: PbS T=1.5 K, En=40 meV, w=64 degs
+2018-07-15 09:12:47 Drive Axis2 to 64 Degree
+2018-07-15 09:17:03 Set Title: PbS T=1.5 K, En=40 meV, w=66 degs
+2018-07-15 09:17:13 Drive Axis2 to 66 Degree
+2018-07-15 09:21:31 Set Title: PbS T=1.5 K, En=40 meV, w=68 degs
+2018-07-15 09:21:42 Drive Axis2 to 68 Degree
+2018-07-15 09:25:59 Set Title: PbS T=1.5 K, En=40 meV, w=70 degs
+2018-07-15 09:26:09 Drive Axis2 to 70 Degree
+2018-07-15 09:30:25 Set Title: PbS T=1.5 K, En=40 meV, w=72 degs
+2018-07-15 09:30:35 Drive Axis2 to 72 Degree
+2018-07-15 09:34:52 Set Title: PbS T=1.5 K, En=40 meV, w=74 degs
+2018-07-15 09:35:02 Drive Axis2 to 74 Degree
+2018-07-15 09:39:18 Set Title: PbS T=1.5 K, En=40 meV, w=76 degs
+2018-07-15 09:39:28 Drive Axis2 to 76 Degree
+2018-07-15 09:43:44 Set Title: PbS T=1.5 K, En=40 meV, w=78 degs
+2018-07-15 09:43:54 Drive Axis2 to 78 Degree
+2018-07-15 09:48:10 Set Title: PbS T=1.5 K, En=40 meV, w=80 degs
+2018-07-15 09:48:20 Drive Axis2 to 80 Degree
+2018-07-15 09:52:37 Set Title: PbS T=1.5 K, En=40 meV, w=82 degs
+2018-07-15 09:52:47 Drive Axis2 to 82 Degree
+2018-07-15 09:57:03 Set Title: PbS T=1.5 K, En=40 meV, w=84 degs
+2018-07-15 09:57:13 Drive Axis2 to 84 Degree
+2018-07-15 10:01:29 Set Title: PbS T=1.5 K, En=40 meV, w=86 degs
+2018-07-15 10:01:39 Drive Axis2 to 86 Degree
+2018-07-15 10:05:56 Set Title: PbS T=1.5 K, En=40 meV, w=88 degs
+2018-07-15 10:06:06 Drive Axis2 to 88 Degree
+2018-07-15 10:10:23 Set Title: PbS T=1.5 K, En=40 meV, w=90 degs
+2018-07-15 10:10:33 Drive Axis2 to 90 Degree
+2018-07-15 10:43:35 Set Incident Energy to 12 meV
+2018-07-15 10:43:35 Set Title: PbS T=1.5 K, En=12 meV, w=-90 degs
+2018-07-15 10:45:56 Drive Axis2 to -90 Degree
+2018-07-15 10:50:15 Set Title: PbS T=1.5 K, En=12 meV, w=-88 degs
+2018-07-15 10:50:25 Drive Axis2 to -88 Degree
+2018-07-15 10:54:43 Set Title: PbS T=1.5 K, En=12 meV, w=-86 degs
+2018-07-15 10:54:53 Drive Axis2 to -86 Degree
+2018-07-15 10:59:10 Set Title: PbS T=1.5 K, En=12 meV, w=-84 degs
+2018-07-15 10:59:20 Drive Axis2 to -84 Degree
+2018-07-15 11:03:37 Set Title: PbS T=1.5 K, En=12 meV, w=-82 degs
+2018-07-15 11:03:48 Drive Axis2 to -82 Degree
+2018-07-15 11:08:05 Set Title: PbS T=1.5 K, En=12 meV, w=-80 degs
+2018-07-15 11:08:15 Drive Axis2 to -80 Degree
+2018-07-15 11:12:32 Set Title: PbS T=1.5 K, En=12 meV, w=-78 degs
+2018-07-15 11:12:43 Drive Axis2 to -78 Degree
+2018-07-15 11:17:01 Set Title: PbS T=1.5 K, En=12 meV, w=-76 degs
+2018-07-15 11:17:11 Drive Axis2 to -76 Degree
+2018-07-15 11:21:51 Set Title: PbS T=1.5 K, En=12 meV, w=-74 degs
+2018-07-15 11:22:01 Drive Axis2 to -74 Degree
+2018-07-15 11:26:19 Set Title: PbS T=1.5 K, En=12 meV, w=-72 degs
+2018-07-15 11:26:29 Drive Axis2 to -72 Degree
+2018-07-15 11:30:48 Set Title: PbS T=1.5 K, En=12 meV, w=-70 degs
+2018-07-15 11:30:58 Drive Axis2 to -70 Degree
+2018-07-15 11:35:15 Set Title: PbS T=1.5 K, En=12 meV, w=-68 degs
+2018-07-15 11:35:25 Drive Axis2 to -68 Degree
+2018-07-15 11:39:42 Set Title: PbS T=1.5 K, En=12 meV, w=-66 degs
+2018-07-15 11:39:52 Drive Axis2 to -66 Degree
+2018-07-15 11:44:09 Set Title: PbS T=1.5 K, En=12 meV, w=-64 degs
+2018-07-15 11:44:20 Drive Axis2 to -64 Degree
+2018-07-15 11:48:36 Set Title: PbS T=1.5 K, En=12 meV, w=-62 degs
+2018-07-15 11:48:46 Drive Axis2 to -62 Degree
+2018-07-15 11:53:03 Set Title: PbS T=1.5 K, En=12 meV, w=-60 degs
+2018-07-15 11:53:13 Drive Axis2 to -60 Degree
+2018-07-15 11:57:30 Set Title: PbS T=1.5 K, En=12 meV, w=-58 degs
+2018-07-15 11:57:40 Drive Axis2 to -58 Degree
+2018-07-15 12:01:57 Set Title: PbS T=1.5 K, En=12 meV, w=-56 degs
+2018-07-15 12:02:08 Drive Axis2 to -56 Degree
+2018-07-15 12:06:24 Set Title: PbS T=1.5 K, En=12 meV, w=-54 degs
+2018-07-15 12:06:35 Drive Axis2 to -54 Degree
+2018-07-15 12:10:51 Set Title: PbS T=1.5 K, En=12 meV, w=-52 degs
+2018-07-15 12:11:01 Drive Axis2 to -52 Degree
+2018-07-15 12:15:17 Set Title: PbS T=1.5 K, En=12 meV, w=-50 degs
+2018-07-15 12:15:28 Drive Axis2 to -50 Degree
+2018-07-15 12:19:46 Set Title: PbS T=1.5 K, En=12 meV, w=-48 degs
+2018-07-15 12:19:56 Drive Axis2 to -48 Degree
+2018-07-15 12:24:14 Set Title: PbS T=1.5 K, En=12 meV, w=-46 degs
+2018-07-15 12:24:24 Drive Axis2 to -46 Degree
+2018-07-15 12:28:41 Set Title: PbS T=1.5 K, En=12 meV, w=-44 degs
+2018-07-15 12:28:52 Drive Axis2 to -44 Degree
+2018-07-15 12:33:11 Set Title: PbS T=1.5 K, En=12 meV, w=-42 degs
+2018-07-15 12:33:21 Drive Axis2 to -42 Degree
+2018-07-15 12:37:37 Set Title: PbS T=1.5 K, En=12 meV, w=-40 degs
+2018-07-15 12:37:47 Drive Axis2 to -40 Degree
+2018-07-15 12:42:05 Set Title: PbS T=1.5 K, En=12 meV, w=-38 degs
+2018-07-15 12:42:15 Drive Axis2 to -38 Degree
+2018-07-15 12:46:32 Set Title: PbS T=1.5 K, En=12 meV, w=-36 degs
+2018-07-15 12:46:42 Drive Axis2 to -36 Degree
+2018-07-15 12:50:58 Set Title: PbS T=1.5 K, En=12 meV, w=-34 degs
+2018-07-15 12:51:09 Drive Axis2 to -34 Degree
+2018-07-15 12:55:26 Set Title: PbS T=1.5 K, En=12 meV, w=-32 degs
+2018-07-15 12:55:36 Drive Axis2 to -32 Degree
+2018-07-15 12:59:53 Set Title: PbS T=1.5 K, En=12 meV, w=-30 degs
+2018-07-15 13:00:03 Drive Axis2 to -30 Degree
+2018-07-15 13:04:20 Set Title: PbS T=1.5 K, En=12 meV, w=-28 degs
+2018-07-15 13:04:30 Drive Axis2 to -28 Degree
+2018-07-15 13:09:07 Set Title: PbS T=1.5 K, En=12 meV, w=-26 degs
+2018-07-15 13:09:17 Drive Axis2 to -26 Degree
+2018-07-15 13:13:34 Set Title: PbS T=1.5 K, En=12 meV, w=-24 degs
+2018-07-15 13:13:45 Drive Axis2 to -24 Degree
+2018-07-15 13:18:02 Set Title: PbS T=1.5 K, En=12 meV, w=-22 degs
+2018-07-15 13:18:12 Drive Axis2 to -22 Degree
+2018-07-15 13:22:29 Set Title: PbS T=1.5 K, En=12 meV, w=-20 degs
+2018-07-15 13:22:39 Drive Axis2 to -20 Degree
+2018-07-15 13:26:56 Set Title: PbS T=1.5 K, En=12 meV, w=-18 degs
+2018-07-15 13:27:06 Drive Axis2 to -18 Degree
+2018-07-15 13:31:24 Set Title: PbS T=1.5 K, En=12 meV, w=-16 degs
+2018-07-15 13:31:35 Drive Axis2 to -16 Degree
+2018-07-15 13:35:51 Set Title: PbS T=1.5 K, En=12 meV, w=-14 degs
+2018-07-15 13:36:01 Drive Axis2 to -14 Degree
+2018-07-15 13:40:18 Set Title: PbS T=1.5 K, En=12 meV, w=-12 degs
+2018-07-15 13:40:28 Drive Axis2 to -12 Degree
+2018-07-15 13:44:46 Set Title: PbS T=1.5 K, En=12 meV, w=-10 degs
+2018-07-15 13:44:56 Drive Axis2 to -10 Degree
+2018-07-15 13:49:13 Set Title: PbS T=1.5 K, En=12 meV, w=-8 degs
+2018-07-15 13:49:23 Drive Axis2 to -8 Degree
+2018-07-15 13:53:40 Set Title: PbS T=1.5 K, En=12 meV, w=-6 degs
+2018-07-15 13:53:50 Drive Axis2 to -6 Degree
+2018-07-15 13:58:06 Set Title: PbS T=1.5 K, En=12 meV, w=-4 degs
+2018-07-15 13:58:16 Drive Axis2 to -4 Degree
+2018-07-15 14:02:33 Set Title: PbS T=1.5 K, En=12 meV, w=-2 degs
+2018-07-15 14:02:43 Drive Axis2 to -2 Degree
+2018-07-15 14:07:00 Set Title: PbS T=1.5 K, En=12 meV, w=0 degs
+2018-07-15 14:07:10 Drive Axis2 to 0 Degree
+2018-07-15 14:11:27 Set Title: PbS T=1.5 K, En=12 meV, w=2 degs
+2018-07-15 14:11:37 Drive Axis2 to 2 Degree
+2018-07-15 14:16:28 Set Title: PbS T=1.5 K, En=12 meV, w=4 degs
+2018-07-15 14:16:39 Drive Axis2 to 4 Degree
+2018-07-15 14:20:56 Set Title: PbS T=1.5 K, En=12 meV, w=6 degs
+2018-07-15 14:21:06 Drive Axis2 to 6 Degree
+2018-07-15 14:25:24 Set Title: PbS T=1.5 K, En=12 meV, w=8 degs
+2018-07-15 14:25:34 Drive Axis2 to 8 Degree
+2018-07-15 14:29:52 Set Title: PbS T=1.5 K, En=12 meV, w=10 degs
+2018-07-15 14:30:02 Drive Axis2 to 10 Degree
+2018-07-15 14:34:19 Set Title: PbS T=1.5 K, En=12 meV, w=12 degs
+2018-07-15 14:34:29 Drive Axis2 to 12 Degree
+2018-07-15 14:38:46 Set Title: PbS T=1.5 K, En=12 meV, w=14 degs
+2018-07-15 14:38:57 Drive Axis2 to 14 Degree
+2018-07-15 14:43:13 Set Title: PbS T=1.5 K, En=12 meV, w=16 degs
+2018-07-15 14:43:24 Drive Axis2 to 16 Degree
+2018-07-15 14:47:42 Set Title: PbS T=1.5 K, En=12 meV, w=18 degs
+2018-07-15 14:47:52 Drive Axis2 to 18 Degree
+2018-07-15 14:52:10 Set Title: PbS T=1.5 K, En=12 meV, w=20 degs
+2018-07-15 14:52:20 Drive Axis2 to 20 Degree
+2018-07-15 14:56:38 Set Title: PbS T=1.5 K, En=12 meV, w=22 degs
+2018-07-15 14:56:48 Drive Axis2 to 22 Degree
+2018-07-15 15:01:05 Set Title: PbS T=1.5 K, En=12 meV, w=24 degs
+2018-07-15 15:01:15 Drive Axis2 to 24 Degree
+2018-07-15 15:05:32 Set Title: PbS T=1.5 K, En=12 meV, w=26 degs
+2018-07-15 15:05:43 Drive Axis2 to 26 Degree
+2018-07-15 15:10:00 Set Title: PbS T=1.5 K, En=12 meV, w=28 degs
+2018-07-15 15:10:10 Drive Axis2 to 28 Degree
+2018-07-15 15:14:28 Set Title: PbS T=1.5 K, En=12 meV, w=30 degs
+2018-07-15 15:14:38 Drive Axis2 to 30 Degree
+2018-07-15 15:18:54 Set Title: PbS T=1.5 K, En=12 meV, w=32 degs
+2018-07-15 15:19:04 Drive Axis2 to 32 Degree
+2018-07-15 15:23:22 Set Title: PbS T=1.5 K, En=12 meV, w=34 degs
+2018-07-15 15:23:32 Drive Axis2 to 34 Degree
+2018-07-15 15:27:49 Set Title: PbS T=1.5 K, En=12 meV, w=36 degs
+2018-07-15 15:27:59 Drive Axis2 to 36 Degree
+2018-07-15 15:32:16 Set Title: PbS T=1.5 K, En=12 meV, w=38 degs
+2018-07-15 15:32:26 Drive Axis2 to 38 Degree
+2018-07-15 15:36:43 Set Title: PbS T=1.5 K, En=12 meV, w=40 degs
+2018-07-15 15:36:54 Drive Axis2 to 40 Degree
+2018-07-15 15:41:11 Set Title: PbS T=1.5 K, En=12 meV, w=42 degs
+2018-07-15 15:41:21 Drive Axis2 to 42 Degree
+2018-07-15 15:45:39 Set Title: PbS T=1.5 K, En=12 meV, w=44 degs
+2018-07-15 15:45:49 Drive Axis2 to 44 Degree
+2018-07-15 15:50:06 Set Title: PbS T=1.5 K, En=12 meV, w=46 degs
+2018-07-15 15:50:17 Drive Axis2 to 46 Degree
+2018-07-15 15:54:33 Set Title: PbS T=1.5 K, En=12 meV, w=48 degs
+2018-07-15 15:54:44 Drive Axis2 to 48 Degree
+2018-07-15 15:59:01 Set Title: PbS T=1.5 K, En=12 meV, w=50 degs
+2018-07-15 15:59:11 Drive Axis2 to 50 Degree
+2018-07-15 16:03:29 Set Title: PbS T=1.5 K, En=12 meV, w=52 degs
+2018-07-15 16:03:39 Drive Axis2 to 52 Degree
+2018-07-15 16:07:55 Set Title: PbS T=1.5 K, En=12 meV, w=54 degs
+2018-07-15 16:08:06 Drive Axis2 to 54 Degree
+2018-07-15 16:12:22 Set Title: PbS T=1.5 K, En=12 meV, w=56 degs
+2018-07-15 16:12:32 Drive Axis2 to 56 Degree
+2018-07-15 16:16:50 Set Title: PbS T=1.5 K, En=12 meV, w=58 degs
+2018-07-15 16:17:00 Drive Axis2 to 58 Degree
+2018-07-15 16:21:17 Set Title: PbS T=1.5 K, En=12 meV, w=60 degs
+2018-07-15 16:21:27 Drive Axis2 to 60 Degree
+2018-07-15 16:25:44 Set Title: PbS T=1.5 K, En=12 meV, w=62 degs
+2018-07-15 16:25:54 Drive Axis2 to 62 Degree
+2018-07-15 16:30:12 Set Title: PbS T=1.5 K, En=12 meV, w=64 degs
+2018-07-15 16:30:22 Drive Axis2 to 64 Degree
+2018-07-15 16:34:38 Set Title: PbS T=1.5 K, En=12 meV, w=66 degs
+2018-07-15 16:34:49 Drive Axis2 to 66 Degree
+2018-07-15 16:39:04 Set Title: PbS T=1.5 K, En=12 meV, w=68 degs
+2018-07-15 16:39:15 Drive Axis2 to 68 Degree
+2018-07-15 16:43:31 Set Title: PbS T=1.5 K, En=12 meV, w=70 degs
+2018-07-15 16:43:42 Drive Axis2 to 70 Degree
+2018-07-15 16:47:59 Set Title: PbS T=1.5 K, En=12 meV, w=72 degs
+2018-07-15 16:48:09 Drive Axis2 to 72 Degree
+2018-07-15 16:52:26 Set Title: PbS T=1.5 K, En=12 meV, w=74 degs
+2018-07-15 16:52:36 Drive Axis2 to 74 Degree
+2018-07-15 16:56:53 Set Title: PbS T=1.5 K, En=12 meV, w=76 degs
+2018-07-15 16:57:03 Drive Axis2 to 76 Degree
+2018-07-15 17:01:19 Set Title: PbS T=1.5 K, En=12 meV, w=78 degs
+2018-07-15 17:01:29 Drive Axis2 to 78 Degree
+2018-07-15 17:05:47 Set Title: PbS T=1.5 K, En=12 meV, w=80 degs
+2018-07-15 17:05:57 Drive Axis2 to 80 Degree
+2018-07-15 17:10:14 Set Title: PbS T=1.5 K, En=12 meV, w=82 degs
+2018-07-15 17:10:24 Drive Axis2 to 82 Degree
+2018-07-15 17:14:41 Set Title: PbS T=1.5 K, En=12 meV, w=84 degs
+2018-07-15 17:14:51 Drive Axis2 to 84 Degree
+2018-07-15 17:19:07 Set Title: PbS T=1.5 K, En=12 meV, w=86 degs
+2018-07-15 17:19:18 Drive Axis2 to 86 Degree
+2018-07-15 17:23:33 Set Title: PbS T=1.5 K, En=12 meV, w=88 degs
+2018-07-15 17:23:43 Drive Axis2 to 88 Degree
+2018-07-15 17:28:00 Set Title: PbS T=1.5 K, En=12 meV, w=90 degs
+2018-07-15 17:28:10 Drive Axis2 to 90 Degree
+2018-07-15 17:33:09 Set Incident Energy to 25 meV
+2018-07-15 17:33:09 Set Title: PbS T=1.5 K, En=25 meV, w=-90 degs
+2018-07-15 17:39:27 Drive Axis2 to -90 Degree
+2018-07-15 17:43:44 Set Title: PbS T=1.5 K, En=25 meV, w=-88 degs
+2018-07-15 17:43:54 Drive Axis2 to -88 Degree
+2018-07-15 17:48:11 Set Title: PbS T=1.5 K, En=25 meV, w=-86 degs
+2018-07-15 17:48:21 Drive Axis2 to -86 Degree
+2018-07-15 17:52:39 Set Title: PbS T=1.5 K, En=25 meV, w=-84 degs
+2018-07-15 17:52:49 Drive Axis2 to -84 Degree
+2018-07-15 17:57:04 Set Title: PbS T=1.5 K, En=25 meV, w=-82 degs
+2018-07-15 17:57:15 Drive Axis2 to -82 Degree
+2018-07-15 18:01:31 Set Title: PbS T=1.5 K, En=25 meV, w=-80 degs
+2018-07-15 18:01:41 Drive Axis2 to -80 Degree
+2018-07-15 18:05:57 Set Title: PbS T=1.5 K, En=25 meV, w=-78 degs
+2018-07-15 18:06:07 Drive Axis2 to -78 Degree
+2018-07-15 18:10:23 Set Title: PbS T=1.5 K, En=25 meV, w=-76 degs
+2018-07-15 18:10:33 Drive Axis2 to -76 Degree
+2018-07-15 18:14:49 Set Title: PbS T=1.5 K, En=25 meV, w=-74 degs
+2018-07-15 18:14:59 Drive Axis2 to -74 Degree
+2018-07-15 18:19:16 Set Title: PbS T=1.5 K, En=25 meV, w=-72 degs
+2018-07-15 18:19:26 Drive Axis2 to -72 Degree
+2018-07-15 18:23:42 Set Title: PbS T=1.5 K, En=25 meV, w=-70 degs
+2018-07-15 18:23:52 Drive Axis2 to -70 Degree
+2018-07-15 18:28:08 Set Title: PbS T=1.5 K, En=25 meV, w=-68 degs
+2018-07-15 18:28:19 Drive Axis2 to -68 Degree
+2018-07-15 18:32:36 Set Title: PbS T=1.5 K, En=25 meV, w=-66 degs
+2018-07-15 18:32:46 Drive Axis2 to -66 Degree
+2018-07-15 18:37:03 Set Title: PbS T=1.5 K, En=25 meV, w=-64 degs
+2018-07-15 18:37:13 Drive Axis2 to -64 Degree
+2018-07-15 18:41:30 Set Title: PbS T=1.5 K, En=25 meV, w=-62 degs
+2018-07-15 18:41:40 Drive Axis2 to -62 Degree
+2018-07-15 18:45:56 Set Title: PbS T=1.5 K, En=25 meV, w=-60 degs
+2018-07-15 18:46:06 Drive Axis2 to -60 Degree
+2018-07-15 18:50:23 Set Title: PbS T=1.5 K, En=25 meV, w=-58 degs
+2018-07-15 18:50:33 Drive Axis2 to -58 Degree
+2018-07-15 18:54:51 Set Title: PbS T=1.5 K, En=25 meV, w=-56 degs
+2018-07-15 18:55:02 Drive Axis2 to -56 Degree
+2018-07-15 18:59:20 Set Title: PbS T=1.5 K, En=25 meV, w=-54 degs
+2018-07-15 18:59:30 Drive Axis2 to -54 Degree
+2018-07-15 19:03:48 Set Title: PbS T=1.5 K, En=25 meV, w=-52 degs
+2018-07-15 19:03:58 Drive Axis2 to -52 Degree
+2018-07-15 19:08:16 Set Title: PbS T=1.5 K, En=25 meV, w=-50 degs
+2018-07-15 19:08:26 Drive Axis2 to -50 Degree
+2018-07-15 19:12:43 Set Title: PbS T=1.5 K, En=25 meV, w=-48 degs
+2018-07-15 19:12:54 Drive Axis2 to -48 Degree
+2018-07-15 19:17:10 Set Title: PbS T=1.5 K, En=25 meV, w=-46 degs
+2018-07-15 19:17:21 Drive Axis2 to -46 Degree
+2018-07-15 19:21:59 Set Title: PbS T=1.5 K, En=25 meV, w=-44 degs
+2018-07-15 19:22:09 Drive Axis2 to -44 Degree
+2018-07-15 19:26:27 Set Title: PbS T=1.5 K, En=25 meV, w=-42 degs
+2018-07-15 19:26:37 Drive Axis2 to -42 Degree
+2018-07-15 19:30:55 Set Title: PbS T=1.5 K, En=25 meV, w=-40 degs
+2018-07-15 19:31:05 Drive Axis2 to -40 Degree
+2018-07-15 19:35:24 Set Title: PbS T=1.5 K, En=25 meV, w=-38 degs
+2018-07-15 19:35:35 Drive Axis2 to -38 Degree
+2018-07-15 19:39:52 Set Title: PbS T=1.5 K, En=25 meV, w=-36 degs
+2018-07-15 19:40:02 Drive Axis2 to -36 Degree
+2018-07-15 19:44:20 Set Title: PbS T=1.5 K, En=25 meV, w=-34 degs
+2018-07-15 19:44:30 Drive Axis2 to -34 Degree
+2018-07-15 19:48:48 Set Title: PbS T=1.5 K, En=25 meV, w=-32 degs
+2018-07-15 19:48:58 Drive Axis2 to -32 Degree
+2018-07-15 19:53:14 Set Title: PbS T=1.5 K, En=25 meV, w=-30 degs
+2018-07-15 19:53:24 Drive Axis2 to -30 Degree
+2018-07-15 19:57:42 Set Title: PbS T=1.5 K, En=25 meV, w=-28 degs
+2018-07-15 19:57:52 Drive Axis2 to -28 Degree
+2018-07-15 20:02:09 Set Title: PbS T=1.5 K, En=25 meV, w=-26 degs
+2018-07-15 20:02:19 Drive Axis2 to -26 Degree
+2018-07-15 20:06:36 Set Title: PbS T=1.5 K, En=25 meV, w=-24 degs
+2018-07-15 20:06:47 Drive Axis2 to -24 Degree
+2018-07-15 20:11:05 Set Title: PbS T=1.5 K, En=25 meV, w=-22 degs
+2018-07-15 20:11:15 Drive Axis2 to -22 Degree
+2018-07-15 20:15:32 Set Title: PbS T=1.5 K, En=25 meV, w=-20 degs
+2018-07-15 20:15:43 Drive Axis2 to -20 Degree
+2018-07-15 20:20:01 Set Title: PbS T=1.5 K, En=25 meV, w=-18 degs
+2018-07-15 20:20:12 Drive Axis2 to -18 Degree
+2018-07-15 20:24:29 Set Title: PbS T=1.5 K, En=25 meV, w=-16 degs
+2018-07-15 20:24:40 Drive Axis2 to -16 Degree
+2018-07-15 20:28:57 Set Title: PbS T=1.5 K, En=25 meV, w=-14 degs
+2018-07-15 20:29:07 Drive Axis2 to -14 Degree
+2018-07-15 20:33:25 Set Title: PbS T=1.5 K, En=25 meV, w=-12 degs
+2018-07-15 20:33:35 Drive Axis2 to -12 Degree
+2018-07-15 20:37:52 Set Title: PbS T=1.5 K, En=25 meV, w=-10 degs
+2018-07-15 20:38:03 Drive Axis2 to -10 Degree
+2018-07-15 20:42:20 Set Title: PbS T=1.5 K, En=25 meV, w=-8 degs
+2018-07-15 20:42:30 Drive Axis2 to -8 Degree
+2018-07-15 20:46:47 Set Title: PbS T=1.5 K, En=25 meV, w=-6 degs
+2018-07-15 20:46:57 Drive Axis2 to -6 Degree
+2018-07-15 20:51:16 Set Title: PbS T=1.5 K, En=25 meV, w=-4 degs
+2018-07-15 20:51:26 Drive Axis2 to -4 Degree
+2018-07-15 20:55:44 Set Title: PbS T=1.5 K, En=25 meV, w=-2 degs
+2018-07-15 20:55:54 Drive Axis2 to -2 Degree
+2018-07-15 21:00:11 Set Title: PbS T=1.5 K, En=25 meV, w=0 degs
+2018-07-15 21:00:21 Drive Axis2 to 0 Degree
+2018-07-15 21:04:39 Set Title: PbS T=1.5 K, En=25 meV, w=2 degs
+2018-07-15 21:04:49 Drive Axis2 to 2 Degree
+2018-07-15 21:09:06 Set Title: PbS T=1.5 K, En=25 meV, w=4 degs
+2018-07-15 21:09:17 Drive Axis2 to 4 Degree
+2018-07-15 21:13:34 Set Title: PbS T=1.5 K, En=25 meV, w=6 degs
+2018-07-15 21:13:45 Drive Axis2 to 6 Degree
+2018-07-15 21:18:02 Set Title: PbS T=1.5 K, En=25 meV, w=8 degs
+2018-07-15 21:18:12 Drive Axis2 to 8 Degree
+2018-07-15 21:22:30 Set Title: PbS T=1.5 K, En=25 meV, w=10 degs
+2018-07-15 21:22:40 Drive Axis2 to 10 Degree
+2018-07-15 21:26:56 Set Title: PbS T=1.5 K, En=25 meV, w=12 degs
+2018-07-15 21:27:07 Drive Axis2 to 12 Degree
+2018-07-15 21:31:24 Set Title: PbS T=1.5 K, En=25 meV, w=14 degs
+2018-07-15 21:31:34 Drive Axis2 to 14 Degree
+2018-07-15 21:35:52 Set Title: PbS T=1.5 K, En=25 meV, w=16 degs
+2018-07-15 21:36:03 Drive Axis2 to 16 Degree
+2018-07-15 21:40:20 Set Title: PbS T=1.5 K, En=25 meV, w=18 degs
+2018-07-15 21:40:30 Drive Axis2 to 18 Degree
+2018-07-15 21:44:48 Set Title: PbS T=1.5 K, En=25 meV, w=20 degs
+2018-07-15 21:44:59 Drive Axis2 to 20 Degree
+2018-07-15 21:49:16 Set Title: PbS T=1.5 K, En=25 meV, w=22 degs
+2018-07-15 21:49:26 Drive Axis2 to 22 Degree
+2018-07-15 21:53:43 Set Title: PbS T=1.5 K, En=25 meV, w=24 degs
+2018-07-15 21:53:53 Drive Axis2 to 24 Degree
+2018-07-15 21:58:11 Set Title: PbS T=1.5 K, En=25 meV, w=26 degs
+2018-07-15 21:58:21 Drive Axis2 to 26 Degree
+2018-07-15 22:02:39 Set Title: PbS T=1.5 K, En=25 meV, w=28 degs
+2018-07-15 22:02:49 Drive Axis2 to 28 Degree
+2018-07-15 22:07:07 Set Title: PbS T=1.5 K, En=25 meV, w=30 degs
+2018-07-15 22:07:17 Drive Axis2 to 30 Degree
+2018-07-15 22:11:35 Set Title: PbS T=1.5 K, En=25 meV, w=32 degs
+2018-07-15 22:11:45 Drive Axis2 to 32 Degree
+2018-07-15 22:16:04 Set Title: PbS T=1.5 K, En=25 meV, w=34 degs
+2018-07-15 22:16:14 Drive Axis2 to 34 Degree
+2018-07-15 22:20:31 Set Title: PbS T=1.5 K, En=25 meV, w=36 degs
+2018-07-15 22:20:42 Drive Axis2 to 36 Degree
+2018-07-15 22:25:00 Set Title: PbS T=1.5 K, En=25 meV, w=38 degs
+2018-07-15 22:25:10 Drive Axis2 to 38 Degree
+2018-07-15 22:29:29 Set Title: PbS T=1.5 K, En=25 meV, w=40 degs
+2018-07-15 22:29:39 Drive Axis2 to 40 Degree
+2018-07-15 22:33:58 Set Title: PbS T=1.5 K, En=25 meV, w=42 degs
+2018-07-15 22:34:08 Drive Axis2 to 42 Degree
+2018-07-15 22:38:25 Set Title: PbS T=1.5 K, En=25 meV, w=44 degs
+2018-07-15 22:38:35 Drive Axis2 to 44 Degree
+2018-07-15 22:42:53 Set Title: PbS T=1.5 K, En=25 meV, w=46 degs
+2018-07-15 22:43:03 Drive Axis2 to 46 Degree
+2018-07-15 22:47:20 Set Title: PbS T=1.5 K, En=25 meV, w=48 degs
+2018-07-15 22:47:30 Drive Axis2 to 48 Degree
+2018-07-15 22:51:47 Set Title: PbS T=1.5 K, En=25 meV, w=50 degs
+2018-07-15 22:51:58 Drive Axis2 to 50 Degree
+2018-07-15 22:56:14 Set Title: PbS T=1.5 K, En=25 meV, w=52 degs
+2018-07-15 22:56:25 Drive Axis2 to 52 Degree
+2018-07-15 23:00:41 Set Title: PbS T=1.5 K, En=25 meV, w=54 degs
+2018-07-15 23:00:51 Drive Axis2 to 54 Degree
+2018-07-15 23:05:09 Set Title: PbS T=1.5 K, En=25 meV, w=56 degs
+2018-07-15 23:05:19 Drive Axis2 to 56 Degree
+2018-07-15 23:09:35 Set Title: PbS T=1.5 K, En=25 meV, w=58 degs
+2018-07-15 23:09:45 Drive Axis2 to 58 Degree
+2018-07-15 23:14:02 Set Title: PbS T=1.5 K, En=25 meV, w=60 degs
+2018-07-15 23:14:12 Drive Axis2 to 60 Degree
+2018-07-15 23:18:27 Set Title: PbS T=1.5 K, En=25 meV, w=62 degs
+2018-07-15 23:18:38 Drive Axis2 to 62 Degree
+2018-07-15 23:22:54 Set Title: PbS T=1.5 K, En=25 meV, w=64 degs
+2018-07-15 23:23:04 Drive Axis2 to 64 Degree
+2018-07-16 01:01:54 Set Incident Energy to 12 meV
+2018-07-16 01:01:54 Set Title: Empty Can T=1.5 K, En=12 meV, w=-90 degs
+2018-07-16 01:01:56 Drive Axis2 to -90 Degree
+2018-07-16 01:10:42 Set Title: Empty Can T=1.5 K, En=12 meV, w=-80 degs
+2018-07-16 01:11:08 Drive Axis2 to -80 Degree
+2018-07-16 01:15:03 Set Title: Empty Can T=1.5 K, En=12 meV, w=-70 degs
+2018-07-16 01:15:30 Drive Axis2 to -70 Degree
+2018-07-16 01:19:25 Set Title: Empty Can T=1.5 K, En=12 meV, w=-60 degs
+2018-07-16 01:19:51 Drive Axis2 to -60 Degree
+2018-07-16 01:23:46 Set Title: Empty Can T=1.5 K, En=12 meV, w=-50 degs
+2018-07-16 01:24:12 Drive Axis2 to -50 Degree
+2018-07-16 01:28:07 Set Title: Empty Can T=1.5 K, En=12 meV, w=-40 degs
+2018-07-16 01:28:33 Drive Axis2 to -40 Degree
+2018-07-16 01:32:28 Set Title: Empty Can T=1.5 K, En=12 meV, w=-30 degs
+2018-07-16 01:32:55 Drive Axis2 to -30 Degree
+2018-07-16 01:36:49 Set Title: Empty Can T=1.5 K, En=12 meV, w=-20 degs
+2018-07-16 01:37:15 Drive Axis2 to -20 Degree
+2018-07-16 01:41:10 Set Title: Empty Can T=1.5 K, En=12 meV, w=-10 degs
+2018-07-16 01:41:36 Drive Axis2 to -10 Degree
+2018-07-16 01:45:30 Set Title: Empty Can T=1.5 K, En=12 meV, w=0 degs
+2018-07-16 01:45:56 Drive Axis2 to 0 Degree
+2018-07-16 01:49:51 Set Title: Empty Can T=1.5 K, En=12 meV, w=10 degs
+2018-07-16 01:50:17 Drive Axis2 to 10 Degree
+2018-07-16 01:54:11 Set Title: Empty Can T=1.5 K, En=12 meV, w=20 degs
+2018-07-16 01:54:37 Drive Axis2 to 20 Degree
+2018-07-16 01:58:31 Set Title: Empty Can T=1.5 K, En=12 meV, w=30 degs
+2018-07-16 01:58:57 Drive Axis2 to 30 Degree
+2018-07-16 02:02:51 Set Title: Empty Can T=1.5 K, En=12 meV, w=40 degs
+2018-07-16 02:03:17 Drive Axis2 to 40 Degree
+2018-07-16 02:07:11 Set Title: Empty Can T=1.5 K, En=12 meV, w=50 degs
+2018-07-16 02:07:37 Drive Axis2 to 50 Degree
+2018-07-16 02:11:31 Set Title: Empty Can T=1.5 K, En=12 meV, w=60 degs
+2018-07-16 02:11:57 Drive Axis2 to 60 Degree
+2018-07-16 02:15:50 Set Title: Empty Can T=1.5 K, En=12 meV, w=70 degs
+2018-07-16 02:16:16 Drive Axis2 to 70 Degree
+2018-07-16 02:20:11 Set Title: Empty Can T=1.5 K, En=12 meV, w=80 degs
+2018-07-16 02:20:37 Drive Axis2 to 80 Degree
+2018-07-16 02:24:31 Set Title: Empty Can T=1.5 K, En=12 meV, w=90 degs
+2018-07-16 02:24:58 Drive Axis2 to 90 Degree
+2018-07-16 02:29:35 Set Incident Energy to 25 meV
+2018-07-16 02:29:35 Set Title: Empty Can T=1.5 K, En=25 meV, w=-90 degs
+2018-07-16 02:35:52 Drive Axis2 to -90 Degree
+2018-07-16 02:39:47 Set Title: Empty Can T=1.5 K, En=25 meV, w=-80 degs
+2018-07-16 02:40:13 Drive Axis2 to -80 Degree
+2018-07-16 02:44:06 Set Title: Empty Can T=1.5 K, En=25 meV, w=-70 degs
+2018-07-16 02:44:32 Drive Axis2 to -70 Degree
+2018-07-16 02:48:26 Set Title: Empty Can T=1.5 K, En=25 meV, w=-60 degs
+2018-07-16 02:48:52 Drive Axis2 to -60 Degree
+2018-07-16 02:52:45 Set Title: Empty Can T=1.5 K, En=25 meV, w=-50 degs
+2018-07-16 02:53:12 Drive Axis2 to -50 Degree
+2018-07-16 02:57:06 Set Title: Empty Can T=1.5 K, En=25 meV, w=-40 degs
+2018-07-16 02:57:32 Drive Axis2 to -40 Degree
+2018-07-16 03:01:25 Set Title: Empty Can T=1.5 K, En=25 meV, w=-30 degs
+2018-07-16 03:01:51 Drive Axis2 to -30 Degree
+2018-07-16 03:05:44 Set Title: Empty Can T=1.5 K, En=25 meV, w=-20 degs
+2018-07-16 03:06:10 Drive Axis2 to -20 Degree
+2018-07-16 03:10:04 Set Title: Empty Can T=1.5 K, En=25 meV, w=-10 degs
+2018-07-16 03:10:30 Drive Axis2 to -10 Degree
+2018-07-16 03:14:23 Set Title: Empty Can T=1.5 K, En=25 meV, w=0 degs
+2018-07-16 03:14:49 Drive Axis2 to 0 Degree
+2018-07-16 03:18:42 Set Title: Empty Can T=1.5 K, En=25 meV, w=10 degs
+2018-07-16 03:19:08 Drive Axis2 to 10 Degree
+2018-07-16 03:23:01 Set Title: Empty Can T=1.5 K, En=25 meV, w=20 degs
+2018-07-16 03:23:28 Drive Axis2 to 20 Degree
+2018-07-16 03:27:21 Set Title: Empty Can T=1.5 K, En=25 meV, w=30 degs
+2018-07-16 03:27:47 Drive Axis2 to 30 Degree
+2018-07-16 03:31:40 Set Title: Empty Can T=1.5 K, En=25 meV, w=40 degs
+2018-07-16 03:32:07 Drive Axis2 to 40 Degree
+2018-07-16 03:36:00 Set Title: Empty Can T=1.5 K, En=25 meV, w=50 degs
+2018-07-16 03:36:26 Drive Axis2 to 50 Degree
+2018-07-16 03:40:20 Set Title: Empty Can T=1.5 K, En=25 meV, w=60 degs
+2018-07-16 03:40:47 Drive Axis2 to 60 Degree
+2018-07-16 05:58:27 Set Incident Energy to 12 meV
+2018-07-16 05:58:27 Set Title: CdSe regular T=1.5 K, En=12 meV
+2018-07-16 06:58:13 Set Incident Energy to 25 meV
+2018-07-16 06:58:13 Set Title: CdSe regular T=1.5 K, En=25 meV
+2018-07-16 08:42:12 Set Incident Energy to 40 meV
+2018-07-16 08:42:12 Set Title: CdSe regular T=1.5 K, En=40 meV

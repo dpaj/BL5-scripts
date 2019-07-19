@@ -1,0 +1,286 @@
+2018-05-14 09:35:53 Line Log cleared
+2018-05-14 09:35:53 Starting IPTS-20360 on 2018-05-14
+2018-05-14 09:43:53 Set Title: First Night of Neutron
+2018-05-14 09:44:34 Comment: 11 Tesla, Dry in air, TiZr sample overnight scan several energies HF
+2018-05-14 10:07:06 New X/Y Signal ROI at 2Theta=[55,65] Phi=[-5,5]
+2018-05-14 13:46:35 Set Title: Dummy run Ei=12 meV
+2018-05-14 13:47:10 Setting Chopper mode in: high_flux
+2018-05-14 13:47:38 Set Incident Energy to 12.0 meV
+2018-05-15 09:42:33 Set Title: 11 Tesla Dry Ei=0.67 meV
+2018-05-15 09:43:34 Set Incident Energy to 0.67 meV
+2018-05-15 11:15:13 Set Title: 11 Tesla Dry Ei=1.55 meV
+2018-05-15 11:15:54 Set Incident Energy to 1.55 meV
+2018-05-15 11:57:15 Set Title: 11 Tesla Dry Ei=3.32 meV
+2018-05-15 11:58:10 Set Incident Energy to 3.32 meV
+2018-05-15 12:39:55 Set Title: 11 Tesla Dry Ei=6.59 meV
+2018-05-15 12:40:34 Set Incident Energy to 6.59 meV
+2018-05-15 13:22:17 Set Title: 11 Tesla Dry Ei=12.0 meV
+2018-05-15 13:22:58 Set Incident Energy to 12.0 meV
+2018-05-15 14:21:24 Set Title: 11 Tesla Dry Ei=25.0 meV
+2018-05-15 14:22:04 Set Incident Energy to 25.0 meV
+2018-05-15 14:58:47 Set Title: 11 Tesla Dry Ei=0.54 meV
+2018-05-15 14:58:57 Setting Chopper mode in: high_flux
+2018-05-15 14:59:45 Set Incident Energy to 0.54 meV
+2018-05-15 15:47:27 Set Title: 11 Tesla Dry no Sample Ei=0.54 meV
+2018-05-15 15:47:37 Setting Chopper mode in: high_flux
+2018-05-15 15:47:37 Set Incident Energy to 0.54 meV
+2018-05-15 16:20:54 Set Title: 11 Tesla Dry no Sample Ei=1.55 meV
+2018-05-15 16:21:34 Set Incident Energy to 1.55 meV
+2018-05-15 16:59:39 Set Title: 11 Tesla Dry no Sample Ei=3.32 meV
+2018-05-15 17:00:30 Set Incident Energy to 3.32 meV
+2018-05-15 17:33:55 Set Title: 11 Tesla Dry no Sample Ei=6.59 meV
+2018-05-15 17:34:47 Set Incident Energy to 6.59 meV
+2018-05-15 18:08:07 Set Title: 11 Tesla Dry no Sample Ei=12.0 meV
+2018-05-15 18:08:49 Set Incident Energy to 12.0 meV
+2018-05-15 18:42:08 Set Title: 11 Tesla Dry no Sample Ei=25.0 meV
+2018-05-15 18:42:49 Set Incident Energy to 25.0 meV
+2018-05-15 20:33:18 Set Title: 11 Tesla Cd Sample Ei=0.54 meV
+2018-05-15 20:33:18 Set Incident Energy to 0.54 meV
+2018-05-15 21:06:32 Set Title: 11 Tesla Cd Sample Ei=1.55 meV
+2018-05-15 21:07:14 Set Incident Energy to 1.55 meV
+2018-05-15 21:40:27 Set Title: 11 Tesla Cd Sample Ei=3.32 meV
+2018-05-15 21:41:20 Set Incident Energy to 3.32 meV
+2018-05-15 22:14:33 Set Title: 11 Tesla Cd Sample Ei=6.59 meV
+2018-05-15 22:15:26 Set Incident Energy to 6.59 meV
+2018-05-15 22:48:39 Set Title: 11 Tesla Cd Sample Ei=12.0 meV
+2018-05-15 22:49:21 Set Incident Energy to 12.0 meV
+2018-05-15 23:22:39 Set Title: 11 Tesla Cd Sample Ei=25.0 meV
+2018-05-15 23:23:19 Set Incident Energy to 25.0 meV
+2018-05-16 10:58:10 Set Title: 11 Tesla TiZr with BeamStop Ei=0.54 meV
+2018-05-16 10:58:53 Set Incident Energy to 0.54 meV
+2018-05-16 10:59:20 Comment: The Beamstop works
+2018-05-16 11:22:50 Set Title: 11 Tesla TiZr with BeamStop Ei=1.55 meV
+2018-05-16 11:23:31 Set Incident Energy to 1.55 meV
+2018-05-16 11:55:23 Set Title: 11 Tesla TiZr with BeamStop Ei=3.32 meV
+2018-05-16 11:56:14 Set Incident Energy to 3.32 meV
+2018-05-16 14:26:34 Set Title: 11 Tesla TiZr with BeamStop Ei=6.59 meV
+2018-05-16 14:27:22 Set Incident Energy to 6.59 meV
+2018-05-16 14:51:52 Set Title: 11 Tesla TiZr with BeamStop Ei=12.0 meV
+2018-05-16 14:52:34 Set Incident Energy to 12.0 meV
+2018-05-16 15:16:46 Set Title: 11 Tesla TiZr with BeamStop Ei=25.0 meV
+2018-05-16 15:17:25 Set Incident Energy to 25.0 meV
+2018-05-16 15:53:42 Set Title: 11 Tesla Cd sample with BeamStop Ei=0.54 meV
+2018-05-16 15:54:34 Set Incident Energy to 0.54 meV
+2018-05-16 16:17:03 Set Title: 11 Tesla Cd sample with BeamStop Ei=1.55 meV
+2018-05-16 16:17:45 Set Incident Energy to 1.55 meV
+2018-05-16 16:39:16 Set Title: 11 Tesla Cd sample with BeamStop Ei=3.32 meV
+2018-05-16 16:40:10 Set Incident Energy to 3.32 meV
+2018-05-16 17:01:26 Set Title: 11 Tesla Cd sample with BeamStop Ei=6.59 meV
+2018-05-16 17:02:24 Set Incident Energy to 6.59 meV
+2018-05-16 17:23:46 Set Title: 11 Tesla Cd sample with BeamStop Ei=12.0 meV
+2018-05-16 17:24:30 Set Incident Energy to 12.0 meV
+2018-05-16 17:45:46 Set Title: 11 Tesla Cd sample with BeamStop Ei=25.0 meV
+2018-05-16 17:46:30 Set Incident Energy to 25.0 meV
+2018-05-16 18:14:52 Set Title: 11 Tesla Empty sample with BeamStop Ei=0.54 meV
+2018-05-16 18:15:44 Set Incident Energy to 0.54 meV
+2018-05-16 18:37:09 Set Title: 11 Tesla Empty sample with BeamStop Ei=1.55 meV
+2018-05-16 18:37:52 Set Incident Energy to 1.55 meV
+2018-05-16 18:59:23 Set Title: 11 Tesla Empty sample with BeamStop Ei=3.32 meV
+2018-05-16 19:00:14 Set Incident Energy to 3.32 meV
+2018-05-16 19:21:50 Set Title: 11 Tesla Empty sample with BeamStop Ei=6.59 meV
+2018-05-16 19:22:46 Set Incident Energy to 6.59 meV
+2018-05-16 19:45:26 Set Title: 11 Tesla Empty sample with BeamStop Ei=12.0 meV
+2018-05-16 19:46:10 Set Incident Energy to 12.0 meV
+2018-05-16 20:08:21 Set Title: 11 Tesla Empty sample with BeamStop Ei=25.0 meV
+2018-05-16 20:09:02 Set Incident Energy to 25.0 meV
+2018-05-17 02:01:01 LineLogIOC Started
+2018-05-17 15:46:08 Move Sample Z to 310 mm
+2018-05-17 15:47:10 Move Sample Z to 309 mm
+2018-05-17 15:47:33 Move Sample Z to 312 mm
+2018-05-17 15:49:30 Move Sample Z to 335 mm
+2018-05-17 16:29:03 Set Title: TiZr in Air High Flux Ei=0.54 meV
+2018-05-17 16:29:50 Set Incident Energy to 0.54 meV
+2018-05-17 17:08:18 Set Title: TiZr in Air High Flux Ei=1.55 meV
+2018-05-17 17:08:59 Set Incident Energy to 1.55 meV
+2018-05-17 17:50:23 Set Title: TiZr in Air High Flux Ei=3.32 meV
+2018-05-17 17:51:17 Set Incident Energy to 3.32 meV
+2018-05-17 18:29:42 Set Title: TiZr in Air High Flux Ei=5.1 meV
+2018-05-17 18:30:25 Set Incident Energy to 5.1 meV
+2018-05-17 19:16:40 Set Title: TiZr in Air High Flux Ei=6.59 meV
+2018-05-17 19:17:16 Set Incident Energy to 6.59 meV
+2018-05-17 19:52:27 Set Title: TiZr in Air High Flux Ei=12.0 meV
+2018-05-17 19:53:13 Set Incident Energy to 12.0 meV
+2018-05-17 20:31:59 Set Title: TiZr in Air High Flux Ei=25.0 meV
+2018-05-17 20:32:43 Set Incident Energy to 25.0 meV
+2018-05-17 21:09:00 Set Title: TiZr in Air High Flux Ei=50.0 meV
+2018-05-17 21:09:41 Set Incident Energy to 50.0 meV
+2018-05-17 21:44:47 Set Title: TiZr in Air High Flux Ei=80.0 meV
+2018-05-17 21:45:26 Set Incident Energy to 80.0 meV
+2018-05-17 22:32:33 Set Title: TiZr in Air Intermediate Ei=0.54 meV
+2018-05-17 22:33:15 Set Incident Energy to 0.54 meV
+2018-05-17 23:08:46 Set Title: TiZr in Air Intermediate Ei=1.55 meV
+2018-05-17 23:09:29 Set Incident Energy to 1.55 meV
+2018-05-17 23:44:24 Set Title: TiZr in Air Intermediate Ei=3.32 meV
+2018-05-17 23:45:19 Set Incident Energy to 3.32 meV
+2018-05-18 00:17:49 Set Title: TiZr in Air Intermediate Ei=5.1 meV
+2018-05-18 00:18:33 Set Incident Energy to 5.1 meV
+2018-05-18 00:51:34 Set Title: TiZr in Air Intermediate Ei=6.59 meV
+2018-05-18 00:52:23 Set Incident Energy to 6.59 meV
+2018-05-18 01:24:54 Set Title: TiZr in Air Intermediate Ei=12.0 meV
+2018-05-18 01:25:37 Set Incident Energy to 12.0 meV
+2018-05-18 01:58:34 Set Title: TiZr in Air Intermediate Ei=25.0 meV
+2018-05-18 01:59:17 Set Incident Energy to 25.0 meV
+2018-05-18 02:31:49 Set Title: TiZr in Air Intermediate Ei=50.0 meV
+2018-05-18 02:32:27 Set Incident Energy to 50.0 meV
+2018-05-18 03:04:59 Set Title: TiZr in Air Intermediate Ei=80.0 meV
+2018-05-18 03:05:37 Set Incident Energy to 80.0 meV
+2018-05-18 03:42:01 Set Title: TiZr in Air High Resolution Ei=0.54 meV
+2018-05-18 03:42:42 Set Incident Energy to 0.54 meV
+2018-05-18 04:15:12 Set Title: TiZr in Air High Resolution Ei=1.55 meV
+2018-05-18 04:15:53 Set Incident Energy to 1.55 meV
+2018-05-18 04:48:20 Set Title: TiZr in Air High Resolution Ei=3.32 meV
+2018-05-18 04:49:12 Set Incident Energy to 3.32 meV
+2018-05-18 05:20:21 Set Title: TiZr in Air High Resolution Ei=5.1 meV
+2018-05-18 05:21:05 Set Incident Energy to 5.1 meV
+2018-05-18 05:51:15 Set Title: TiZr in Air High Resolution Ei=6.59 meV
+2018-05-18 05:52:05 Set Incident Energy to 6.59 meV
+2018-05-18 06:24:55 Set Title: TiZr in Air High Resolution Ei=12.0 meV
+2018-05-18 06:25:37 Set Incident Energy to 12.0 meV
+2018-05-18 06:55:41 Set Title: TiZr in Air High Resolution Ei=25.0 meV
+2018-05-18 06:56:23 Set Incident Energy to 25.0 meV
+2018-05-18 07:26:25 Set Title: TiZr in Air High Resolution Ei=50.0 meV
+2018-05-18 07:27:05 Set Incident Energy to 50.0 meV
+2018-05-18 07:57:06 Set Title: TiZr in Air High Resolution Ei=80.0 meV
+2018-05-18 07:57:47 Set Incident Energy to 80.0 meV
+2018-05-18 09:21:42 Setting Chopper 4 frequency to 60 Hz
+2018-05-18 09:40:07 Setting Chopper 5 frequency to 60 Hz
+2018-05-18 13:00:48 Set Beamstop Left : 0 mm
+2018-05-18 13:02:11 Move huber to -50 Degree
+2018-05-18 13:02:23 Set Beamstop Right : 0 mm
+2018-05-18 13:02:36 Set Beamstop Right : 2 mm
+2018-05-18 13:02:50 Set Beamstop Right : 0.0 mm
+2018-05-18 13:05:05 Move Sample Z to 200 mm
+2018-05-18 13:06:13 Move Sample Z to 180 mm
+2018-05-18 14:32:43 Set Title: Starting White Beam 3 meV
+2018-05-18 14:56:03 Move Sample Z to 198.44122402 mm
+2018-05-18 15:05:58 Set Title: White Beam 3.32 meV, run 273266, Z=198.44 mm, left = 0 mm, right = 1 mm
+2018-05-18 16:33:46 Starting Distance Calibration with TiZr
+2018-05-20 18:26:04 Starting Tzero measurements
+2018-05-21 08:17:25 Tzero High_flux done at 1.00, 1.55, 3.32, 6.59, 12, 25, 80
+2018-05-21 09:12:51 Starting Tzero measurement at AI
+2018-05-21 15:31:57 sample was showing wrongly (as Nd2O3), due to GUI strangeness, now corrected to be TiZr
+2018-05-21 22:41:03 Starting Tzero measurement at HR
+2018-05-21 22:48:01 Found Mistake in Chop3 setting at 3.32 meV for both HF and AI
+2018-05-21 22:56:52 The two scans at 3.32 meV will be re-submitted at the end
+2018-05-22 10:36:16 Scan at High Resolution terminated
+2018-05-22 10:36:45 re-submitting 3.32 meV at AI
+2018-05-22 12:31:23 AI at 3.32 meV finished, Starting the last 3.32 meV at High Flux
+2018-05-22 14:06:07 Set Title: CCR10 TiZr with BeamStop Ei=0.54 meV
+2018-05-22 14:06:47 Set Incident Energy to 0.54 meV
+2018-05-22 14:11:52 Testing CCR with TiZr
+2018-05-22 14:25:33 Set Title: CCR10 TiZr with BeamStop Ei=1.55 meV
+2018-05-22 14:26:13 Set Incident Energy to 1.55 meV
+2018-05-22 14:39:31 Set Title: CCR10 TiZr with BeamStop Ei=3.32 meV
+2018-05-22 14:40:21 Set Incident Energy to 3.32 meV
+2018-05-22 14:53:38 Set Title: CCR10 TiZr with BeamStop Ei=6.59 meV
+2018-05-22 14:54:17 Set Incident Energy to 6.59 meV
+2018-05-22 15:07:29 Set Title: CCR10 TiZr with BeamStop Ei=12.0 meV
+2018-05-22 15:08:13 Set Incident Energy to 12.0 meV
+2018-05-22 15:21:26 Set Title: CCR10 TiZr with BeamStop Ei=25.0 meV
+2018-05-22 15:22:06 Set Incident Energy to 25.0 meV
+2018-05-22 15:35:18 Set Title: CCR10 TiZr with BeamStop Ei=50.0 meV
+2018-05-22 15:35:55 Set Incident Energy to 50.0 meV
+2018-05-22 15:49:08 Set Title: CCR10 TiZr with BeamStop Ei=80.0 meV
+2018-05-22 15:49:46 Set Incident Energy to 80.0 meV
+2018-05-22 16:34:29 Set Title: CCR10 Cd with BeamStop Ei=0.54 meV
+2018-05-22 16:35:09 Set Incident Energy to 0.54 meV
+2018-05-22 16:48:21 Set Title: CCR10 Cd with BeamStop Ei=1.55 meV
+2018-05-22 16:49:03 Set Incident Energy to 1.55 meV
+2018-05-22 17:02:15 Set Title: CCR10 Cd with BeamStop Ei=3.32 meV
+2018-05-22 17:03:07 Set Incident Energy to 3.32 meV
+2018-05-22 17:16:18 Set Title: CCR10 Cd with BeamStop Ei=6.59 meV
+2018-05-22 17:17:09 Set Incident Energy to 6.59 meV
+2018-05-22 17:30:20 Set Title: CCR10 Cd with BeamStop Ei=12.0 meV
+2018-05-22 17:31:03 Set Incident Energy to 12.0 meV
+2018-05-22 17:44:14 Set Title: CCR10 Cd with BeamStop Ei=25.0 meV
+2018-05-22 17:44:54 Set Incident Energy to 25.0 meV
+2018-05-22 17:58:04 Set Title: CCR10 Cd with BeamStop Ei=50.0 meV
+2018-05-22 17:58:43 Set Incident Energy to 50.0 meV
+2018-05-22 18:11:54 Set Title: CCR10 Cd with BeamStop Ei=80.0 meV
+2018-05-22 18:12:33 Set Incident Energy to 80.0 meV
+2018-05-22 18:53:18 Set Title: CCR10 Empty with BeamStop Ei=0.54 meV
+2018-05-22 18:53:57 Set Incident Energy to 0.54 meV
+2018-05-22 19:07:07 Set Title: CCR10 Empty with BeamStop Ei=1.55 meV
+2018-05-22 19:07:48 Set Incident Energy to 1.55 meV
+2018-05-22 19:21:39 Set Title: CCR10 Empty with BeamStop Ei=3.32 meV
+2018-05-22 19:22:33 Set Incident Energy to 3.32 meV
+2018-05-22 19:36:03 Set Title: CCR10 Empty with BeamStop Ei=6.59 meV
+2018-05-22 19:36:57 Set Incident Energy to 6.59 meV
+2018-05-22 19:50:07 Set Title: CCR10 Empty with BeamStop Ei=12.0 meV
+2018-05-22 19:50:52 Set Incident Energy to 12.0 meV
+2018-05-22 20:04:01 Set Title: CCR10 Empty with BeamStop Ei=25.0 meV
+2018-05-22 20:04:43 Set Incident Energy to 25.0 meV
+2018-05-22 20:17:53 Set Title: CCR10 Empty with BeamStop Ei=50.0 meV
+2018-05-22 20:18:33 Set Incident Energy to 50.0 meV
+2018-05-22 20:32:07 Set Title: CCR10 Empty with BeamStop Ei=80.0 meV
+2018-05-22 20:32:47 Set Incident Energy to 80.0 meV
+2018-05-22 22:26:00 Running overnight Si for angular detector calibration
+2018-05-22 22:32:04 Set Title: CCR10 Si with BeamStop Ei=85.0 meV
+2018-05-22 22:32:37 Set Incident Energy to 85.0 meV
+2018-05-22 23:00:17 Set Title: CCR10 Si with BeamStop Ei=80.0 meV
+2018-05-22 23:00:53 Set Incident Energy to 80.0 meV
+2018-05-22 23:28:59 Set Title: CCR10 Si with BeamStop Ei=75.0 meV
+2018-05-22 23:29:31 Set Incident Energy to 75.0 meV
+2018-05-22 23:57:13 Set Title: CCR10 Si with BeamStop Ei=70.0 meV
+2018-05-22 23:57:43 Set Incident Energy to 70.0 meV
+2018-05-23 00:25:48 Set Title: CCR10 Si with BeamStop Ei=65.0 meV
+2018-05-23 00:26:40 Set Incident Energy to 65.0 meV
+2018-05-23 00:54:20 Set Title: CCR10 Si with BeamStop Ei=60.0 meV
+2018-05-23 00:54:55 Set Incident Energy to 60.0 meV
+2018-05-23 01:22:36 Set Title: CCR10 Si with BeamStop Ei=55.0 meV
+2018-05-23 01:23:28 Set Incident Energy to 55.0 meV
+2018-05-23 01:51:34 Set Title: CCR10 Si with BeamStop Ei=50.0 meV
+2018-05-23 01:52:25 Set Incident Energy to 50.0 meV
+2018-05-23 02:20:05 Set Title: CCR10 Si with BeamStop Ei=45.0 meV
+2018-05-23 02:20:38 Set Incident Energy to 45.0 meV
+2018-05-23 02:48:22 Set Title: CCR10 Si with BeamStop Ei=40.0 meV
+2018-05-23 02:48:59 Set Incident Energy to 40.0 meV
+2018-05-23 03:16:42 Set Title: CCR10 Si with BeamStop Ei=35.0 meV
+2018-05-23 03:17:17 Set Incident Energy to 35.0 meV
+2018-05-23 03:46:22 Set Title: CCR10 Si with BeamStop Ei=30.0 meV
+2018-05-23 03:46:59 Set Incident Energy to 30.0 meV
+2018-05-23 04:14:43 Set Title: CCR10 Si with BeamStop Ei=25.0 meV
+2018-05-23 04:15:20 Set Incident Energy to 25.0 meV
+2018-05-23 04:43:03 Set Title: CCR10 Si with BeamStop Ei=20.0 meV
+2018-05-23 04:43:42 Set Incident Energy to 20.0 meV
+2018-05-23 05:11:26 Set Title: CCR10 Si with BeamStop Ei=15.0 meV
+2018-05-23 05:12:03 Set Incident Energy to 15.0 meV
+2018-05-23 05:39:48 Set Title: CCR10 Si with BeamStop Ei=12.0 meV
+2018-05-23 05:40:27 Set Incident Energy to 12.0 meV
+2018-05-23 06:08:12 Set Title: CCR10 Si with BeamStop Ei=10.0 meV
+2018-05-23 06:08:53 Set Incident Energy to 10.0 meV
+2018-05-23 06:41:23 Set Title: CCR10 Si with BeamStop Ei=6.59 meV
+2018-05-23 06:42:02 Set Incident Energy to 6.59 meV
+2018-05-23 07:12:21 Set Title: CCR10 Si with BeamStop Ei=3.32 meV
+2018-05-23 07:12:59 Set Incident Energy to 3.32 meV
+2018-05-23 07:40:25 Set Title: CCR10 Si with BeamStop Ei=1.55 meV
+2018-05-23 07:41:06 Set Incident Energy to 1.55 meV
+2018-05-23 09:03:56 Testing Get Lost Tube in the Detector Tank
+2018-05-23 09:06:49 
+2018-05-23 09:06:54 Set Title: Get Lost Tube in Vacuum, V-foil with BeamStop Ei=0.54 meV
+2018-05-23 09:07:35 Set Incident Energy to 0.54 meV
+2018-05-23 09:20:31 Set Title: Get Lost Tube in Vacuum, V-foil with BeamStop Ei=1.55 meV
+2018-05-23 09:21:13 Set Incident Energy to 1.55 meV
+2018-05-23 09:34:10 Set Title: Get Lost Tube in Vacuum, V-foil with BeamStop Ei=3.32 meV
+2018-05-23 09:35:03 Set Incident Energy to 3.32 meV
+2018-05-23 09:48:00 Set Title: Get Lost Tube in Vacuum, V-foil with BeamStop Ei=6.59 meV
+2018-05-23 09:48:47 Set Incident Energy to 6.59 meV
+2018-05-23 10:01:43 Set Title: Get Lost Tube in Vacuum, V-foil with BeamStop Ei=12.0 meV
+2018-05-23 10:02:23 Set Incident Energy to 12.0 meV
+2018-05-23 10:15:18 Set Title: Get Lost Tube in Vacuum, V-foil with BeamStop Ei=25.0 meV
+2018-05-23 10:15:59 Set Incident Energy to 25.0 meV
+2018-05-23 10:29:18 Set Title: Get Lost Tube in Vacuum, V-foil with BeamStop Ei=80.0 meV
+2018-05-23 10:29:59 Set Incident Energy to 80.0 meV
+2018-05-23 11:00:01 We finish the YIG measurement before proceeding with the Get Lost tube in Ar
+2018-05-23 11:01:04 Set Title: YIG with BeamStop Ei=0.54 meV
+2018-05-23 11:01:04 Set Incident Energy to 0.54 meV
+2018-05-23 11:14:00 Set Title: YIG with BeamStop Ei=1.55 meV
+2018-05-23 11:14:43 Set Incident Energy to 1.55 meV
+2018-05-23 11:27:38 Set Title: YIG with BeamStop Ei=3.32 meV
+2018-05-23 11:28:33 Set Incident Energy to 3.32 meV
+2018-05-23 11:41:28 Set Title: YIG with BeamStop Ei=6.59 meV
+2018-05-23 11:42:23 Set Incident Energy to 6.59 meV
+2018-05-23 13:08:29 CMS He Compressor failure, no beam since 12:13 @13:08 moderator @141K
+2018-05-23 13:20:24 measurement aborted due to moderator warming up
+2018-05-23 18:09:10 Beam off for 72 hours
+2018-05-25 15:44:40 Beam, expected to come back on Saturday 26 May, prepared dummy runn for warming up beam

@@ -1,0 +1,858 @@
+2018-09-06 12:49:59 Line Log cleared
+2018-09-06 12:49:59 Starting IPTS-21176 on 2018-09-06
+2018-09-06 17:28:55 Set Incident Energy to 12.0 meV
+2018-09-06 17:29:00 Set Title: mn-bi2te3 T=cooling Ei=12meV
+2018-09-06 18:26:39 Set Incident Energy to 12.0 meV
+2018-09-06 18:26:44 Set Title: mn-bi2te3 T=cooling Ei=12meV
+2018-09-06 18:35:57 Set Incident Energy to 12.0 meV
+2018-09-06 18:36:02 Set Title: mn-bi2te3 T=base Ei=12meV
+2018-09-06 19:34:00 Set Incident Energy to 12.0 meV
+2018-09-06 19:34:05 Set Title: mn-bi2te3 T=base Ei=12meV
+2018-09-06 20:32:02 Set Incident Energy to 12.0 meV
+2018-09-06 20:32:07 Set Title: mn-bi2te3 T=base Ei=12meV
+2018-09-06 21:58:56 Set Incident Energy to 12.0 meV
+2018-09-06 21:59:01 Set Title: mn-bi2te3 T=base Ei=12meV
+2018-09-06 22:57:26 Set Incident Energy to 3.32 meV
+2018-09-06 22:57:31 Set Title: mn-bi2te3 T=base Ei=3.32meV
+2018-09-06 23:55:09 Set Incident Energy to 3.32 meV
+2018-09-06 23:55:14 Set Title: mn-bi2te3 T=base Ei=3.32meV
+2018-09-07 00:52:55 Set Incident Energy to 3.32 meV
+2018-09-07 00:53:00 Set Title: mn-bi2te3 T=base Ei=3.32meV
+2018-09-07 01:54:25 Set Incident Energy to 3.32 meV
+2018-09-07 01:54:30 Set Title: mn-bi2te3 T=base Ei=3.32meV
+2018-09-07 03:04:05 Set Incident Energy to 12.0 meV
+2018-09-07 03:04:10 Set Title: mn-bi2te3 T=20K Ei=12meV
+2018-09-07 04:01:50 Set Incident Energy to 12.0 meV
+2018-09-07 04:01:55 Set Title: mn-bi2te3 T=20K Ei=12meV
+2018-09-07 05:05:23 Set Incident Energy to 12.0 meV
+2018-09-07 05:05:28 Set Title: mn-bi2te3 T=20K Ei=12meV
+2018-09-07 06:03:11 Set Incident Energy to 12.0 meV
+2018-09-07 06:03:16 Set Title: mn-bi2te3 T=20K Ei=12meV
+2018-09-07 07:01:48 Set Incident Energy to 3.32 meV
+2018-09-07 07:01:53 Set Title: mn-bi2te3 T=20K Ei=3.32meV
+2018-09-07 08:29:48 Set Incident Energy to 3.32 meV
+2018-09-07 08:29:53 Set Title: mn-bi2te3 T=20K Ei=3.32meV
+2018-09-07 09:28:24 Set Incident Energy to 3.32 meV
+2018-09-07 09:28:29 Set Title: mn-bi2te3 T=20K Ei=3.32meV
+2018-09-07 10:26:35 Set Incident Energy to 3.32 meV
+2018-09-07 10:30:27 Set Incident Energy to 5.0 meV
+2018-09-07 10:30:32 Set Title: mn-bi2te3 T=20K Ei=5meV
+2018-09-07 11:28:12 Set Incident Energy to 5.0 meV
+2018-09-07 11:28:17 Set Title: mn-bi2te3 T=20K Ei=5meV
+2018-09-07 12:39:14 Set Incident Energy to 5.0 meV
+2018-09-07 12:39:19 Set Title: mn-bi2te3 T=base Ei=5meV
+2018-09-07 13:36:59 Set Incident Energy to 5.0 meV
+2018-09-07 13:37:04 Set Title: mn-bi2te3 T=base Ei=5meV
+2018-09-07 14:45:25 Set Incident Energy to 12.0 meV
+2018-09-07 14:45:30 Set Title: mn-bi2te3 T=6K Ei=12meV
+2018-09-07 16:36:41 Set Incident Energy to 12.0 meV
+2018-09-07 16:36:46 Set Title: mn-bi2te3 T=6K Ei=12meV
+2018-09-07 16:52:03 Set Incident Energy to 12.0 meV
+2018-09-07 16:52:08 Set Title: mn-bi2te3 T=6K Ei=12meV
+2018-09-07 18:13:00 Set Incident Energy to 12.0 meV
+2018-09-07 18:13:05 Set Title: mn-bi2te3 T=6K Ei=12meV
+2018-09-07 18:49:22 Set Incident Energy to 3.32 meV
+2018-09-07 18:49:27 Set Title: mn-bi2te3 T=6K Ei=3.32meV
+2018-09-07 19:47:13 Set Incident Energy to 3.32 meV
+2018-09-07 19:54:07 Set Incident Energy to 3.32 meV
+2018-09-07 19:54:12 Set Title: mn-bi2te3 OP T=2K Ei=3.32meV
+2018-09-07 20:04:56 Set Incident Energy to 3.32 meV
+2018-09-07 20:05:01 Set Title: mn-bi2te3 OP T=3K Ei=3.32meV
+2018-09-07 20:13:54 Set Incident Energy to 3.32 meV
+2018-09-07 20:13:59 Set Title: mn-bi2te3 OP T=3K Ei=3.32meV
+2018-09-07 20:25:43 Set Incident Energy to 3.32 meV
+2018-09-07 20:25:48 Set Title: mn-bi2te3 OP T=4K Ei=3.32meV
+2018-09-07 20:37:32 Set Incident Energy to 3.32 meV
+2018-09-07 20:37:37 Set Title: mn-bi2te3 OP T=5K Ei=3.32meV
+2018-09-07 20:49:20 Set Incident Energy to 3.32 meV
+2018-09-07 20:49:25 Set Title: mn-bi2te3 OP T=6K Ei=3.32meV
+2018-09-07 21:01:09 Set Incident Energy to 3.32 meV
+2018-09-07 21:01:14 Set Title: mn-bi2te3 OP T=7K Ei=3.32meV
+2018-09-07 21:12:58 Set Incident Energy to 3.32 meV
+2018-09-07 21:13:03 Set Title: mn-bi2te3 OP T=8K Ei=3.32meV
+2018-09-07 21:24:47 Set Incident Energy to 3.32 meV
+2018-09-07 21:24:52 Set Title: mn-bi2te3 OP T=9K Ei=3.32meV
+2018-09-07 21:36:35 Set Incident Energy to 3.32 meV
+2018-09-07 21:36:40 Set Title: mn-bi2te3 OP T=10K Ei=3.32meV
+2018-09-07 21:48:24 Set Incident Energy to 3.32 meV
+2018-09-07 21:48:29 Set Title: mn-bi2te3 OP T=11K Ei=3.32meV
+2018-09-07 22:00:12 Set Incident Energy to 3.32 meV
+2018-09-07 22:00:17 Set Title: mn-bi2te3 OP T=12K Ei=3.32meV
+2018-09-07 22:12:02 Set Incident Energy to 3.32 meV
+2018-09-07 22:12:07 Set Title: mn-bi2te3 OP T=13K Ei=3.32meV
+2018-09-07 22:23:51 Set Incident Energy to 3.32 meV
+2018-09-07 22:23:56 Set Title: mn-bi2te3 OP T=14K Ei=3.32meV
+2018-09-07 22:35:40 Set Incident Energy to 3.32 meV
+2018-09-07 22:35:45 Set Title: mn-bi2te3 OP T=15K Ei=3.32meV
+2018-09-07 22:47:29 Set Incident Energy to 3.32 meV
+2018-09-07 22:47:34 Set Title: mn-bi2te3 OP T=16K Ei=3.32meV
+2018-09-07 22:59:18 Set Incident Energy to 3.32 meV
+2018-09-07 22:59:23 Set Title: mn-bi2te3 OP T=17K Ei=3.32meV
+2018-09-07 23:11:33 Set Incident Energy to 3.32 meV
+2018-09-07 23:11:38 Set Title: mn-bi2te3 OP T=18K Ei=3.32meV
+2018-09-07 23:21:22 Set Incident Energy to 3.32 meV
+2018-09-08 02:16:05 Set Incident Energy to 12.0 meV
+2018-09-08 02:16:10 Set Title: bi2te3 T=cooling Ei=12meV
+2018-09-08 03:14:01 Set Incident Energy to 12.0 meV
+2018-09-08 03:14:06 Set Title: bi2te3 T=base Ei=12meV
+2018-09-08 04:12:01 Set Incident Energy to 12.0 meV
+2018-09-08 04:12:06 Set Title: bi2te3 T=base Ei=12meV
+2018-09-08 05:13:08 Set Incident Energy to 12.0 meV
+2018-09-08 05:13:13 Set Title: bi2te3 T=base Ei=12meV
+2018-09-08 06:11:05 Set Incident Energy to 12.0 meV
+2018-09-08 06:11:10 Set Title: bi2te3 T=base Ei=12meV
+2018-09-08 07:09:56 Set Incident Energy to 3.32 meV
+2018-09-08 07:10:01 Set Title: bi2te3 T=base Ei=3.32meV
+2018-09-08 08:07:53 Set Incident Energy to 3.32 meV
+2018-09-08 08:07:58 Set Title: bi2te3 T=base Ei=3.32meV
+2018-09-08 09:05:52 Set Incident Energy to 3.32 meV
+2018-09-08 09:05:57 Set Title: bi2te3 T=base Ei=3.32meV
+2018-09-08 10:03:50 Set Incident Energy to 3.32 meV
+2018-09-08 10:03:55 Set Title: bi2te3 T=base Ei=3.32meV
+2018-09-08 11:12:40 Set Incident Energy to 12.0 meV
+2018-09-08 11:12:45 Set Title: bi2te3 T=6K Ei=12meV
+2018-09-08 12:10:38 Set Incident Energy to 12.0 meV
+2018-09-08 12:10:43 Set Title: bi2te3 T=6K Ei=12meV
+2018-09-08 13:19:12 Set Incident Energy to 12.0 meV
+2018-09-08 13:19:17 Set Title: bi2te3 T=20K Ei=12meV
+2018-09-08 14:21:47 Set Incident Energy to 12.0 meV
+2018-09-08 14:21:52 Set Title: bi2te3 T=20K Ei=12meV
+2018-09-08 15:19:44 Set Incident Energy to 12.0 meV
+2018-09-08 15:19:49 Set Title: bi2te3 T=20K Ei=12meV
+2018-09-08 16:18:08 Set Incident Energy to 12.0 meV
+2018-09-08 16:19:13 Set Incident Energy to 3.32 meV
+2018-09-08 16:19:18 Set Title: bi2te3 T=20K Ei=3.32meV
+2018-09-08 17:18:15 Set Incident Energy to 3.32 meV
+2018-09-08 17:18:20 Set Title: bi2te3 T=20K Ei=3.32meV
+2018-09-08 18:28:53 Set Incident Energy to 3.32 meV
+2018-09-08 18:28:58 Set Title: bi2te3 T=6K Ei=3.32meV
+2018-09-08 19:28:18 Set Incident Energy to 3.32 meV
+2018-09-08 19:28:23 Set Title: bi2te3 T=6K Ei=3.32meV
+2018-09-08 20:26:08 Set Incident Energy to 3.32 meV
+2018-09-08 20:26:13 Set Title: bi2te3 T=6K Ei=3.32meV
+2018-09-08 21:25:16 Set Incident Energy to 1.55 meV
+2018-09-08 21:25:21 Set Title: bi2te3 T=6K Ei=1.55meV
+2018-09-08 22:23:10 Set Incident Energy to 1.55 meV
+2018-09-08 22:23:15 Set Title: bi2te3 T=6K Ei=1.55meV
+2018-09-08 23:21:24 Set Incident Energy to 1.55 meV
+2018-09-08 23:21:29 Set Title: bi2te3 T=6K Ei=1.55meV
+2018-09-09 03:07:45 Set Incident Energy to 12.0 meV
+2018-09-09 03:07:50 Set Title: mn-bi2te3 T=cooling Ei=12meV
+2018-09-09 03:37:31 Set Incident Energy to 1.55 meV
+2018-09-09 03:37:36 Set Title: mn-bi2te3 T=6K Ei=1.55meV
+2018-09-09 04:36:20 Set Incident Energy to 1.55 meV
+2018-09-09 04:36:25 Set Title: mn-bi2te3 T=6K Ei=1.55meV
+2018-09-09 05:34:08 Set Incident Energy to 1.55 meV
+2018-09-09 05:34:13 Set Title: mn-bi2te3 T=6K Ei=1.55meV
+2018-09-09 06:32:48 Set Incident Energy to 3.32 meV
+2018-09-09 06:32:53 Set Title: mn-bi2te3 T=6K Ei=3.32meV
+2018-09-09 07:31:26 Set Incident Energy to 3.32 meV
+2018-09-09 07:31:31 Set Title: mn-bi2te3 T=6K Ei=3.32meV
+2018-09-09 08:29:39 Set Incident Energy to 3.32 meV
+2018-09-09 08:29:44 Set Title: mn-bi2te3 T=6K Ei=3.32meV
+2018-09-09 09:34:37 Set Incident Energy to 3.32 meV
+2018-09-09 09:34:42 Set Title: mn-bi2te3 T=base Ei=3.32meV
+2018-09-09 10:32:54 Set Incident Energy to 3.32 meV
+2018-09-09 10:32:59 Set Title: mn-bi2te3 T=base Ei=3.32meV
+2018-09-09 11:31:07 Set Incident Energy to 3.32 meV
+2018-09-09 11:31:12 Set Title: mn-bi2te3 T=base Ei=3.32meV
+2018-09-09 14:55:04 Set Incident Energy to 30.0 meV
+2018-09-09 14:55:04 Set Title: room temp, Ei=30 meV, w=-180
+2018-09-09 14:57:00 Set Incident Energy to 30.0 meV
+2018-09-09 14:57:00 Set Title: room temp, Ei=30 meV, w=-180
+2018-09-09 15:00:32 Drive Axis1 to -36.0 Degree
+2018-09-09 15:07:02 Set Title: room temp, Ei=30 meV, w=-178
+2018-09-09 15:07:06 Drive Axis1 to -35.6 Degree
+2018-09-09 15:13:36 Set Title: room temp, Ei=30 meV, w=-176
+2018-09-09 15:13:40 Drive Axis1 to -35.2 Degree
+2018-09-09 15:20:41 Set Title: room temp, Ei=30 meV, w=-174
+2018-09-09 15:36:49 Drive Axis1 to -34.8 Degree
+2018-09-09 15:37:02 Set Incident Energy to 30.0 meV
+2018-09-09 15:37:02 Set Title: room temp, Ei=30 meV, w=-180
+2018-09-09 15:37:42 Drive Axis1 to -36.0 Degree
+2018-09-09 15:54:18 Set Incident Energy to 30.0 meV
+2018-09-09 15:54:18 Set Title: room temp, Ei=30 meV, w=-180
+2018-09-09 15:54:31 Drive Axis1 to -36.0 Degree
+2018-09-09 16:01:31 Set Title: room temp, Ei=30 meV, w=-178
+2018-09-09 16:01:35 Drive Axis1 to -35.6 Degree
+2018-09-09 16:08:03 Set Title: room temp, Ei=30 meV, w=-176
+2018-09-09 16:08:07 Drive Axis1 to -35.2 Degree
+2018-09-09 16:14:35 Set Title: room temp, Ei=30 meV, w=-174
+2018-09-09 16:14:39 Drive Axis1 to -34.8 Degree
+2018-09-09 16:21:08 Set Title: room temp, Ei=30 meV, w=-172
+2018-09-09 16:21:11 Drive Axis1 to -34.4 Degree
+2018-09-09 16:28:03 Set Title: room temp, Ei=30 meV, w=-170
+2018-09-09 16:28:06 Drive Axis1 to -34.0 Degree
+2018-09-09 16:34:35 Set Title: room temp, Ei=30 meV, w=-168
+2018-09-09 16:34:38 Drive Axis1 to -33.6 Degree
+2018-09-09 16:41:07 Set Title: room temp, Ei=30 meV, w=-166
+2018-09-09 16:41:11 Drive Axis1 to -33.2 Degree
+2018-09-09 16:47:40 Set Title: room temp, Ei=30 meV, w=-164
+2018-09-09 16:47:43 Drive Axis1 to -32.8 Degree
+2018-09-09 16:57:15 Set Title: room temp, Ei=30 meV, w=-162
+2018-09-09 16:57:19 Drive Axis1 to -32.4 Degree
+2018-09-09 17:04:11 Set Title: room temp, Ei=30 meV, w=-160
+2018-09-09 17:04:15 Drive Axis1 to -32.0 Degree
+2018-09-09 17:10:43 Set Title: room temp, Ei=30 meV, w=-158
+2018-09-09 17:10:46 Drive Axis1 to -31.6 Degree
+2018-09-09 17:17:15 Set Title: room temp, Ei=30 meV, w=-156
+2018-09-09 17:17:18 Drive Axis1 to -31.2 Degree
+2018-09-09 17:23:47 Set Title: room temp, Ei=30 meV, w=-154
+2018-09-09 17:23:50 Drive Axis1 to -30.8 Degree
+2018-09-09 17:30:19 Set Title: room temp, Ei=30 meV, w=-152
+2018-09-09 17:30:22 Drive Axis1 to -30.4 Degree
+2018-09-09 17:36:51 Set Title: room temp, Ei=30 meV, w=-150
+2018-09-09 17:36:54 Drive Axis1 to -30.0 Degree
+2018-09-09 17:43:49 Set Title: room temp, Ei=30 meV, w=-148
+2018-09-09 17:43:52 Drive Axis1 to -29.6 Degree
+2018-09-09 17:50:21 Set Title: room temp, Ei=30 meV, w=-146
+2018-09-09 17:50:24 Drive Axis1 to -29.2 Degree
+2018-09-09 17:56:53 Set Title: room temp, Ei=30 meV, w=-144
+2018-09-09 17:56:56 Drive Axis1 to -28.8 Degree
+2018-09-09 18:03:25 Set Title: room temp, Ei=30 meV, w=-142
+2018-09-09 18:03:29 Drive Axis1 to -28.4 Degree
+2018-09-09 18:09:57 Set Title: room temp, Ei=30 meV, w=-140
+2018-09-09 18:10:01 Drive Axis1 to -28.0 Degree
+2018-09-09 18:16:30 Set Title: room temp, Ei=30 meV, w=-138
+2018-09-09 18:16:33 Drive Axis1 to -27.6 Degree
+2018-09-09 18:23:02 Set Title: room temp, Ei=30 meV, w=-136
+2018-09-09 18:23:06 Drive Axis1 to -27.2 Degree
+2018-09-09 18:29:35 Set Title: room temp, Ei=30 meV, w=-134
+2018-09-09 18:29:38 Drive Axis1 to -26.8 Degree
+2018-09-09 18:36:07 Set Title: room temp, Ei=30 meV, w=-132
+2018-09-09 18:36:10 Drive Axis1 to -26.4 Degree
+2018-09-09 18:42:39 Set Title: room temp, Ei=30 meV, w=-130
+2018-09-09 18:42:42 Drive Axis1 to -26.0 Degree
+2018-09-09 18:49:11 Set Title: room temp, Ei=30 meV, w=-128
+2018-09-09 18:49:14 Drive Axis1 to -25.6 Degree
+2018-09-09 18:55:43 Set Title: room temp, Ei=30 meV, w=-126
+2018-09-09 18:55:46 Drive Axis1 to -25.2 Degree
+2018-09-09 19:02:15 Set Title: room temp, Ei=30 meV, w=-124
+2018-09-09 19:02:18 Drive Axis1 to -24.8 Degree
+2018-09-09 19:08:47 Set Title: room temp, Ei=30 meV, w=-122
+2018-09-09 19:08:50 Drive Axis1 to -24.4 Degree
+2018-09-09 19:15:19 Set Title: room temp, Ei=30 meV, w=-120
+2018-09-09 19:15:23 Drive Axis1 to -24.0 Degree
+2018-09-09 19:21:52 Set Title: room temp, Ei=30 meV, w=-118
+2018-09-09 19:21:55 Drive Axis1 to -23.6 Degree
+2018-09-09 19:28:50 Set Title: room temp, Ei=30 meV, w=-116
+2018-09-09 19:28:54 Drive Axis1 to -23.2 Degree
+2018-09-09 19:35:22 Set Title: room temp, Ei=30 meV, w=-114
+2018-09-09 19:35:25 Drive Axis1 to -22.8 Degree
+2018-09-09 19:41:54 Set Title: room temp, Ei=30 meV, w=-112
+2018-09-09 19:41:58 Drive Axis1 to -22.4 Degree
+2018-09-09 19:48:26 Set Title: room temp, Ei=30 meV, w=-110
+2018-09-09 19:48:30 Drive Axis1 to -22.0 Degree
+2018-09-09 19:54:58 Set Title: room temp, Ei=30 meV, w=-108
+2018-09-09 19:55:02 Drive Axis1 to -21.6 Degree
+2018-09-09 20:01:31 Set Title: room temp, Ei=30 meV, w=-106
+2018-09-09 20:01:34 Drive Axis1 to -21.2 Degree
+2018-09-09 20:08:03 Set Title: room temp, Ei=30 meV, w=-104
+2018-09-09 20:08:07 Drive Axis1 to -20.8 Degree
+2018-09-09 20:14:36 Set Title: room temp, Ei=30 meV, w=-102
+2018-09-09 20:14:39 Drive Axis1 to -20.4 Degree
+2018-09-09 20:21:07 Set Title: room temp, Ei=30 meV, w=-100
+2018-09-09 20:21:11 Drive Axis1 to -20.0 Degree
+2018-09-09 20:27:39 Set Title: room temp, Ei=30 meV, w=-98
+2018-09-09 20:27:43 Drive Axis1 to -19.6 Degree
+2018-09-09 20:34:12 Set Title: room temp, Ei=30 meV, w=-96
+2018-09-09 20:34:16 Drive Axis1 to -19.2 Degree
+2018-09-09 20:40:45 Set Title: room temp, Ei=30 meV, w=-94
+2018-09-09 20:40:48 Drive Axis1 to -18.8 Degree
+2018-09-09 20:47:17 Set Title: room temp, Ei=30 meV, w=-92
+2018-09-09 20:47:20 Drive Axis1 to -18.4 Degree
+2018-09-09 20:53:49 Set Title: room temp, Ei=30 meV, w=-90
+2018-09-09 20:53:52 Drive Axis1 to -18.0 Degree
+2018-09-09 21:00:21 Set Title: room temp, Ei=30 meV, w=-88
+2018-09-09 21:00:24 Drive Axis1 to -17.6 Degree
+2018-09-09 21:06:54 Set Title: room temp, Ei=30 meV, w=-86
+2018-09-09 21:06:57 Drive Axis1 to -17.2 Degree
+2018-09-09 21:13:26 Set Title: room temp, Ei=30 meV, w=-84
+2018-09-09 21:13:29 Drive Axis1 to -16.8 Degree
+2018-09-09 21:19:57 Set Title: room temp, Ei=30 meV, w=-82
+2018-09-09 21:20:01 Drive Axis1 to -16.4 Degree
+2018-09-09 21:26:29 Set Title: room temp, Ei=30 meV, w=-80
+2018-09-09 21:26:33 Drive Axis1 to -16.0 Degree
+2018-09-09 21:33:01 Set Title: room temp, Ei=30 meV, w=-78
+2018-09-09 21:33:05 Drive Axis1 to -15.6 Degree
+2018-09-09 21:39:34 Set Title: room temp, Ei=30 meV, w=-76
+2018-09-09 21:39:37 Drive Axis1 to -15.2 Degree
+2018-09-09 21:46:06 Set Title: room temp, Ei=30 meV, w=-74
+2018-09-09 21:46:09 Drive Axis1 to -14.8 Degree
+2018-09-09 21:53:01 Set Title: room temp, Ei=30 meV, w=-72
+2018-09-09 21:53:04 Drive Axis1 to -14.4 Degree
+2018-09-09 21:59:33 Set Title: room temp, Ei=30 meV, w=-70
+2018-09-09 21:59:37 Drive Axis1 to -14.0 Degree
+2018-09-09 22:06:06 Set Title: room temp, Ei=30 meV, w=-68
+2018-09-09 22:06:09 Drive Axis1 to -13.6 Degree
+2018-09-09 22:12:39 Set Title: room temp, Ei=30 meV, w=-66
+2018-09-09 22:12:42 Drive Axis1 to -13.2 Degree
+2018-09-09 22:19:11 Set Title: room temp, Ei=30 meV, w=-64
+2018-09-09 22:19:15 Drive Axis1 to -12.8 Degree
+2018-09-09 22:25:43 Set Title: room temp, Ei=30 meV, w=-62
+2018-09-09 22:25:47 Drive Axis1 to -12.4 Degree
+2018-09-09 22:32:16 Set Title: room temp, Ei=30 meV, w=-60
+2018-09-09 22:32:20 Drive Axis1 to -12.0 Degree
+2018-09-09 22:38:49 Set Title: room temp, Ei=30 meV, w=-58
+2018-09-09 22:38:52 Drive Axis1 to -11.6 Degree
+2018-09-09 22:45:21 Set Title: room temp, Ei=30 meV, w=-56
+2018-09-09 22:45:25 Drive Axis1 to -11.2 Degree
+2018-09-09 22:51:55 Set Title: room temp, Ei=30 meV, w=-54
+2018-09-09 22:51:58 Drive Axis1 to -10.8 Degree
+2018-09-09 22:58:27 Set Title: room temp, Ei=30 meV, w=-52
+2018-09-09 22:58:31 Drive Axis1 to -10.4 Degree
+2018-09-09 23:05:00 Set Title: room temp, Ei=30 meV, w=-50
+2018-09-09 23:05:03 Drive Axis1 to -10.0 Degree
+2018-09-09 23:11:54 Set Title: room temp, Ei=30 meV, w=-48
+2018-09-09 23:11:58 Drive Axis1 to -9.6 Degree
+2018-09-09 23:18:27 Set Title: room temp, Ei=30 meV, w=-46
+2018-09-09 23:18:30 Drive Axis1 to -9.2 Degree
+2018-09-09 23:24:59 Set Title: room temp, Ei=30 meV, w=-44
+2018-09-09 23:25:02 Drive Axis1 to -8.8 Degree
+2018-09-09 23:31:31 Set Title: room temp, Ei=30 meV, w=-42
+2018-09-09 23:31:34 Drive Axis1 to -8.4 Degree
+2018-09-09 23:38:26 Set Title: room temp, Ei=30 meV, w=-40
+2018-09-09 23:38:29 Drive Axis1 to -8.0 Degree
+2018-09-09 23:44:58 Set Title: room temp, Ei=30 meV, w=-38
+2018-09-09 23:45:01 Drive Axis1 to -7.6 Degree
+2018-09-09 23:51:30 Set Title: room temp, Ei=30 meV, w=-36
+2018-09-09 23:51:34 Drive Axis1 to -7.2 Degree
+2018-09-09 23:58:02 Set Title: room temp, Ei=30 meV, w=-34
+2018-09-09 23:58:06 Drive Axis1 to -6.8 Degree
+2018-09-10 00:04:34 Set Title: room temp, Ei=30 meV, w=-32
+2018-09-10 00:04:38 Drive Axis1 to -6.4 Degree
+2018-09-10 00:11:07 Set Title: room temp, Ei=30 meV, w=-30
+2018-09-10 00:11:11 Drive Axis1 to -6.0 Degree
+2018-09-10 00:17:40 Set Title: room temp, Ei=30 meV, w=-28
+2018-09-10 00:17:43 Drive Axis1 to -5.6 Degree
+2018-09-10 00:24:12 Set Title: room temp, Ei=30 meV, w=-26
+2018-09-10 00:24:16 Drive Axis1 to -5.2 Degree
+2018-09-10 00:30:45 Set Title: room temp, Ei=30 meV, w=-24
+2018-09-10 00:30:48 Drive Axis1 to -4.8 Degree
+2018-09-10 00:37:17 Set Title: room temp, Ei=30 meV, w=-22
+2018-09-10 00:37:20 Drive Axis1 to -4.4 Degree
+2018-09-10 00:43:49 Set Title: room temp, Ei=30 meV, w=-20
+2018-09-10 00:43:53 Drive Axis1 to -4.0 Degree
+2018-09-10 00:50:22 Set Title: room temp, Ei=30 meV, w=-18
+2018-09-10 00:50:25 Drive Axis1 to -3.6 Degree
+2018-09-10 00:56:54 Set Title: room temp, Ei=30 meV, w=-16
+2018-09-10 00:56:58 Drive Axis1 to -3.2 Degree
+2018-09-10 01:03:27 Set Title: room temp, Ei=30 meV, w=-14
+2018-09-10 01:03:30 Drive Axis1 to -2.8 Degree
+2018-09-10 01:09:59 Set Title: room temp, Ei=30 meV, w=-12
+2018-09-10 01:10:03 Drive Axis1 to -2.4 Degree
+2018-09-10 01:16:31 Set Title: room temp, Ei=30 meV, w=-10
+2018-09-10 01:16:35 Drive Axis1 to -2.0 Degree
+2018-09-10 01:23:03 Set Title: room temp, Ei=30 meV, w=-8
+2018-09-10 01:23:07 Drive Axis1 to -1.6 Degree
+2018-09-10 01:29:36 Set Title: room temp, Ei=30 meV, w=-6
+2018-09-10 01:29:39 Drive Axis1 to -1.2 Degree
+2018-09-10 01:36:08 Set Title: room temp, Ei=30 meV, w=-4
+2018-09-10 01:36:11 Drive Axis1 to -0.8 Degree
+2018-09-10 01:42:40 Set Title: room temp, Ei=30 meV, w=-2
+2018-09-10 01:42:44 Drive Axis1 to -0.4 Degree
+2018-09-10 01:49:13 Set Title: room temp, Ei=30 meV, w=0
+2018-09-10 01:49:16 Drive Axis1 to 0.0 Degree
+2018-09-10 01:56:09 Set Title: room temp, Ei=30 meV, w=2
+2018-09-10 01:56:12 Drive Axis1 to 0.4 Degree
+2018-09-10 02:02:41 Set Title: room temp, Ei=30 meV, w=4
+2018-09-10 02:02:45 Drive Axis1 to 0.8 Degree
+2018-09-10 02:09:14 Set Title: room temp, Ei=30 meV, w=6
+2018-09-10 02:09:17 Drive Axis1 to 1.2 Degree
+2018-09-10 02:15:46 Set Title: room temp, Ei=30 meV, w=8
+2018-09-10 02:15:50 Drive Axis1 to 1.6 Degree
+2018-09-10 02:22:19 Set Title: room temp, Ei=30 meV, w=10
+2018-09-10 02:22:22 Drive Axis1 to 2.0 Degree
+2018-09-10 02:29:15 Set Title: room temp, Ei=30 meV, w=12
+2018-09-10 02:29:19 Drive Axis1 to 2.4 Degree
+2018-09-10 02:35:47 Set Title: room temp, Ei=30 meV, w=14
+2018-09-10 02:35:51 Drive Axis1 to 2.8 Degree
+2018-09-10 02:42:19 Set Title: room temp, Ei=30 meV, w=16
+2018-09-10 02:42:23 Drive Axis1 to 3.2 Degree
+2018-09-10 02:48:51 Set Title: room temp, Ei=30 meV, w=18
+2018-09-10 02:48:54 Drive Axis1 to 3.6 Degree
+2018-09-10 02:56:11 Set Title: room temp, Ei=30 meV, w=20
+2018-09-10 02:56:14 Drive Axis1 to 4.0 Degree
+2018-09-10 03:02:43 Set Title: room temp, Ei=30 meV, w=22
+2018-09-10 03:02:47 Drive Axis1 to 4.4 Degree
+2018-09-10 03:10:03 Set Title: room temp, Ei=30 meV, w=24
+2018-09-10 03:10:07 Drive Axis1 to 4.8 Degree
+2018-09-10 03:16:36 Set Title: room temp, Ei=30 meV, w=26
+2018-09-10 03:16:40 Drive Axis1 to 5.2 Degree
+2018-09-10 03:45:48 Set Title: room temp, Ei=30 meV, w=28
+2018-09-10 03:45:51 Drive Axis1 to 5.6 Degree
+2018-09-10 03:52:20 Set Title: room temp, Ei=30 meV, w=30
+2018-09-10 03:52:23 Drive Axis1 to 6.0 Degree
+2018-09-10 03:58:52 Set Title: room temp, Ei=30 meV, w=32
+2018-09-10 03:58:55 Drive Axis1 to 6.4 Degree
+2018-09-10 04:08:13 Set Title: room temp, Ei=30 meV, w=34
+2018-09-10 04:08:17 Drive Axis1 to 6.8 Degree
+2018-09-10 04:14:45 Set Title: room temp, Ei=30 meV, w=36
+2018-09-10 04:14:49 Drive Axis1 to 7.2 Degree
+2018-09-10 04:21:39 Set Title: room temp, Ei=30 meV, w=38
+2018-09-10 04:21:43 Drive Axis1 to 7.6 Degree
+2018-09-10 04:28:12 Set Title: room temp, Ei=30 meV, w=40
+2018-09-10 04:28:16 Drive Axis1 to 8.0 Degree
+2018-09-10 04:34:45 Set Title: room temp, Ei=30 meV, w=42
+2018-09-10 04:34:49 Drive Axis1 to 8.4 Degree
+2018-09-10 04:41:19 Set Title: room temp, Ei=30 meV, w=44
+2018-09-10 04:41:22 Drive Axis1 to 8.8 Degree
+2018-09-10 04:47:52 Set Title: room temp, Ei=30 meV, w=46
+2018-09-10 04:47:55 Drive Axis1 to 9.2 Degree
+2018-09-10 04:54:25 Set Title: room temp, Ei=30 meV, w=48
+2018-09-10 04:54:28 Drive Axis1 to 9.6 Degree
+2018-09-10 05:00:58 Set Title: room temp, Ei=30 meV, w=50
+2018-09-10 05:01:01 Drive Axis1 to 10.0 Degree
+2018-09-10 05:07:31 Set Title: room temp, Ei=30 meV, w=52
+2018-09-10 05:07:35 Drive Axis1 to 10.4 Degree
+2018-09-10 05:14:05 Set Title: room temp, Ei=30 meV, w=54
+2018-09-10 05:14:08 Drive Axis1 to 10.8 Degree
+2018-09-10 05:21:21 Set Title: room temp, Ei=30 meV, w=56
+2018-09-10 05:21:24 Drive Axis1 to 11.2 Degree
+2018-09-10 05:27:55 Set Title: room temp, Ei=30 meV, w=58
+2018-09-10 05:27:58 Drive Axis1 to 11.6 Degree
+2018-09-10 05:36:36 Set Title: room temp, Ei=30 meV, w=60
+2018-09-10 05:36:39 Drive Axis1 to 12.0 Degree
+2018-09-10 05:43:10 Set Title: room temp, Ei=30 meV, w=62
+2018-09-10 05:43:13 Drive Axis1 to 12.4 Degree
+2018-09-10 05:49:44 Set Title: room temp, Ei=30 meV, w=64
+2018-09-10 05:49:47 Drive Axis1 to 12.8 Degree
+2018-09-10 05:56:17 Set Title: room temp, Ei=30 meV, w=66
+2018-09-10 05:56:21 Drive Axis1 to 13.2 Degree
+2018-09-10 06:02:51 Set Title: room temp, Ei=30 meV, w=68
+2018-09-10 06:02:54 Drive Axis1 to 13.6 Degree
+2018-09-10 06:09:25 Set Title: room temp, Ei=30 meV, w=70
+2018-09-10 06:09:28 Drive Axis1 to 14.0 Degree
+2018-09-10 06:15:59 Set Title: room temp, Ei=30 meV, w=72
+2018-09-10 06:16:02 Drive Axis1 to 14.4 Degree
+2018-09-10 06:22:33 Set Title: room temp, Ei=30 meV, w=74
+2018-09-10 06:22:36 Drive Axis1 to 14.8 Degree
+2018-09-10 06:29:07 Set Title: room temp, Ei=30 meV, w=76
+2018-09-10 06:29:10 Drive Axis1 to 15.2 Degree
+2018-09-10 06:35:41 Set Title: room temp, Ei=30 meV, w=78
+2018-09-10 06:35:44 Drive Axis1 to 15.6 Degree
+2018-09-10 06:42:15 Set Title: room temp, Ei=30 meV, w=80
+2018-09-10 06:42:18 Drive Axis1 to 16.0 Degree
+2018-09-10 06:48:49 Set Title: room temp, Ei=30 meV, w=82
+2018-09-10 06:48:52 Drive Axis1 to 16.4 Degree
+2018-09-10 06:55:47 Set Title: room temp, Ei=30 meV, w=84
+2018-09-10 06:55:50 Drive Axis1 to 16.8 Degree
+2018-09-10 07:02:21 Set Title: room temp, Ei=30 meV, w=86
+2018-09-10 07:02:24 Drive Axis1 to 17.2 Degree
+2018-09-10 07:08:55 Set Title: room temp, Ei=30 meV, w=88
+2018-09-10 07:08:58 Drive Axis1 to 17.6 Degree
+2018-09-10 07:15:29 Set Title: room temp, Ei=30 meV, w=90
+2018-09-10 07:15:32 Drive Axis1 to 18.0 Degree
+2018-09-10 07:22:02 Set Title: room temp, Ei=30 meV, w=92
+2018-09-10 07:22:05 Drive Axis1 to 18.4 Degree
+2018-09-10 07:28:35 Set Title: room temp, Ei=30 meV, w=94
+2018-09-10 07:28:39 Drive Axis1 to 18.8 Degree
+2018-09-10 07:35:09 Set Title: room temp, Ei=30 meV, w=96
+2018-09-10 07:35:13 Drive Axis1 to 19.2 Degree
+2018-09-10 07:41:43 Set Title: room temp, Ei=30 meV, w=98
+2018-09-10 07:41:47 Drive Axis1 to 19.6 Degree
+2018-09-10 07:48:17 Set Title: room temp, Ei=30 meV, w=100
+2018-09-10 07:48:20 Drive Axis1 to 20.0 Degree
+2018-09-10 07:54:51 Set Title: room temp, Ei=30 meV, w=102
+2018-09-10 07:54:54 Drive Axis1 to 20.4 Degree
+2018-09-10 08:01:24 Set Title: room temp, Ei=30 meV, w=104
+2018-09-10 08:01:28 Drive Axis1 to 20.8 Degree
+2018-09-10 08:08:20 Set Title: room temp, Ei=30 meV, w=106
+2018-09-10 08:08:24 Drive Axis1 to 21.2 Degree
+2018-09-10 08:14:53 Set Title: room temp, Ei=30 meV, w=108
+2018-09-10 08:14:57 Drive Axis1 to 21.6 Degree
+2018-09-10 08:21:27 Set Title: room temp, Ei=30 meV, w=110
+2018-09-10 08:21:30 Drive Axis1 to 22.0 Degree
+2018-09-10 08:28:01 Set Title: room temp, Ei=30 meV, w=112
+2018-09-10 08:28:04 Drive Axis1 to 22.4 Degree
+2018-09-10 08:34:35 Set Title: room temp, Ei=30 meV, w=114
+2018-09-10 08:34:38 Drive Axis1 to 22.8 Degree
+2018-09-10 08:41:08 Set Title: room temp, Ei=30 meV, w=116
+2018-09-10 08:41:12 Drive Axis1 to 23.2 Degree
+2018-09-10 08:47:42 Set Title: room temp, Ei=30 meV, w=118
+2018-09-10 08:47:45 Drive Axis1 to 23.6 Degree
+2018-09-10 08:54:15 Set Title: room temp, Ei=30 meV, w=120
+2018-09-10 08:54:18 Drive Axis1 to 24.0 Degree
+2018-09-10 09:00:48 Set Title: room temp, Ei=30 meV, w=122
+2018-09-10 09:00:52 Drive Axis1 to 24.4 Degree
+2018-09-10 09:07:46 Set Title: room temp, Ei=30 meV, w=124
+2018-09-10 09:07:50 Drive Axis1 to 24.8 Degree
+2018-09-10 09:14:19 Set Title: room temp, Ei=30 meV, w=126
+2018-09-10 09:14:23 Drive Axis1 to 25.2 Degree
+2018-09-10 09:20:53 Set Title: room temp, Ei=30 meV, w=128
+2018-09-10 09:20:57 Drive Axis1 to 25.6 Degree
+2018-09-10 09:27:27 Set Title: room temp, Ei=30 meV, w=130
+2018-09-10 09:27:30 Drive Axis1 to 26.0 Degree
+2018-09-10 09:34:00 Set Title: room temp, Ei=30 meV, w=132
+2018-09-10 09:34:03 Drive Axis1 to 26.4 Degree
+2018-09-10 09:40:33 Set Title: room temp, Ei=30 meV, w=134
+2018-09-10 09:40:37 Drive Axis1 to 26.8 Degree
+2018-09-10 09:47:07 Set Title: room temp, Ei=30 meV, w=136
+2018-09-10 09:47:11 Drive Axis1 to 27.2 Degree
+2018-09-10 09:53:41 Set Title: room temp, Ei=30 meV, w=138
+2018-09-10 09:53:44 Drive Axis1 to 27.6 Degree
+2018-09-10 10:00:14 Set Title: room temp, Ei=30 meV, w=140
+2018-09-10 10:00:18 Drive Axis1 to 28.0 Degree
+2018-09-10 10:06:47 Set Title: room temp, Ei=30 meV, w=142
+2018-09-10 10:06:51 Drive Axis1 to 28.4 Degree
+2018-09-10 10:13:20 Set Title: room temp, Ei=30 meV, w=144
+2018-09-10 10:13:24 Drive Axis1 to 28.8 Degree
+2018-09-10 10:19:54 Set Title: room temp, Ei=30 meV, w=146
+2018-09-10 10:19:57 Drive Axis1 to 29.2 Degree
+2018-09-10 10:26:27 Set Title: room temp, Ei=30 meV, w=148
+2018-09-10 10:26:30 Drive Axis1 to 29.6 Degree
+2018-09-10 10:33:01 Set Title: room temp, Ei=30 meV, w=150
+2018-09-10 10:33:04 Drive Axis1 to 30.0 Degree
+2018-09-10 10:39:34 Set Title: room temp, Ei=30 meV, w=152
+2018-09-10 10:39:37 Drive Axis1 to 30.4 Degree
+2018-09-10 10:46:07 Set Title: room temp, Ei=30 meV, w=154
+2018-09-10 10:46:11 Drive Axis1 to 30.8 Degree
+2018-09-10 10:52:41 Set Title: room temp, Ei=30 meV, w=156
+2018-09-10 10:52:44 Drive Axis1 to 31.2 Degree
+2018-09-10 10:59:14 Set Title: room temp, Ei=30 meV, w=158
+2018-09-10 10:59:17 Drive Axis1 to 31.6 Degree
+2018-09-10 11:05:48 Set Title: room temp, Ei=30 meV, w=160
+2018-09-10 11:05:51 Drive Axis1 to 32.0 Degree
+2018-09-10 11:12:21 Set Title: room temp, Ei=30 meV, w=162
+2018-09-10 11:12:25 Drive Axis1 to 32.4 Degree
+2018-09-10 11:18:54 Set Title: room temp, Ei=30 meV, w=164
+2018-09-10 11:18:58 Drive Axis1 to 32.8 Degree
+2018-09-10 11:25:27 Set Title: room temp, Ei=30 meV, w=166
+2018-09-10 11:25:31 Drive Axis1 to 33.2 Degree
+2018-09-10 11:32:01 Set Title: room temp, Ei=30 meV, w=168
+2018-09-10 11:32:04 Drive Axis1 to 33.6 Degree
+2018-09-10 11:38:58 Set Title: room temp, Ei=30 meV, w=170
+2018-09-10 11:39:01 Drive Axis1 to 34.0 Degree
+2018-09-10 11:45:31 Set Title: room temp, Ei=30 meV, w=172
+2018-09-10 11:45:34 Drive Axis1 to 34.4 Degree
+2018-09-10 11:52:04 Set Title: room temp, Ei=30 meV, w=174
+2018-09-10 11:52:07 Drive Axis1 to 34.8 Degree
+2018-09-10 11:58:37 Set Title: room temp, Ei=30 meV, w=176
+2018-09-10 11:58:41 Drive Axis1 to 35.2 Degree
+2018-09-10 12:05:10 Set Title: room temp, Ei=30 meV, w=178
+2018-09-10 12:05:14 Drive Axis1 to 35.6 Degree
+2018-09-10 16:25:48 Set Incident Energy to 30.0 meV
+2018-09-10 16:25:48 Set Title: room temp, Ei=30 meV, w=-360
+2018-09-10 16:25:49 Drive Axis1 to -360 Degree
+2018-09-10 16:30:52 Set Title: room temp, Ei=30 meV, w=-358
+2018-09-10 16:30:58 Drive Axis1 to -358 Degree
+2018-09-10 16:36:01 Set Title: room temp, Ei=30 meV, w=-356
+2018-09-10 16:36:08 Drive Axis1 to -356 Degree
+2018-09-10 16:41:10 Set Title: room temp, Ei=30 meV, w=-354
+2018-09-10 16:41:17 Drive Axis1 to -354 Degree
+2018-09-10 16:46:20 Set Title: room temp, Ei=30 meV, w=-352
+2018-09-10 16:46:27 Drive Axis1 to -352 Degree
+2018-09-10 16:51:30 Set Title: room temp, Ei=30 meV, w=-350
+2018-09-10 16:51:37 Drive Axis1 to -350 Degree
+2018-09-10 16:56:40 Set Title: room temp, Ei=30 meV, w=-348
+2018-09-10 16:56:47 Drive Axis1 to -348 Degree
+2018-09-10 17:01:49 Set Title: room temp, Ei=30 meV, w=-346
+2018-09-10 17:01:56 Drive Axis1 to -346 Degree
+2018-09-10 17:06:59 Set Title: room temp, Ei=30 meV, w=-344
+2018-09-10 17:07:06 Drive Axis1 to -344 Degree
+2018-09-10 17:12:09 Set Title: room temp, Ei=30 meV, w=-342
+2018-09-10 17:12:15 Drive Axis1 to -342 Degree
+2018-09-10 17:17:18 Set Title: room temp, Ei=30 meV, w=-340
+2018-09-10 17:17:25 Drive Axis1 to -340 Degree
+2018-09-10 17:22:27 Set Title: room temp, Ei=30 meV, w=-338
+2018-09-10 17:22:34 Drive Axis1 to -338 Degree
+2018-09-10 17:27:37 Set Title: room temp, Ei=30 meV, w=-336
+2018-09-10 17:27:43 Drive Axis1 to -336 Degree
+2018-09-10 17:32:46 Set Title: room temp, Ei=30 meV, w=-334
+2018-09-10 17:32:53 Drive Axis1 to -334 Degree
+2018-09-10 17:37:56 Set Title: room temp, Ei=30 meV, w=-332
+2018-09-10 17:38:02 Drive Axis1 to -332 Degree
+2018-09-10 17:43:06 Set Title: room temp, Ei=30 meV, w=-330
+2018-09-10 17:43:12 Drive Axis1 to -330 Degree
+2018-09-10 17:48:15 Set Title: room temp, Ei=30 meV, w=-328
+2018-09-10 17:48:22 Drive Axis1 to -328 Degree
+2018-09-10 17:53:25 Set Title: room temp, Ei=30 meV, w=-326
+2018-09-10 17:53:32 Drive Axis1 to -326 Degree
+2018-09-10 17:58:35 Set Title: room temp, Ei=30 meV, w=-324
+2018-09-10 17:58:42 Drive Axis1 to -324 Degree
+2018-09-10 18:03:45 Set Title: room temp, Ei=30 meV, w=-322
+2018-09-10 18:03:51 Drive Axis1 to -322 Degree
+2018-09-10 18:08:54 Set Title: room temp, Ei=30 meV, w=-320
+2018-09-10 18:09:01 Drive Axis1 to -320 Degree
+2018-09-10 18:14:04 Set Title: room temp, Ei=30 meV, w=-318
+2018-09-10 18:14:11 Drive Axis1 to -318 Degree
+2018-09-10 18:19:14 Set Title: room temp, Ei=30 meV, w=-316
+2018-09-10 18:19:20 Drive Axis1 to -316 Degree
+2018-09-10 18:24:23 Set Title: room temp, Ei=30 meV, w=-314
+2018-09-10 18:24:30 Drive Axis1 to -314 Degree
+2018-09-10 18:29:33 Set Title: room temp, Ei=30 meV, w=-312
+2018-09-10 18:29:39 Drive Axis1 to -312 Degree
+2018-09-10 18:34:42 Set Title: room temp, Ei=30 meV, w=-310
+2018-09-10 18:34:49 Drive Axis1 to -310 Degree
+2018-09-10 18:39:52 Set Title: room temp, Ei=30 meV, w=-308
+2018-09-10 18:39:58 Drive Axis1 to -308 Degree
+2018-09-10 18:45:01 Set Title: room temp, Ei=30 meV, w=-306
+2018-09-10 18:45:08 Drive Axis1 to -306 Degree
+2018-09-10 18:50:11 Set Title: room temp, Ei=30 meV, w=-304
+2018-09-10 18:50:18 Drive Axis1 to -304 Degree
+2018-09-10 18:55:20 Set Title: room temp, Ei=30 meV, w=-302
+2018-09-10 18:55:27 Drive Axis1 to -302 Degree
+2018-09-10 19:00:58 Set Title: room temp, Ei=30 meV, w=-300
+2018-09-10 19:01:04 Drive Axis1 to -300 Degree
+2018-09-10 19:06:07 Set Title: room temp, Ei=30 meV, w=-298
+2018-09-10 19:06:14 Drive Axis1 to -298 Degree
+2018-09-10 19:11:17 Set Title: room temp, Ei=30 meV, w=-296
+2018-09-10 19:11:23 Drive Axis1 to -296 Degree
+2018-09-10 19:16:27 Set Title: room temp, Ei=30 meV, w=-294
+2018-09-10 19:16:33 Drive Axis1 to -294 Degree
+2018-09-10 19:21:36 Set Title: room temp, Ei=30 meV, w=-292
+2018-09-10 19:21:43 Drive Axis1 to -292 Degree
+2018-09-10 19:26:46 Set Title: room temp, Ei=30 meV, w=-290
+2018-09-10 19:26:53 Drive Axis1 to -290 Degree
+2018-09-10 19:31:56 Set Title: room temp, Ei=30 meV, w=-288
+2018-09-10 19:32:02 Drive Axis1 to -288 Degree
+2018-09-10 19:37:05 Set Title: room temp, Ei=30 meV, w=-286
+2018-09-10 19:37:12 Drive Axis1 to -286 Degree
+2018-09-10 19:42:14 Set Title: room temp, Ei=30 meV, w=-284
+2018-09-10 19:42:21 Drive Axis1 to -284 Degree
+2018-09-10 19:47:24 Set Title: room temp, Ei=30 meV, w=-282
+2018-09-10 19:47:30 Drive Axis1 to -282 Degree
+2018-09-10 19:52:33 Set Title: room temp, Ei=30 meV, w=-280
+2018-09-10 19:52:40 Drive Axis1 to -280 Degree
+2018-09-10 19:57:43 Set Title: room temp, Ei=30 meV, w=-278
+2018-09-10 19:57:49 Drive Axis1 to -278 Degree
+2018-09-10 20:02:52 Set Title: room temp, Ei=30 meV, w=-276
+2018-09-10 20:02:59 Drive Axis1 to -276 Degree
+2018-09-10 20:08:02 Set Title: room temp, Ei=30 meV, w=-274
+2018-09-10 20:08:08 Drive Axis1 to -274 Degree
+2018-09-10 20:13:11 Set Title: room temp, Ei=30 meV, w=-272
+2018-09-10 20:13:18 Drive Axis1 to -272 Degree
+2018-09-10 20:18:21 Set Title: room temp, Ei=30 meV, w=-270
+2018-09-10 20:18:27 Drive Axis1 to -270 Degree
+2018-09-10 20:23:31 Set Title: room temp, Ei=30 meV, w=-268
+2018-09-10 20:23:37 Drive Axis1 to -268 Degree
+2018-09-10 20:28:40 Set Title: room temp, Ei=30 meV, w=-266
+2018-09-10 20:28:47 Drive Axis1 to -266 Degree
+2018-09-10 20:33:50 Set Title: room temp, Ei=30 meV, w=-264
+2018-09-10 20:33:56 Drive Axis1 to -264 Degree
+2018-09-10 20:39:00 Set Title: room temp, Ei=30 meV, w=-262
+2018-09-10 20:39:06 Drive Axis1 to -262 Degree
+2018-09-10 20:44:09 Set Title: room temp, Ei=30 meV, w=-260
+2018-09-10 20:44:16 Drive Axis1 to -260 Degree
+2018-09-10 20:49:19 Set Title: room temp, Ei=30 meV, w=-258
+2018-09-10 20:49:25 Drive Axis1 to -258 Degree
+2018-09-10 20:54:28 Set Title: room temp, Ei=30 meV, w=-256
+2018-09-10 20:54:34 Drive Axis1 to -256 Degree
+2018-09-10 20:59:38 Set Title: room temp, Ei=30 meV, w=-254
+2018-09-10 20:59:44 Drive Axis1 to -254 Degree
+2018-09-10 21:04:47 Set Title: room temp, Ei=30 meV, w=-252
+2018-09-10 21:04:54 Drive Axis1 to -252 Degree
+2018-09-10 21:09:57 Set Title: room temp, Ei=30 meV, w=-250
+2018-09-10 21:10:04 Drive Axis1 to -250 Degree
+2018-09-10 21:15:07 Set Title: room temp, Ei=30 meV, w=-248
+2018-09-10 21:15:14 Drive Axis1 to -248 Degree
+2018-09-10 21:20:17 Set Title: room temp, Ei=30 meV, w=-246
+2018-09-10 21:20:23 Drive Axis1 to -246 Degree
+2018-09-10 21:25:26 Set Title: room temp, Ei=30 meV, w=-244
+2018-09-10 21:25:32 Drive Axis1 to -244 Degree
+2018-09-10 21:30:35 Set Title: room temp, Ei=30 meV, w=-242
+2018-09-10 21:30:42 Drive Axis1 to -242 Degree
+2018-09-10 21:35:44 Set Title: room temp, Ei=30 meV, w=-240
+2018-09-10 21:35:51 Drive Axis1 to -240 Degree
+2018-09-10 21:40:54 Set Title: room temp, Ei=30 meV, w=-238
+2018-09-10 21:41:01 Drive Axis1 to -238 Degree
+2018-09-10 21:46:03 Set Title: room temp, Ei=30 meV, w=-236
+2018-09-10 21:46:10 Drive Axis1 to -236 Degree
+2018-09-10 21:51:13 Set Title: room temp, Ei=30 meV, w=-234
+2018-09-10 21:51:20 Drive Axis1 to -234 Degree
+2018-09-10 21:56:22 Set Title: room temp, Ei=30 meV, w=-232
+2018-09-10 21:56:29 Drive Axis1 to -232 Degree
+2018-09-10 22:01:32 Set Title: room temp, Ei=30 meV, w=-230
+2018-09-10 22:01:38 Drive Axis1 to -230 Degree
+2018-09-10 22:06:42 Set Title: room temp, Ei=30 meV, w=-228
+2018-09-10 22:06:48 Drive Axis1 to -228 Degree
+2018-09-10 22:11:51 Set Title: room temp, Ei=30 meV, w=-226
+2018-09-10 22:11:58 Drive Axis1 to -226 Degree
+2018-09-10 22:17:01 Set Title: room temp, Ei=30 meV, w=-224
+2018-09-10 22:17:07 Drive Axis1 to -224 Degree
+2018-09-10 22:22:11 Set Title: room temp, Ei=30 meV, w=-222
+2018-09-10 22:22:17 Drive Axis1 to -222 Degree
+2018-09-10 22:27:20 Set Title: room temp, Ei=30 meV, w=-220
+2018-09-10 22:27:27 Drive Axis1 to -220 Degree
+2018-09-10 22:32:30 Set Title: room temp, Ei=30 meV, w=-218
+2018-09-10 22:32:37 Drive Axis1 to -218 Degree
+2018-09-10 22:37:40 Set Title: room temp, Ei=30 meV, w=-216
+2018-09-10 22:37:47 Drive Axis1 to -216 Degree
+2018-09-10 22:42:50 Set Title: room temp, Ei=30 meV, w=-214
+2018-09-10 22:42:56 Drive Axis1 to -214 Degree
+2018-09-10 22:47:59 Set Title: room temp, Ei=30 meV, w=-212
+2018-09-10 22:48:06 Drive Axis1 to -212 Degree
+2018-09-10 22:53:09 Set Title: room temp, Ei=30 meV, w=-210
+2018-09-10 22:53:16 Drive Axis1 to -210 Degree
+2018-09-10 22:58:19 Set Title: room temp, Ei=30 meV, w=-208
+2018-09-10 22:58:26 Drive Axis1 to -208 Degree
+2018-09-10 23:03:29 Set Title: room temp, Ei=30 meV, w=-206
+2018-09-10 23:03:35 Drive Axis1 to -206 Degree
+2018-09-10 23:08:39 Set Title: room temp, Ei=30 meV, w=-204
+2018-09-10 23:08:45 Drive Axis1 to -204 Degree
+2018-09-10 23:13:48 Set Title: room temp, Ei=30 meV, w=-202
+2018-09-10 23:13:55 Drive Axis1 to -202 Degree
+2018-09-10 23:18:58 Set Title: room temp, Ei=30 meV, w=-200
+2018-09-10 23:19:05 Drive Axis1 to -200 Degree
+2018-09-10 23:24:08 Set Title: room temp, Ei=30 meV, w=-198
+2018-09-10 23:24:14 Drive Axis1 to -198 Degree
+2018-09-10 23:29:18 Set Title: room temp, Ei=30 meV, w=-196
+2018-09-10 23:29:24 Drive Axis1 to -196 Degree
+2018-09-10 23:34:27 Set Title: room temp, Ei=30 meV, w=-194
+2018-09-10 23:34:33 Drive Axis1 to -194 Degree
+2018-09-10 23:39:37 Set Title: room temp, Ei=30 meV, w=-192
+2018-09-10 23:39:43 Drive Axis1 to -192 Degree
+2018-09-10 23:45:12 Set Title: room temp, Ei=30 meV, w=-190
+2018-09-10 23:45:19 Drive Axis1 to -190 Degree
+2018-09-10 23:50:23 Set Title: room temp, Ei=30 meV, w=-188
+2018-09-10 23:50:29 Drive Axis1 to -188 Degree
+2018-09-10 23:55:32 Set Title: room temp, Ei=30 meV, w=-186
+2018-09-10 23:55:39 Drive Axis1 to -186 Degree
+2018-09-11 00:00:42 Set Title: room temp, Ei=30 meV, w=-184
+2018-09-11 00:00:49 Drive Axis1 to -184 Degree
+2018-09-11 00:05:52 Set Title: room temp, Ei=30 meV, w=-182
+2018-09-11 00:05:58 Drive Axis1 to -182 Degree
+2018-09-11 00:11:01 Set Title: room temp, Ei=30 meV, w=-180
+2018-09-11 00:11:08 Drive Axis1 to -180 Degree
+2018-09-11 00:16:11 Set Title: room temp, Ei=30 meV, w=-178
+2018-09-11 00:16:17 Drive Axis1 to -178 Degree
+2018-09-11 00:21:21 Set Title: room temp, Ei=30 meV, w=-176
+2018-09-11 00:21:27 Drive Axis1 to -176 Degree
+2018-09-11 00:26:30 Set Title: room temp, Ei=30 meV, w=-174
+2018-09-11 00:26:37 Drive Axis1 to -174 Degree
+2018-09-11 00:31:40 Set Title: room temp, Ei=30 meV, w=-172
+2018-09-11 00:31:46 Drive Axis1 to -172 Degree
+2018-09-11 00:36:49 Set Title: room temp, Ei=30 meV, w=-170
+2018-09-11 00:36:56 Drive Axis1 to -170 Degree
+2018-09-11 00:41:59 Set Title: room temp, Ei=30 meV, w=-168
+2018-09-11 00:42:05 Drive Axis1 to -168 Degree
+2018-09-11 00:47:33 Set Title: room temp, Ei=30 meV, w=-166
+2018-09-11 00:47:40 Drive Axis1 to -166 Degree
+2018-09-11 00:52:43 Set Title: room temp, Ei=30 meV, w=-164
+2018-09-11 00:52:50 Drive Axis1 to -164 Degree
+2018-09-11 00:57:53 Set Title: room temp, Ei=30 meV, w=-162
+2018-09-11 00:57:59 Drive Axis1 to -162 Degree
+2018-09-11 01:03:02 Set Title: room temp, Ei=30 meV, w=-160
+2018-09-11 01:03:09 Drive Axis1 to -160 Degree
+2018-09-11 01:08:12 Set Title: room temp, Ei=30 meV, w=-158
+2018-09-11 01:08:19 Drive Axis1 to -158 Degree
+2018-09-11 01:13:22 Set Title: room temp, Ei=30 meV, w=-156
+2018-09-11 01:13:28 Drive Axis1 to -156 Degree
+2018-09-11 01:18:32 Set Title: room temp, Ei=30 meV, w=-154
+2018-09-11 01:18:38 Drive Axis1 to -154 Degree
+2018-09-11 01:23:41 Set Title: room temp, Ei=30 meV, w=-152
+2018-09-11 01:23:48 Drive Axis1 to -152 Degree
+2018-09-11 01:28:51 Set Title: room temp, Ei=30 meV, w=-150
+2018-09-11 01:28:58 Drive Axis1 to -150 Degree
+2018-09-11 01:34:01 Set Title: room temp, Ei=30 meV, w=-148
+2018-09-11 01:34:08 Drive Axis1 to -148 Degree
+2018-09-11 01:39:11 Set Title: room temp, Ei=30 meV, w=-146
+2018-09-11 01:39:18 Drive Axis1 to -146 Degree
+2018-09-11 01:44:21 Set Title: room temp, Ei=30 meV, w=-144
+2018-09-11 01:44:28 Drive Axis1 to -144 Degree
+2018-09-11 01:49:31 Set Title: room temp, Ei=30 meV, w=-142
+2018-09-11 01:49:38 Drive Axis1 to -142 Degree
+2018-09-11 01:54:41 Set Title: room temp, Ei=30 meV, w=-140
+2018-09-11 01:54:48 Drive Axis1 to -140 Degree
+2018-09-11 01:59:51 Set Title: room temp, Ei=30 meV, w=-138
+2018-09-11 01:59:57 Drive Axis1 to -138 Degree
+2018-09-11 02:05:49 Set Title: room temp, Ei=30 meV, w=-136
+2018-09-11 02:05:56 Drive Axis1 to -136 Degree
+2018-09-11 02:11:00 Set Title: room temp, Ei=30 meV, w=-134
+2018-09-11 02:11:06 Drive Axis1 to -134 Degree
+2018-09-11 02:16:10 Set Title: room temp, Ei=30 meV, w=-132
+2018-09-11 02:16:17 Drive Axis1 to -132 Degree
+2018-09-11 02:21:20 Set Title: room temp, Ei=30 meV, w=-130
+2018-09-11 02:21:26 Drive Axis1 to -130 Degree
+2018-09-11 02:26:54 Set Title: room temp, Ei=30 meV, w=-128
+2018-09-11 02:27:01 Drive Axis1 to -128 Degree
+2018-09-11 02:32:04 Set Title: room temp, Ei=30 meV, w=-126
+2018-09-11 02:32:11 Drive Axis1 to -126 Degree
+2018-09-11 02:37:14 Set Title: room temp, Ei=30 meV, w=-124
+2018-09-11 02:37:21 Drive Axis1 to -124 Degree
+2018-09-11 02:42:24 Set Title: room temp, Ei=30 meV, w=-122
+2018-09-11 02:42:30 Drive Axis1 to -122 Degree
+2018-09-11 02:47:34 Set Title: room temp, Ei=30 meV, w=-120
+2018-09-11 02:47:40 Drive Axis1 to -120 Degree
+2018-09-11 02:52:44 Set Title: room temp, Ei=30 meV, w=-118
+2018-09-11 02:52:50 Drive Axis1 to -118 Degree
+2018-09-11 02:57:54 Set Title: room temp, Ei=30 meV, w=-116
+2018-09-11 02:58:00 Drive Axis1 to -116 Degree
+2018-09-11 03:06:28 Set Title: room temp, Ei=30 meV, w=-114
+2018-09-11 03:06:34 Drive Axis1 to -114 Degree
+2018-09-11 03:11:38 Set Title: room temp, Ei=30 meV, w=-112
+2018-09-11 03:11:44 Drive Axis1 to -112 Degree
+2018-09-11 03:16:48 Set Title: room temp, Ei=30 meV, w=-110
+2018-09-11 03:16:54 Drive Axis1 to -110 Degree
+2018-09-11 03:21:57 Set Title: room temp, Ei=30 meV, w=-108
+2018-09-11 03:22:04 Drive Axis1 to -108 Degree
+2018-09-11 03:27:30 Set Title: room temp, Ei=30 meV, w=-106
+2018-09-11 03:27:36 Drive Axis1 to -106 Degree
+2018-09-11 03:32:41 Set Title: room temp, Ei=30 meV, w=-104
+2018-09-11 03:32:48 Drive Axis1 to -104 Degree
+2018-09-11 03:37:52 Set Title: room temp, Ei=30 meV, w=-102
+2018-09-11 03:37:58 Drive Axis1 to -102 Degree
+2018-09-11 03:43:02 Set Title: room temp, Ei=30 meV, w=-100
+2018-09-11 03:43:08 Drive Axis1 to -100 Degree
+2018-09-11 03:48:12 Set Title: room temp, Ei=30 meV, w=-98
+2018-09-11 03:48:18 Drive Axis1 to -98 Degree
+2018-09-11 03:53:22 Set Title: room temp, Ei=30 meV, w=-96
+2018-09-11 03:53:28 Drive Axis1 to -96 Degree
+2018-09-11 03:58:32 Set Title: room temp, Ei=30 meV, w=-94
+2018-09-11 03:58:38 Drive Axis1 to -94 Degree
+2018-09-11 04:03:42 Set Title: room temp, Ei=30 meV, w=-92
+2018-09-11 04:03:48 Drive Axis1 to -92 Degree
+2018-09-11 04:08:51 Set Title: room temp, Ei=30 meV, w=-90
+2018-09-11 04:08:58 Drive Axis1 to -90 Degree
+2018-09-11 04:14:01 Set Title: room temp, Ei=30 meV, w=-88
+2018-09-11 04:14:08 Drive Axis1 to -88 Degree
+2018-09-11 04:19:11 Set Title: room temp, Ei=30 meV, w=-86
+2018-09-11 04:19:18 Drive Axis1 to -86 Degree
+2018-09-11 04:24:21 Set Title: room temp, Ei=30 meV, w=-84
+2018-09-11 04:24:28 Drive Axis1 to -84 Degree
+2018-09-11 04:29:31 Set Title: room temp, Ei=30 meV, w=-82
+2018-09-11 04:29:38 Drive Axis1 to -82 Degree
+2018-09-11 04:34:42 Set Title: room temp, Ei=30 meV, w=-80
+2018-09-11 04:34:48 Drive Axis1 to -80 Degree
+2018-09-11 04:39:52 Set Title: room temp, Ei=30 meV, w=-78
+2018-09-11 04:39:58 Drive Axis1 to -78 Degree
+2018-09-11 04:45:01 Set Title: room temp, Ei=30 meV, w=-76
+2018-09-11 04:45:08 Drive Axis1 to -76 Degree
+2018-09-11 04:50:11 Set Title: room temp, Ei=30 meV, w=-74
+2018-09-11 04:50:18 Drive Axis1 to -74 Degree
+2018-09-11 04:55:21 Set Title: room temp, Ei=30 meV, w=-72
+2018-09-11 04:55:28 Drive Axis1 to -72 Degree
+2018-09-11 05:00:31 Set Title: room temp, Ei=30 meV, w=-70
+2018-09-11 05:00:38 Drive Axis1 to -70 Degree
+2018-09-11 05:05:41 Set Title: room temp, Ei=30 meV, w=-68
+2018-09-11 05:05:48 Drive Axis1 to -68 Degree
+2018-09-11 05:10:51 Set Title: room temp, Ei=30 meV, w=-66
+2018-09-11 05:10:57 Drive Axis1 to -66 Degree
+2018-09-11 05:16:01 Set Title: room temp, Ei=30 meV, w=-64
+2018-09-11 05:16:08 Drive Axis1 to -64 Degree
+2018-09-11 05:21:35 Set Title: room temp, Ei=30 meV, w=-62
+2018-09-11 05:21:41 Drive Axis1 to -62 Degree
+2018-09-11 05:26:45 Set Title: room temp, Ei=30 meV, w=-60
+2018-09-11 05:26:52 Drive Axis1 to -60 Degree
+2018-09-11 05:31:56 Set Title: room temp, Ei=30 meV, w=-58
+2018-09-11 05:32:02 Drive Axis1 to -58 Degree
+2018-09-11 05:39:20 Set Title: room temp, Ei=30 meV, w=-56
+2018-09-11 05:39:27 Drive Axis1 to -56 Degree
+2018-09-11 05:44:31 Set Title: room temp, Ei=30 meV, w=-54
+2018-09-11 05:44:38 Drive Axis1 to -54 Degree
+2018-09-11 05:49:42 Set Title: room temp, Ei=30 meV, w=-52
+2018-09-11 05:49:48 Drive Axis1 to -52 Degree
+2018-09-11 05:54:53 Set Title: room temp, Ei=30 meV, w=-50
+2018-09-11 05:55:00 Drive Axis1 to -50 Degree
+2018-09-11 06:00:04 Set Title: room temp, Ei=30 meV, w=-48
+2018-09-11 06:00:11 Drive Axis1 to -48 Degree
+2018-09-11 06:05:15 Set Title: room temp, Ei=30 meV, w=-46
+2018-09-11 06:05:21 Drive Axis1 to -46 Degree
+2018-09-11 06:10:26 Set Title: room temp, Ei=30 meV, w=-44
+2018-09-11 06:10:32 Drive Axis1 to -44 Degree
+2018-09-11 06:15:36 Set Title: room temp, Ei=30 meV, w=-42
+2018-09-11 06:15:43 Drive Axis1 to -42 Degree
+2018-09-11 06:20:47 Set Title: room temp, Ei=30 meV, w=-40
+2018-09-11 06:20:53 Drive Axis1 to -40 Degree
+2018-09-11 06:25:57 Set Title: room temp, Ei=30 meV, w=-38
+2018-09-11 06:26:04 Drive Axis1 to -38 Degree

@@ -1,0 +1,53 @@
+2018-06-26 14:01:41 Line Log cleared
+2018-06-26 14:01:41 Starting IPTS-21344 on 2018-06-26
+2018-06-26 14:02:02 Set Title: Vanadium
+2018-06-26 14:58:29 Drive Axis2 to 5 Degree
+2018-06-26 14:59:03 Drive Axis2 to 0.0 Degree
+2018-06-26 15:02:06 Drive Axis2 to 2.0 Degree
+2018-06-26 15:02:42 Drive Axis2 to 0 Degree
+2018-06-26 15:37:53 Set Title: Dummy run for beam ramping
+2018-06-26 19:57:57 Set Title: Vanadium T=2 K En=3.32 meV
+2018-06-26 19:58:25 Set Incident Energy to 3.32 meV
+2018-06-26 20:55:32 Set Title: Vanadium T=2 K En=35.0 meV
+2018-06-26 20:56:19 Set Incident Energy to 35.0 meV
+2018-06-26 21:53:27 Set Title: Vanadium T=2 K En=50.0 meV
+2018-06-26 21:54:07 Set Incident Energy to 50.0 meV
+2018-06-26 22:51:15 Set Title: Vanadium T=2 K En=15.0 meV
+2018-06-26 22:51:57 Set Incident Energy to 15.0 meV
+2018-06-26 23:50:07 Set Title: Vanadium T=2 K En=12.0 meV
+2018-06-26 23:50:44 Set Incident Energy to 12.0 meV
+2018-06-27 01:00:47 Set Title: Vanadium T=2 K En=3.32 meV
+2018-06-27 01:01:25 Set Incident Energy to 3.32 meV
+2018-06-27 15:03:36 Set Title: Na T=1.0 K En=3.32 meV
+2018-06-27 15:03:36 Set Incident Energy to 3.32 meV
+2018-06-27 17:56:34 Set Title: Na T=1.0 K En=29.7 meV
+2018-06-27 17:57:15 Set Incident Energy to 29.7 meV
+2018-06-27 20:51:06 Set Title: Na T=6.0 K En=3.32 meV
+2018-06-27 20:51:49 Set Incident Energy to 3.32 meV
+2018-06-27 23:42:58 Set Title: Na T=6.0 K En=29.7 meV
+2018-06-27 23:43:48 Set Incident Energy to 29.7 meV
+2018-06-28 02:35:09 Set Title: Na T=20.0 K En=29.7 meV
+2018-06-28 02:35:09 Set Incident Energy to 29.7 meV
+2018-06-28 05:26:34 Set Title: Na T=60.0 K En=29.7 meV
+2018-06-28 05:26:34 Set Incident Energy to 29.7 meV
+2018-06-28 17:06:53 Set Title: K T=1.0 K En=50 meV
+2018-06-28 17:06:53 Set Incident Energy to 50.0 meV
+2018-06-28 20:56:13 Set Incident Energy to 29.7 meV
+2018-06-28 20:56:14 Set Title: K T=1.0 K En=29.7 meV
+2018-06-28 23:47:25 Set Title: K T=6.0 K En=29.7 meV
+2018-06-29 02:39:09 Set Title: K T=20.0 K En=29.7 meV
+2018-06-29 05:31:09 Set Title: K T=60.0 K En=29.7 meV
+2018-06-29 12:43:53 Set Incident Energy to 29.7 meV
+2018-06-29 12:43:53 Set Title: K T=1.5 K En=29.7 meV
+2018-06-29 15:55:53 Set Incident Energy to 50.0 meV
+2018-06-29 15:55:53 Set Title: K T=1.5 K En=50.0 meV
+2018-06-29 18:48:19 Set Incident Energy to 29.7 meV
+2018-06-29 18:48:20 Set Title: K T=6 K En=29.7 meV
+2018-06-29 22:11:51 Set Incident Energy to 29.7 meV
+2018-06-29 22:11:51 Set Title: K T=1.5 K En=29.7 meV
+2018-06-30 01:03:29 Set Incident Energy to 50.0 meV
+2018-06-30 01:03:29 Set Title: K T=1.5 K En=50.0 meV
+2018-06-30 03:54:43 Set Incident Energy to 29.7 meV
+2018-06-30 03:54:44 Set Title: K T=6 K En=29.7 meV
+2018-06-30 06:45:59 Set Incident Energy to 50.0 meV
+2018-06-30 06:46:12 Set Title: K T=1.5 K En=50 meV

@@ -1,0 +1,240 @@
+2019-02-12 12:52:51 Line Log cleared
+2019-02-12 12:52:51 Starting IPTS-22122 on 2019-02-12
+2019-02-12 16:40:41 Set Title: mask = none, beamstop = none, sample = none, Ei = 3.32
+2019-02-12 16:53:19 Set Title: mask = L, beamstop = none, sample = none, Ei = 3.32
+2019-02-12 17:09:23 Set Title: mask = R, beamstop = none, sample = none, Ei = 3.32
+2019-02-12 17:20:40 Set Title: mask = U, beamstop = none, sample = none, Ei = 3.32
+2019-02-12 17:30:20 Set Title: mask = D, beamstop = none, sample = none, Ei = 3.32
+2019-02-12 18:31:24 Set Title: mask = none, beamstop = 1, sample = none, Ei = 3.32
+2019-02-12 18:37:09 Set Title: mask = none, beamstop = 1, sample = none, Ei = 1.5
+2019-02-12 18:42:00 Set Title: mask = none, beamstop = 1, sample = none, Ei = 12.0
+2019-02-12 18:46:50 Set Title: mask = none, beamstop = 1, sample = none, Ei = 20.0
+2019-02-12 18:50:07 Set Title: mask = none, beamstop = 1, sample = none, Ei = 12.0
+2019-02-12 18:55:45 Set Title: mask = none, beamstop = 1, sample = none, Ei = 20.0
+2019-02-12 19:02:24 Set Title: mask = none, beamstop = 1, sample = none, Ei = 1.5
+2019-02-12 19:14:54 Set Incident Energy to 3.32 meV
+2019-02-12 19:14:54 Set Title: mask = L, beamstop = 1, sample = none, Ei = 3.32
+2019-02-12 19:25:52 Set Incident Energy to 3.32 meV
+2019-02-12 19:25:52 Set Title: mask = R, beamstop = 1, sample = none, Ei = 3.32
+2019-02-12 19:36:30 Set Incident Energy to 12.0 meV
+2019-02-12 19:36:30 Set Title: mask = N, beamstop = 1, sample = none, Ei = 12.0
+2019-02-12 19:46:12 Set Incident Energy to 12.0 meV
+2019-02-12 19:46:12 Set Title: mask = L, beamstop = 1, sample = none, Ei = 12.0
+2019-02-12 19:58:24 Set Incident Energy to 12.0 meV
+2019-02-12 19:58:24 Set Title: mask = R, beamstop = 1, sample = none, Ei = 12.0
+2019-02-12 20:09:14 Set Incident Energy to 12.0 meV
+2019-02-12 20:09:14 Set Title: mask = U, beamstop = 1, sample = none, Ei = 12.0
+2019-02-12 20:14:58 Set Incident Energy to 3.32 meV
+2019-02-12 20:14:58 Set Title: mask = U, beamstop = 1, sample = none, Ei = 3.32
+2019-02-12 20:26:57 Set Incident Energy to 12.0 meV
+2019-02-12 20:26:57 Set Title: mask = D, beamstop = 1, sample = none, Ei = 12.0
+2019-02-12 20:32:40 Set Incident Energy to 3.32 meV
+2019-02-12 20:32:40 Set Title: mask = D, beamstop = 1, sample = none, Ei = 3.32
+2019-02-12 20:42:38 Set Incident Energy to 3.32 meV
+2019-02-12 20:42:38 Set Title: mask = L, beamstop = 1, sample = none, Ei = 3.32
+2019-02-12 20:52:27 Set Incident Energy to 3.32 meV
+2019-02-12 20:52:27 Set Title: mask = R, beamstop = 1, sample = none, Ei = 3.32
+2019-02-12 21:12:32 Set Incident Energy to 3.32 meV
+2019-02-12 21:12:32 Set Title: mask = R, beamstop = 1, sample = V, Ei = 3.32
+2019-02-12 21:18:16 Set Incident Energy to 12.0 meV
+2019-02-12 21:18:16 Set Title: mask = R, beamstop = 1, sample = V, Ei = 12.0
+2019-02-12 21:29:13 Set Incident Energy to 3.32 meV
+2019-02-12 21:29:13 Set Title: mask = L, beamstop = 1, sample = V, Ei = 3.32
+2019-02-12 21:34:56 Set Incident Energy to 12.0 meV
+2019-02-12 21:34:56 Set Title: mask = L, beamstop = 1, sample = V, Ei = 12.0
+2019-02-12 21:48:17 Set Incident Energy to 3.32 meV
+2019-02-12 21:48:17 Set Title: mask = U, beamstop = 1, sample = V, Ei = 3.32
+2019-02-12 21:54:06 Set Incident Energy to 12.0 meV
+2019-02-12 21:54:06 Set Title: mask = U, beamstop = 1, sample = V, Ei = 12.0
+2019-02-12 22:04:36 Set Incident Energy to 3.32 meV
+2019-02-12 22:04:36 Set Title: mask = D, beamstop = 1, sample = V, Ei = 3.32
+2019-02-12 22:10:21 Set Incident Energy to 12.0 meV
+2019-02-12 22:10:21 Set Title: mask = D, beamstop = 1, sample = V, Ei = 12.0
+2019-02-12 22:27:14 Set Incident Energy to 3.32 meV
+2019-02-12 22:27:14 Set Title: mask = N, beamstop = 1, sample = V, Ei = 3.32
+2019-02-12 22:32:57 Set Incident Energy to 12.0 meV
+2019-02-12 22:32:57 Set Title: mask = N, beamstop = 1, sample = V, Ei = 12.0
+2019-02-12 22:57:13 Set Incident Energy to 3.32 meV
+2019-02-12 22:57:13 Set Title: mask = N, beamstop = 2, sample = V, Ei = 3.32
+2019-02-12 23:02:57 Set Incident Energy to 12.0 meV
+2019-02-12 23:02:57 Set Title: mask = N, beamstop = 2, sample = V, Ei = 12.0
+2019-02-12 23:19:42 Set Incident Energy to 12.0 meV
+2019-02-12 23:19:42 Set Title: mask = BF?, beamstop = 2, sample = V, Ei = 12.0
+2019-02-12 23:37:12 Set Incident Energy to 12.0 meV
+2019-02-12 23:37:12 Set Title: mask = 1cmvert, beamstop = 2, sample = V, Ei = 12.0
+2019-02-12 23:47:37 Set Incident Energy to 12.0 meV
+2019-02-12 23:47:37 Set Title: mask = 2cmvert, beamstop = 2, sample = V, Ei = 12.0
+2019-02-13 00:20:19 Set Incident Energy to 12.0 meV
+2019-02-13 00:20:19 Set Title: mask = custom, beamstop = 2, sample = V, Ei = 12.0
+2019-02-13 00:29:10 Set Incident Energy to 1.5 meV
+2019-02-13 00:29:10 Set Title: Vanadium, Ei=1.5
+2019-02-13 01:18:45 Set Incident Energy to 3.32 meV
+2019-02-13 01:18:45 Set Title: Vanadium, Ei=3.32
+2019-02-13 02:08:14 Set Incident Energy to 12.0 meV
+2019-02-13 02:08:14 Set Title: Vanadium, Ei=12.0
+2019-02-13 02:57:09 Set Incident Energy to 20.0 meV
+2019-02-13 02:57:09 Set Title: Vanadium, Ei=20.0
+2019-02-13 03:46:06 Set Incident Energy to 10.0 meV
+2019-02-13 03:46:06 Set Title: Vanadium, Ei=10.0
+2019-02-13 04:35:22 Set Incident Energy to 8.0 meV
+2019-02-13 04:35:22 Set Title: Vanadium, Ei=8.0
+2019-02-13 05:25:23 Set Incident Energy to 13.0 meV
+2019-02-13 05:25:23 Set Title: Vanadium, Ei=13.0
+2019-02-13 06:14:22 Set Incident Energy to 22.0 meV
+2019-02-13 06:14:22 Set Title: Vanadium, Ei=22.0
+2019-02-13 07:03:06 Set Incident Energy to 18.0 meV
+2019-02-13 07:03:06 Set Title: Vanadium, Ei=18.0
+2019-02-13 07:51:50 Set Incident Energy to 14 meV
+2019-02-13 07:51:50 Set Title: Vanadium, Ei=14
+2019-02-13 08:24:42 Set Incident Energy to 10.0 meV
+2019-02-13 08:24:42 Set Title: Vanadium, Ei=10.0
+2019-02-13 08:49:22 Set Incident Energy to 20.0 meV
+2019-02-13 08:49:22 Set Title: Vanadium, Ei=20.0
+2019-02-13 09:14:02 Set Incident Energy to 12.0 meV
+2019-02-13 09:14:02 Set Title: Vanadium, Ei=12.0
+2019-02-13 10:22:46 Set Incident Energy to 10.3 meV
+2019-02-13 10:22:46 Set Title: Vanadium, Ei=10.3
+2019-02-13 10:35:24 Set Incident Energy to 9.7 meV
+2019-02-13 10:35:24 Set Title: Vanadium, Ei=9.7
+2019-02-13 10:48:05 Set Incident Energy to 12.3 meV
+2019-02-13 10:48:05 Set Title: Vanadium, Ei=12.3
+2019-02-13 11:00:38 Set Incident Energy to 11.7 meV
+2019-02-13 11:00:38 Set Title: Vanadium, Ei=11.7
+2019-02-13 12:50:30 Set Incident Energy to 12.0 meV
+2019-02-13 12:50:30 Set Title: CuZr, Ei=12.0, T = Tm+15
+2019-02-13 13:02:45 Set Incident Energy to 12.0 meV
+2019-02-13 13:02:45 Set Title: CuZr, Ei=12.0, T = Tm-150
+2019-02-13 14:02:03 Set Incident Energy to 12.0 meV
+2019-02-13 14:02:03 Set Title: CuZr, Ei=12.0, T = Tm-150
+2019-02-13 14:19:01 Set Incident Energy to 12.0 meV
+2019-02-13 14:19:01 Set Title: CuZr, Ei=12.0, T = Tm-150
+2019-02-13 14:23:55 Set Incident Energy to 12.0 meV
+2019-02-13 14:23:55 Set Title: CuZr, Ei=12.0, T = Tm+15
+2019-02-13 14:31:40 Set Incident Energy to 12.0 meV
+2019-02-13 14:31:40 Set Title: Empty, Ei=12.0
+2019-02-13 15:07:54 Set Incident Energy to 10.0 meV
+2019-02-13 15:07:54 Set Title: CuZr, Ei=10.0, T=Tm+15
+2019-02-13 16:50:42 Set Incident Energy to 10.0 meV
+2019-02-13 16:50:42 Set Title: CuZr, Ei=10.0, T=Tm-100
+2019-02-13 18:07:04 Set Incident Energy to 20.0 meV
+2019-02-13 18:07:04 Set Title: CuZr, Ei=20.0, T=Tm-100
+2019-02-13 19:02:15 Set Incident Energy to 20.0 meV
+2019-02-13 19:02:15 Set Title: CuZr, Ei=20.0, T=Tm-100
+2019-02-13 19:09:24 Set Incident Energy to 20.0 meV
+2019-02-13 19:09:24 Set Title: CuZr, Ei=20.0, T=Tm-100
+2019-02-13 19:38:13 Set Incident Energy to 10.0 meV
+2019-02-13 19:38:13 Set Title: CuZr, Ei=10.0, T=Tm-50
+2019-02-13 20:09:23 Set Incident Energy to 10.0 meV
+2019-02-13 20:09:23 Set Title: CuZr, Ei=10.0, T=Tm-50
+2019-02-13 20:59:06 Set Incident Energy to 10.0 meV
+2019-02-13 20:59:06 Set Title: CuZr, Ei=10.0, T=Tm+50
+2019-02-13 22:43:45 Set Incident Energy to 10.0 meV
+2019-02-13 22:43:45 Set Title: CuZr, Ei=10.0, T=Tm+50
+2019-02-13 23:21:37 Set Incident Energy to 10.0 meV
+2019-02-13 23:21:37 Set Title: CuZr, Ei=10.0, T=Tm+50
+2019-02-14 13:37:55 Set Incident Energy to 10.0 meV
+2019-02-14 13:37:55 Set Title: CuZr, Ei=10.0, T=Tm+100
+2019-02-14 13:50:36 Set Incident Energy to 20.0 meV
+2019-02-14 13:50:36 Set Title: CuZr, Ei=20.0, T=Tm+100
+2019-02-14 13:51:44 Set Incident Energy to 10.0 meV
+2019-02-14 13:51:44 Set Title: CuZr, Ei=10.0, T=Tm+100
+2019-02-14 14:51:57 Set Incident Energy to 10.0 meV
+2019-02-14 14:51:57 Set Title: CuZr, Ei=10.0, T=Tm+100
+2019-02-14 18:16:29 Set Incident Energy to 10.0 meV
+2019-02-14 18:16:29 Set Title: CuZr, Ei=10.0, T=Tm-150
+2019-02-14 18:25:31 Set Incident Energy to 10.0 meV
+2019-02-14 18:25:31 Set Title: CuZr, Ei=10.0, T=Tm-150
+2019-02-14 18:39:50 Set Incident Energy to 10.0 meV
+2019-02-14 18:39:50 Set Title: CuZr, Ei=10.0, T=Tm-150
+2019-02-14 18:55:37 Set Incident Energy to 10.0 meV
+2019-02-14 18:55:37 Set Title: CuZr, Ei=10.0, T=Tm-150
+2019-02-14 20:01:04 Set Incident Energy to 10.0 meV
+2019-02-14 20:01:04 Set Title: V, Ei=10.0, T=
+2019-02-14 20:25:42 Set Incident Energy to 20.0 meV
+2019-02-14 20:25:42 Set Title: V, Ei=20.0, T=
+2019-02-14 20:50:24 Set Incident Energy to 10.0 meV
+2019-02-14 20:50:24 Set Title: V, Ei=10.0, T=
+2019-02-14 21:16:26 Set Incident Energy to 20.0 meV
+2019-02-14 21:16:26 Set Title: V, Ei=20.0, T=
+2019-02-15 03:04:44 Set Incident Energy to 10.0 meV
+2019-02-15 03:04:44 Set Title: ZrPt, Ei=10.0, T=RT
+2019-02-15 04:50:50 Set Incident Energy to 10.0 meV
+2019-02-15 04:50:50 Set Title: ZrPt, Ei=10.0, T=Tm+15(1095)
+2019-02-15 06:38:13 Set Incident Energy to 10.0 meV
+2019-02-15 06:38:13 Set Title: ZrPt, Ei=10.0, T=Tm+15(1100)
+2019-02-15 08:00:28 Set Incident Energy to 10.0 meV
+2019-02-15 08:00:28 Set Title: ZrPt, Ei=10.0, T=Tm-50(1035)
+2019-02-15 08:16:09 Set Incident Energy to 10.0 meV
+2019-02-15 08:16:09 Set Title: ZrPt, Ei=10.0, T=Tm+100(1157)
+2019-02-15 09:52:44 Set Incident Energy to 10.0 meV
+2019-02-15 09:52:44 Set Title: ZrPt, Ei=10.0, T=Tm+150(1209)
+2019-02-15 11:11:52 Set Incident Energy to 10.0 meV
+2019-02-15 11:11:52 Set Title: ZrPt, Ei=10.0, T=Tm-50(1030)
+2019-02-15 11:32:10 Set Incident Energy to 10.0 meV
+2019-02-15 11:32:10 Set Title: ZrPt, Ei=10.0, T=Tm-50(1030)
+2019-02-15 11:38:34 Set Incident Energy to 10.0 meV
+2019-02-15 11:38:34 Set Title: ZrPt, Ei=10.0, T=Tm+300(1345)
+2019-02-15 13:25:59 Set Incident Energy to 10.0 meV
+2019-02-15 13:25:59 Set Title: CuZr, Ei=10.0, T=Tm+150(1140)
+2019-02-16 06:41:10 Set Incident Energy to 1.5 meV
+2019-02-16 06:41:10 Set Title: Empty, Ei=1.5
+2019-02-16 07:25:18 Set Incident Energy to 3.0 meV
+2019-02-16 07:25:18 Set Title: Empty, Ei=3.0
+2019-02-16 08:02:20 Set Incident Energy to 10.0 meV
+2019-02-16 08:02:20 Set Title: Empty, Ei=10.0
+2019-02-16 08:39:10 Set Incident Energy to 12.0 meV
+2019-02-16 08:39:10 Set Title: Empty, Ei=12.0
+2019-02-16 09:16:08 Set Incident Energy to 20.0 meV
+2019-02-16 09:16:08 Set Title: Empty, Ei=20.0
+2019-02-16 10:01:52 Set Incident Energy to 1.5 meV
+2019-02-16 10:01:52 Set Title: Vanadium, Ei=1.5
+2019-02-16 10:18:23 Set Incident Energy to 5.0 meV
+2019-02-16 10:18:23 Set Title: Vanadium, Ei=5.0
+2019-02-16 10:54:47 Set Incident Energy to 6.5 meV
+2019-02-16 10:54:47 Set Title: Vanadium, Ei=6.5
+2019-02-16 12:32:44 Set Incident Energy to 10.0 meV
+2019-02-16 12:32:44 Set Title: ZrPt, Ei=10.0, Tm-50 (1082)
+2019-02-16 13:01:40 Set Incident Energy to 10.0 meV
+2019-02-16 13:01:40 Set Title: ZrPt, Ei=10.0, Tm-50 (1082)
+2019-02-16 13:19:02 Set Incident Energy to 10.0 meV
+2019-02-16 13:19:02 Set Title: ZrPt, Ei=10.0, Tm-50 (1082)
+2019-02-16 15:03:36 Set Incident Energy to 3.0 meV
+2019-02-16 15:03:36 Set Title: Empty, Ei=3.0
+2019-02-16 16:16:26 Set Incident Energy to 5.0 meV
+2019-02-16 16:16:26 Set Title: Empty, Ei=5.0
+2019-02-16 17:29:45 Set Incident Energy to 6.5 meV
+2019-02-16 17:29:45 Set Title: Empty, Ei=6.5
+2019-02-16 18:42:58 Set Incident Energy to 10.0 meV
+2019-02-16 18:42:58 Set Title: Empty, Ei=10.0
+2019-02-16 19:56:06 Set Incident Energy to 12.0 meV
+2019-02-16 19:56:06 Set Title: Empty, Ei=12.0
+2019-02-16 22:19:30 Set Incident Energy to 10.0 meV
+2019-02-16 22:19:30 Set Title: ZrPt, Ei=10.0, T= Tm-150 (950)
+2019-02-16 22:21:55 Set Incident Energy to 10.0 meV
+2019-02-16 22:21:55 Set Title: ZrPt, Ei=10.0, T= Tm-150 (950)
+2019-02-16 22:27:53 Set Incident Energy to 10.0 meV
+2019-02-16 22:27:53 Set Title: ZrPt, Ei=10.0, T= Tm-150 (950)
+2019-02-16 22:43:49 Set Incident Energy to 10.0 meV
+2019-02-16 22:43:49 Set Title: ZrPt, Ei=10.0, T= Tm-150 (950)
+2019-02-16 23:06:56 Set Incident Energy to 10.0 meV
+2019-02-16 23:06:56 Set Title: ZrPt, Ei=10.0, T= Tm-150 (950)
+2019-02-16 23:11:11 Set Incident Energy to 10.0 meV
+2019-02-16 23:11:11 Set Title: ZrPt, Ei=10.0, T= Tm-150 (950)
+2019-02-16 23:13:22 Set Incident Energy to 10.0 meV
+2019-02-16 23:13:22 Set Title: ZrPt, Ei=10.0, T= Tm-150 (950)
+2019-02-16 23:41:13 Set Incident Energy to 10.0 meV
+2019-02-16 23:41:13 Set Title: ZrPt, Ei=10.0, T= Tm-150 (950)
+2019-02-16 23:43:36 Set Incident Energy to 10.0 meV
+2019-02-16 23:43:36 Set Title: ZrPt, Ei=10.0, T= Tm-150 (950)
+2019-02-17 00:36:02 Set Incident Energy to 10.0 meV
+2019-02-17 00:36:02 Set Title: ZrPt, Ei=10.0, T= Tm+220 (1270C)
+2019-02-17 01:59:43 Set Incident Energy to 10.0 meV
+2019-02-17 01:59:43 Set Title: ZrPt, Ei=10.0, T= Tm+300 (1345C)
+2019-02-17 02:52:17 Set Incident Energy to 10.0 meV
+2019-02-17 02:52:17 Set Title: ZrPt, Ei=10.0, T= Tm+300 (1345C)
+2019-02-17 04:40:38 Set Incident Energy to 20.0 meV
+2019-02-17 04:40:38 Set Title: Empty, Ei=20.0, T= RT
+2019-02-17 07:49:10 Set Incident Energy to 20.0 meV
+2019-02-17 07:49:10 Set Title: Empty, Ei=20.0, T= RT
+2019-02-17 08:13:38 Set Incident Energy to 10.0 meV
+2019-02-17 08:13:38 Set Title: PdNi, Ei=10.0, T= RT

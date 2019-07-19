@@ -1,0 +1,115 @@
+2018-10-01 14:42:49 Line Log cleared
+2018-10-01 14:42:49 Starting IPTS-20360 on 2018-10-01
+2018-10-01 14:43:01 Set Title: Test new autoreduction script
+2018-10-01 14:43:13 Comment: Test folder
+2018-10-01 16:25:58 Comment: Test
+2018-10-01 17:25:47 Set Title: Bi-powder HF, T=300 K, Ei=81.74512 meV
+2018-10-01 17:26:30 Set Incident Energy to 81.74512 meV
+2018-10-01 17:29:31 Set Title: Bi-powder HF, T=300 K, Ei=36.3311644444 meV
+2018-10-01 17:30:21 Set Incident Energy to 36.3311644444 meV
+2018-10-01 17:33:22 Set Title: Bi-powder HF, T=300 K, Ei=20.43628 meV
+2018-10-01 17:34:15 Set Incident Energy to 20.43628 meV
+2018-10-01 17:37:16 Set Title: Bi-powder HF, T=300 K, Ei=13.0792192 meV
+2018-10-01 17:38:09 Set Incident Energy to 13.0792192 meV
+2018-10-01 17:41:11 Set Title: Bi-powder HF, T=300 K, Ei=9.08279111111 meV
+2018-10-01 17:42:09 Set Incident Energy to 9.08279111111 meV
+2018-10-01 17:45:10 Set Title: Bi-powder HF, T=300 K, Ei=6.67307102041 meV
+2018-10-01 17:45:59 Set Incident Energy to 6.67307102041 meV
+2018-10-01 17:49:20 Set Title: Bi-powder HF, T=300 K, Ei=5.10907 meV
+2018-10-01 17:50:15 Set Incident Energy to 5.10907 meV
+2018-10-01 17:53:17 Set Title: Bi-powder HF, T=300 K, Ei=4.03679604938 meV
+2018-10-01 17:54:09 Set Incident Energy to 4.03679604938 meV
+2018-10-01 17:57:11 Set Title: Bi-powder HF, T=300 K, Ei=3.2698048 meV
+2018-10-01 17:58:05 Set Incident Energy to 3.2698048 meV
+2018-10-01 18:01:06 Set Title: Bi-powder HF, T=300 K, Ei=2.70231801653 meV
+2018-10-01 18:02:01 Set Incident Energy to 2.70231801653 meV
+2018-10-01 18:05:03 Set Title: Bi-powder HF, T=300 K, Ei=2.27069777778 meV
+2018-10-01 18:05:55 Set Incident Energy to 2.27069777778 meV
+2018-10-01 18:08:56 Set Title: Bi-powder HF, T=300 K, Ei=1.93479573964 meV
+2018-10-01 18:09:49 Set Incident Energy to 1.93479573964 meV
+2018-10-01 18:12:51 Set Title: Bi-powder HF, T=300 K, Ei=1.6682677551 meV
+2018-10-01 18:13:45 Set Incident Energy to 1.6682677551 meV
+2018-10-01 18:16:47 Set Title: Bi-powder HF, T=300 K, Ei=1.45324657778 meV
+2018-10-01 18:17:37 Set Incident Energy to 1.45324657778 meV
+2018-10-01 18:20:39 Set Title: Bi-powder HF, T=300 K, Ei=1.2772675 meV
+2018-10-01 18:21:29 Set Incident Energy to 1.2772675 meV
+2018-10-01 18:24:31 Set Title: Bi-powder HF, T=300 K, Ei=1.13142034602 meV
+2018-10-01 18:25:25 Set Incident Energy to 1.13142034602 meV
+2018-10-01 18:28:26 Set Title: Bi-powder HF, T=300 K, Ei=1.00919901235 meV
+2018-10-01 18:29:17 Set Incident Energy to 1.00919901235 meV
+2018-10-01 18:32:18 Set Title: Bi-powder HF, T=300 K, Ei=0.905763102493 meV
+2018-10-01 18:33:09 Set Incident Energy to 0.905763102493 meV
+2018-10-01 18:36:11 Set Title: Bi-powder HF, T=300 K, Ei=0.8174512 meV
+2018-10-01 18:37:03 Set Incident Energy to 0.8174512 meV
+2018-10-01 18:40:05 Set Title: Bi-powder HF, T=300 K, Ei=0.741452335601 meV
+2018-10-01 18:40:55 Set Incident Energy to 0.741452335601 meV
+2018-10-01 18:55:17 Set Title: Bi-powder AI, T=300 K, Ei=81.74512 meV
+2018-10-01 18:56:11 Set Incident Energy to 81.74512 meV
+2018-10-01 19:05:13 Set Title: Bi-powder AI, T=300 K, Ei=36.3311644444 meV
+2018-10-01 19:06:05 Set Incident Energy to 36.3311644444 meV
+2018-10-01 19:15:08 Set Title: Bi-powder AI, T=300 K, Ei=20.43628 meV
+2018-10-01 19:16:01 Set Incident Energy to 20.43628 meV
+2018-10-01 19:25:04 Set Title: Bi-powder AI, T=300 K, Ei=13.0792192 meV
+2018-10-01 19:25:53 Set Incident Energy to 13.0792192 meV
+2018-10-01 19:35:20 Set Title: Bi-powder AI, T=300 K, Ei=9.08279111111 meV
+2018-10-01 19:36:15 Set Incident Energy to 9.08279111111 meV
+2018-10-01 19:45:18 Set Title: Bi-powder AI, T=300 K, Ei=6.67307102041 meV
+2018-10-01 19:46:15 Set Incident Energy to 6.67307102041 meV
+2018-10-01 19:55:48 Set Title: Bi-powder AI, T=300 K, Ei=5.10907 meV
+2018-10-01 19:56:39 Set Incident Energy to 5.10907 meV
+2018-10-01 20:06:16 Set Title: Bi-powder AI, T=300 K, Ei=4.03679604938 meV
+2018-10-01 20:07:11 Set Incident Energy to 4.03679604938 meV
+2018-10-01 20:16:14 Set Title: Bi-powder AI, T=300 K, Ei=3.2698048 meV
+2018-10-01 20:17:03 Set Incident Energy to 3.2698048 meV
+2018-10-01 20:26:26 Set Title: Bi-powder AI, T=300 K, Ei=2.70231801653 meV
+2018-10-01 20:27:15 Set Incident Energy to 2.70231801653 meV
+2018-10-01 20:36:18 Set Title: Bi-powder AI, T=300 K, Ei=2.27069777778 meV
+2018-10-01 20:37:09 Set Incident Energy to 2.27069777778 meV
+2018-10-01 20:46:11 Set Title: Bi-powder AI, T=300 K, Ei=1.93479573964 meV
+2018-10-01 20:46:59 Set Incident Energy to 1.93479573964 meV
+2018-10-01 20:56:01 Set Title: Bi-powder AI, T=300 K, Ei=1.6682677551 meV
+2018-10-01 20:56:51 Set Incident Energy to 1.6682677551 meV
+2018-10-01 21:05:53 Set Title: Bi-powder AI, T=300 K, Ei=1.45324657778 meV
+2018-10-01 21:06:45 Set Incident Energy to 1.45324657778 meV
+2018-10-01 21:15:47 Set Title: Bi-powder AI, T=300 K, Ei=1.2772675 meV
+2018-10-01 21:16:43 Set Incident Energy to 1.2772675 meV
+2018-10-01 21:25:45 Set Title: Bi-powder AI, T=300 K, Ei=1.13142034602 meV
+2018-10-01 21:26:37 Set Incident Energy to 1.13142034602 meV
+2018-10-01 21:35:39 Set Title: Bi-powder AI, T=300 K, Ei=1.00919901235 meV
+2018-10-01 21:36:29 Set Incident Energy to 1.00919901235 meV
+2018-10-01 21:45:30 Set Title: Bi-powder AI, T=300 K, Ei=0.905763102493 meV
+2018-10-01 21:46:21 Set Incident Energy to 0.905763102493 meV
+2018-10-01 21:55:23 Set Title: Bi-powder AI, T=300 K, Ei=0.8174512 meV
+2018-10-01 21:56:15 Set Incident Energy to 0.8174512 meV
+2018-10-01 22:05:17 Set Title: Bi-powder AI, T=300 K, Ei=0.741452335601 meV
+2018-10-01 22:06:15 Set Incident Energy to 0.741452335601 meV
+2018-10-01 22:18:53 Set Title: Bi-powder HR, T=300 K, Ei=81.74512 meV
+2018-10-01 22:19:41 Set Incident Energy to 81.74512 meV
+2018-10-01 22:50:12 Set Title: Bi-powder HR, T=300 K, Ei=36.3311644444 meV
+2018-10-01 22:51:05 Set Incident Energy to 36.3311644444 meV
+2018-10-01 23:21:12 Set Title: Bi-powder HR, T=300 K, Ei=20.43628 meV
+2018-10-01 23:22:03 Set Incident Energy to 20.43628 meV
+2018-10-01 23:52:11 Set Title: Bi-powder HR, T=300 K, Ei=13.0792192 meV
+2018-10-01 23:53:05 Set Incident Energy to 13.0792192 meV
+2018-10-02 00:23:35 Set Title: Bi-powder HR, T=300 K, Ei=9.08279111111 meV
+2018-10-02 00:24:25 Set Incident Energy to 9.08279111111 meV
+2018-10-02 00:54:34 Set Title: Bi-powder HR, T=300 K, Ei=6.67307102041 meV
+2018-10-02 00:55:25 Set Incident Energy to 6.67307102041 meV
+2018-10-02 01:29:42 Set Title: Bi-powder HR, T=300 K, Ei=5.10907 meV
+2018-10-02 01:30:37 Set Incident Energy to 5.10907 meV
+2018-10-02 02:00:46 Set Title: Bi-powder HR, T=300 K, Ei=4.03679604938 meV
+2018-10-02 02:01:35 Set Incident Energy to 4.03679604938 meV
+2018-10-02 02:31:44 Set Title: Bi-powder HR, T=300 K, Ei=3.2698048 meV
+2018-10-02 02:32:35 Set Incident Energy to 3.2698048 meV
+2018-10-02 03:02:44 Set Title: Bi-powder HR, T=300 K, Ei=2.70231801653 meV
+2018-10-02 03:03:39 Set Incident Energy to 2.70231801653 meV
+2018-10-02 03:33:48 Set Title: Bi-powder HR, T=300 K, Ei=2.27069777778 meV
+2018-10-02 03:34:39 Set Incident Energy to 2.27069777778 meV
+2018-10-02 04:04:48 Set Title: Bi-powder HR, T=300 K, Ei=1.93479573964 meV
+2018-10-02 04:05:39 Set Incident Energy to 1.93479573964 meV
+2018-10-02 04:35:48 Set Title: Bi-powder HR, T=300 K, Ei=1.6682677551 meV
+2018-10-02 04:36:35 Set Incident Energy to 1.6682677551 meV
+2018-10-02 05:06:41 Set Title: Bi-powder HR, T=300 K, Ei=1.45324657778 meV
+2018-10-02 05:07:33 Set Incident Energy to 1.45324657778 meV
+2018-10-02 05:37:37 Set Title: Bi-powder HR, T=300 K, Ei=1.2772675 meV
+2018-10-02 05:38:29 Set Incident Energy to 1.2772675 meV

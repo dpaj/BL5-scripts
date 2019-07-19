@@ -1,0 +1,6 @@
+2018-06-12 14:24:20 Line Log cleared
+2018-06-12 14:24:20 Starting IPTS-21088 on 2018-06-12
+2018-06-12 14:38:55 Scanning beaml, run 276434
+2018-06-12 14:39:05 Scanning beaml, run 276434
+2018-06-12 14:40:29 Scanning beaml, run 276434
+2018-06-12 14:41:47 Relative Scan beaml, run 276435

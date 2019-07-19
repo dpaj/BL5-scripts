@@ -1,0 +1,1806 @@
+2018-09-17 09:07:50 Line Log cleared
+2018-09-17 09:07:50 Starting IPTS-20905 on 2018-09-17
+2018-09-17 09:08:47 Set Title: dummy scan
+2018-09-17 10:35:57 Setting U vec: h=1 k=1 l=0
+2018-09-17 10:36:05 Setting V vec: h=0 k=0 l=1
+2018-09-17 10:46:10 New X/Y Signal ROI at 2Theta=[45,50] Phi=[-10,10]
+2018-09-17 10:52:13 Relative Scan axis1, run 288933
+2018-09-17 10:59:52 Set Title: Sitting 440
+2018-09-17 11:00:35 New X/Y Signal ROI at 2Theta=[82,92] Phi=[-10,10]
+2018-09-17 11:06:00 Relative Scan axis1, run 288935
+2018-09-17 11:14:44 Drive Axis1 to 6.8782373527 Degree
+2018-09-17 11:14:44 New X/Y Signal ROI at 2Theta=[61.4020057093,66.4020057093] Phi=[-4.6502158043,5.3497841957]
+2018-09-17 11:14:44 Driving to: (3,3,1) at Omega=6.8782373527
+2018-09-17 11:15:26 Set Title: Sitting 331
+2018-09-17 11:15:43 Relative Scan axis1, run 288937
+2018-09-17 11:24:58 Relative Scan samplez, run 288939
+2018-09-17 11:33:15 Set Title: Ei=3.0 meV cooling preliminary scan
+2018-09-17 11:49:27 Set Incident Energy to 3.32 meV
+2018-09-17 11:49:27 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-24 degs
+2018-09-17 11:49:27 Drive Axis1 to -24 Degree
+2018-09-17 11:51:52 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-22 degs
+2018-09-17 11:51:59 Drive Axis1 to -22 Degree
+2018-09-17 11:54:24 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-20 degs
+2018-09-17 11:54:30 Drive Axis1 to -20 Degree
+2018-09-17 11:56:55 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-18 degs
+2018-09-17 11:57:01 Drive Axis1 to -18 Degree
+2018-09-17 11:59:26 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-16 degs
+2018-09-17 11:59:33 Drive Axis1 to -16 Degree
+2018-09-17 12:02:21 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-14 degs
+2018-09-17 12:02:27 Drive Axis1 to -14 Degree
+2018-09-17 12:04:53 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-12 degs
+2018-09-17 12:04:59 Drive Axis1 to -12 Degree
+2018-09-17 12:07:24 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-10 degs
+2018-09-17 12:07:30 Drive Axis1 to -10 Degree
+2018-09-17 12:09:55 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-8 degs
+2018-09-17 12:10:01 Drive Axis1 to -8 Degree
+2018-09-17 12:12:27 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-6 degs
+2018-09-17 12:12:33 Drive Axis1 to -6 Degree
+2018-09-17 12:14:58 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-4 degs
+2018-09-17 12:15:05 Drive Axis1 to -4 Degree
+2018-09-17 12:17:29 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=-2 degs
+2018-09-17 12:17:36 Drive Axis1 to -2 Degree
+2018-09-17 12:20:01 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=0 degs
+2018-09-17 12:20:07 Drive Axis1 to 0 Degree
+2018-09-17 12:22:32 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=2 degs
+2018-09-17 12:22:39 Drive Axis1 to 2 Degree
+2018-09-17 12:25:04 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=4 degs
+2018-09-17 12:25:10 Drive Axis1 to 4 Degree
+2018-09-17 12:27:35 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=6 degs
+2018-09-17 12:27:42 Drive Axis1 to 6 Degree
+2018-09-17 12:30:07 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=8 degs
+2018-09-17 12:30:14 Drive Axis1 to 8 Degree
+2018-09-17 12:32:39 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=10 degs
+2018-09-17 12:32:45 Drive Axis1 to 10 Degree
+2018-09-17 12:35:10 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=12 degs
+2018-09-17 12:35:17 Drive Axis1 to 12 Degree
+2018-09-17 12:37:42 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=14 degs
+2018-09-17 12:37:49 Drive Axis1 to 14 Degree
+2018-09-17 12:40:14 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=16 degs
+2018-09-17 12:40:20 Drive Axis1 to 16 Degree
+2018-09-17 12:42:45 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=18 degs
+2018-09-17 12:42:52 Drive Axis1 to 18 Degree
+2018-09-17 12:45:16 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=20 degs
+2018-09-17 12:45:23 Drive Axis1 to 20 Degree
+2018-09-17 12:47:48 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=22 degs
+2018-09-17 12:47:55 Drive Axis1 to 22 Degree
+2018-09-17 12:50:19 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=24 degs
+2018-09-17 12:50:26 Drive Axis1 to 24 Degree
+2018-09-17 12:52:51 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=26 degs
+2018-09-17 12:52:57 Drive Axis1 to 26 Degree
+2018-09-17 12:55:22 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=28 degs
+2018-09-17 12:55:28 Drive Axis1 to 28 Degree
+2018-09-17 12:57:53 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=30 degs
+2018-09-17 12:58:00 Drive Axis1 to 30 Degree
+2018-09-17 13:00:25 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=32 degs
+2018-09-17 13:00:31 Drive Axis1 to 32 Degree
+2018-09-17 13:02:56 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=34 degs
+2018-09-17 13:03:03 Drive Axis1 to 34 Degree
+2018-09-17 13:05:28 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=36 degs
+2018-09-17 13:05:34 Drive Axis1 to 36 Degree
+2018-09-17 13:07:59 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=38 degs
+2018-09-17 13:08:06 Drive Axis1 to 38 Degree
+2018-09-17 13:10:30 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=40 degs
+2018-09-17 13:10:37 Drive Axis1 to 40 Degree
+2018-09-17 13:13:02 Set Title: Ce2Zr2O7 cooling, Ei=3.32 meV, w=42 degs
+2018-09-17 13:13:08 Drive Axis1 to 42 Degree
+2018-09-17 16:27:08 Set Incident Energy to 12.0 meV
+2018-09-17 16:27:08 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-140 degs
+2018-09-17 16:27:08 Drive Axis1 to -140 Degree
+2018-09-17 16:28:05 Set Incident Energy to 12.0 meV
+2018-09-17 16:28:05 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-140 degs
+2018-09-17 16:28:05 Drive Axis1 to -140 Degree
+2018-09-17 16:31:42 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-138 degs
+2018-09-17 16:31:49 Drive Axis1 to -138 Degree
+2018-09-17 16:35:26 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-136 degs
+2018-09-17 16:35:32 Drive Axis1 to -136 Degree
+2018-09-17 16:39:10 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-134 degs
+2018-09-17 16:39:16 Drive Axis1 to -134 Degree
+2018-09-17 16:42:54 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-132 degs
+2018-09-17 16:43:00 Drive Axis1 to -132 Degree
+2018-09-17 16:46:38 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-130 degs
+2018-09-17 16:46:45 Drive Axis1 to -130 Degree
+2018-09-17 16:50:22 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-128 degs
+2018-09-17 16:50:28 Drive Axis1 to -128 Degree
+2018-09-17 16:54:05 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-126 degs
+2018-09-17 16:54:12 Drive Axis1 to -126 Degree
+2018-09-17 16:57:49 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-124 degs
+2018-09-17 16:57:56 Drive Axis1 to -124 Degree
+2018-09-17 17:01:33 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-122 degs
+2018-09-17 17:01:40 Drive Axis1 to -122 Degree
+2018-09-17 17:05:16 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-120 degs
+2018-09-17 17:05:23 Drive Axis1 to -120 Degree
+2018-09-17 17:09:01 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-118 degs
+2018-09-17 17:09:07 Drive Axis1 to -118 Degree
+2018-09-17 17:12:45 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-116 degs
+2018-09-17 17:12:52 Drive Axis1 to -116 Degree
+2018-09-17 17:16:49 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-114 degs
+2018-09-17 17:16:56 Drive Axis1 to -114 Degree
+2018-09-17 17:20:33 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-112 degs
+2018-09-17 17:20:39 Drive Axis1 to -112 Degree
+2018-09-17 17:24:16 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-110 degs
+2018-09-17 17:24:23 Drive Axis1 to -110 Degree
+2018-09-17 17:28:00 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-108 degs
+2018-09-17 17:28:07 Drive Axis1 to -108 Degree
+2018-09-17 17:31:44 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-106 degs
+2018-09-17 17:31:51 Drive Axis1 to -106 Degree
+2018-09-17 17:35:28 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-104 degs
+2018-09-17 17:35:34 Drive Axis1 to -104 Degree
+2018-09-17 17:39:11 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-102 degs
+2018-09-17 17:39:18 Drive Axis1 to -102 Degree
+2018-09-17 17:42:55 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-100 degs
+2018-09-17 17:43:01 Drive Axis1 to -100 Degree
+2018-09-17 17:46:38 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-98 degs
+2018-09-17 17:46:45 Drive Axis1 to -98 Degree
+2018-09-17 17:50:23 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-96 degs
+2018-09-17 17:50:29 Drive Axis1 to -96 Degree
+2018-09-17 17:54:07 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-94 degs
+2018-09-17 17:54:14 Drive Axis1 to -94 Degree
+2018-09-17 17:57:51 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-92 degs
+2018-09-17 17:57:57 Drive Axis1 to -92 Degree
+2018-09-17 18:01:34 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-90 degs
+2018-09-17 18:01:41 Drive Axis1 to -90 Degree
+2018-09-17 18:05:18 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-88 degs
+2018-09-17 18:05:25 Drive Axis1 to -88 Degree
+2018-09-17 18:09:02 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-86 degs
+2018-09-17 18:09:08 Drive Axis1 to -86 Degree
+2018-09-17 18:12:45 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-84 degs
+2018-09-17 18:12:52 Drive Axis1 to -84 Degree
+2018-09-17 18:16:29 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-82 degs
+2018-09-17 18:16:35 Drive Axis1 to -82 Degree
+2018-09-17 18:20:13 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-80 degs
+2018-09-17 18:20:19 Drive Axis1 to -80 Degree
+2018-09-17 18:23:56 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-78 degs
+2018-09-17 18:24:03 Drive Axis1 to -78 Degree
+2018-09-17 18:27:40 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-76 degs
+2018-09-17 18:27:46 Drive Axis1 to -76 Degree
+2018-09-17 18:31:23 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-74 degs
+2018-09-17 18:31:30 Drive Axis1 to -74 Degree
+2018-09-17 18:35:07 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-72 degs
+2018-09-17 18:35:13 Drive Axis1 to -72 Degree
+2018-09-17 18:38:50 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-70 degs
+2018-09-17 18:38:57 Drive Axis1 to -70 Degree
+2018-09-17 18:42:34 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-68 degs
+2018-09-17 18:42:40 Drive Axis1 to -68 Degree
+2018-09-17 18:46:17 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-66 degs
+2018-09-17 18:46:24 Drive Axis1 to -66 Degree
+2018-09-17 18:50:01 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-64 degs
+2018-09-17 18:50:08 Drive Axis1 to -64 Degree
+2018-09-17 18:53:45 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-62 degs
+2018-09-17 18:53:51 Drive Axis1 to -62 Degree
+2018-09-17 18:57:28 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-60 degs
+2018-09-17 18:57:35 Drive Axis1 to -60 Degree
+2018-09-17 19:01:12 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-58 degs
+2018-09-17 19:01:18 Drive Axis1 to -58 Degree
+2018-09-17 19:04:56 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-56 degs
+2018-09-17 19:05:03 Drive Axis1 to -56 Degree
+2018-09-17 19:08:40 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-54 degs
+2018-09-17 19:08:46 Drive Axis1 to -54 Degree
+2018-09-17 19:12:24 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-52 degs
+2018-09-17 19:12:30 Drive Axis1 to -52 Degree
+2018-09-17 19:18:48 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-50 degs
+2018-09-17 19:18:55 Drive Axis1 to -50 Degree
+2018-09-17 19:22:32 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-48 degs
+2018-09-17 19:22:38 Drive Axis1 to -48 Degree
+2018-09-17 19:26:15 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-46 degs
+2018-09-17 19:26:21 Drive Axis1 to -46 Degree
+2018-09-17 19:29:58 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-44 degs
+2018-09-17 19:30:04 Drive Axis1 to -44 Degree
+2018-09-17 19:33:41 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-42 degs
+2018-09-17 19:33:48 Drive Axis1 to -42 Degree
+2018-09-17 19:37:24 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-40 degs
+2018-09-17 19:37:31 Drive Axis1 to -40 Degree
+2018-09-17 19:41:08 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-38 degs
+2018-09-17 19:41:14 Drive Axis1 to -38 Degree
+2018-09-17 19:44:51 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-36 degs
+2018-09-17 19:44:58 Drive Axis1 to -36 Degree
+2018-09-17 19:48:35 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-34 degs
+2018-09-17 19:48:41 Drive Axis1 to -34 Degree
+2018-09-17 19:52:18 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-32 degs
+2018-09-17 19:52:25 Drive Axis1 to -32 Degree
+2018-09-17 19:56:02 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-30 degs
+2018-09-17 19:56:08 Drive Axis1 to -30 Degree
+2018-09-17 19:59:45 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-28 degs
+2018-09-17 19:59:51 Drive Axis1 to -28 Degree
+2018-09-17 20:03:28 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-26 degs
+2018-09-17 20:03:35 Drive Axis1 to -26 Degree
+2018-09-17 20:07:12 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-24 degs
+2018-09-17 20:07:18 Drive Axis1 to -24 Degree
+2018-09-17 20:10:55 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-22 degs
+2018-09-17 20:11:02 Drive Axis1 to -22 Degree
+2018-09-17 20:14:39 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-20 degs
+2018-09-17 20:14:45 Drive Axis1 to -20 Degree
+2018-09-17 20:18:22 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-18 degs
+2018-09-17 20:18:28 Drive Axis1 to -18 Degree
+2018-09-17 20:22:06 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-16 degs
+2018-09-17 20:22:12 Drive Axis1 to -16 Degree
+2018-09-17 20:25:49 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-14 degs
+2018-09-17 20:25:55 Drive Axis1 to -14 Degree
+2018-09-17 20:29:32 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-12 degs
+2018-09-17 20:29:39 Drive Axis1 to -12 Degree
+2018-09-17 20:33:16 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-10 degs
+2018-09-17 20:33:22 Drive Axis1 to -10 Degree
+2018-09-17 20:36:59 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-8 degs
+2018-09-17 20:37:06 Drive Axis1 to -8 Degree
+2018-09-17 20:40:43 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-6 degs
+2018-09-17 20:40:49 Drive Axis1 to -6 Degree
+2018-09-17 20:44:26 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-4 degs
+2018-09-17 20:44:33 Drive Axis1 to -4 Degree
+2018-09-17 20:48:10 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=-2 degs
+2018-09-17 20:48:17 Drive Axis1 to -2 Degree
+2018-09-17 20:51:54 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=0 degs
+2018-09-17 20:52:00 Drive Axis1 to 0 Degree
+2018-09-17 20:55:37 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=2 degs
+2018-09-17 20:55:44 Drive Axis1 to 2 Degree
+2018-09-17 20:59:21 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=4 degs
+2018-09-17 20:59:27 Drive Axis1 to 4 Degree
+2018-09-17 21:03:04 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=6 degs
+2018-09-17 21:03:11 Drive Axis1 to 6 Degree
+2018-09-17 21:06:47 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=8 degs
+2018-09-17 21:06:54 Drive Axis1 to 8 Degree
+2018-09-17 21:10:31 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=10 degs
+2018-09-17 21:10:37 Drive Axis1 to 10 Degree
+2018-09-17 21:14:14 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=12 degs
+2018-09-17 21:14:21 Drive Axis1 to 12 Degree
+2018-09-17 21:17:58 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=14 degs
+2018-09-17 21:18:05 Drive Axis1 to 14 Degree
+2018-09-17 21:21:42 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=16 degs
+2018-09-17 21:21:48 Drive Axis1 to 16 Degree
+2018-09-17 21:25:25 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=18 degs
+2018-09-17 21:25:32 Drive Axis1 to 18 Degree
+2018-09-17 21:29:08 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=20 degs
+2018-09-17 21:29:15 Drive Axis1 to 20 Degree
+2018-09-17 21:32:52 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=22 degs
+2018-09-17 21:32:58 Drive Axis1 to 22 Degree
+2018-09-17 21:36:35 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=24 degs
+2018-09-17 21:36:42 Drive Axis1 to 24 Degree
+2018-09-17 21:40:18 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=26 degs
+2018-09-17 21:40:25 Drive Axis1 to 26 Degree
+2018-09-17 21:44:02 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=28 degs
+2018-09-17 21:44:08 Drive Axis1 to 28 Degree
+2018-09-17 21:47:45 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=30 degs
+2018-09-17 21:47:51 Drive Axis1 to 30 Degree
+2018-09-17 21:51:28 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=32 degs
+2018-09-17 21:51:35 Drive Axis1 to 32 Degree
+2018-09-17 21:55:11 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=34 degs
+2018-09-17 21:55:18 Drive Axis1 to 34 Degree
+2018-09-17 21:58:55 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=36 degs
+2018-09-17 21:59:01 Drive Axis1 to 36 Degree
+2018-09-17 22:02:38 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=38 degs
+2018-09-17 22:02:45 Drive Axis1 to 38 Degree
+2018-09-17 22:06:21 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=40 degs
+2018-09-17 22:06:28 Drive Axis1 to 40 Degree
+2018-09-17 22:10:05 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=42 degs
+2018-09-17 22:10:11 Drive Axis1 to 42 Degree
+2018-09-17 22:13:48 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=44 degs
+2018-09-17 22:13:54 Drive Axis1 to 44 Degree
+2018-09-17 22:17:31 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=46 degs
+2018-09-17 22:17:37 Drive Axis1 to 46 Degree
+2018-09-17 22:21:14 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=48 degs
+2018-09-17 22:21:20 Drive Axis1 to 48 Degree
+2018-09-17 22:24:57 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=50 degs
+2018-09-17 22:25:04 Drive Axis1 to 50 Degree
+2018-09-17 22:28:40 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=52 degs
+2018-09-17 22:28:47 Drive Axis1 to 52 Degree
+2018-09-17 22:32:24 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=54 degs
+2018-09-17 22:32:30 Drive Axis1 to 54 Degree
+2018-09-17 22:36:07 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=56 degs
+2018-09-17 22:36:13 Drive Axis1 to 56 Degree
+2018-09-17 22:39:50 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=58 degs
+2018-09-17 22:39:57 Drive Axis1 to 58 Degree
+2018-09-17 22:43:34 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=60 degs
+2018-09-17 22:43:40 Drive Axis1 to 60 Degree
+2018-09-17 22:47:17 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=62 degs
+2018-09-17 22:47:24 Drive Axis1 to 62 Degree
+2018-09-17 22:51:01 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=64 degs
+2018-09-17 22:51:07 Drive Axis1 to 64 Degree
+2018-09-17 22:54:44 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=66 degs
+2018-09-17 22:54:51 Drive Axis1 to 66 Degree
+2018-09-17 22:58:28 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=68 degs
+2018-09-17 22:58:34 Drive Axis1 to 68 Degree
+2018-09-17 23:02:11 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=70 degs
+2018-09-17 23:02:18 Drive Axis1 to 70 Degree
+2018-09-17 23:05:55 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=72 degs
+2018-09-17 23:06:01 Drive Axis1 to 72 Degree
+2018-09-17 23:09:38 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=74 degs
+2018-09-17 23:09:44 Drive Axis1 to 74 Degree
+2018-09-17 23:13:21 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=76 degs
+2018-09-17 23:13:28 Drive Axis1 to 76 Degree
+2018-09-17 23:17:05 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=78 degs
+2018-09-17 23:17:11 Drive Axis1 to 78 Degree
+2018-09-17 23:20:48 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=80 degs
+2018-09-17 23:20:54 Drive Axis1 to 80 Degree
+2018-09-17 23:24:31 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=82 degs
+2018-09-17 23:24:38 Drive Axis1 to 82 Degree
+2018-09-17 23:28:15 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=84 degs
+2018-09-17 23:28:21 Drive Axis1 to 84 Degree
+2018-09-17 23:31:58 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=86 degs
+2018-09-17 23:32:04 Drive Axis1 to 86 Degree
+2018-09-17 23:36:00 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=88 degs
+2018-09-17 23:36:06 Drive Axis1 to 88 Degree
+2018-09-17 23:39:44 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=90 degs
+2018-09-17 23:39:51 Drive Axis1 to 90 Degree
+2018-09-17 23:43:27 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=92 degs
+2018-09-17 23:43:34 Drive Axis1 to 92 Degree
+2018-09-17 23:47:11 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=94 degs
+2018-09-17 23:47:17 Drive Axis1 to 94 Degree
+2018-09-17 23:50:54 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=96 degs
+2018-09-17 23:51:01 Drive Axis1 to 96 Degree
+2018-09-17 23:54:38 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=98 degs
+2018-09-17 23:54:44 Drive Axis1 to 98 Degree
+2018-09-17 23:58:21 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=100 degs
+2018-09-17 23:58:28 Drive Axis1 to 100 Degree
+2018-09-18 00:02:05 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=102 degs
+2018-09-18 00:02:11 Drive Axis1 to 102 Degree
+2018-09-18 00:05:48 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=104 degs
+2018-09-18 00:05:54 Drive Axis1 to 104 Degree
+2018-09-18 00:09:31 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=106 degs
+2018-09-18 00:09:38 Drive Axis1 to 106 Degree
+2018-09-18 00:13:15 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=108 degs
+2018-09-18 00:13:21 Drive Axis1 to 108 Degree
+2018-09-18 00:16:58 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=110 degs
+2018-09-18 00:17:05 Drive Axis1 to 110 Degree
+2018-09-18 00:20:41 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=112 degs
+2018-09-18 00:20:48 Drive Axis1 to 112 Degree
+2018-09-18 00:24:47 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=114 degs
+2018-09-18 00:24:54 Drive Axis1 to 114 Degree
+2018-09-18 00:28:31 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=116 degs
+2018-09-18 00:28:37 Drive Axis1 to 116 Degree
+2018-09-18 00:32:14 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=118 degs
+2018-09-18 00:32:20 Drive Axis1 to 118 Degree
+2018-09-18 00:35:57 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=120 degs
+2018-09-18 00:36:03 Drive Axis1 to 120 Degree
+2018-09-18 00:39:40 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=122 degs
+2018-09-18 00:39:47 Drive Axis1 to 122 Degree
+2018-09-18 00:43:23 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=124 degs
+2018-09-18 00:43:30 Drive Axis1 to 124 Degree
+2018-09-18 00:47:07 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=126 degs
+2018-09-18 00:47:13 Drive Axis1 to 126 Degree
+2018-09-18 00:50:50 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=128 degs
+2018-09-18 00:50:57 Drive Axis1 to 128 Degree
+2018-09-18 00:54:34 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=130 degs
+2018-09-18 00:54:41 Drive Axis1 to 130 Degree
+2018-09-18 00:58:18 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=132 degs
+2018-09-18 00:58:24 Drive Axis1 to 132 Degree
+2018-09-18 01:02:28 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=134 degs
+2018-09-18 01:02:34 Drive Axis1 to 134 Degree
+2018-09-18 01:06:11 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=136 degs
+2018-09-18 01:06:18 Drive Axis1 to 136 Degree
+2018-09-18 01:09:54 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=138 degs
+2018-09-18 01:10:01 Drive Axis1 to 138 Degree
+2018-09-18 01:13:38 Set Title: Ce2Zr2O7 background T=12 K, Ei=12.0 meV, w=140 degs
+2018-09-18 01:13:44 Drive Axis1 to 140 Degree
+2018-09-18 01:18:08 Set Incident Energy to 3.32 meV
+2018-09-18 01:18:08 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-140 degs
+2018-09-18 01:24:37 Drive Axis1 to -140 Degree
+2018-09-18 01:28:36 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-138 degs
+2018-09-18 01:28:42 Drive Axis1 to -138 Degree
+2018-09-18 01:32:41 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-136 degs
+2018-09-18 01:32:47 Drive Axis1 to -136 Degree
+2018-09-18 01:36:24 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-134 degs
+2018-09-18 01:36:31 Drive Axis1 to -134 Degree
+2018-09-18 01:40:08 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-132 degs
+2018-09-18 01:40:14 Drive Axis1 to -132 Degree
+2018-09-18 01:43:51 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-130 degs
+2018-09-18 01:43:58 Drive Axis1 to -130 Degree
+2018-09-18 01:47:35 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-128 degs
+2018-09-18 01:47:41 Drive Axis1 to -128 Degree
+2018-09-18 01:51:18 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-126 degs
+2018-09-18 01:51:24 Drive Axis1 to -126 Degree
+2018-09-18 01:55:01 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-124 degs
+2018-09-18 01:55:08 Drive Axis1 to -124 Degree
+2018-09-18 01:58:45 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-122 degs
+2018-09-18 01:58:52 Drive Axis1 to -122 Degree
+2018-09-18 02:02:51 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-120 degs
+2018-09-18 02:02:57 Drive Axis1 to -120 Degree
+2018-09-18 02:06:34 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-118 degs
+2018-09-18 02:06:41 Drive Axis1 to -118 Degree
+2018-09-18 02:10:18 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-116 degs
+2018-09-18 02:10:24 Drive Axis1 to -116 Degree
+2018-09-18 02:14:02 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-114 degs
+2018-09-18 02:14:08 Drive Axis1 to -114 Degree
+2018-09-18 02:17:45 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-112 degs
+2018-09-18 02:17:52 Drive Axis1 to -112 Degree
+2018-09-18 02:21:29 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-110 degs
+2018-09-18 02:21:35 Drive Axis1 to -110 Degree
+2018-09-18 02:25:12 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-108 degs
+2018-09-18 02:25:19 Drive Axis1 to -108 Degree
+2018-09-18 02:28:56 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-106 degs
+2018-09-18 02:29:02 Drive Axis1 to -106 Degree
+2018-09-18 02:32:39 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-104 degs
+2018-09-18 02:32:46 Drive Axis1 to -104 Degree
+2018-09-18 02:36:23 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-102 degs
+2018-09-18 02:36:29 Drive Axis1 to -102 Degree
+2018-09-18 02:40:06 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-100 degs
+2018-09-18 02:40:13 Drive Axis1 to -100 Degree
+2018-09-18 02:43:50 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-98 degs
+2018-09-18 02:43:57 Drive Axis1 to -98 Degree
+2018-09-18 02:47:34 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-96 degs
+2018-09-18 02:47:40 Drive Axis1 to -96 Degree
+2018-09-18 02:51:17 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-94 degs
+2018-09-18 02:51:24 Drive Axis1 to -94 Degree
+2018-09-18 02:55:01 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-92 degs
+2018-09-18 02:55:07 Drive Axis1 to -92 Degree
+2018-09-18 02:59:08 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-90 degs
+2018-09-18 02:59:15 Drive Axis1 to -90 Degree
+2018-09-18 03:02:52 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-88 degs
+2018-09-18 03:02:59 Drive Axis1 to -88 Degree
+2018-09-18 03:06:36 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-86 degs
+2018-09-18 03:06:42 Drive Axis1 to -86 Degree
+2018-09-18 03:10:19 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-84 degs
+2018-09-18 03:10:25 Drive Axis1 to -84 Degree
+2018-09-18 03:14:02 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-82 degs
+2018-09-18 03:14:09 Drive Axis1 to -82 Degree
+2018-09-18 03:17:45 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-80 degs
+2018-09-18 03:17:52 Drive Axis1 to -80 Degree
+2018-09-18 03:21:29 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-78 degs
+2018-09-18 03:21:36 Drive Axis1 to -78 Degree
+2018-09-18 03:25:13 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-76 degs
+2018-09-18 03:25:19 Drive Axis1 to -76 Degree
+2018-09-18 03:28:57 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-74 degs
+2018-09-18 03:29:03 Drive Axis1 to -74 Degree
+2018-09-18 03:32:40 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-72 degs
+2018-09-18 03:32:47 Drive Axis1 to -72 Degree
+2018-09-18 03:36:24 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-70 degs
+2018-09-18 03:36:31 Drive Axis1 to -70 Degree
+2018-09-18 03:40:08 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-68 degs
+2018-09-18 03:40:14 Drive Axis1 to -68 Degree
+2018-09-18 03:43:51 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-66 degs
+2018-09-18 03:43:58 Drive Axis1 to -66 Degree
+2018-09-18 03:47:35 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-64 degs
+2018-09-18 03:47:42 Drive Axis1 to -64 Degree
+2018-09-18 03:51:19 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-62 degs
+2018-09-18 03:51:25 Drive Axis1 to -62 Degree
+2018-09-18 03:55:02 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-60 degs
+2018-09-18 03:55:09 Drive Axis1 to -60 Degree
+2018-09-18 03:58:46 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-58 degs
+2018-09-18 03:58:52 Drive Axis1 to -58 Degree
+2018-09-18 04:02:30 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-56 degs
+2018-09-18 04:02:36 Drive Axis1 to -56 Degree
+2018-09-18 04:06:13 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-54 degs
+2018-09-18 04:06:20 Drive Axis1 to -54 Degree
+2018-09-18 04:09:57 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-52 degs
+2018-09-18 04:10:04 Drive Axis1 to -52 Degree
+2018-09-18 04:13:41 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-50 degs
+2018-09-18 04:13:47 Drive Axis1 to -50 Degree
+2018-09-18 04:17:24 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-48 degs
+2018-09-18 04:17:31 Drive Axis1 to -48 Degree
+2018-09-18 04:21:08 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-46 degs
+2018-09-18 04:21:14 Drive Axis1 to -46 Degree
+2018-09-18 04:24:52 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-44 degs
+2018-09-18 04:24:58 Drive Axis1 to -44 Degree
+2018-09-18 04:28:35 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-42 degs
+2018-09-18 04:28:41 Drive Axis1 to -42 Degree
+2018-09-18 04:32:19 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-40 degs
+2018-09-18 04:32:25 Drive Axis1 to -40 Degree
+2018-09-18 04:36:02 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-38 degs
+2018-09-18 04:36:09 Drive Axis1 to -38 Degree
+2018-09-18 04:39:46 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-36 degs
+2018-09-18 04:39:53 Drive Axis1 to -36 Degree
+2018-09-18 04:43:30 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-34 degs
+2018-09-18 04:43:36 Drive Axis1 to -34 Degree
+2018-09-18 04:47:13 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-32 degs
+2018-09-18 04:47:20 Drive Axis1 to -32 Degree
+2018-09-18 04:50:57 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-30 degs
+2018-09-18 04:51:04 Drive Axis1 to -30 Degree
+2018-09-18 04:54:41 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-28 degs
+2018-09-18 04:54:47 Drive Axis1 to -28 Degree
+2018-09-18 04:58:24 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-26 degs
+2018-09-18 04:58:31 Drive Axis1 to -26 Degree
+2018-09-18 05:02:08 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-24 degs
+2018-09-18 05:02:14 Drive Axis1 to -24 Degree
+2018-09-18 05:05:52 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-22 degs
+2018-09-18 05:05:58 Drive Axis1 to -22 Degree
+2018-09-18 05:09:35 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-20 degs
+2018-09-18 05:09:42 Drive Axis1 to -20 Degree
+2018-09-18 05:13:19 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-18 degs
+2018-09-18 05:13:26 Drive Axis1 to -18 Degree
+2018-09-18 05:17:03 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-16 degs
+2018-09-18 05:17:09 Drive Axis1 to -16 Degree
+2018-09-18 05:20:47 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-14 degs
+2018-09-18 05:20:53 Drive Axis1 to -14 Degree
+2018-09-18 05:24:30 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-12 degs
+2018-09-18 05:24:37 Drive Axis1 to -12 Degree
+2018-09-18 05:28:14 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-10 degs
+2018-09-18 05:28:20 Drive Axis1 to -10 Degree
+2018-09-18 05:31:58 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-8 degs
+2018-09-18 05:32:04 Drive Axis1 to -8 Degree
+2018-09-18 05:35:41 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-6 degs
+2018-09-18 05:35:48 Drive Axis1 to -6 Degree
+2018-09-18 05:39:25 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-4 degs
+2018-09-18 05:39:32 Drive Axis1 to -4 Degree
+2018-09-18 05:43:09 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=-2 degs
+2018-09-18 05:43:16 Drive Axis1 to -2 Degree
+2018-09-18 05:46:53 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=0 degs
+2018-09-18 05:47:00 Drive Axis1 to 0 Degree
+2018-09-18 05:50:37 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=2 degs
+2018-09-18 05:50:44 Drive Axis1 to 2 Degree
+2018-09-18 05:54:21 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=4 degs
+2018-09-18 05:54:28 Drive Axis1 to 4 Degree
+2018-09-18 05:58:05 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=6 degs
+2018-09-18 05:58:11 Drive Axis1 to 6 Degree
+2018-09-18 06:01:49 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=8 degs
+2018-09-18 06:01:56 Drive Axis1 to 8 Degree
+2018-09-18 06:05:33 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=10 degs
+2018-09-18 06:05:39 Drive Axis1 to 10 Degree
+2018-09-18 06:12:14 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=12 degs
+2018-09-18 06:12:21 Drive Axis1 to 12 Degree
+2018-09-18 06:15:58 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=14 degs
+2018-09-18 06:16:05 Drive Axis1 to 14 Degree
+2018-09-18 06:19:42 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=16 degs
+2018-09-18 06:19:49 Drive Axis1 to 16 Degree
+2018-09-18 06:23:26 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=18 degs
+2018-09-18 06:23:33 Drive Axis1 to 18 Degree
+2018-09-18 06:27:10 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=20 degs
+2018-09-18 06:27:17 Drive Axis1 to 20 Degree
+2018-09-18 06:30:54 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=22 degs
+2018-09-18 06:31:01 Drive Axis1 to 22 Degree
+2018-09-18 06:34:38 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=24 degs
+2018-09-18 06:34:45 Drive Axis1 to 24 Degree
+2018-09-18 06:38:23 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=26 degs
+2018-09-18 06:38:29 Drive Axis1 to 26 Degree
+2018-09-18 06:42:07 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=28 degs
+2018-09-18 06:42:13 Drive Axis1 to 28 Degree
+2018-09-18 06:45:51 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=30 degs
+2018-09-18 06:45:57 Drive Axis1 to 30 Degree
+2018-09-18 06:49:35 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=32 degs
+2018-09-18 06:49:42 Drive Axis1 to 32 Degree
+2018-09-18 06:53:20 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=34 degs
+2018-09-18 06:53:26 Drive Axis1 to 34 Degree
+2018-09-18 06:57:04 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=36 degs
+2018-09-18 06:57:10 Drive Axis1 to 36 Degree
+2018-09-18 07:00:48 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=38 degs
+2018-09-18 07:00:55 Drive Axis1 to 38 Degree
+2018-09-18 07:04:32 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=40 degs
+2018-09-18 07:04:38 Drive Axis1 to 40 Degree
+2018-09-18 07:08:16 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=42 degs
+2018-09-18 07:08:23 Drive Axis1 to 42 Degree
+2018-09-18 07:12:00 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=44 degs
+2018-09-18 07:12:07 Drive Axis1 to 44 Degree
+2018-09-18 07:15:44 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=46 degs
+2018-09-18 07:16:08 Setting U vec: h=1 k=1 l=0
+2018-09-18 07:16:14 Setting V vec: h=0 k=0 l=1
+2018-09-18 07:16:33 Comment: Reconfigure UB matrix at 12 K
+2018-09-18 07:18:15 Set Title: Sitting back 440
+2018-09-18 07:19:45 Relative Scan axis1, run 289209
+2018-09-18 07:27:03 Set Title: Sitting back 222
+2018-09-18 07:28:52 Relative Scan axis1, run 289211
+2018-09-18 07:35:36 Drive Axis1 to 3.69093935112 Degree
+2018-09-18 07:35:36 New X/Y Signal ROI at 2Theta=[61.3761102117,66.3761102117] Phi=[-5.06663992275,4.93336007725]
+2018-09-18 07:35:36 Driving to: (3,3,1) at Omega=3.69093935112
+2018-09-18 07:36:18 Set Title: Sitting back 331
+2018-09-18 07:36:25 Relative Scan axis1, run 289213
+2018-09-18 07:43:26 Set Incident Energy to 3.32 meV
+2018-09-18 07:43:26 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=46 degs
+2018-09-18 07:44:26 Drive Axis1 to 46 Degree
+2018-09-18 07:48:04 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=48 degs
+2018-09-18 07:48:11 Drive Axis1 to 48 Degree
+2018-09-18 07:51:48 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=50 degs
+2018-09-18 07:51:55 Drive Axis1 to 50 Degree
+2018-09-18 07:55:33 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=52 degs
+2018-09-18 07:55:39 Drive Axis1 to 52 Degree
+2018-09-18 07:59:17 Set Title: Ce2Zr2O7 background T=12 K, Ei=3.32 meV, w=54 degs
+2018-09-18 07:59:24 Drive Axis1 to 54 Degree
+2018-09-18 13:53:26 Drive Axis1 to -25.0815979394 Degree
+2018-09-18 13:53:26 New X/Y Signal ROI at 2Theta=[44.6272820156,49.6272820156] Phi=[-13.6864351165,-3.68643511654]
+2018-09-18 13:53:26 Driving to: (1,1,1) at Omega=-25.0815979394
+2018-09-18 16:41:30 Set Title: Dummy while beam Ramping sitting on 111
+2018-09-18 17:53:54 Set Incident Energy to 3.32 meV
+2018-09-18 17:53:54 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-140 degs
+2018-09-18 17:56:43 Drive Axis1 to -140 Degree
+2018-09-18 18:02:45 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-138 degs
+2018-09-18 18:02:52 Drive Axis1 to -138 Degree
+2018-09-18 18:08:53 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-136 degs
+2018-09-18 18:09:00 Drive Axis1 to -136 Degree
+2018-09-18 18:15:02 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-134 degs
+2018-09-18 18:15:08 Drive Axis1 to -134 Degree
+2018-09-18 18:21:10 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-132 degs
+2018-09-18 18:21:17 Drive Axis1 to -132 Degree
+2018-09-18 18:27:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-130 degs
+2018-09-18 18:27:25 Drive Axis1 to -130 Degree
+2018-09-18 18:34:14 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-128 degs
+2018-09-18 18:34:21 Drive Axis1 to -128 Degree
+2018-09-18 18:41:09 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-126 degs
+2018-09-18 18:41:15 Drive Axis1 to -126 Degree
+2018-09-18 18:47:17 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-124 degs
+2018-09-18 18:47:24 Drive Axis1 to -124 Degree
+2018-09-18 18:53:26 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-122 degs
+2018-09-18 18:53:33 Drive Axis1 to -122 Degree
+2018-09-18 18:59:35 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-120 degs
+2018-09-18 18:59:41 Drive Axis1 to -120 Degree
+2018-09-18 19:05:43 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-118 degs
+2018-09-18 19:05:50 Drive Axis1 to -118 Degree
+2018-09-18 19:11:52 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-116 degs
+2018-09-18 19:11:59 Drive Axis1 to -116 Degree
+2018-09-18 19:18:01 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-114 degs
+2018-09-18 19:18:08 Drive Axis1 to -114 Degree
+2018-09-18 19:24:10 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-112 degs
+2018-09-18 19:24:17 Drive Axis1 to -112 Degree
+2018-09-18 19:30:20 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-110 degs
+2018-09-18 19:30:27 Drive Axis1 to -110 Degree
+2018-09-18 19:36:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-108 degs
+2018-09-18 19:36:36 Drive Axis1 to -108 Degree
+2018-09-18 19:42:39 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-106 degs
+2018-09-18 19:42:45 Drive Axis1 to -106 Degree
+2018-09-18 19:48:48 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-104 degs
+2018-09-18 19:48:55 Drive Axis1 to -104 Degree
+2018-09-18 19:54:58 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-102 degs
+2018-09-18 19:55:04 Drive Axis1 to -102 Degree
+2018-09-18 20:01:07 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-100 degs
+2018-09-18 20:01:14 Drive Axis1 to -100 Degree
+2018-09-18 20:07:17 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-98 degs
+2018-09-18 20:07:24 Drive Axis1 to -98 Degree
+2018-09-18 20:13:26 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-96 degs
+2018-09-18 20:13:33 Drive Axis1 to -96 Degree
+2018-09-18 20:19:35 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-94 degs
+2018-09-18 20:19:42 Drive Axis1 to -94 Degree
+2018-09-18 20:25:45 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-92 degs
+2018-09-18 20:25:51 Drive Axis1 to -92 Degree
+2018-09-18 20:35:45 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-90 degs
+2018-09-18 20:35:51 Drive Axis1 to -90 Degree
+2018-09-18 20:41:53 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-88 degs
+2018-09-18 20:42:00 Drive Axis1 to -88 Degree
+2018-09-18 20:48:02 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-86 degs
+2018-09-18 20:48:09 Drive Axis1 to -86 Degree
+2018-09-18 20:54:11 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-84 degs
+2018-09-18 20:54:17 Drive Axis1 to -84 Degree
+2018-09-18 21:00:20 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-82 degs
+2018-09-18 21:00:26 Drive Axis1 to -82 Degree
+2018-09-18 21:06:28 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-80 degs
+2018-09-18 21:06:35 Drive Axis1 to -80 Degree
+2018-09-18 21:12:37 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-78 degs
+2018-09-18 21:12:44 Drive Axis1 to -78 Degree
+2018-09-18 21:18:46 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-76 degs
+2018-09-18 21:18:53 Drive Axis1 to -76 Degree
+2018-09-18 21:24:54 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-74 degs
+2018-09-18 21:25:01 Drive Axis1 to -74 Degree
+2018-09-18 21:31:03 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-72 degs
+2018-09-18 21:31:10 Drive Axis1 to -72 Degree
+2018-09-18 21:37:12 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-70 degs
+2018-09-18 21:37:18 Drive Axis1 to -70 Degree
+2018-09-18 21:43:21 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-68 degs
+2018-09-18 21:43:27 Drive Axis1 to -68 Degree
+2018-09-18 21:49:30 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-66 degs
+2018-09-18 21:49:36 Drive Axis1 to -66 Degree
+2018-09-18 21:55:38 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-64 degs
+2018-09-18 21:55:45 Drive Axis1 to -64 Degree
+2018-09-18 22:01:47 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-62 degs
+2018-09-18 22:01:54 Drive Axis1 to -62 Degree
+2018-09-18 22:07:56 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-60 degs
+2018-09-18 22:08:02 Drive Axis1 to -60 Degree
+2018-09-18 22:14:04 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-58 degs
+2018-09-18 22:14:11 Drive Axis1 to -58 Degree
+2018-09-18 22:20:12 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-56 degs
+2018-09-18 22:20:19 Drive Axis1 to -56 Degree
+2018-09-18 22:26:20 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-54 degs
+2018-09-18 22:26:27 Drive Axis1 to -54 Degree
+2018-09-18 22:32:28 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-52 degs
+2018-09-18 22:32:34 Drive Axis1 to -52 Degree
+2018-09-18 22:38:36 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-50 degs
+2018-09-18 22:38:42 Drive Axis1 to -50 Degree
+2018-09-18 22:44:44 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-48 degs
+2018-09-18 22:44:51 Drive Axis1 to -48 Degree
+2018-09-18 22:50:52 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-46 degs
+2018-09-18 22:50:59 Drive Axis1 to -46 Degree
+2018-09-18 22:57:00 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-44 degs
+2018-09-18 22:57:06 Drive Axis1 to -44 Degree
+2018-09-18 23:03:07 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-42 degs
+2018-09-18 23:03:14 Drive Axis1 to -42 Degree
+2018-09-18 23:09:14 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-40 degs
+2018-09-18 23:09:20 Drive Axis1 to -40 Degree
+2018-09-18 23:17:11 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-38 degs
+2018-09-18 23:17:18 Drive Axis1 to -38 Degree
+2018-09-18 23:23:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-36 degs
+2018-09-18 23:23:25 Drive Axis1 to -36 Degree
+2018-09-18 23:29:51 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-34 degs
+2018-09-18 23:29:57 Drive Axis1 to -34 Degree
+2018-09-18 23:35:58 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-32 degs
+2018-09-18 23:36:04 Drive Axis1 to -32 Degree
+2018-09-18 23:42:05 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-30 degs
+2018-09-18 23:42:11 Drive Axis1 to -30 Degree
+2018-09-18 23:48:12 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-28 degs
+2018-09-18 23:48:18 Drive Axis1 to -28 Degree
+2018-09-18 23:55:13 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-26 degs
+2018-09-18 23:55:19 Drive Axis1 to -26 Degree
+2018-09-19 00:01:20 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-24 degs
+2018-09-19 00:01:26 Drive Axis1 to -24 Degree
+2018-09-19 00:07:27 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-22 degs
+2018-09-19 00:07:33 Drive Axis1 to -22 Degree
+2018-09-19 00:13:34 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-20 degs
+2018-09-19 00:13:40 Drive Axis1 to -20 Degree
+2018-09-19 00:19:41 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-18 degs
+2018-09-19 00:19:48 Drive Axis1 to -18 Degree
+2018-09-19 00:25:49 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-16 degs
+2018-09-19 00:25:55 Drive Axis1 to -16 Degree
+2018-09-19 00:31:56 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-14 degs
+2018-09-19 00:32:03 Drive Axis1 to -14 Degree
+2018-09-19 00:38:03 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-12 degs
+2018-09-19 00:38:10 Drive Axis1 to -12 Degree
+2018-09-19 00:44:11 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-10 degs
+2018-09-19 00:44:18 Drive Axis1 to -10 Degree
+2018-09-19 00:50:42 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-8 degs
+2018-09-19 00:50:49 Drive Axis1 to -8 Degree
+2018-09-19 00:56:50 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-6 degs
+2018-09-19 00:56:56 Drive Axis1 to -6 Degree
+2018-09-19 01:02:57 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-4 degs
+2018-09-19 01:03:04 Drive Axis1 to -4 Degree
+2018-09-19 01:09:05 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=-2 degs
+2018-09-19 01:09:12 Drive Axis1 to -2 Degree
+2018-09-19 01:15:13 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=0 degs
+2018-09-19 01:15:20 Drive Axis1 to 0 Degree
+2018-09-19 01:21:21 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=2 degs
+2018-09-19 01:21:27 Drive Axis1 to 2 Degree
+2018-09-19 01:27:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=4 degs
+2018-09-19 01:27:35 Drive Axis1 to 4 Degree
+2018-09-19 01:33:36 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=6 degs
+2018-09-19 01:33:43 Drive Axis1 to 6 Degree
+2018-09-19 01:39:44 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=8 degs
+2018-09-19 01:39:50 Drive Axis1 to 8 Degree
+2018-09-19 01:46:23 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=10 degs
+2018-09-19 01:46:30 Drive Axis1 to 10 Degree
+2018-09-19 01:52:56 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=12 degs
+2018-09-19 01:53:03 Drive Axis1 to 12 Degree
+2018-09-19 02:07:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=14 degs
+2018-09-19 02:07:36 Drive Axis1 to 14 Degree
+2018-09-19 02:14:02 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=16 degs
+2018-09-19 02:14:08 Drive Axis1 to 16 Degree
+2018-09-19 02:20:09 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=18 degs
+2018-09-19 02:20:16 Drive Axis1 to 18 Degree
+2018-09-19 02:26:17 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=20 degs
+2018-09-19 02:26:23 Drive Axis1 to 20 Degree
+2018-09-19 02:32:25 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=22 degs
+2018-09-19 02:32:32 Drive Axis1 to 22 Degree
+2018-09-19 02:38:59 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=24 degs
+2018-09-19 02:39:05 Drive Axis1 to 24 Degree
+2018-09-19 02:45:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=26 degs
+2018-09-19 02:45:13 Drive Axis1 to 26 Degree
+2018-09-19 02:51:14 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=28 degs
+2018-09-19 02:51:21 Drive Axis1 to 28 Degree
+2018-09-19 02:57:23 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=30 degs
+2018-09-19 02:57:29 Drive Axis1 to 30 Degree
+2018-09-19 03:03:31 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=32 degs
+2018-09-19 03:03:38 Drive Axis1 to 32 Degree
+2018-09-19 03:09:39 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=34 degs
+2018-09-19 03:09:46 Drive Axis1 to 34 Degree
+2018-09-19 03:15:48 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=36 degs
+2018-09-19 03:15:54 Drive Axis1 to 36 Degree
+2018-09-19 03:21:56 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=38 degs
+2018-09-19 03:22:03 Drive Axis1 to 38 Degree
+2018-09-19 03:28:05 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=40 degs
+2018-09-19 03:28:11 Drive Axis1 to 40 Degree
+2018-09-19 03:34:13 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=42 degs
+2018-09-19 03:34:20 Drive Axis1 to 42 Degree
+2018-09-19 03:40:22 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=44 degs
+2018-09-19 03:40:28 Drive Axis1 to 44 Degree
+2018-09-19 03:46:30 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=46 degs
+2018-09-19 03:46:37 Drive Axis1 to 46 Degree
+2018-09-19 03:52:39 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=48 degs
+2018-09-19 03:52:45 Drive Axis1 to 48 Degree
+2018-09-19 03:58:47 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=50 degs
+2018-09-19 03:58:54 Drive Axis1 to 50 Degree
+2018-09-19 04:04:56 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=52 degs
+2018-09-19 04:05:02 Drive Axis1 to 52 Degree
+2018-09-19 04:11:04 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=54 degs
+2018-09-19 04:11:11 Drive Axis1 to 54 Degree
+2018-09-19 04:17:38 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=56 degs
+2018-09-19 04:17:44 Drive Axis1 to 56 Degree
+2018-09-19 04:24:08 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=58 degs
+2018-09-19 04:24:14 Drive Axis1 to 58 Degree
+2018-09-19 04:30:37 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=60 degs
+2018-09-19 04:30:44 Drive Axis1 to 60 Degree
+2018-09-19 04:36:46 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=62 degs
+2018-09-19 04:36:53 Drive Axis1 to 62 Degree
+2018-09-19 04:42:55 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=64 degs
+2018-09-19 04:43:01 Drive Axis1 to 64 Degree
+2018-09-19 04:49:03 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=66 degs
+2018-09-19 04:49:10 Drive Axis1 to 66 Degree
+2018-09-19 04:55:11 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=68 degs
+2018-09-19 04:55:18 Drive Axis1 to 68 Degree
+2018-09-19 05:01:20 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=70 degs
+2018-09-19 05:01:27 Drive Axis1 to 70 Degree
+2018-09-19 05:07:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=72 degs
+2018-09-19 05:07:35 Drive Axis1 to 72 Degree
+2018-09-19 05:13:37 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=74 degs
+2018-09-19 05:13:44 Drive Axis1 to 74 Degree
+2018-09-19 05:19:46 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=76 degs
+2018-09-19 05:19:52 Drive Axis1 to 76 Degree
+2018-09-19 05:26:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=78 degs
+2018-09-19 05:26:26 Drive Axis1 to 78 Degree
+2018-09-19 05:32:27 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=80 degs
+2018-09-19 05:32:34 Drive Axis1 to 80 Degree
+2018-09-19 05:38:36 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=82 degs
+2018-09-19 05:38:42 Drive Axis1 to 82 Degree
+2018-09-19 05:44:45 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=84 degs
+2018-09-19 05:44:51 Drive Axis1 to 84 Degree
+2018-09-19 05:50:53 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=86 degs
+2018-09-19 05:51:00 Drive Axis1 to 86 Degree
+2018-09-19 05:57:02 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=88 degs
+2018-09-19 05:57:08 Drive Axis1 to 88 Degree
+2018-09-19 06:03:11 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=90 degs
+2018-09-19 06:03:17 Drive Axis1 to 90 Degree
+2018-09-19 06:09:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=92 degs
+2018-09-19 06:09:25 Drive Axis1 to 92 Degree
+2018-09-19 06:15:27 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=94 degs
+2018-09-19 06:15:34 Drive Axis1 to 94 Degree
+2018-09-19 06:21:36 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=96 degs
+2018-09-19 06:21:42 Drive Axis1 to 96 Degree
+2018-09-19 06:27:45 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=98 degs
+2018-09-19 06:27:51 Drive Axis1 to 98 Degree
+2018-09-19 06:33:53 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=100 degs
+2018-09-19 06:34:00 Drive Axis1 to 100 Degree
+2018-09-19 06:40:02 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=102 degs
+2018-09-19 06:40:09 Drive Axis1 to 102 Degree
+2018-09-19 06:46:11 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=104 degs
+2018-09-19 06:46:18 Drive Axis1 to 104 Degree
+2018-09-19 06:52:20 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=106 degs
+2018-09-19 06:52:27 Drive Axis1 to 106 Degree
+2018-09-19 06:58:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=108 degs
+2018-09-19 06:58:35 Drive Axis1 to 108 Degree
+2018-09-19 07:05:00 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=110 degs
+2018-09-19 07:05:06 Drive Axis1 to 110 Degree
+2018-09-19 07:11:30 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=112 degs
+2018-09-19 07:11:37 Drive Axis1 to 112 Degree
+2018-09-19 07:17:39 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=114 degs
+2018-09-19 07:17:46 Drive Axis1 to 114 Degree
+2018-09-19 07:23:48 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=116 degs
+2018-09-19 07:23:54 Drive Axis1 to 116 Degree
+2018-09-19 07:29:56 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=118 degs
+2018-09-19 07:30:02 Drive Axis1 to 118 Degree
+2018-09-19 07:36:26 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=120 degs
+2018-09-19 07:36:33 Drive Axis1 to 120 Degree
+2018-09-19 07:42:35 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=122 degs
+2018-09-19 07:42:41 Drive Axis1 to 122 Degree
+2018-09-19 07:48:44 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=124 degs
+2018-09-19 07:48:50 Drive Axis1 to 124 Degree
+2018-09-19 07:54:52 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=126 degs
+2018-09-19 07:54:59 Drive Axis1 to 126 Degree
+2018-09-19 08:01:43 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=128 degs
+2018-09-19 08:01:50 Drive Axis1 to 128 Degree
+2018-09-19 08:07:51 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=130 degs
+2018-09-19 08:07:58 Drive Axis1 to 130 Degree
+2018-09-19 08:14:00 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=132 degs
+2018-09-19 08:14:07 Drive Axis1 to 132 Degree
+2018-09-19 08:20:08 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=134 degs
+2018-09-19 08:20:15 Drive Axis1 to 134 Degree
+2018-09-19 08:26:17 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=136 degs
+2018-09-19 08:26:23 Drive Axis1 to 136 Degree
+2018-09-19 08:32:25 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=138 degs
+2018-09-19 08:32:32 Drive Axis1 to 138 Degree
+2018-09-19 08:38:33 Set Title: Ce2Zr2O7 background T=35mK, Ei=3.32 meV, w=140 degs
+2018-09-19 08:38:40 Drive Axis1 to 140 Degree
+2018-09-19 08:45:31 Set Incident Energy to 12 meV
+2018-09-19 08:45:31 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-140 degs
+2018-09-19 08:52:01 Drive Axis1 to -140 Degree
+2018-09-19 08:55:38 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-138 degs
+2018-09-19 08:55:44 Drive Axis1 to -138 Degree
+2018-09-19 08:59:22 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-136 degs
+2018-09-19 08:59:29 Drive Axis1 to -136 Degree
+2018-09-19 09:03:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-134 degs
+2018-09-19 09:03:12 Drive Axis1 to -134 Degree
+2018-09-19 09:06:50 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-132 degs
+2018-09-19 09:06:57 Drive Axis1 to -132 Degree
+2018-09-19 09:10:34 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-130 degs
+2018-09-19 09:10:41 Drive Axis1 to -130 Degree
+2018-09-19 09:14:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-128 degs
+2018-09-19 09:14:25 Drive Axis1 to -128 Degree
+2018-09-19 09:18:03 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-126 degs
+2018-09-19 09:18:09 Drive Axis1 to -126 Degree
+2018-09-19 09:21:47 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-124 degs
+2018-09-19 09:21:53 Drive Axis1 to -124 Degree
+2018-09-19 09:25:30 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-122 degs
+2018-09-19 09:25:37 Drive Axis1 to -122 Degree
+2018-09-19 09:29:14 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-120 degs
+2018-09-19 09:29:20 Drive Axis1 to -120 Degree
+2018-09-19 09:32:58 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-118 degs
+2018-09-19 09:33:04 Drive Axis1 to -118 Degree
+2018-09-19 09:36:42 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-116 degs
+2018-09-19 09:36:48 Drive Axis1 to -116 Degree
+2018-09-19 09:40:26 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-114 degs
+2018-09-19 09:40:32 Drive Axis1 to -114 Degree
+2018-09-19 09:44:10 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-112 degs
+2018-09-19 09:44:16 Drive Axis1 to -112 Degree
+2018-09-19 09:47:54 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-110 degs
+2018-09-19 09:48:00 Drive Axis1 to -110 Degree
+2018-09-19 09:51:38 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-108 degs
+2018-09-19 09:51:45 Drive Axis1 to -108 Degree
+2018-09-19 09:55:22 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-106 degs
+2018-09-19 09:55:28 Drive Axis1 to -106 Degree
+2018-09-19 09:59:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-104 degs
+2018-09-19 09:59:13 Drive Axis1 to -104 Degree
+2018-09-19 10:02:50 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-102 degs
+2018-09-19 10:02:57 Drive Axis1 to -102 Degree
+2018-09-19 10:06:35 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-100 degs
+2018-09-19 10:06:41 Drive Axis1 to -100 Degree
+2018-09-19 10:10:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-98 degs
+2018-09-19 10:10:25 Drive Axis1 to -98 Degree
+2018-09-19 10:14:03 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-96 degs
+2018-09-19 10:14:10 Drive Axis1 to -96 Degree
+2018-09-19 10:17:48 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-94 degs
+2018-09-19 10:17:54 Drive Axis1 to -94 Degree
+2018-09-19 10:21:32 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-92 degs
+2018-09-19 10:21:38 Drive Axis1 to -92 Degree
+2018-09-19 10:25:16 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-90 degs
+2018-09-19 10:25:23 Drive Axis1 to -90 Degree
+2018-09-19 10:29:00 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-88 degs
+2018-09-19 10:29:07 Drive Axis1 to -88 Degree
+2018-09-19 10:32:45 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-86 degs
+2018-09-19 10:32:51 Drive Axis1 to -86 Degree
+2018-09-19 10:36:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-84 degs
+2018-09-19 10:36:36 Drive Axis1 to -84 Degree
+2018-09-19 10:40:13 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-82 degs
+2018-09-19 10:40:20 Drive Axis1 to -82 Degree
+2018-09-19 10:43:57 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-80 degs
+2018-09-19 10:44:03 Drive Axis1 to -80 Degree
+2018-09-19 10:47:41 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-78 degs
+2018-09-19 10:47:47 Drive Axis1 to -78 Degree
+2018-09-19 10:51:25 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-76 degs
+2018-09-19 10:51:31 Drive Axis1 to -76 Degree
+2018-09-19 10:55:09 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-74 degs
+2018-09-19 10:55:15 Drive Axis1 to -74 Degree
+2018-09-19 10:58:52 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-72 degs
+2018-09-19 10:58:59 Drive Axis1 to -72 Degree
+2018-09-19 11:02:37 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-70 degs
+2018-09-19 11:02:43 Drive Axis1 to -70 Degree
+2018-09-19 11:06:21 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-68 degs
+2018-09-19 11:06:27 Drive Axis1 to -68 Degree
+2018-09-19 11:10:05 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-66 degs
+2018-09-19 11:10:11 Drive Axis1 to -66 Degree
+2018-09-19 11:13:49 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-64 degs
+2018-09-19 11:13:56 Drive Axis1 to -64 Degree
+2018-09-19 11:17:33 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-62 degs
+2018-09-19 11:17:39 Drive Axis1 to -62 Degree
+2018-09-19 11:21:17 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-60 degs
+2018-09-19 11:21:24 Drive Axis1 to -60 Degree
+2018-09-19 11:25:01 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-58 degs
+2018-09-19 11:25:08 Drive Axis1 to -58 Degree
+2018-09-19 11:28:45 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-56 degs
+2018-09-19 11:28:52 Drive Axis1 to -56 Degree
+2018-09-19 11:32:30 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-54 degs
+2018-09-19 11:32:36 Drive Axis1 to -54 Degree
+2018-09-19 11:36:14 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-52 degs
+2018-09-19 11:36:20 Drive Axis1 to -52 Degree
+2018-09-19 11:39:58 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-50 degs
+2018-09-19 11:40:04 Drive Axis1 to -50 Degree
+2018-09-19 11:43:42 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-48 degs
+2018-09-19 11:43:48 Drive Axis1 to -48 Degree
+2018-09-19 11:47:26 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-46 degs
+2018-09-19 11:47:32 Drive Axis1 to -46 Degree
+2018-09-19 11:51:10 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-44 degs
+2018-09-19 11:51:16 Drive Axis1 to -44 Degree
+2018-09-19 11:54:54 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-42 degs
+2018-09-19 11:55:00 Drive Axis1 to -42 Degree
+2018-09-19 11:58:38 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-40 degs
+2018-09-19 11:58:45 Drive Axis1 to -40 Degree
+2018-09-19 12:02:22 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-38 degs
+2018-09-19 12:02:29 Drive Axis1 to -38 Degree
+2018-09-19 12:06:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-36 degs
+2018-09-19 12:06:13 Drive Axis1 to -36 Degree
+2018-09-19 12:09:51 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-34 degs
+2018-09-19 12:09:57 Drive Axis1 to -34 Degree
+2018-09-19 12:13:35 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-32 degs
+2018-09-19 12:13:42 Drive Axis1 to -32 Degree
+2018-09-19 12:17:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-30 degs
+2018-09-19 12:17:26 Drive Axis1 to -30 Degree
+2018-09-19 12:21:28 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-28 degs
+2018-09-19 12:21:34 Drive Axis1 to -28 Degree
+2018-09-19 12:25:12 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-26 degs
+2018-09-19 12:25:19 Drive Axis1 to -26 Degree
+2018-09-19 12:28:56 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-24 degs
+2018-09-19 12:29:03 Drive Axis1 to -24 Degree
+2018-09-19 12:32:40 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-22 degs
+2018-09-19 12:32:47 Drive Axis1 to -22 Degree
+2018-09-19 12:36:24 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-20 degs
+2018-09-19 12:36:31 Drive Axis1 to -20 Degree
+2018-09-19 12:40:09 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-18 degs
+2018-09-19 12:40:15 Drive Axis1 to -18 Degree
+2018-09-19 12:43:53 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-16 degs
+2018-09-19 12:43:59 Drive Axis1 to -16 Degree
+2018-09-19 12:47:37 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-14 degs
+2018-09-19 12:47:44 Drive Axis1 to -14 Degree
+2018-09-19 12:51:21 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-12 degs
+2018-09-19 12:51:28 Drive Axis1 to -12 Degree
+2018-09-19 12:55:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-10 degs
+2018-09-19 12:55:12 Drive Axis1 to -10 Degree
+2018-09-19 12:58:50 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-8 degs
+2018-09-19 12:58:57 Drive Axis1 to -8 Degree
+2018-09-19 13:02:34 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-6 degs
+2018-09-19 13:02:41 Drive Axis1 to -6 Degree
+2018-09-19 13:06:18 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-4 degs
+2018-09-19 13:06:25 Drive Axis1 to -4 Degree
+2018-09-19 13:10:02 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=-2 degs
+2018-09-19 13:10:09 Drive Axis1 to -2 Degree
+2018-09-19 13:13:46 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=0 degs
+2018-09-19 13:13:53 Drive Axis1 to 0 Degree
+2018-09-19 13:17:30 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=2 degs
+2018-09-19 13:17:37 Drive Axis1 to 2 Degree
+2018-09-19 13:21:15 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=4 degs
+2018-09-19 13:21:21 Drive Axis1 to 4 Degree
+2018-09-19 13:24:58 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=6 degs
+2018-09-19 13:25:05 Drive Axis1 to 6 Degree
+2018-09-19 13:28:43 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=8 degs
+2018-09-19 13:28:49 Drive Axis1 to 8 Degree
+2018-09-19 13:32:44 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=10 degs
+2018-09-19 13:32:51 Drive Axis1 to 10 Degree
+2018-09-19 13:36:28 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=12 degs
+2018-09-19 13:36:35 Drive Axis1 to 12 Degree
+2018-09-19 13:40:12 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=14 degs
+2018-09-19 13:40:19 Drive Axis1 to 14 Degree
+2018-09-19 13:43:57 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=16 degs
+2018-09-19 13:44:03 Drive Axis1 to 16 Degree
+2018-09-19 13:48:03 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=18 degs
+2018-09-19 13:48:09 Drive Axis1 to 18 Degree
+2018-09-19 13:51:47 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=20 degs
+2018-09-19 13:51:53 Drive Axis1 to 20 Degree
+2018-09-19 13:55:31 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=22 degs
+2018-09-19 13:55:37 Drive Axis1 to 22 Degree
+2018-09-19 13:59:15 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=24 degs
+2018-09-19 13:59:21 Drive Axis1 to 24 Degree
+2018-09-19 14:02:59 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=26 degs
+2018-09-19 14:03:05 Drive Axis1 to 26 Degree
+2018-09-19 14:06:43 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=28 degs
+2018-09-19 14:06:49 Drive Axis1 to 28 Degree
+2018-09-19 14:10:27 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=30 degs
+2018-09-19 14:10:33 Drive Axis1 to 30 Degree
+2018-09-19 14:14:11 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=32 degs
+2018-09-19 14:14:17 Drive Axis1 to 32 Degree
+2018-09-19 14:18:17 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=34 degs
+2018-09-19 14:18:24 Drive Axis1 to 34 Degree
+2018-09-19 14:22:02 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=36 degs
+2018-09-19 14:22:08 Drive Axis1 to 36 Degree
+2018-09-19 14:25:46 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=38 degs
+2018-09-19 14:25:52 Drive Axis1 to 38 Degree
+2018-09-19 14:29:30 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=40 degs
+2018-09-19 14:29:36 Drive Axis1 to 40 Degree
+2018-09-19 14:33:14 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=42 degs
+2018-09-19 14:33:20 Drive Axis1 to 42 Degree
+2018-09-19 14:36:58 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=44 degs
+2018-09-19 14:37:04 Drive Axis1 to 44 Degree
+2018-09-19 14:40:42 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=46 degs
+2018-09-19 14:40:48 Drive Axis1 to 46 Degree
+2018-09-19 14:44:26 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=48 degs
+2018-09-19 14:44:33 Drive Axis1 to 48 Degree
+2018-09-19 14:48:10 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=50 degs
+2018-09-19 14:48:17 Drive Axis1 to 50 Degree
+2018-09-19 14:51:54 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=52 degs
+2018-09-19 14:52:01 Drive Axis1 to 52 Degree
+2018-09-19 14:55:38 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=54 degs
+2018-09-19 14:55:45 Drive Axis1 to 54 Degree
+2018-09-19 14:59:22 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=56 degs
+2018-09-19 14:59:29 Drive Axis1 to 56 Degree
+2018-09-19 15:03:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=58 degs
+2018-09-19 15:03:13 Drive Axis1 to 58 Degree
+2018-09-19 15:06:50 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=60 degs
+2018-09-19 15:06:57 Drive Axis1 to 60 Degree
+2018-09-19 15:10:35 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=62 degs
+2018-09-19 15:10:41 Drive Axis1 to 62 Degree
+2018-09-19 15:14:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=64 degs
+2018-09-19 15:14:26 Drive Axis1 to 64 Degree
+2018-09-19 15:18:03 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=66 degs
+2018-09-19 15:18:10 Drive Axis1 to 66 Degree
+2018-09-19 15:21:47 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=68 degs
+2018-09-19 15:21:54 Drive Axis1 to 68 Degree
+2018-09-19 15:25:32 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=70 degs
+2018-09-19 15:25:39 Drive Axis1 to 70 Degree
+2018-09-19 15:29:16 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=72 degs
+2018-09-19 15:29:23 Drive Axis1 to 72 Degree
+2018-09-19 15:33:00 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=74 degs
+2018-09-19 15:33:07 Drive Axis1 to 74 Degree
+2018-09-19 15:36:44 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=76 degs
+2018-09-19 15:36:51 Drive Axis1 to 76 Degree
+2018-09-19 15:40:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=78 degs
+2018-09-19 15:40:35 Drive Axis1 to 78 Degree
+2018-09-19 15:44:13 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=80 degs
+2018-09-19 15:44:20 Drive Axis1 to 80 Degree
+2018-09-19 15:47:57 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=82 degs
+2018-09-19 15:48:04 Drive Axis1 to 82 Degree
+2018-09-19 15:51:41 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=84 degs
+2018-09-19 15:51:48 Drive Axis1 to 84 Degree
+2018-09-19 15:55:25 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=86 degs
+2018-09-19 15:55:32 Drive Axis1 to 86 Degree
+2018-09-19 15:59:09 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=88 degs
+2018-09-19 15:59:16 Drive Axis1 to 88 Degree
+2018-09-19 16:02:54 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=90 degs
+2018-09-19 16:03:00 Drive Axis1 to 90 Degree
+2018-09-19 16:06:37 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=92 degs
+2018-09-19 16:06:44 Drive Axis1 to 92 Degree
+2018-09-19 16:10:45 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=94 degs
+2018-09-19 16:10:52 Drive Axis1 to 94 Degree
+2018-09-19 16:14:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=96 degs
+2018-09-19 16:14:35 Drive Axis1 to 96 Degree
+2018-09-19 16:18:12 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=98 degs
+2018-09-19 16:18:19 Drive Axis1 to 98 Degree
+2018-09-19 16:21:56 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=100 degs
+2018-09-19 16:22:02 Drive Axis1 to 100 Degree
+2018-09-19 16:25:39 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=102 degs
+2018-09-19 16:25:46 Drive Axis1 to 102 Degree
+2018-09-19 16:29:23 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=104 degs
+2018-09-19 16:29:30 Drive Axis1 to 104 Degree
+2018-09-19 16:33:07 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=106 degs
+2018-09-19 16:33:13 Drive Axis1 to 106 Degree
+2018-09-19 16:36:50 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=108 degs
+2018-09-19 16:36:57 Drive Axis1 to 108 Degree
+2018-09-19 16:40:34 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=110 degs
+2018-09-19 16:40:41 Drive Axis1 to 110 Degree
+2018-09-19 16:44:18 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=112 degs
+2018-09-19 16:44:24 Drive Axis1 to 112 Degree
+2018-09-19 16:48:01 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=114 degs
+2018-09-19 16:48:08 Drive Axis1 to 114 Degree
+2018-09-19 16:51:44 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=116 degs
+2018-09-19 16:51:50 Drive Axis1 to 116 Degree
+2018-09-19 16:55:27 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=118 degs
+2018-09-19 16:55:33 Drive Axis1 to 118 Degree
+2018-09-19 16:59:09 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=120 degs
+2018-09-19 16:59:16 Drive Axis1 to 120 Degree
+2018-09-19 17:02:52 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=122 degs
+2018-09-19 17:02:59 Drive Axis1 to 122 Degree
+2018-09-19 17:06:35 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=124 degs
+2018-09-19 17:06:42 Drive Axis1 to 124 Degree
+2018-09-19 17:10:18 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=126 degs
+2018-09-19 17:10:24 Drive Axis1 to 126 Degree
+2018-09-19 17:14:00 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=128 degs
+2018-09-19 17:14:07 Drive Axis1 to 128 Degree
+2018-09-19 17:17:43 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=130 degs
+2018-09-19 17:17:50 Drive Axis1 to 130 Degree
+2018-09-19 17:21:26 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=132 degs
+2018-09-19 17:21:33 Drive Axis1 to 132 Degree
+2018-09-19 17:25:08 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=134 degs
+2018-09-19 17:25:15 Drive Axis1 to 134 Degree
+2018-09-19 17:28:51 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=136 degs
+2018-09-19 17:28:57 Drive Axis1 to 136 Degree
+2018-09-19 17:32:33 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=138 degs
+2018-09-19 17:32:40 Drive Axis1 to 138 Degree
+2018-09-19 17:36:16 Set Title: Ce2Zr2O7 background T=35mK, Ei=12 meV, w=140 degs
+2018-09-19 17:36:22 Drive Axis1 to 140 Degree
+2018-09-19 17:40:47 Set Incident Energy to 1.55 meV
+2018-09-19 17:40:47 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-140 degs
+2018-09-19 17:47:17 Drive Axis1 to -140 Degree
+2018-09-19 17:53:17 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-138 degs
+2018-09-19 17:53:23 Drive Axis1 to -138 Degree
+2018-09-19 17:59:23 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-136 degs
+2018-09-19 17:59:30 Drive Axis1 to -136 Degree
+2018-09-19 18:05:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-134 degs
+2018-09-19 18:05:36 Drive Axis1 to -134 Degree
+2018-09-19 18:11:36 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-132 degs
+2018-09-19 18:11:43 Drive Axis1 to -132 Degree
+2018-09-19 18:17:43 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-130 degs
+2018-09-19 18:17:49 Drive Axis1 to -130 Degree
+2018-09-19 18:24:36 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-128 degs
+2018-09-19 18:24:43 Drive Axis1 to -128 Degree
+2018-09-19 18:30:44 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-126 degs
+2018-09-19 18:30:50 Drive Axis1 to -126 Degree
+2018-09-19 18:36:50 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-124 degs
+2018-09-19 18:36:57 Drive Axis1 to -124 Degree
+2018-09-19 18:42:57 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-122 degs
+2018-09-19 18:43:03 Drive Axis1 to -122 Degree
+2018-09-19 18:49:03 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-120 degs
+2018-09-19 18:49:10 Drive Axis1 to -120 Degree
+2018-09-19 18:55:10 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-118 degs
+2018-09-19 18:55:16 Drive Axis1 to -118 Degree
+2018-09-19 19:01:16 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-116 degs
+2018-09-19 19:01:23 Drive Axis1 to -116 Degree
+2018-09-19 19:07:23 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-114 degs
+2018-09-19 19:07:29 Drive Axis1 to -114 Degree
+2018-09-19 19:13:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-112 degs
+2018-09-19 19:13:36 Drive Axis1 to -112 Degree
+2018-09-19 19:19:36 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-110 degs
+2018-09-19 19:19:42 Drive Axis1 to -110 Degree
+2018-09-19 19:25:42 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-108 degs
+2018-09-19 19:25:49 Drive Axis1 to -108 Degree
+2018-09-19 19:31:48 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-106 degs
+2018-09-19 19:31:55 Drive Axis1 to -106 Degree
+2018-09-19 19:38:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-104 degs
+2018-09-19 19:38:26 Drive Axis1 to -104 Degree
+2018-09-19 19:44:26 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-102 degs
+2018-09-19 19:44:32 Drive Axis1 to -102 Degree
+2018-09-19 19:50:53 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-100 degs
+2018-09-19 19:51:00 Drive Axis1 to -100 Degree
+2018-09-19 19:57:00 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-98 degs
+2018-09-19 19:57:07 Drive Axis1 to -98 Degree
+2018-09-19 20:03:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-96 degs
+2018-09-19 20:03:13 Drive Axis1 to -96 Degree
+2018-09-19 20:10:05 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-94 degs
+2018-09-19 20:10:11 Drive Axis1 to -94 Degree
+2018-09-19 20:16:12 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-92 degs
+2018-09-19 20:16:18 Drive Axis1 to -92 Degree
+2018-09-19 20:22:18 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-90 degs
+2018-09-19 20:22:25 Drive Axis1 to -90 Degree
+2018-09-19 20:28:25 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-88 degs
+2018-09-19 20:28:31 Drive Axis1 to -88 Degree
+2018-09-19 20:34:30 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-86 degs
+2018-09-19 20:34:37 Drive Axis1 to -86 Degree
+2018-09-19 20:40:36 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-84 degs
+2018-09-19 20:40:43 Drive Axis1 to -84 Degree
+2018-09-19 20:47:04 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-82 degs
+2018-09-19 20:47:11 Drive Axis1 to -82 Degree
+2018-09-19 20:53:11 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-80 degs
+2018-09-19 20:53:17 Drive Axis1 to -80 Degree
+2018-09-19 20:59:17 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-78 degs
+2018-09-19 20:59:23 Drive Axis1 to -78 Degree
+2018-09-19 21:05:23 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-76 degs
+2018-09-19 21:05:29 Drive Axis1 to -76 Degree
+2018-09-19 21:11:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-74 degs
+2018-09-19 21:11:35 Drive Axis1 to -74 Degree
+2018-09-19 21:17:35 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-72 degs
+2018-09-19 21:17:41 Drive Axis1 to -72 Degree
+2018-09-19 21:23:41 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-70 degs
+2018-09-19 21:23:48 Drive Axis1 to -70 Degree
+2018-09-19 21:29:47 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-68 degs
+2018-09-19 21:29:54 Drive Axis1 to -68 Degree
+2018-09-19 21:35:54 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-66 degs
+2018-09-19 21:36:00 Drive Axis1 to -66 Degree
+2018-09-19 21:42:00 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-64 degs
+2018-09-19 21:42:06 Drive Axis1 to -64 Degree
+2018-09-19 21:48:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-62 degs
+2018-09-19 21:48:13 Drive Axis1 to -62 Degree
+2018-09-19 21:54:13 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-60 degs
+2018-09-19 21:54:19 Drive Axis1 to -60 Degree
+2018-09-19 22:00:18 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-58 degs
+2018-09-19 22:00:25 Drive Axis1 to -58 Degree
+2018-09-19 22:06:25 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-56 degs
+2018-09-19 22:06:31 Drive Axis1 to -56 Degree
+2018-09-19 22:12:31 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-54 degs
+2018-09-19 22:12:37 Drive Axis1 to -54 Degree
+2018-09-19 22:18:37 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-52 degs
+2018-09-19 22:18:44 Drive Axis1 to -52 Degree
+2018-09-19 22:24:43 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-50 degs
+2018-09-19 22:24:50 Drive Axis1 to -50 Degree
+2018-09-19 22:30:50 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-48 degs
+2018-09-19 22:30:56 Drive Axis1 to -48 Degree
+2018-09-19 22:37:38 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-46 degs
+2018-09-19 22:37:44 Drive Axis1 to -46 Degree
+2018-09-19 22:43:44 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-44 degs
+2018-09-19 22:43:51 Drive Axis1 to -44 Degree
+2018-09-19 22:49:51 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-42 degs
+2018-09-19 22:49:58 Drive Axis1 to -42 Degree
+2018-09-19 22:55:59 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-40 degs
+2018-09-19 22:56:05 Drive Axis1 to -40 Degree
+2018-09-19 23:02:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-38 degs
+2018-09-19 23:02:12 Drive Axis1 to -38 Degree
+2018-09-19 23:08:13 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-36 degs
+2018-09-19 23:08:19 Drive Axis1 to -36 Degree
+2018-09-19 23:14:20 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-34 degs
+2018-09-19 23:14:26 Drive Axis1 to -34 Degree
+2018-09-19 23:20:26 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-32 degs
+2018-09-19 23:20:33 Drive Axis1 to -32 Degree
+2018-09-19 23:26:32 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-30 degs
+2018-09-19 23:26:39 Drive Axis1 to -30 Degree
+2018-09-19 23:32:39 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-28 degs
+2018-09-19 23:32:46 Drive Axis1 to -28 Degree
+2018-09-19 23:38:46 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-26 degs
+2018-09-19 23:38:52 Drive Axis1 to -26 Degree
+2018-09-19 23:44:52 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-24 degs
+2018-09-19 23:44:58 Drive Axis1 to -24 Degree
+2018-09-19 23:51:20 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-22 degs
+2018-09-19 23:51:27 Drive Axis1 to -22 Degree
+2018-09-19 23:57:27 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-20 degs
+2018-09-19 23:57:34 Drive Axis1 to -20 Degree
+2018-09-20 00:03:33 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-18 degs
+2018-09-20 00:03:39 Drive Axis1 to -18 Degree
+2018-09-20 00:09:39 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-16 degs
+2018-09-20 00:09:45 Drive Axis1 to -16 Degree
+2018-09-20 00:15:45 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-14 degs
+2018-09-20 00:15:52 Drive Axis1 to -14 Degree
+2018-09-20 00:21:52 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-12 degs
+2018-09-20 00:21:58 Drive Axis1 to -12 Degree
+2018-09-20 00:28:22 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-10 degs
+2018-09-20 00:28:29 Drive Axis1 to -10 Degree
+2018-09-20 00:34:28 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-8 degs
+2018-09-20 00:34:35 Drive Axis1 to -8 Degree
+2018-09-20 00:40:35 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-6 degs
+2018-09-20 00:40:42 Drive Axis1 to -6 Degree
+2018-09-20 00:46:41 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-4 degs
+2018-09-20 00:46:48 Drive Axis1 to -4 Degree
+2018-09-20 00:52:48 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=-2 degs
+2018-09-20 00:52:55 Drive Axis1 to -2 Degree
+2018-09-20 00:58:55 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=0 degs
+2018-09-20 00:59:01 Drive Axis1 to 0 Degree
+2018-09-20 01:05:27 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=2 degs
+2018-09-20 01:05:33 Drive Axis1 to 2 Degree
+2018-09-20 01:11:33 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=4 degs
+2018-09-20 01:11:40 Drive Axis1 to 4 Degree
+2018-09-20 01:17:40 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=6 degs
+2018-09-20 01:17:46 Drive Axis1 to 6 Degree
+2018-09-20 01:23:47 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=8 degs
+2018-09-20 01:23:53 Drive Axis1 to 8 Degree
+2018-09-20 01:29:53 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=10 degs
+2018-09-20 01:30:00 Drive Axis1 to 10 Degree
+2018-09-20 01:35:59 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=12 degs
+2018-09-20 01:36:06 Drive Axis1 to 12 Degree
+2018-09-20 01:42:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=14 degs
+2018-09-20 01:42:13 Drive Axis1 to 14 Degree
+2018-09-20 01:48:13 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=16 degs
+2018-09-20 01:48:20 Drive Axis1 to 16 Degree
+2018-09-20 01:54:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=18 degs
+2018-09-20 01:54:26 Drive Axis1 to 18 Degree
+2018-09-20 02:00:26 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=20 degs
+2018-09-20 02:00:33 Drive Axis1 to 20 Degree
+2018-09-20 02:06:32 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=22 degs
+2018-09-20 02:06:39 Drive Axis1 to 22 Degree
+2018-09-20 02:12:39 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=24 degs
+2018-09-20 02:12:45 Drive Axis1 to 24 Degree
+2018-09-20 02:19:13 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=26 degs
+2018-09-20 02:19:19 Drive Axis1 to 26 Degree
+2018-09-20 02:25:19 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=28 degs
+2018-09-20 02:25:25 Drive Axis1 to 28 Degree
+2018-09-20 02:31:25 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=30 degs
+2018-09-20 02:31:32 Drive Axis1 to 30 Degree
+2018-09-20 02:39:54 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=32 degs
+2018-09-20 02:40:01 Drive Axis1 to 32 Degree
+2018-09-20 02:46:00 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=34 degs
+2018-09-20 02:46:07 Drive Axis1 to 34 Degree
+2018-09-20 02:52:06 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=36 degs
+2018-09-20 02:52:13 Drive Axis1 to 36 Degree
+2018-09-20 02:58:40 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=38 degs
+2018-09-20 02:58:47 Drive Axis1 to 38 Degree
+2018-09-20 03:04:46 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=40 degs
+2018-09-20 03:04:53 Drive Axis1 to 40 Degree
+2018-09-20 03:10:52 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=42 degs
+2018-09-20 03:10:58 Drive Axis1 to 42 Degree
+2018-09-20 03:16:58 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=44 degs
+2018-09-20 03:17:05 Drive Axis1 to 44 Degree
+2018-09-20 03:23:04 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=46 degs
+2018-09-20 03:23:11 Drive Axis1 to 46 Degree
+2018-09-20 03:29:10 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=48 degs
+2018-09-20 03:29:16 Drive Axis1 to 48 Degree
+2018-09-20 03:35:16 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=50 degs
+2018-09-20 03:35:23 Drive Axis1 to 50 Degree
+2018-09-20 03:41:22 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=52 degs
+2018-09-20 03:41:28 Drive Axis1 to 52 Degree
+2018-09-20 03:47:28 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=54 degs
+2018-09-20 03:47:34 Drive Axis1 to 54 Degree
+2018-09-20 03:53:33 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=56 degs
+2018-09-20 03:53:40 Drive Axis1 to 56 Degree
+2018-09-20 03:59:40 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=58 degs
+2018-09-20 03:59:47 Drive Axis1 to 58 Degree
+2018-09-20 04:05:46 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=60 degs
+2018-09-20 04:05:53 Drive Axis1 to 60 Degree
+2018-09-20 04:11:53 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=62 degs
+2018-09-20 04:11:59 Drive Axis1 to 62 Degree
+2018-09-20 04:17:59 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=64 degs
+2018-09-20 04:18:05 Drive Axis1 to 64 Degree
+2018-09-20 04:24:05 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=66 degs
+2018-09-20 04:24:12 Drive Axis1 to 66 Degree
+2018-09-20 04:30:11 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=68 degs
+2018-09-20 04:30:18 Drive Axis1 to 68 Degree
+2018-09-20 04:36:18 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=70 degs
+2018-09-20 04:36:25 Drive Axis1 to 70 Degree
+2018-09-20 04:42:24 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=72 degs
+2018-09-20 04:42:30 Drive Axis1 to 72 Degree
+2018-09-20 04:48:30 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=74 degs
+2018-09-20 04:48:36 Drive Axis1 to 74 Degree
+2018-09-20 04:54:36 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=76 degs
+2018-09-20 04:54:43 Drive Axis1 to 76 Degree
+2018-09-20 05:00:42 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=78 degs
+2018-09-20 05:00:49 Drive Axis1 to 78 Degree
+2018-09-20 05:06:49 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=80 degs
+2018-09-20 05:06:55 Drive Axis1 to 80 Degree
+2018-09-20 05:12:56 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=82 degs
+2018-09-20 05:13:02 Drive Axis1 to 82 Degree
+2018-09-20 05:19:02 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=84 degs
+2018-09-20 05:19:08 Drive Axis1 to 84 Degree
+2018-09-20 05:25:08 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=86 degs
+2018-09-20 05:25:14 Drive Axis1 to 86 Degree
+2018-09-20 05:31:14 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=88 degs
+2018-09-20 05:31:21 Drive Axis1 to 88 Degree
+2018-09-20 05:37:21 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=90 degs
+2018-09-20 05:37:28 Drive Axis1 to 90 Degree
+2018-09-20 05:43:55 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=92 degs
+2018-09-20 05:44:01 Drive Axis1 to 92 Degree
+2018-09-20 05:50:02 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=94 degs
+2018-09-20 05:50:08 Drive Axis1 to 94 Degree
+2018-09-20 05:56:09 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=96 degs
+2018-09-20 05:56:15 Drive Axis1 to 96 Degree
+2018-09-20 06:02:37 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=98 degs
+2018-09-20 06:02:43 Drive Axis1 to 98 Degree
+2018-09-20 06:08:43 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=100 degs
+2018-09-20 06:08:50 Drive Axis1 to 100 Degree
+2018-09-20 06:14:50 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=102 degs
+2018-09-20 06:14:57 Drive Axis1 to 102 Degree
+2018-09-20 06:21:16 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=104 degs
+2018-09-20 06:21:23 Drive Axis1 to 104 Degree
+2018-09-20 06:27:23 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=106 degs
+2018-09-20 06:27:30 Drive Axis1 to 106 Degree
+2018-09-20 06:33:30 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=108 degs
+2018-09-20 06:33:37 Drive Axis1 to 108 Degree
+2018-09-20 06:39:37 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=110 degs
+2018-09-20 06:39:43 Drive Axis1 to 110 Degree
+2018-09-20 06:45:43 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=112 degs
+2018-09-20 06:45:50 Drive Axis1 to 112 Degree
+2018-09-20 06:51:50 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=114 degs
+2018-09-20 06:51:57 Drive Axis1 to 114 Degree
+2018-09-20 06:57:57 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=116 degs
+2018-09-20 06:58:03 Drive Axis1 to 116 Degree
+2018-09-20 07:04:03 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=118 degs
+2018-09-20 07:04:09 Drive Axis1 to 118 Degree
+2018-09-20 07:10:09 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=120 degs
+2018-09-20 07:10:16 Drive Axis1 to 120 Degree
+2018-09-20 07:16:16 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=122 degs
+2018-09-20 07:16:22 Drive Axis1 to 122 Degree
+2018-09-20 07:22:22 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=124 degs
+2018-09-20 07:22:29 Drive Axis1 to 124 Degree
+2018-09-20 07:28:57 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=126 degs
+2018-09-20 07:29:03 Drive Axis1 to 126 Degree
+2018-09-20 07:35:03 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=128 degs
+2018-09-20 07:35:09 Drive Axis1 to 128 Degree
+2018-09-20 07:41:29 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=130 degs
+2018-09-20 07:41:36 Drive Axis1 to 130 Degree
+2018-09-20 07:47:35 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=132 degs
+2018-09-20 07:47:42 Drive Axis1 to 132 Degree
+2018-09-20 07:54:02 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=134 degs
+2018-09-20 07:54:08 Drive Axis1 to 134 Degree
+2018-09-20 08:00:08 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=136 degs
+2018-09-20 08:00:15 Drive Axis1 to 136 Degree
+2018-09-20 08:06:14 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=138 degs
+2018-09-20 08:06:21 Drive Axis1 to 138 Degree
+2018-09-20 08:12:21 Set Title: Ce2Zr2O7 background T=35mK, Ei=1.55 meV, w=140 degs
+2018-09-20 08:12:27 Drive Axis1 to 140 Degree
+2018-09-20 11:33:45 Set Incident Energy to 1.55 meV
+2018-09-20 11:33:45 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-140 degs
+2018-09-20 11:33:45 Drive Axis1 to -140 Degree
+2018-09-20 11:42:47 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-138 degs
+2018-09-20 11:42:54 Drive Axis1 to -138 Degree
+2018-09-20 11:48:53 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-136 degs
+2018-09-20 11:49:00 Drive Axis1 to -136 Degree
+2018-09-20 11:55:00 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-134 degs
+2018-09-20 11:55:07 Drive Axis1 to -134 Degree
+2018-09-20 12:01:07 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-132 degs
+2018-09-20 12:01:13 Drive Axis1 to -132 Degree
+2018-09-20 12:07:14 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-130 degs
+2018-09-20 12:07:20 Drive Axis1 to -130 Degree
+2018-09-20 12:13:21 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-128 degs
+2018-09-20 12:13:27 Drive Axis1 to -128 Degree
+2018-09-20 12:19:28 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-126 degs
+2018-09-20 12:19:34 Drive Axis1 to -126 Degree
+2018-09-20 12:25:35 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-124 degs
+2018-09-20 12:25:42 Drive Axis1 to -124 Degree
+2018-09-20 12:31:42 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-122 degs
+2018-09-20 12:31:49 Drive Axis1 to -122 Degree
+2018-09-20 12:37:50 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-120 degs
+2018-09-20 12:37:56 Drive Axis1 to -120 Degree
+2018-09-20 12:43:57 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-118 degs
+2018-09-20 12:44:03 Drive Axis1 to -118 Degree
+2018-09-20 12:50:04 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-116 degs
+2018-09-20 12:50:10 Drive Axis1 to -116 Degree
+2018-09-20 12:56:10 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-114 degs
+2018-09-20 12:56:17 Drive Axis1 to -114 Degree
+2018-09-20 13:02:17 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-112 degs
+2018-09-20 13:02:24 Drive Axis1 to -112 Degree
+2018-09-20 13:08:24 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-110 degs
+2018-09-20 13:08:30 Drive Axis1 to -110 Degree
+2018-09-20 13:14:31 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-108 degs
+2018-09-20 13:14:37 Drive Axis1 to -108 Degree
+2018-09-20 13:20:38 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-106 degs
+2018-09-20 13:20:44 Drive Axis1 to -106 Degree
+2018-09-20 13:26:45 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-104 degs
+2018-09-20 13:26:51 Drive Axis1 to -104 Degree
+2018-09-20 13:32:52 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-102 degs
+2018-09-20 13:32:59 Drive Axis1 to -102 Degree
+2018-09-20 13:40:54 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-100 degs
+2018-09-20 13:41:00 Drive Axis1 to -100 Degree
+2018-09-20 13:47:01 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-98 degs
+2018-09-20 13:47:07 Drive Axis1 to -98 Degree
+2018-09-20 13:53:42 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-96 degs
+2018-09-20 13:53:49 Drive Axis1 to -96 Degree
+2018-09-20 13:59:49 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-94 degs
+2018-09-20 13:59:56 Drive Axis1 to -94 Degree
+2018-09-20 14:05:56 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-92 degs
+2018-09-20 14:06:02 Drive Axis1 to -92 Degree
+2018-09-20 14:12:03 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-90 degs
+2018-09-20 14:12:09 Drive Axis1 to -90 Degree
+2018-09-20 14:18:10 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-88 degs
+2018-09-20 14:18:16 Drive Axis1 to -88 Degree
+2018-09-20 14:24:40 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-86 degs
+2018-09-20 14:24:47 Drive Axis1 to -86 Degree
+2018-09-20 14:30:47 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-84 degs
+2018-09-20 14:30:53 Drive Axis1 to -84 Degree
+2018-09-20 14:36:54 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-82 degs
+2018-09-20 14:37:00 Drive Axis1 to -82 Degree
+2018-09-20 14:43:00 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-80 degs
+2018-09-20 14:43:07 Drive Axis1 to -80 Degree
+2018-09-20 14:49:07 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-78 degs
+2018-09-20 14:49:14 Drive Axis1 to -78 Degree
+2018-09-20 14:55:15 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-76 degs
+2018-09-20 14:55:21 Drive Axis1 to -76 Degree
+2018-09-20 15:01:23 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-74 degs
+2018-09-20 15:01:29 Drive Axis1 to -74 Degree
+2018-09-20 15:07:29 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-72 degs
+2018-09-20 15:07:36 Drive Axis1 to -72 Degree
+2018-09-20 15:13:37 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-70 degs
+2018-09-20 15:13:43 Drive Axis1 to -70 Degree
+2018-09-20 15:19:44 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-68 degs
+2018-09-20 15:19:50 Drive Axis1 to -68 Degree
+2018-09-20 15:25:51 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-66 degs
+2018-09-20 15:25:58 Drive Axis1 to -66 Degree
+2018-09-20 15:31:58 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-64 degs
+2018-09-20 15:32:05 Drive Axis1 to -64 Degree
+2018-09-20 15:38:28 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-62 degs
+2018-09-20 15:38:35 Drive Axis1 to -62 Degree
+2018-09-20 15:44:35 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-60 degs
+2018-09-20 15:44:42 Drive Axis1 to -60 Degree
+2018-09-20 15:50:42 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-58 degs
+2018-09-20 15:50:49 Drive Axis1 to -58 Degree
+2018-09-20 15:56:49 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-56 degs
+2018-09-20 15:56:56 Drive Axis1 to -56 Degree
+2018-09-20 16:02:56 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-54 degs
+2018-09-20 16:03:03 Drive Axis1 to -54 Degree
+2018-09-20 16:09:04 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-52 degs
+2018-09-20 16:09:10 Drive Axis1 to -52 Degree
+2018-09-20 16:15:11 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-50 degs
+2018-09-20 16:15:18 Drive Axis1 to -50 Degree
+2018-09-20 16:21:18 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-48 degs
+2018-09-20 16:21:25 Drive Axis1 to -48 Degree
+2018-09-20 16:27:25 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-46 degs
+2018-09-20 16:27:32 Drive Axis1 to -46 Degree
+2018-09-20 16:33:32 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-44 degs
+2018-09-20 16:33:39 Drive Axis1 to -44 Degree
+2018-09-20 16:39:39 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-42 degs
+2018-09-20 16:39:46 Drive Axis1 to -42 Degree
+2018-09-20 16:45:46 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-40 degs
+2018-09-20 16:45:53 Drive Axis1 to -40 Degree
+2018-09-20 16:51:53 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-38 degs
+2018-09-20 16:52:00 Drive Axis1 to -38 Degree
+2018-09-20 16:58:31 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-36 degs
+2018-09-20 16:58:37 Drive Axis1 to -36 Degree
+2018-09-20 17:04:38 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-34 degs
+2018-09-20 17:04:44 Drive Axis1 to -34 Degree
+2018-09-20 17:10:46 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-32 degs
+2018-09-20 17:10:52 Drive Axis1 to -32 Degree
+2018-09-20 17:16:53 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-30 degs
+2018-09-20 17:17:00 Drive Axis1 to -30 Degree
+2018-09-20 17:23:01 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-28 degs
+2018-09-20 17:23:07 Drive Axis1 to -28 Degree
+2018-09-20 17:29:08 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-26 degs
+2018-09-20 17:29:14 Drive Axis1 to -26 Degree
+2018-09-20 17:35:15 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-24 degs
+2018-09-20 17:35:22 Drive Axis1 to -24 Degree
+2018-09-20 17:41:22 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-22 degs
+2018-09-20 17:41:29 Drive Axis1 to -22 Degree
+2018-09-20 17:47:53 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-20 degs
+2018-09-20 17:48:00 Drive Axis1 to -20 Degree
+2018-09-20 17:54:01 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-18 degs
+2018-09-20 17:54:07 Drive Axis1 to -18 Degree
+2018-09-20 18:00:08 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-16 degs
+2018-09-20 18:00:14 Drive Axis1 to -16 Degree
+2018-09-20 18:06:15 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-14 degs
+2018-09-20 18:06:22 Drive Axis1 to -14 Degree
+2018-09-20 18:12:23 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-12 degs
+2018-09-20 18:12:29 Drive Axis1 to -12 Degree
+2018-09-20 18:18:31 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-10 degs
+2018-09-20 18:18:37 Drive Axis1 to -10 Degree
+2018-09-20 18:24:38 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-8 degs
+2018-09-20 18:24:44 Drive Axis1 to -8 Degree
+2018-09-20 18:30:45 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-6 degs
+2018-09-20 18:30:51 Drive Axis1 to -6 Degree
+2018-09-20 18:36:52 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-4 degs
+2018-09-20 18:36:59 Drive Axis1 to -4 Degree
+2018-09-20 18:43:00 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=-2 degs
+2018-09-20 18:43:06 Drive Axis1 to -2 Degree
+2018-09-20 18:49:07 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=0 degs
+2018-09-20 18:49:14 Drive Axis1 to 0 Degree
+2018-09-20 18:55:14 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=2 degs
+2018-09-20 18:55:21 Drive Axis1 to 2 Degree
+2018-09-20 19:01:22 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=4 degs
+2018-09-20 19:01:28 Drive Axis1 to 4 Degree
+2018-09-20 19:07:29 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=6 degs
+2018-09-20 19:07:35 Drive Axis1 to 6 Degree
+2018-09-20 19:13:36 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=8 degs
+2018-09-20 19:13:43 Drive Axis1 to 8 Degree
+2018-09-20 19:19:44 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=10 degs
+2018-09-20 19:19:50 Drive Axis1 to 10 Degree
+2018-09-20 19:25:51 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=12 degs
+2018-09-20 19:25:58 Drive Axis1 to 12 Degree
+2018-09-20 19:32:22 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=14 degs
+2018-09-20 19:32:28 Drive Axis1 to 14 Degree
+2018-09-20 19:38:29 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=16 degs
+2018-09-20 19:38:36 Drive Axis1 to 16 Degree
+2018-09-20 19:44:36 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=18 degs
+2018-09-20 19:44:43 Drive Axis1 to 18 Degree
+2018-09-20 19:50:43 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=20 degs
+2018-09-20 19:50:50 Drive Axis1 to 20 Degree
+2018-09-20 19:56:50 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=22 degs
+2018-09-20 19:56:57 Drive Axis1 to 22 Degree
+2018-09-20 20:02:57 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=24 degs
+2018-09-20 20:03:04 Drive Axis1 to 24 Degree
+2018-09-20 20:09:05 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=26 degs
+2018-09-20 20:09:11 Drive Axis1 to 26 Degree
+2018-09-20 20:15:12 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=28 degs
+2018-09-20 20:15:19 Drive Axis1 to 28 Degree
+2018-09-20 20:21:20 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=30 degs
+2018-09-20 20:21:26 Drive Axis1 to 30 Degree
+2018-09-20 20:27:48 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=32 degs
+2018-09-20 20:27:55 Drive Axis1 to 32 Degree
+2018-09-20 20:33:56 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=34 degs
+2018-09-20 20:34:03 Drive Axis1 to 34 Degree
+2018-09-20 20:40:03 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=36 degs
+2018-09-20 20:40:10 Drive Axis1 to 36 Degree
+2018-09-20 20:46:10 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=38 degs
+2018-09-20 20:46:16 Drive Axis1 to 38 Degree
+2018-09-20 20:52:17 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=40 degs
+2018-09-20 20:52:23 Drive Axis1 to 40 Degree
+2018-09-20 20:59:10 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=42 degs
+2018-09-20 20:59:16 Drive Axis1 to 42 Degree
+2018-09-20 21:05:17 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=44 degs
+2018-09-20 21:05:23 Drive Axis1 to 44 Degree
+2018-09-20 21:11:24 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=46 degs
+2018-09-20 21:11:31 Drive Axis1 to 46 Degree
+2018-09-20 21:17:31 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=48 degs
+2018-09-20 21:17:38 Drive Axis1 to 48 Degree
+2018-09-20 21:23:39 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=50 degs
+2018-09-20 21:23:46 Drive Axis1 to 50 Degree
+2018-09-20 21:29:46 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=52 degs
+2018-09-20 21:29:53 Drive Axis1 to 52 Degree
+2018-09-20 21:35:54 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=54 degs
+2018-09-20 21:36:00 Drive Axis1 to 54 Degree
+2018-09-20 21:42:01 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=56 degs
+2018-09-20 21:42:08 Drive Axis1 to 56 Degree
+2018-09-20 21:48:09 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=58 degs
+2018-09-20 21:48:15 Drive Axis1 to 58 Degree
+2018-09-20 21:54:17 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=60 degs
+2018-09-20 21:54:23 Drive Axis1 to 60 Degree
+2018-09-20 22:00:25 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=62 degs
+2018-09-20 22:00:31 Drive Axis1 to 62 Degree
+2018-09-20 22:06:32 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=64 degs
+2018-09-20 22:06:39 Drive Axis1 to 64 Degree
+2018-09-20 22:12:40 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=66 degs
+2018-09-20 22:12:46 Drive Axis1 to 66 Degree
+2018-09-20 22:18:47 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=68 degs
+2018-09-20 22:18:53 Drive Axis1 to 68 Degree
+2018-09-20 22:24:54 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=70 degs
+2018-09-20 22:25:01 Drive Axis1 to 70 Degree
+2018-09-20 22:31:01 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=72 degs
+2018-09-20 22:31:08 Drive Axis1 to 72 Degree
+2018-09-20 22:37:09 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=74 degs
+2018-09-20 22:37:16 Drive Axis1 to 74 Degree
+2018-09-20 22:43:17 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=76 degs
+2018-09-20 22:43:23 Drive Axis1 to 76 Degree
+2018-09-20 22:49:24 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=78 degs
+2018-09-20 22:49:30 Drive Axis1 to 78 Degree
+2018-09-20 22:55:31 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=80 degs
+2018-09-20 22:55:38 Drive Axis1 to 80 Degree
+2018-09-20 23:01:39 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=82 degs
+2018-09-20 23:01:45 Drive Axis1 to 82 Degree
+2018-09-20 23:07:47 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=84 degs
+2018-09-20 23:07:53 Drive Axis1 to 84 Degree
+2018-09-20 23:13:54 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=86 degs
+2018-09-20 23:14:00 Drive Axis1 to 86 Degree
+2018-09-20 23:20:01 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=88 degs
+2018-09-20 23:20:08 Drive Axis1 to 88 Degree
+2018-09-20 23:26:09 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=90 degs
+2018-09-20 23:26:16 Drive Axis1 to 90 Degree
+2018-09-20 23:33:07 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=92 degs
+2018-09-20 23:33:13 Drive Axis1 to 92 Degree
+2018-09-20 23:39:14 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=94 degs
+2018-09-20 23:39:20 Drive Axis1 to 94 Degree
+2018-09-20 23:45:21 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=96 degs
+2018-09-20 23:45:27 Drive Axis1 to 96 Degree
+2018-09-20 23:51:28 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=98 degs
+2018-09-20 23:51:34 Drive Axis1 to 98 Degree
+2018-09-20 23:57:35 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=100 degs
+2018-09-20 23:57:41 Drive Axis1 to 100 Degree
+2018-09-21 00:07:57 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=102 degs
+2018-09-21 00:08:04 Drive Axis1 to 102 Degree
+2018-09-21 00:14:04 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=104 degs
+2018-09-21 00:14:11 Drive Axis1 to 104 Degree
+2018-09-21 00:20:12 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=106 degs
+2018-09-21 00:20:19 Drive Axis1 to 106 Degree
+2018-09-21 00:26:20 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=108 degs
+2018-09-21 00:26:26 Drive Axis1 to 108 Degree
+2018-09-21 00:32:27 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=110 degs
+2018-09-21 00:32:34 Drive Axis1 to 110 Degree
+2018-09-21 00:38:34 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=112 degs
+2018-09-21 00:38:41 Drive Axis1 to 112 Degree
+2018-09-21 00:44:42 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=114 degs
+2018-09-21 00:44:49 Drive Axis1 to 114 Degree
+2018-09-21 00:50:49 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=116 degs
+2018-09-21 00:50:56 Drive Axis1 to 116 Degree
+2018-09-21 00:56:57 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=118 degs
+2018-09-21 00:57:04 Drive Axis1 to 118 Degree
+2018-09-21 01:03:05 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=120 degs
+2018-09-21 01:03:11 Drive Axis1 to 120 Degree
+2018-09-21 01:09:12 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=122 degs
+2018-09-21 01:09:19 Drive Axis1 to 122 Degree
+2018-09-21 01:15:20 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=124 degs
+2018-09-21 01:15:26 Drive Axis1 to 124 Degree
+2018-09-21 01:21:27 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=126 degs
+2018-09-21 01:21:34 Drive Axis1 to 126 Degree
+2018-09-21 01:27:35 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=128 degs
+2018-09-21 01:27:41 Drive Axis1 to 128 Degree
+2018-09-21 01:33:43 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=130 degs
+2018-09-21 01:33:49 Drive Axis1 to 130 Degree
+2018-09-21 01:39:50 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=132 degs
+2018-09-21 01:39:56 Drive Axis1 to 132 Degree
+2018-09-21 01:45:57 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=134 degs
+2018-09-21 01:46:04 Drive Axis1 to 134 Degree
+2018-09-21 01:52:26 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=136 degs
+2018-09-21 01:52:32 Drive Axis1 to 136 Degree
+2018-09-21 01:58:34 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=138 degs
+2018-09-21 01:58:40 Drive Axis1 to 138 Degree
+2018-09-21 02:04:42 Set Title: Ce2Zr2O7 background T=12K, Ei=1.55 meV, w=140 degs
+2018-09-21 02:04:48 Drive Axis1 to 140 Degree
+2018-09-21 02:11:42 Set Incident Energy to 3.32 meV
+2018-09-21 02:11:42 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=56 degs
+2018-09-21 02:13:50 Drive Axis1 to 56 Degree
+2018-09-21 02:19:52 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=58 degs
+2018-09-21 02:19:58 Drive Axis1 to 58 Degree
+2018-09-21 02:25:59 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=60 degs
+2018-09-21 02:26:06 Drive Axis1 to 60 Degree
+2018-09-21 02:32:07 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=62 degs
+2018-09-21 02:32:14 Drive Axis1 to 62 Degree
+2018-09-21 02:38:15 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=64 degs
+2018-09-21 02:38:21 Drive Axis1 to 64 Degree
+2018-09-21 02:44:23 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=66 degs
+2018-09-21 02:44:29 Drive Axis1 to 66 Degree
+2018-09-21 02:50:31 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=68 degs
+2018-09-21 02:50:37 Drive Axis1 to 68 Degree
+2018-09-21 02:56:38 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=70 degs
+2018-09-21 02:56:45 Drive Axis1 to 70 Degree
+2018-09-21 03:02:46 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=72 degs
+2018-09-21 03:02:53 Drive Axis1 to 72 Degree
+2018-09-21 03:08:54 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=74 degs
+2018-09-21 03:09:00 Drive Axis1 to 74 Degree
+2018-09-21 03:15:01 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=76 degs
+2018-09-21 03:15:08 Drive Axis1 to 76 Degree
+2018-09-21 03:21:09 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=78 degs
+2018-09-21 03:21:16 Drive Axis1 to 78 Degree
+2018-09-21 03:27:17 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=80 degs
+2018-09-21 03:27:23 Drive Axis1 to 80 Degree
+2018-09-21 03:33:24 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=82 degs
+2018-09-21 03:33:31 Drive Axis1 to 82 Degree
+2018-09-21 03:39:32 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=84 degs
+2018-09-21 03:39:38 Drive Axis1 to 84 Degree
+2018-09-21 03:45:39 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=86 degs
+2018-09-21 03:45:46 Drive Axis1 to 86 Degree
+2018-09-21 03:52:04 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=88 degs
+2018-09-21 03:52:11 Drive Axis1 to 88 Degree
+2018-09-21 03:58:11 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=90 degs
+2018-09-21 03:58:18 Drive Axis1 to 90 Degree
+2018-09-21 04:04:19 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=92 degs
+2018-09-21 04:04:26 Drive Axis1 to 92 Degree
+2018-09-21 04:10:51 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=94 degs
+2018-09-21 04:10:57 Drive Axis1 to 94 Degree
+2018-09-21 04:16:58 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=96 degs
+2018-09-21 04:17:05 Drive Axis1 to 96 Degree
+2018-09-21 04:23:06 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=98 degs
+2018-09-21 04:23:12 Drive Axis1 to 98 Degree
+2018-09-21 04:29:13 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=100 degs
+2018-09-21 04:29:20 Drive Axis1 to 100 Degree
+2018-09-21 04:35:21 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=102 degs
+2018-09-21 04:35:28 Drive Axis1 to 102 Degree
+2018-09-21 04:41:28 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=104 degs
+2018-09-21 04:41:35 Drive Axis1 to 104 Degree
+2018-09-21 04:47:36 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=106 degs
+2018-09-21 04:47:42 Drive Axis1 to 106 Degree
+2018-09-21 04:53:44 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=108 degs
+2018-09-21 04:53:50 Drive Axis1 to 108 Degree
+2018-09-21 04:59:52 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=110 degs
+2018-09-21 04:59:58 Drive Axis1 to 110 Degree
+2018-09-21 05:05:59 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=112 degs
+2018-09-21 05:06:06 Drive Axis1 to 112 Degree
+2018-09-21 05:12:07 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=114 degs
+2018-09-21 05:12:13 Drive Axis1 to 114 Degree
+2018-09-21 05:18:14 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=116 degs
+2018-09-21 05:18:21 Drive Axis1 to 116 Degree
+2018-09-21 05:24:22 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=118 degs
+2018-09-21 05:24:29 Drive Axis1 to 118 Degree
+2018-09-21 05:30:30 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=120 degs
+2018-09-21 05:30:37 Drive Axis1 to 120 Degree
+2018-09-21 05:36:38 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=122 degs
+2018-09-21 05:36:44 Drive Axis1 to 122 Degree
+2018-09-21 05:43:09 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=124 degs
+2018-09-21 05:43:15 Drive Axis1 to 124 Degree
+2018-09-21 05:49:16 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=126 degs
+2018-09-21 05:49:23 Drive Axis1 to 126 Degree
+2018-09-21 05:55:23 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=128 degs
+2018-09-21 05:55:30 Drive Axis1 to 128 Degree
+2018-09-21 06:01:31 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=130 degs
+2018-09-21 06:01:37 Drive Axis1 to 130 Degree
+2018-09-21 06:07:38 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=132 degs
+2018-09-21 06:07:45 Drive Axis1 to 132 Degree
+2018-09-21 06:13:46 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=134 degs
+2018-09-21 06:13:53 Drive Axis1 to 134 Degree
+2018-09-21 06:19:54 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=136 degs
+2018-09-21 06:20:00 Drive Axis1 to 136 Degree
+2018-09-21 06:26:01 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=138 degs
+2018-09-21 06:26:08 Drive Axis1 to 138 Degree
+2018-09-21 06:32:09 Set Title: Ce2Zr2O7 background T=12K, Ei=3.32 meV, w=140 degs
+2018-09-21 06:32:16 Drive Axis1 to 140 Degree

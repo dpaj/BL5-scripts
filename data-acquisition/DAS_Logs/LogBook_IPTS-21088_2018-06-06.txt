@@ -1,0 +1,35 @@
+2018-06-05 13:20:12 Line Log cleared
+2018-06-05 13:20:13 Starting IPTS-21088 on 2018-06-05
+2018-06-05 22:18:22 Set Title: test NBCT in Triton Ei=0.54 meV
+2018-06-05 22:19:03 Set Incident Energy to 0.54 meV
+2018-06-06 02:13:47 Set Title: test NBCT in Triton Ei=1.0 meV
+2018-06-06 02:14:27 Set Incident Energy to 1.0 meV
+2018-06-06 05:11:39 Set Title: test NBCT in Triton Ei=1.55 meV
+2018-06-06 05:12:29 Set Incident Energy to 1.55 meV
+2018-06-06 06:06:02 Set Title: test NBCT in Triton Ei=3.0 meV
+2018-06-06 06:06:57 Set Incident Energy to 3.0 meV
+2018-06-06 07:01:24 Set Title: test NBCT in Triton Ei=3.32 meV
+2018-06-06 07:02:02 Set Incident Energy to 3.32 meV
+2018-06-06 07:54:03 Set Title: test NBCT in Triton Ei=6.59 meV
+2018-06-06 07:54:43 Set Incident Energy to 6.59 meV
+2018-06-06 08:07:50 Set Title: test NBCT in Triton Ei=12.0 meV
+2018-06-06 08:08:33 Set Incident Energy to 12.0 meV
+2018-06-06 08:21:40 Set Title: test NBCT in Triton Ei=25.0 meV
+2018-06-06 08:22:19 Set Incident Energy to 25.0 meV
+2018-06-06 09:14:36 Set Title: test NBCT in Triton Ei=50.0 meV
+2018-06-06 09:15:15 Set Incident Energy to 50.0 meV
+2018-06-06 10:06:59 Set Title: test NBCT in Triton Ei=80.0 meV
+2018-06-06 10:07:37 Set Incident Energy to 80.0 meV
+2018-06-06 11:00:27 Set Title: test NBCT in Triton Ei=0.54 meV
+2018-06-06 11:01:05 Set Incident Energy to 0.54 meV
+2018-06-06 11:32:05 Set Title: zscan NBCT in Triton Ei=3.32 meV
+2018-06-06 11:43:29 Set Title: zscan NBCT in Triton Ei=3.32 meV
+2018-06-06 11:46:30 Set Title: zscan NBCT in Triton Ei=3.32 meV
+2018-06-06 11:49:37 Set Title: zscan NBCT in Triton Ei=3.32 meV
+2018-06-06 11:52:57 Set Title: zscan NBCT in Triton Ei=3.32 meV
+2018-06-06 11:56:16 Set Title: zscan NBCT in Triton Ei=3.32 meV
+2018-06-06 11:59:34 Set Title: zscan NBCT in Triton Ei=3.32 meV
+2018-06-06 12:02:41 Set Title: zscan NBCT in Triton Ei=3.32 meV
+2018-06-06 12:05:48 Set Title: zscan NBCT in Triton Ei=3.32 meV
+2018-06-06 12:08:56 Set Title: zscan NBCT in Triton Ei=3.32 meV
+2018-06-06 12:12:15 Set Title: zscan NBCT in Triton Ei=3.32 meV

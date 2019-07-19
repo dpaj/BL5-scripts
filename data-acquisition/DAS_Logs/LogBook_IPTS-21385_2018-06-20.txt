@@ -1,0 +1,729 @@
+2018-06-18 10:28:18 Line Log cleared
+2018-06-18 10:28:18 Starting IPTS-21385 on 2018-06-18
+2018-06-18 11:44:50 Set Incident Energy to 25.0 meV
+2018-06-18 11:44:50 Set Title: room T, Ei=25 meV, w=-180
+2018-06-18 11:45:08 Drive Axis1 to -180 Degree
+2018-06-18 11:46:58 Set Incident Energy to 25.0 meV
+2018-06-18 11:46:58 Set Title: room T, Ei=25 meV, w=-180
+2018-06-18 11:47:15 Drive Axis1 to -180 Degree
+2018-06-18 11:50:19 Set Incident Energy to 25.0 meV
+2018-06-18 11:50:19 Set Title: room T, Ei=25 meV, w=-180
+2018-06-18 11:50:36 Drive Axis1 to -180 Degree
+2018-06-18 11:56:26 Set Title: room T, Ei=25 meV, w=-178
+2018-06-18 11:56:38 Drive Axis1 to -178 Degree
+2018-06-18 12:02:28 Set Title: room T, Ei=25 meV, w=-176
+2018-06-18 12:02:40 Drive Axis1 to -176 Degree
+2018-06-18 12:08:30 Set Title: room T, Ei=25 meV, w=-174
+2018-06-18 12:08:41 Drive Axis1 to -174 Degree
+2018-06-18 12:14:31 Set Title: room T, Ei=25 meV, w=-172
+2018-06-18 12:14:43 Drive Axis1 to -172 Degree
+2018-06-18 12:20:33 Set Title: room T, Ei=25 meV, w=-170
+2018-06-18 12:20:45 Drive Axis1 to -170 Degree
+2018-06-18 12:26:35 Set Title: room T, Ei=25 meV, w=-168
+2018-06-18 12:26:46 Drive Axis1 to -168 Degree
+2018-06-18 12:32:36 Set Title: room T, Ei=25 meV, w=-166
+2018-06-18 12:32:48 Drive Axis1 to -166 Degree
+2018-06-18 12:38:38 Set Title: room T, Ei=25 meV, w=-164
+2018-06-18 12:38:49 Drive Axis1 to -164 Degree
+2018-06-18 12:44:40 Set Title: room T, Ei=25 meV, w=-162
+2018-06-18 12:44:51 Drive Axis1 to -162 Degree
+2018-06-18 12:50:41 Set Title: room T, Ei=25 meV, w=-160
+2018-06-18 12:50:53 Drive Axis1 to -160 Degree
+2018-06-18 12:56:43 Set Title: room T, Ei=25 meV, w=-158
+2018-06-18 12:56:54 Drive Axis1 to -158 Degree
+2018-06-18 13:02:45 Set Title: room T, Ei=25 meV, w=-156
+2018-06-18 13:02:56 Drive Axis1 to -156 Degree
+2018-06-18 13:08:46 Set Title: room T, Ei=25 meV, w=-154
+2018-06-18 13:08:58 Drive Axis1 to -154 Degree
+2018-06-18 13:14:48 Set Title: room T, Ei=25 meV, w=-152
+2018-06-18 13:15:00 Drive Axis1 to -152 Degree
+2018-06-18 13:20:50 Set Title: room T, Ei=25 meV, w=-150
+2018-06-18 13:21:01 Drive Axis1 to -150 Degree
+2018-06-18 13:26:51 Set Title: room T, Ei=25 meV, w=-148
+2018-06-18 13:27:02 Drive Axis1 to -148 Degree
+2018-06-18 13:32:53 Set Title: room T, Ei=25 meV, w=-146
+2018-06-18 13:33:04 Drive Axis1 to -146 Degree
+2018-06-18 13:38:54 Set Title: room T, Ei=25 meV, w=-144
+2018-06-18 13:39:05 Drive Axis1 to -144 Degree
+2018-06-18 13:44:56 Set Title: room T, Ei=25 meV, w=-142
+2018-06-18 13:45:07 Drive Axis1 to -142 Degree
+2018-06-18 13:50:57 Set Title: room T, Ei=25 meV, w=-140
+2018-06-18 13:51:08 Drive Axis1 to -140 Degree
+2018-06-18 13:56:57 Set Title: room T, Ei=25 meV, w=-138
+2018-06-18 13:57:09 Drive Axis1 to -138 Degree
+2018-06-18 14:02:59 Set Title: room T, Ei=25 meV, w=-136
+2018-06-18 14:03:10 Drive Axis1 to -136 Degree
+2018-06-18 14:09:00 Set Title: room T, Ei=25 meV, w=-134
+2018-06-18 14:09:12 Drive Axis1 to -134 Degree
+2018-06-18 14:15:00 Set Title: room T, Ei=25 meV, w=-132
+2018-06-18 14:15:12 Drive Axis1 to -132 Degree
+2018-06-18 14:21:01 Set Title: room T, Ei=25 meV, w=-130
+2018-06-18 14:21:13 Drive Axis1 to -130 Degree
+2018-06-18 14:27:03 Set Title: room T, Ei=25 meV, w=-128
+2018-06-18 14:27:14 Drive Axis1 to -128 Degree
+2018-06-18 14:33:04 Set Title: room T, Ei=25 meV, w=-126
+2018-06-18 14:33:15 Drive Axis1 to -126 Degree
+2018-06-18 14:39:05 Set Title: room T, Ei=25 meV, w=-124
+2018-06-18 14:39:17 Drive Axis1 to -124 Degree
+2018-06-18 14:45:07 Set Title: room T, Ei=25 meV, w=-122
+2018-06-18 14:45:19 Drive Axis1 to -122 Degree
+2018-06-18 14:51:10 Set Title: room T, Ei=25 meV, w=-120
+2018-06-18 14:51:21 Drive Axis1 to -120 Degree
+2018-06-18 14:57:11 Set Title: room T, Ei=25 meV, w=-118
+2018-06-18 14:57:23 Drive Axis1 to -118 Degree
+2018-06-18 15:03:12 Set Title: room T, Ei=25 meV, w=-116
+2018-06-18 15:03:23 Drive Axis1 to -116 Degree
+2018-06-18 15:09:13 Set Title: room T, Ei=25 meV, w=-114
+2018-06-18 15:09:25 Drive Axis1 to -114 Degree
+2018-06-18 15:15:15 Set Title: room T, Ei=25 meV, w=-112
+2018-06-18 15:15:27 Drive Axis1 to -112 Degree
+2018-06-18 15:21:40 Set Title: room T, Ei=25 meV, w=-110
+2018-06-18 15:21:52 Drive Axis1 to -110 Degree
+2018-06-18 15:27:42 Set Title: room T, Ei=25 meV, w=-108
+2018-06-18 15:27:54 Drive Axis1 to -108 Degree
+2018-06-18 15:33:44 Set Title: room T, Ei=25 meV, w=-106
+2018-06-18 15:33:56 Drive Axis1 to -106 Degree
+2018-06-18 15:39:45 Set Title: room T, Ei=25 meV, w=-104
+2018-06-18 15:39:57 Drive Axis1 to -104 Degree
+2018-06-18 15:45:47 Set Title: room T, Ei=25 meV, w=-102
+2018-06-18 15:45:58 Drive Axis1 to -102 Degree
+2018-06-18 15:51:47 Set Title: room T, Ei=25 meV, w=-100
+2018-06-18 15:51:59 Drive Axis1 to -100 Degree
+2018-06-18 15:57:48 Set Title: room T, Ei=25 meV, w=-98
+2018-06-18 15:58:00 Drive Axis1 to -98 Degree
+2018-06-18 16:03:49 Set Title: room T, Ei=25 meV, w=-96
+2018-06-18 16:04:01 Drive Axis1 to -96 Degree
+2018-06-18 16:09:51 Set Title: room T, Ei=25 meV, w=-94
+2018-06-18 16:10:02 Drive Axis1 to -94 Degree
+2018-06-18 16:15:52 Set Title: room T, Ei=25 meV, w=-92
+2018-06-18 16:16:03 Drive Axis1 to -92 Degree
+2018-06-18 16:21:52 Set Title: room T, Ei=25 meV, w=-90
+2018-06-18 16:22:04 Drive Axis1 to -90 Degree
+2018-06-18 16:27:53 Set Title: room T, Ei=25 meV, w=-88
+2018-06-18 16:28:05 Drive Axis1 to -88 Degree
+2018-06-18 16:33:54 Set Title: room T, Ei=25 meV, w=-86
+2018-06-18 16:34:06 Drive Axis1 to -86 Degree
+2018-06-18 16:39:56 Set Title: room T, Ei=25 meV, w=-84
+2018-06-18 16:40:08 Drive Axis1 to -84 Degree
+2018-06-18 16:45:57 Set Title: room T, Ei=25 meV, w=-82
+2018-06-18 16:46:09 Drive Axis1 to -82 Degree
+2018-06-18 16:51:59 Set Title: room T, Ei=25 meV, w=-80
+2018-06-18 16:52:10 Drive Axis1 to -80 Degree
+2018-06-18 16:58:01 Set Title: room T, Ei=25 meV, w=-78
+2018-06-18 16:58:13 Drive Axis1 to -78 Degree
+2018-06-18 17:04:03 Set Title: room T, Ei=25 meV, w=-76
+2018-06-18 17:04:14 Drive Axis1 to -76 Degree
+2018-06-18 17:10:03 Set Title: room T, Ei=25 meV, w=-74
+2018-06-18 17:10:15 Drive Axis1 to -74 Degree
+2018-06-18 17:16:05 Set Title: room T, Ei=25 meV, w=-72
+2018-06-18 17:16:17 Drive Axis1 to -72 Degree
+2018-06-18 17:22:07 Set Title: room T, Ei=25 meV, w=-70
+2018-06-18 17:22:19 Drive Axis1 to -70 Degree
+2018-06-18 17:28:09 Set Title: room T, Ei=25 meV, w=-68
+2018-06-18 17:28:20 Drive Axis1 to -68 Degree
+2018-06-18 17:34:10 Set Title: room T, Ei=25 meV, w=-66
+2018-06-18 17:34:22 Drive Axis1 to -66 Degree
+2018-06-18 17:40:40 Set Title: room T, Ei=25 meV, w=-64
+2018-06-18 17:40:52 Drive Axis1 to -64 Degree
+2018-06-18 17:46:41 Set Title: room T, Ei=25 meV, w=-62
+2018-06-18 17:46:53 Drive Axis1 to -62 Degree
+2018-06-18 17:52:44 Set Title: room T, Ei=25 meV, w=-60
+2018-06-18 17:52:55 Drive Axis1 to -60 Degree
+2018-06-18 17:58:46 Set Title: room T, Ei=25 meV, w=-58
+2018-06-18 17:58:58 Drive Axis1 to -58 Degree
+2018-06-18 18:04:49 Set Title: room T, Ei=25 meV, w=-56
+2018-06-18 18:05:01 Drive Axis1 to -56 Degree
+2018-06-18 18:10:51 Set Title: room T, Ei=25 meV, w=-54
+2018-06-18 18:11:03 Drive Axis1 to -54 Degree
+2018-06-18 18:16:53 Set Title: room T, Ei=25 meV, w=-52
+2018-06-18 18:17:05 Drive Axis1 to -52 Degree
+2018-06-18 18:22:55 Set Title: room T, Ei=25 meV, w=-50
+2018-06-18 18:23:06 Drive Axis1 to -50 Degree
+2018-06-18 18:28:57 Set Title: room T, Ei=25 meV, w=-48
+2018-06-18 18:29:08 Drive Axis1 to -48 Degree
+2018-06-18 18:34:59 Set Title: room T, Ei=25 meV, w=-46
+2018-06-18 18:35:10 Drive Axis1 to -46 Degree
+2018-06-18 18:41:01 Set Title: room T, Ei=25 meV, w=-44
+2018-06-18 18:41:12 Drive Axis1 to -44 Degree
+2018-06-18 18:47:02 Set Title: room T, Ei=25 meV, w=-42
+2018-06-18 18:47:14 Drive Axis1 to -42 Degree
+2018-06-18 18:53:03 Set Title: room T, Ei=25 meV, w=-40
+2018-06-18 18:53:15 Drive Axis1 to -40 Degree
+2018-06-18 18:59:04 Set Title: room T, Ei=25 meV, w=-38
+2018-06-18 18:59:15 Drive Axis1 to -38 Degree
+2018-06-18 19:05:05 Set Title: room T, Ei=25 meV, w=-36
+2018-06-18 19:05:17 Drive Axis1 to -36 Degree
+2018-06-18 19:11:07 Set Title: room T, Ei=25 meV, w=-34
+2018-06-18 19:11:18 Drive Axis1 to -34 Degree
+2018-06-18 19:17:09 Set Title: room T, Ei=25 meV, w=-32
+2018-06-18 19:17:21 Drive Axis1 to -32 Degree
+2018-06-18 19:24:20 Set Title: room T, Ei=25 meV, w=-30
+2018-06-18 19:24:31 Drive Axis1 to -30 Degree
+2018-06-18 19:30:22 Set Title: room T, Ei=25 meV, w=-28
+2018-06-18 19:30:33 Drive Axis1 to -28 Degree
+2018-06-18 19:36:23 Set Title: room T, Ei=25 meV, w=-26
+2018-06-18 19:36:34 Drive Axis1 to -26 Degree
+2018-06-18 19:42:24 Set Title: room T, Ei=25 meV, w=-24
+2018-06-18 19:42:36 Drive Axis1 to -24 Degree
+2018-06-18 19:48:26 Set Title: room T, Ei=25 meV, w=-22
+2018-06-18 19:48:37 Drive Axis1 to -22 Degree
+2018-06-18 19:54:28 Set Title: room T, Ei=25 meV, w=-20
+2018-06-18 19:54:39 Drive Axis1 to -20 Degree
+2018-06-18 20:00:30 Set Title: room T, Ei=25 meV, w=-18
+2018-06-18 20:00:41 Drive Axis1 to -18 Degree
+2018-06-18 20:06:32 Set Title: room T, Ei=25 meV, w=-16
+2018-06-18 20:06:43 Drive Axis1 to -16 Degree
+2018-06-18 20:12:34 Set Title: room T, Ei=25 meV, w=-14
+2018-06-18 20:12:45 Drive Axis1 to -14 Degree
+2018-06-18 20:18:35 Set Title: room T, Ei=25 meV, w=-12
+2018-06-18 20:18:47 Drive Axis1 to -12 Degree
+2018-06-18 20:24:37 Set Title: room T, Ei=25 meV, w=-10
+2018-06-18 20:24:48 Drive Axis1 to -10 Degree
+2018-06-18 20:30:39 Set Title: room T, Ei=25 meV, w=-8
+2018-06-18 20:30:50 Drive Axis1 to -8 Degree
+2018-06-18 20:36:39 Set Title: room T, Ei=25 meV, w=-6
+2018-06-18 20:36:51 Drive Axis1 to -6 Degree
+2018-06-18 20:42:41 Set Title: room T, Ei=25 meV, w=-4
+2018-06-18 20:42:53 Drive Axis1 to -4 Degree
+2018-06-18 20:48:43 Set Title: room T, Ei=25 meV, w=-2
+2018-06-18 20:48:54 Drive Axis1 to -2 Degree
+2018-06-18 20:54:45 Set Title: room T, Ei=25 meV, w=0
+2018-06-18 20:54:57 Drive Axis1 to 0 Degree
+2018-06-18 21:00:48 Set Title: room T, Ei=25 meV, w=2
+2018-06-18 21:00:59 Drive Axis1 to 2 Degree
+2018-06-18 21:06:50 Set Title: room T, Ei=25 meV, w=4
+2018-06-18 21:07:02 Drive Axis1 to 4 Degree
+2018-06-18 21:14:04 Set Title: room T, Ei=25 meV, w=6
+2018-06-18 21:14:16 Drive Axis1 to 6 Degree
+2018-06-18 21:20:59 Set Title: room T, Ei=25 meV, w=8
+2018-06-18 21:21:10 Drive Axis1 to 8 Degree
+2018-06-18 21:27:01 Set Title: room T, Ei=25 meV, w=10
+2018-06-18 21:27:12 Drive Axis1 to 10 Degree
+2018-06-18 21:33:04 Set Title: room T, Ei=25 meV, w=12
+2018-06-18 21:33:15 Drive Axis1 to 12 Degree
+2018-06-18 21:39:06 Set Title: room T, Ei=25 meV, w=14
+2018-06-18 21:39:18 Drive Axis1 to 14 Degree
+2018-06-18 21:45:09 Set Title: room T, Ei=25 meV, w=16
+2018-06-18 21:45:20 Drive Axis1 to 16 Degree
+2018-06-18 21:51:10 Set Title: room T, Ei=25 meV, w=18
+2018-06-18 21:51:22 Drive Axis1 to 18 Degree
+2018-06-18 21:57:33 Set Title: room T, Ei=25 meV, w=20
+2018-06-18 21:57:44 Drive Axis1 to 20 Degree
+2018-06-18 22:03:33 Set Title: room T, Ei=25 meV, w=22
+2018-06-18 22:03:45 Drive Axis1 to 22 Degree
+2018-06-18 22:09:34 Set Title: room T, Ei=25 meV, w=24
+2018-06-18 22:09:46 Drive Axis1 to 24 Degree
+2018-06-18 22:15:35 Set Title: room T, Ei=25 meV, w=26
+2018-06-18 22:15:46 Drive Axis1 to 26 Degree
+2018-06-18 22:21:35 Set Title: room T, Ei=25 meV, w=28
+2018-06-18 22:21:46 Drive Axis1 to 28 Degree
+2018-06-18 22:27:36 Set Title: room T, Ei=25 meV, w=30
+2018-06-18 22:27:47 Drive Axis1 to 30 Degree
+2018-06-18 22:33:37 Set Title: room T, Ei=25 meV, w=32
+2018-06-18 22:33:48 Drive Axis1 to 32 Degree
+2018-06-18 22:40:02 Set Title: room T, Ei=25 meV, w=34
+2018-06-18 22:40:13 Drive Axis1 to 34 Degree
+2018-06-18 22:46:05 Set Title: room T, Ei=25 meV, w=36
+2018-06-18 22:46:16 Drive Axis1 to 36 Degree
+2018-06-18 22:52:07 Set Title: room T, Ei=25 meV, w=38
+2018-06-18 22:52:19 Drive Axis1 to 38 Degree
+2018-06-18 22:58:09 Set Title: room T, Ei=25 meV, w=40
+2018-06-18 22:58:20 Drive Axis1 to 40 Degree
+2018-06-18 23:04:47 Set Title: room T, Ei=25 meV, w=42
+2018-06-18 23:04:58 Drive Axis1 to 42 Degree
+2018-06-18 23:10:47 Set Title: room T, Ei=25 meV, w=44
+2018-06-18 23:10:59 Drive Axis1 to 44 Degree
+2018-06-18 23:16:50 Set Title: room T, Ei=25 meV, w=46
+2018-06-18 23:17:01 Drive Axis1 to 46 Degree
+2018-06-18 23:22:51 Set Title: room T, Ei=25 meV, w=48
+2018-06-18 23:23:02 Drive Axis1 to 48 Degree
+2018-06-18 23:28:53 Set Title: room T, Ei=25 meV, w=50
+2018-06-18 23:29:04 Drive Axis1 to 50 Degree
+2018-06-18 23:34:54 Set Title: room T, Ei=25 meV, w=52
+2018-06-18 23:35:05 Drive Axis1 to 52 Degree
+2018-06-18 23:40:55 Set Title: room T, Ei=25 meV, w=54
+2018-06-18 23:41:07 Drive Axis1 to 54 Degree
+2018-06-18 23:46:57 Set Title: room T, Ei=25 meV, w=56
+2018-06-18 23:47:08 Drive Axis1 to 56 Degree
+2018-06-18 23:52:58 Set Title: room T, Ei=25 meV, w=58
+2018-06-18 23:53:10 Drive Axis1 to 58 Degree
+2018-06-18 23:58:59 Set Title: room T, Ei=25 meV, w=60
+2018-06-18 23:59:11 Drive Axis1 to 60 Degree
+2018-06-19 00:05:01 Set Title: room T, Ei=25 meV, w=62
+2018-06-19 00:05:12 Drive Axis1 to 62 Degree
+2018-06-19 00:11:03 Set Title: room T, Ei=25 meV, w=64
+2018-06-19 00:11:14 Drive Axis1 to 64 Degree
+2018-06-19 00:17:04 Set Title: room T, Ei=25 meV, w=66
+2018-06-19 00:17:16 Drive Axis1 to 66 Degree
+2018-06-19 00:23:04 Set Title: room T, Ei=25 meV, w=68
+2018-06-19 00:23:16 Drive Axis1 to 68 Degree
+2018-06-19 00:29:06 Set Title: room T, Ei=25 meV, w=70
+2018-06-19 00:29:18 Drive Axis1 to 70 Degree
+2018-06-19 00:35:08 Set Title: room T, Ei=25 meV, w=72
+2018-06-19 00:35:19 Drive Axis1 to 72 Degree
+2018-06-19 00:41:09 Set Title: room T, Ei=25 meV, w=74
+2018-06-19 00:41:21 Drive Axis1 to 74 Degree
+2018-06-19 00:47:10 Set Title: room T, Ei=25 meV, w=76
+2018-06-19 00:47:22 Drive Axis1 to 76 Degree
+2018-06-19 00:53:12 Set Title: room T, Ei=25 meV, w=78
+2018-06-19 00:53:23 Drive Axis1 to 78 Degree
+2018-06-19 00:59:13 Set Title: room T, Ei=25 meV, w=80
+2018-06-19 00:59:25 Drive Axis1 to 80 Degree
+2018-06-19 01:05:15 Set Title: room T, Ei=25 meV, w=82
+2018-06-19 01:05:27 Drive Axis1 to 82 Degree
+2018-06-19 01:11:16 Set Title: room T, Ei=25 meV, w=84
+2018-06-19 01:11:28 Drive Axis1 to 84 Degree
+2018-06-19 01:17:17 Set Title: room T, Ei=25 meV, w=86
+2018-06-19 01:17:29 Drive Axis1 to 86 Degree
+2018-06-19 01:23:18 Set Title: room T, Ei=25 meV, w=88
+2018-06-19 01:23:30 Drive Axis1 to 88 Degree
+2018-06-19 01:29:19 Set Title: room T, Ei=25 meV, w=90
+2018-06-19 01:29:31 Drive Axis1 to 90 Degree
+2018-06-19 01:35:19 Set Title: room T, Ei=25 meV, w=92
+2018-06-19 01:35:31 Drive Axis1 to 92 Degree
+2018-06-19 01:41:19 Set Title: room T, Ei=25 meV, w=94
+2018-06-19 01:41:31 Drive Axis1 to 94 Degree
+2018-06-19 01:47:19 Set Title: room T, Ei=25 meV, w=96
+2018-06-19 01:47:31 Drive Axis1 to 96 Degree
+2018-06-19 01:53:20 Set Title: room T, Ei=25 meV, w=98
+2018-06-19 01:53:31 Drive Axis1 to 98 Degree
+2018-06-19 01:59:21 Set Title: room T, Ei=25 meV, w=100
+2018-06-19 01:59:32 Drive Axis1 to 100 Degree
+2018-06-19 02:05:21 Set Title: room T, Ei=25 meV, w=102
+2018-06-19 02:05:33 Drive Axis1 to 102 Degree
+2018-06-19 02:11:22 Set Title: room T, Ei=25 meV, w=104
+2018-06-19 02:11:34 Drive Axis1 to 104 Degree
+2018-06-19 02:17:23 Set Title: room T, Ei=25 meV, w=106
+2018-06-19 02:17:35 Drive Axis1 to 106 Degree
+2018-06-19 02:23:25 Set Title: room T, Ei=25 meV, w=108
+2018-06-19 02:23:36 Drive Axis1 to 108 Degree
+2018-06-19 02:29:26 Set Title: room T, Ei=25 meV, w=110
+2018-06-19 02:29:37 Drive Axis1 to 110 Degree
+2018-06-19 02:35:27 Set Title: room T, Ei=25 meV, w=112
+2018-06-19 02:35:39 Drive Axis1 to 112 Degree
+2018-06-19 02:41:28 Set Title: room T, Ei=25 meV, w=114
+2018-06-19 02:41:40 Drive Axis1 to 114 Degree
+2018-06-19 02:47:30 Set Title: room T, Ei=25 meV, w=116
+2018-06-19 02:47:42 Drive Axis1 to 116 Degree
+2018-06-19 02:54:47 Set Title: room T, Ei=25 meV, w=118
+2018-06-19 02:54:59 Drive Axis1 to 118 Degree
+2018-06-19 03:00:48 Set Title: room T, Ei=25 meV, w=120
+2018-06-19 03:01:00 Drive Axis1 to 120 Degree
+2018-06-19 03:06:49 Set Title: room T, Ei=25 meV, w=122
+2018-06-19 03:07:01 Drive Axis1 to 122 Degree
+2018-06-19 03:12:50 Set Title: room T, Ei=25 meV, w=124
+2018-06-19 03:13:01 Drive Axis1 to 124 Degree
+2018-06-19 03:18:51 Set Title: room T, Ei=25 meV, w=126
+2018-06-19 03:19:03 Drive Axis1 to 126 Degree
+2018-06-19 03:25:43 Set Title: room T, Ei=25 meV, w=128
+2018-06-19 03:25:54 Drive Axis1 to 128 Degree
+2018-06-19 03:31:43 Set Title: room T, Ei=25 meV, w=130
+2018-06-19 03:31:55 Drive Axis1 to 130 Degree
+2018-06-19 03:38:18 Set Title: room T, Ei=25 meV, w=132
+2018-06-19 03:38:30 Drive Axis1 to 132 Degree
+2018-06-19 03:44:19 Set Title: room T, Ei=25 meV, w=134
+2018-06-19 03:44:31 Drive Axis1 to 134 Degree
+2018-06-19 03:50:54 Set Title: room T, Ei=25 meV, w=136
+2018-06-19 03:51:06 Drive Axis1 to 136 Degree
+2018-06-19 03:56:55 Set Title: room T, Ei=25 meV, w=138
+2018-06-19 03:57:07 Drive Axis1 to 138 Degree
+2018-06-19 04:02:57 Set Title: room T, Ei=25 meV, w=140
+2018-06-19 04:03:08 Drive Axis1 to 140 Degree
+2018-06-19 04:08:58 Set Title: room T, Ei=25 meV, w=142
+2018-06-19 04:09:09 Drive Axis1 to 142 Degree
+2018-06-19 04:14:59 Set Title: room T, Ei=25 meV, w=144
+2018-06-19 04:15:10 Drive Axis1 to 144 Degree
+2018-06-19 04:21:00 Set Title: room T, Ei=25 meV, w=146
+2018-06-19 04:21:11 Drive Axis1 to 146 Degree
+2018-06-19 04:27:00 Set Title: room T, Ei=25 meV, w=148
+2018-06-19 04:27:12 Drive Axis1 to 148 Degree
+2018-06-19 04:33:02 Set Title: room T, Ei=25 meV, w=150
+2018-06-19 04:33:13 Drive Axis1 to 150 Degree
+2018-06-19 04:39:03 Set Title: room T, Ei=25 meV, w=152
+2018-06-19 04:39:15 Drive Axis1 to 152 Degree
+2018-06-19 04:45:05 Set Title: room T, Ei=25 meV, w=154
+2018-06-19 04:45:17 Drive Axis1 to 154 Degree
+2018-06-19 04:51:06 Set Title: room T, Ei=25 meV, w=156
+2018-06-19 04:51:17 Drive Axis1 to 156 Degree
+2018-06-19 04:57:07 Set Title: room T, Ei=25 meV, w=158
+2018-06-19 04:57:19 Drive Axis1 to 158 Degree
+2018-06-19 05:03:08 Set Title: room T, Ei=25 meV, w=160
+2018-06-19 05:03:20 Drive Axis1 to 160 Degree
+2018-06-19 05:09:09 Set Title: room T, Ei=25 meV, w=162
+2018-06-19 05:09:21 Drive Axis1 to 162 Degree
+2018-06-19 05:15:11 Set Title: room T, Ei=25 meV, w=164
+2018-06-19 05:15:22 Drive Axis1 to 164 Degree
+2018-06-19 05:21:12 Set Title: room T, Ei=25 meV, w=166
+2018-06-19 05:21:24 Drive Axis1 to 166 Degree
+2018-06-19 05:27:13 Set Title: room T, Ei=25 meV, w=168
+2018-06-19 05:27:25 Drive Axis1 to 168 Degree
+2018-06-19 05:33:15 Set Title: room T, Ei=25 meV, w=170
+2018-06-19 05:33:26 Drive Axis1 to 170 Degree
+2018-06-19 05:39:16 Set Title: room T, Ei=25 meV, w=172
+2018-06-19 05:39:28 Drive Axis1 to 172 Degree
+2018-06-19 05:45:18 Set Title: room T, Ei=25 meV, w=174
+2018-06-19 05:45:30 Drive Axis1 to 174 Degree
+2018-06-19 05:51:21 Set Title: room T, Ei=25 meV, w=176
+2018-06-19 05:51:33 Drive Axis1 to 176 Degree
+2018-06-19 05:57:23 Set Title: room T, Ei=25 meV, w=178
+2018-06-19 05:57:34 Drive Axis1 to 178 Degree
+2018-06-19 15:19:12 Set Incident Energy to 50.0 meV
+2018-06-19 15:19:12 Set Title: room T, Ei=50 meV, w=-180
+2018-06-19 15:19:13 Drive Axis1 to -180 Degree
+2018-06-19 15:56:15 Set Incident Energy to 50.0 meV
+2018-06-19 15:56:15 Set Title: room T, Ei=50 meV, w=-180
+2018-06-19 16:02:35 Drive Axis1 to -180 Degree
+2018-06-19 16:31:43 Set Incident Energy to 50.0 meV
+2018-06-19 16:31:43 Set Title: room T, Ei=50 meV, w=-180
+2018-06-19 16:32:03 Drive Axis1 to -180 Degree
+2018-06-19 16:32:53 Set Incident Energy to 50.0 meV
+2018-06-19 16:32:53 Set Title: room T, Ei=50 meV, w=-180
+2018-06-19 16:32:54 Drive Axis1 to -180 Degree
+2018-06-19 18:04:00 Set Title: room T, Ei=50 meV, w=-178
+2018-06-19 18:04:10 Drive Axis1 to -178 Degree
+2018-06-19 18:12:53 Set Title: room T, Ei=50 meV, w=-176
+2018-06-19 18:13:03 Drive Axis1 to -176 Degree
+2018-06-19 18:22:11 Set Title: room T, Ei=50 meV, w=-174
+2018-06-19 18:22:21 Drive Axis1 to -174 Degree
+2018-06-19 18:30:01 Set Title: room T, Ei=50 meV, w=-172
+2018-06-19 18:30:11 Drive Axis1 to -172 Degree
+2018-06-19 18:36:28 Set Title: room T, Ei=50 meV, w=-170
+2018-06-19 18:36:39 Drive Axis1 to -170 Degree
+2018-06-19 18:42:54 Set Title: room T, Ei=50 meV, w=-168
+2018-06-19 18:43:05 Drive Axis1 to -168 Degree
+2018-06-19 18:48:58 Set Title: room T, Ei=50 meV, w=-166
+2018-06-19 18:49:08 Drive Axis1 to -166 Degree
+2018-06-19 18:54:59 Set Title: room T, Ei=50 meV, w=-164
+2018-06-19 18:55:10 Drive Axis1 to -164 Degree
+2018-06-19 19:01:42 Set Title: room T, Ei=50 meV, w=-162
+2018-06-19 19:01:52 Drive Axis1 to -162 Degree
+2018-06-19 19:07:43 Set Title: room T, Ei=50 meV, w=-160
+2018-06-19 19:07:54 Drive Axis1 to -160 Degree
+2018-06-19 19:17:08 Set Title: room T, Ei=50 meV, w=-158
+2018-06-19 19:17:18 Drive Axis1 to -158 Degree
+2018-06-19 19:23:31 Set Title: room T, Ei=50 meV, w=-156
+2018-06-19 19:23:42 Drive Axis1 to -156 Degree
+2018-06-19 19:29:31 Set Title: room T, Ei=50 meV, w=-154
+2018-06-19 19:29:42 Drive Axis1 to -154 Degree
+2018-06-19 19:35:31 Set Title: room T, Ei=50 meV, w=-152
+2018-06-19 19:35:41 Drive Axis1 to -152 Degree
+2018-06-19 19:41:31 Set Title: room T, Ei=50 meV, w=-150
+2018-06-19 19:41:41 Drive Axis1 to -150 Degree
+2018-06-19 19:47:31 Set Title: room T, Ei=50 meV, w=-148
+2018-06-19 19:47:41 Drive Axis1 to -148 Degree
+2018-06-19 19:53:58 Set Title: room T, Ei=50 meV, w=-146
+2018-06-19 19:54:09 Drive Axis1 to -146 Degree
+2018-06-19 20:03:29 Set Title: room T, Ei=50 meV, w=-144
+2018-06-19 20:03:40 Drive Axis1 to -144 Degree
+2018-06-19 20:09:46 Set Title: room T, Ei=50 meV, w=-142
+2018-06-19 20:09:56 Drive Axis1 to -142 Degree
+2018-06-19 20:15:44 Set Title: room T, Ei=50 meV, w=-140
+2018-06-19 20:15:54 Drive Axis1 to -140 Degree
+2018-06-19 20:21:42 Set Title: room T, Ei=50 meV, w=-138
+2018-06-19 20:21:52 Drive Axis1 to -138 Degree
+2018-06-19 20:28:19 Set Title: room T, Ei=50 meV, w=-136
+2018-06-19 20:28:29 Drive Axis1 to -136 Degree
+2018-06-19 20:34:17 Set Title: room T, Ei=50 meV, w=-134
+2018-06-19 20:34:28 Drive Axis1 to -134 Degree
+2018-06-19 20:40:16 Set Title: room T, Ei=50 meV, w=-132
+2018-06-19 20:40:27 Drive Axis1 to -132 Degree
+2018-06-19 20:46:15 Set Title: room T, Ei=50 meV, w=-130
+2018-06-19 20:46:25 Drive Axis1 to -130 Degree
+2018-06-19 20:52:13 Set Title: room T, Ei=50 meV, w=-128
+2018-06-19 20:52:23 Drive Axis1 to -128 Degree
+2018-06-19 20:58:11 Set Title: room T, Ei=50 meV, w=-126
+2018-06-19 20:58:21 Drive Axis1 to -126 Degree
+2018-06-19 21:04:09 Set Title: room T, Ei=50 meV, w=-124
+2018-06-19 21:04:19 Drive Axis1 to -124 Degree
+2018-06-19 21:10:08 Set Title: room T, Ei=50 meV, w=-122
+2018-06-19 21:10:18 Drive Axis1 to -122 Degree
+2018-06-19 21:16:07 Set Title: room T, Ei=50 meV, w=-120
+2018-06-19 21:16:17 Drive Axis1 to -120 Degree
+2018-06-19 21:22:05 Set Title: room T, Ei=50 meV, w=-118
+2018-06-19 21:22:16 Drive Axis1 to -118 Degree
+2018-06-19 21:28:52 Set Title: room T, Ei=50 meV, w=-116
+2018-06-19 21:29:02 Drive Axis1 to -116 Degree
+2018-06-19 21:34:50 Set Title: room T, Ei=50 meV, w=-114
+2018-06-19 21:35:01 Drive Axis1 to -114 Degree
+2018-06-19 21:40:49 Set Title: room T, Ei=50 meV, w=-112
+2018-06-19 21:40:59 Drive Axis1 to -112 Degree
+2018-06-19 21:46:48 Set Title: room T, Ei=50 meV, w=-110
+2018-06-19 21:46:58 Drive Axis1 to -110 Degree
+2018-06-19 21:52:47 Set Title: room T, Ei=50 meV, w=-108
+2018-06-19 21:52:57 Drive Axis1 to -108 Degree
+2018-06-19 21:58:45 Set Title: room T, Ei=50 meV, w=-106
+2018-06-19 21:58:55 Drive Axis1 to -106 Degree
+2018-06-19 22:04:43 Set Title: room T, Ei=50 meV, w=-104
+2018-06-19 22:04:53 Drive Axis1 to -104 Degree
+2018-06-19 22:10:41 Set Title: room T, Ei=50 meV, w=-102
+2018-06-19 22:10:51 Drive Axis1 to -102 Degree
+2018-06-19 22:16:40 Set Title: room T, Ei=50 meV, w=-100
+2018-06-19 22:16:50 Drive Axis1 to -100 Degree
+2018-06-19 22:22:37 Set Title: room T, Ei=50 meV, w=-98
+2018-06-19 22:22:48 Drive Axis1 to -98 Degree
+2018-06-19 22:28:36 Set Title: room T, Ei=50 meV, w=-96
+2018-06-19 22:28:46 Drive Axis1 to -96 Degree
+2018-06-19 22:34:33 Set Title: room T, Ei=50 meV, w=-94
+2018-06-19 22:34:43 Drive Axis1 to -94 Degree
+2018-06-19 22:40:32 Set Title: room T, Ei=50 meV, w=-92
+2018-06-19 22:40:42 Drive Axis1 to -92 Degree
+2018-06-19 22:46:31 Set Title: room T, Ei=50 meV, w=-90
+2018-06-19 22:46:41 Drive Axis1 to -90 Degree
+2018-06-19 22:53:05 Set Title: room T, Ei=50 meV, w=-88
+2018-06-19 22:53:15 Drive Axis1 to -88 Degree
+2018-06-19 22:59:05 Set Title: room T, Ei=50 meV, w=-86
+2018-06-19 22:59:15 Drive Axis1 to -86 Degree
+2018-06-19 23:05:04 Set Title: room T, Ei=50 meV, w=-84
+2018-06-19 23:05:14 Drive Axis1 to -84 Degree
+2018-06-19 23:11:05 Set Title: room T, Ei=50 meV, w=-82
+2018-06-19 23:11:15 Drive Axis1 to -82 Degree
+2018-06-19 23:17:05 Set Title: room T, Ei=50 meV, w=-80
+2018-06-19 23:17:15 Drive Axis1 to -80 Degree
+2018-06-19 23:23:05 Set Title: room T, Ei=50 meV, w=-78
+2018-06-19 23:23:15 Drive Axis1 to -78 Degree
+2018-06-19 23:29:05 Set Title: room T, Ei=50 meV, w=-76
+2018-06-19 23:29:15 Drive Axis1 to -76 Degree
+2018-06-19 23:35:05 Set Title: room T, Ei=50 meV, w=-74
+2018-06-19 23:35:15 Drive Axis1 to -74 Degree
+2018-06-19 23:41:04 Set Title: room T, Ei=50 meV, w=-72
+2018-06-19 23:41:14 Drive Axis1 to -72 Degree
+2018-06-19 23:47:03 Set Title: room T, Ei=50 meV, w=-70
+2018-06-19 23:47:13 Drive Axis1 to -70 Degree
+2018-06-19 23:53:03 Set Title: room T, Ei=50 meV, w=-68
+2018-06-19 23:53:13 Drive Axis1 to -68 Degree
+2018-06-19 23:59:02 Set Title: room T, Ei=50 meV, w=-66
+2018-06-19 23:59:13 Drive Axis1 to -66 Degree
+2018-06-20 00:05:03 Set Title: room T, Ei=50 meV, w=-64
+2018-06-20 00:05:13 Drive Axis1 to -64 Degree
+2018-06-20 00:11:03 Set Title: room T, Ei=50 meV, w=-62
+2018-06-20 00:11:13 Drive Axis1 to -62 Degree
+2018-06-20 00:17:03 Set Title: room T, Ei=50 meV, w=-60
+2018-06-20 00:17:13 Drive Axis1 to -60 Degree
+2018-06-20 00:23:03 Set Title: room T, Ei=50 meV, w=-58
+2018-06-20 00:23:13 Drive Axis1 to -58 Degree
+2018-06-20 00:29:02 Set Title: room T, Ei=50 meV, w=-56
+2018-06-20 00:29:13 Drive Axis1 to -56 Degree
+2018-06-20 00:35:02 Set Title: room T, Ei=50 meV, w=-54
+2018-06-20 00:35:12 Drive Axis1 to -54 Degree
+2018-06-20 00:41:02 Set Title: room T, Ei=50 meV, w=-52
+2018-06-20 00:41:12 Drive Axis1 to -52 Degree
+2018-06-20 00:47:02 Set Title: room T, Ei=50 meV, w=-50
+2018-06-20 00:47:12 Drive Axis1 to -50 Degree
+2018-06-20 00:53:02 Set Title: room T, Ei=50 meV, w=-48
+2018-06-20 00:53:13 Drive Axis1 to -48 Degree
+2018-06-20 00:59:29 Set Title: room T, Ei=50 meV, w=-46
+2018-06-20 00:59:39 Drive Axis1 to -46 Degree
+2018-06-20 01:33:59 Set Title: room T, Ei=50 meV, w=-44
+2018-06-20 01:34:09 Drive Axis1 to -44 Degree
+2018-06-20 01:41:11 Set Title: room T, Ei=50 meV, w=-42
+2018-06-20 01:41:21 Drive Axis1 to -42 Degree
+2018-06-20 01:47:11 Set Title: room T, Ei=50 meV, w=-40
+2018-06-20 01:47:21 Drive Axis1 to -40 Degree
+2018-06-20 01:53:10 Set Title: room T, Ei=50 meV, w=-38
+2018-06-20 01:53:20 Drive Axis1 to -38 Degree
+2018-06-20 01:59:34 Set Title: room T, Ei=50 meV, w=-36
+2018-06-20 01:59:44 Drive Axis1 to -36 Degree
+2018-06-20 02:05:34 Set Title: room T, Ei=50 meV, w=-34
+2018-06-20 02:05:44 Drive Axis1 to -34 Degree
+2018-06-20 02:11:34 Set Title: room T, Ei=50 meV, w=-32
+2018-06-20 02:11:44 Drive Axis1 to -32 Degree
+2018-06-20 02:18:24 Set Title: room T, Ei=50 meV, w=-30
+2018-06-20 02:18:34 Drive Axis1 to -30 Degree
+2018-06-20 02:24:24 Set Title: room T, Ei=50 meV, w=-28
+2018-06-20 02:24:34 Drive Axis1 to -28 Degree
+2018-06-20 02:30:24 Set Title: room T, Ei=50 meV, w=-26
+2018-06-20 02:30:34 Drive Axis1 to -26 Degree
+2018-06-20 02:36:24 Set Title: room T, Ei=50 meV, w=-24
+2018-06-20 02:36:34 Drive Axis1 to -24 Degree
+2018-06-20 02:42:24 Set Title: room T, Ei=50 meV, w=-22
+2018-06-20 02:42:34 Drive Axis1 to -22 Degree
+2018-06-20 02:48:23 Set Title: room T, Ei=50 meV, w=-20
+2018-06-20 02:48:34 Drive Axis1 to -20 Degree
+2018-06-20 02:54:23 Set Title: room T, Ei=50 meV, w=-18
+2018-06-20 02:54:33 Drive Axis1 to -18 Degree
+2018-06-20 03:00:22 Set Title: room T, Ei=50 meV, w=-16
+2018-06-20 03:00:33 Drive Axis1 to -16 Degree
+2018-06-20 03:06:22 Set Title: room T, Ei=50 meV, w=-14
+2018-06-20 03:06:32 Drive Axis1 to -14 Degree
+2018-06-20 03:12:22 Set Title: room T, Ei=50 meV, w=-12
+2018-06-20 03:12:33 Drive Axis1 to -12 Degree
+2018-06-20 03:18:22 Set Title: room T, Ei=50 meV, w=-10
+2018-06-20 03:18:32 Drive Axis1 to -10 Degree
+2018-06-20 03:24:43 Set Title: room T, Ei=50 meV, w=-8
+2018-06-20 03:24:53 Drive Axis1 to -8 Degree
+2018-06-20 03:30:42 Set Title: room T, Ei=50 meV, w=-6
+2018-06-20 03:30:53 Drive Axis1 to -6 Degree
+2018-06-20 03:36:42 Set Title: room T, Ei=50 meV, w=-4
+2018-06-20 03:36:53 Drive Axis1 to -4 Degree
+2018-06-20 03:42:42 Set Title: room T, Ei=50 meV, w=-2
+2018-06-20 03:42:53 Drive Axis1 to -2 Degree
+2018-06-20 03:48:42 Set Title: room T, Ei=50 meV, w=0
+2018-06-20 03:48:52 Drive Axis1 to 0 Degree
+2018-06-20 03:54:42 Set Title: room T, Ei=50 meV, w=2
+2018-06-20 03:54:52 Drive Axis1 to 2 Degree
+2018-06-20 04:00:42 Set Title: room T, Ei=50 meV, w=4
+2018-06-20 04:00:52 Drive Axis1 to 4 Degree
+2018-06-20 04:07:01 Set Title: room T, Ei=50 meV, w=6
+2018-06-20 04:07:11 Drive Axis1 to 6 Degree
+2018-06-20 04:13:01 Set Title: room T, Ei=50 meV, w=8
+2018-06-20 04:13:11 Drive Axis1 to 8 Degree
+2018-06-20 04:19:01 Set Title: room T, Ei=50 meV, w=10
+2018-06-20 04:19:11 Drive Axis1 to 10 Degree
+2018-06-20 04:25:00 Set Title: room T, Ei=50 meV, w=12
+2018-06-20 04:25:11 Drive Axis1 to 12 Degree
+2018-06-20 04:31:00 Set Title: room T, Ei=50 meV, w=14
+2018-06-20 04:31:11 Drive Axis1 to 14 Degree
+2018-06-20 04:37:01 Set Title: room T, Ei=50 meV, w=16
+2018-06-20 04:37:11 Drive Axis1 to 16 Degree
+2018-06-20 04:43:01 Set Title: room T, Ei=50 meV, w=18
+2018-06-20 04:43:11 Drive Axis1 to 18 Degree
+2018-06-20 04:49:01 Set Title: room T, Ei=50 meV, w=20
+2018-06-20 04:49:11 Drive Axis1 to 20 Degree
+2018-06-20 04:55:01 Set Title: room T, Ei=50 meV, w=22
+2018-06-20 04:55:11 Drive Axis1 to 22 Degree
+2018-06-20 05:01:01 Set Title: room T, Ei=50 meV, w=24
+2018-06-20 05:01:11 Drive Axis1 to 24 Degree
+2018-06-20 05:07:01 Set Title: room T, Ei=50 meV, w=26
+2018-06-20 05:07:11 Drive Axis1 to 26 Degree
+2018-06-20 05:13:01 Set Title: room T, Ei=50 meV, w=28
+2018-06-20 05:13:11 Drive Axis1 to 28 Degree
+2018-06-20 05:19:02 Set Title: room T, Ei=50 meV, w=30
+2018-06-20 05:19:12 Drive Axis1 to 30 Degree
+2018-06-20 05:25:02 Set Title: room T, Ei=50 meV, w=32
+2018-06-20 05:25:12 Drive Axis1 to 32 Degree
+2018-06-20 05:31:02 Set Title: room T, Ei=50 meV, w=34
+2018-06-20 05:31:12 Drive Axis1 to 34 Degree
+2018-06-20 05:37:03 Set Title: room T, Ei=50 meV, w=36
+2018-06-20 05:37:13 Drive Axis1 to 36 Degree
+2018-06-20 05:43:04 Set Title: room T, Ei=50 meV, w=38
+2018-06-20 05:43:14 Drive Axis1 to 38 Degree
+2018-06-20 05:49:05 Set Title: room T, Ei=50 meV, w=40
+2018-06-20 05:49:15 Drive Axis1 to 40 Degree
+2018-06-20 05:55:06 Set Title: room T, Ei=50 meV, w=42
+2018-06-20 05:55:16 Drive Axis1 to 42 Degree
+2018-06-20 06:01:06 Set Title: room T, Ei=50 meV, w=44
+2018-06-20 06:01:17 Drive Axis1 to 44 Degree
+2018-06-20 06:07:07 Set Title: room T, Ei=50 meV, w=46
+2018-06-20 06:07:17 Drive Axis1 to 46 Degree
+2018-06-20 06:13:08 Set Title: room T, Ei=50 meV, w=48
+2018-06-20 06:13:18 Drive Axis1 to 48 Degree
+2018-06-20 06:19:09 Set Title: room T, Ei=50 meV, w=50
+2018-06-20 06:19:19 Drive Axis1 to 50 Degree
+2018-06-20 06:25:09 Set Title: room T, Ei=50 meV, w=52
+2018-06-20 06:25:19 Drive Axis1 to 52 Degree
+2018-06-20 06:31:10 Set Title: room T, Ei=50 meV, w=54
+2018-06-20 06:31:20 Drive Axis1 to 54 Degree
+2018-06-20 06:37:11 Set Title: room T, Ei=50 meV, w=56
+2018-06-20 06:37:21 Drive Axis1 to 56 Degree
+2018-06-20 06:43:12 Set Title: room T, Ei=50 meV, w=58
+2018-06-20 06:43:22 Drive Axis1 to 58 Degree
+2018-06-20 06:49:11 Set Title: room T, Ei=50 meV, w=60
+2018-06-20 06:49:21 Drive Axis1 to 60 Degree
+2018-06-20 06:55:09 Set Title: room T, Ei=50 meV, w=62
+2018-06-20 06:55:20 Drive Axis1 to 62 Degree
+2018-06-20 07:01:08 Set Title: room T, Ei=50 meV, w=64
+2018-06-20 07:01:18 Drive Axis1 to 64 Degree
+2018-06-20 07:07:06 Set Title: room T, Ei=50 meV, w=66
+2018-06-20 07:07:16 Drive Axis1 to 66 Degree
+2018-06-20 07:13:05 Set Title: room T, Ei=50 meV, w=68
+2018-06-20 07:13:15 Drive Axis1 to 68 Degree
+2018-06-20 07:19:04 Set Title: room T, Ei=50 meV, w=70
+2018-06-20 07:19:14 Drive Axis1 to 70 Degree
+2018-06-20 07:25:03 Set Title: room T, Ei=50 meV, w=72
+2018-06-20 07:25:13 Drive Axis1 to 72 Degree
+2018-06-20 07:31:01 Set Title: room T, Ei=50 meV, w=74
+2018-06-20 07:31:11 Drive Axis1 to 74 Degree
+2018-06-20 07:36:58 Set Title: room T, Ei=50 meV, w=76
+2018-06-20 07:37:09 Drive Axis1 to 76 Degree
+2018-06-20 07:42:56 Set Title: room T, Ei=50 meV, w=78
+2018-06-20 07:43:06 Drive Axis1 to 78 Degree
+2018-06-20 07:48:54 Set Title: room T, Ei=50 meV, w=80
+2018-06-20 07:49:04 Drive Axis1 to 80 Degree
+2018-06-20 07:54:52 Set Title: room T, Ei=50 meV, w=82
+2018-06-20 07:55:02 Drive Axis1 to 82 Degree
+2018-06-20 08:01:12 Set Title: room T, Ei=50 meV, w=84
+2018-06-20 08:01:22 Drive Axis1 to 84 Degree
+2018-06-20 08:07:10 Set Title: room T, Ei=50 meV, w=86
+2018-06-20 08:07:20 Drive Axis1 to 86 Degree
+2018-06-20 08:16:42 Set Title: room T, Ei=50 meV, w=88
+2018-06-20 08:16:53 Drive Axis1 to 88 Degree
+2018-06-20 08:22:40 Set Title: room T, Ei=50 meV, w=90
+2018-06-20 08:22:50 Drive Axis1 to 90 Degree
+2018-06-20 08:28:38 Set Title: room T, Ei=50 meV, w=92
+2018-06-20 08:28:48 Drive Axis1 to 92 Degree
+2018-06-20 08:34:37 Set Title: room T, Ei=50 meV, w=94
+2018-06-20 08:34:47 Drive Axis1 to 94 Degree
+2018-06-20 08:40:35 Set Title: room T, Ei=50 meV, w=96
+2018-06-20 08:40:46 Drive Axis1 to 96 Degree
+2018-06-20 08:46:35 Set Title: room T, Ei=50 meV, w=98
+2018-06-20 08:46:45 Drive Axis1 to 98 Degree
+2018-06-20 08:52:33 Set Title: room T, Ei=50 meV, w=100
+2018-06-20 08:52:43 Drive Axis1 to 100 Degree
+2018-06-20 08:58:31 Set Title: room T, Ei=50 meV, w=102
+2018-06-20 08:58:42 Drive Axis1 to 102 Degree
+2018-06-20 09:04:30 Set Title: room T, Ei=50 meV, w=104
+2018-06-20 09:04:40 Drive Axis1 to 104 Degree
+2018-06-20 09:10:29 Set Title: room T, Ei=50 meV, w=106
+2018-06-20 09:10:39 Drive Axis1 to 106 Degree
+2018-06-20 09:16:27 Set Title: room T, Ei=50 meV, w=108
+2018-06-20 09:16:37 Drive Axis1 to 108 Degree
+2018-06-20 09:22:26 Set Title: room T, Ei=50 meV, w=110
+2018-06-20 09:22:36 Drive Axis1 to 110 Degree
+2018-06-20 09:29:00 Set Title: room T, Ei=50 meV, w=112
+2018-06-20 09:29:10 Drive Axis1 to 112 Degree
+2018-06-20 09:35:02 Set Title: room T, Ei=50 meV, w=114
+2018-06-20 09:35:12 Drive Axis1 to 114 Degree
+2018-06-20 09:41:17 Set Title: room T, Ei=50 meV, w=116
+2018-06-20 09:41:27 Drive Axis1 to 116 Degree
+2018-06-20 09:47:17 Set Title: room T, Ei=50 meV, w=118
+2018-06-20 09:47:27 Drive Axis1 to 118 Degree
+2018-06-20 09:53:16 Set Title: room T, Ei=50 meV, w=120
+2018-06-20 09:53:26 Drive Axis1 to 120 Degree
+2018-06-20 09:59:14 Set Title: room T, Ei=50 meV, w=122
+2018-06-20 09:59:24 Drive Axis1 to 122 Degree
+2018-06-20 10:05:12 Set Title: room T, Ei=50 meV, w=124
+2018-06-20 10:05:22 Drive Axis1 to 124 Degree
+2018-06-20 10:11:10 Set Title: room T, Ei=50 meV, w=126
+2018-06-20 10:11:20 Drive Axis1 to 126 Degree
+2018-06-20 10:17:09 Set Title: room T, Ei=50 meV, w=128
+2018-06-20 10:17:19 Drive Axis1 to 128 Degree
+2018-06-20 10:23:08 Set Title: room T, Ei=50 meV, w=130
+2018-06-20 10:23:18 Drive Axis1 to 130 Degree
+2018-06-20 10:29:06 Set Title: room T, Ei=50 meV, w=132
+2018-06-20 10:29:16 Drive Axis1 to 132 Degree
+2018-06-20 10:35:04 Set Title: room T, Ei=50 meV, w=134
+2018-06-20 10:35:14 Drive Axis1 to 134 Degree
+2018-06-20 10:41:02 Set Title: room T, Ei=50 meV, w=136
+2018-06-20 10:41:12 Drive Axis1 to 136 Degree
+2018-06-20 10:47:00 Set Title: room T, Ei=50 meV, w=138
+2018-06-20 10:47:11 Drive Axis1 to 138 Degree
+2018-06-20 11:01:55 Set Title: room T, Ei=50 meV, w=140
+2018-06-20 11:02:05 Drive Axis1 to 140 Degree
+2018-06-20 11:07:53 Set Title: room T, Ei=50 meV, w=142
+2018-06-20 11:08:03 Drive Axis1 to 142 Degree
+2018-06-20 11:13:51 Set Title: room T, Ei=50 meV, w=144
+2018-06-20 11:14:01 Drive Axis1 to 144 Degree
+2018-06-20 11:19:49 Set Title: room T, Ei=50 meV, w=146
+2018-06-20 11:19:59 Drive Axis1 to 146 Degree
+2018-06-20 11:25:49 Set Title: room T, Ei=50 meV, w=148
+2018-06-20 11:25:59 Drive Axis1 to 148 Degree
+2018-06-20 11:31:49 Set Title: room T, Ei=50 meV, w=150
+2018-06-20 11:31:59 Drive Axis1 to 150 Degree
+2018-06-20 11:37:48 Set Title: room T, Ei=50 meV, w=152
+2018-06-20 11:37:58 Drive Axis1 to 152 Degree
+2018-06-20 11:43:48 Set Title: room T, Ei=50 meV, w=154
+2018-06-20 11:43:58 Drive Axis1 to 154 Degree
+2018-06-20 11:50:31 Set Title: room T, Ei=50 meV, w=156
+2018-06-20 11:50:41 Drive Axis1 to 156 Degree
+2018-06-20 11:56:31 Set Title: room T, Ei=50 meV, w=158
+2018-06-20 11:56:41 Drive Axis1 to 158 Degree
+2018-06-20 12:02:31 Set Title: room T, Ei=50 meV, w=160
+2018-06-20 12:02:41 Drive Axis1 to 160 Degree
+2018-06-20 12:08:31 Set Title: room T, Ei=50 meV, w=162
+2018-06-20 12:08:41 Drive Axis1 to 162 Degree
+2018-06-20 12:14:30 Set Title: room T, Ei=50 meV, w=164
+2018-06-20 12:14:40 Drive Axis1 to 164 Degree
+2018-06-20 12:20:30 Set Title: room T, Ei=50 meV, w=166
+2018-06-20 12:20:40 Drive Axis1 to 166 Degree
+2018-06-20 12:26:29 Set Title: room T, Ei=50 meV, w=168
+2018-06-20 12:26:40 Drive Axis1 to 168 Degree

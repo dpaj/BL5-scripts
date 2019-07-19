@@ -1,0 +1,2343 @@
+2019-03-04 09:29:15 Line Log cleared
+2019-03-04 09:29:15 Starting IPTS-21925 on 2019-03-04
+2019-03-04 09:37:41 Set Title: Checking alignment
+2019-03-04 09:52:53 Setting: a=3.83 b=3.83 c=6.0 alpha=90 beta=90 gamma=120
+2019-03-04 09:53:09 Setting U vec: h=1 k=0 l=0
+2019-03-04 09:53:14 Setting V vec: h=0 k=0 l=1
+2019-03-04 09:59:19 New X/Y Signal ROI at 2Theta=[48.5,54.5] Phi=[-5,5]
+2019-03-04 10:42:35 Set Title: Scanning 002
+2019-03-04 10:43:21 Relative Scan axis2, run 306346
+2019-03-04 10:48:25 Set Title: Scanning 10-1
+2019-03-04 10:49:06 Relative Scan axis2, run 306346
+2019-03-04 10:55:22 New X/Y Signal ROI at 2Theta=[49.0938213336,54.0938213336] Phi=[-4.1982671538,5.8017328462]
+2019-03-04 10:56:23 Drive Axis2 to -123.41988651 Degree
+2019-03-04 10:56:23 Driving to: (0,0,2) at Omega=-123.41988651
+2019-03-04 11:02:59 Set Title: Scanning 002
+2019-03-04 11:03:04 Relative Scan axis2, run 306347
+2019-03-04 11:09:18 New X/Y Signal ROI at 2Theta=[43.8528736605,48.8528736605] Phi=[-1.0693132904,8.9306867096]
+2019-03-04 11:10:18 Drive Axis2 to -37.7053039973 Degree
+2019-03-04 11:10:18 Driving to: (1,0,0) at Omega=-37.7053039973
+2019-03-04 11:12:11 Set Title: Scanning 100
+2019-03-04 11:16:45 Set Title: Scanning 102
+2019-03-04 11:16:52 New X/Y Signal ROI at 2Theta=[69.3344699184,74.3344699184] Phi=[0.486835048593,10.4868350486]
+2019-03-04 11:17:53 Drive Axis2 to -72.8940676584 Degree
+2019-03-04 11:17:53 Driving to: (1,0,2) at Omega=-72.8940676584
+2019-03-04 11:20:31 Setting: a=3.82 b=3.82 c=6.0 alpha=90 beta=90 gamma=120
+2019-03-04 11:20:44 Setting U vec: h=1 k=0 l=0
+2019-03-04 11:20:55 Setting V vec: h=0 k=0 l=1
+2019-03-04 11:25:20 Set Title: Scanning 002
+2019-03-04 11:25:35 Relative Scan axis2, run 306349
+2019-03-04 11:35:03 Set Title: Scanning 200
+2019-03-04 11:35:06 Relative Scan axis2, run 306349
+2019-03-04 11:42:11 New X/Y Signal ROI at 2Theta=[49.1005485043,54.1005485043] Phi=[-6.25980905298,3.74019094702]
+2019-03-04 11:43:12 Drive Axis2 to -65.9820609478 Degree
+2019-03-04 11:43:12 Driving to: (0,0,-2) at Omega=-65.9820609478
+2019-03-04 11:46:23 Set Title: Scanning 002
+2019-03-04 11:46:26 Relative Scan axis2, run 306350
+2019-03-04 11:52:33 Set Title: Scanning 102
+2019-03-04 11:52:52 New X/Y Signal ROI at 2Theta=[69.4224038003,74.4224038003] Phi=[-1.89873524509,8.10126475491]
+2019-03-04 11:53:53 Drive Axis2 to -97.9441390695 Degree
+2019-03-04 11:53:53 Driving to: (1,0,2) at Omega=-97.9441390695
+2019-03-04 11:56:46 Relative Scan axis2, run 306351
+2019-03-04 12:03:50 New X/Y Signal ROI at 2Theta=[126.112665011,131.112665011] Phi=[-0.362314380894,9.63768561911]
+2019-03-04 12:04:18 Drive Axis2 to -88.4164590724 Degree
+2019-03-04 12:04:18 Driving to: (2,0,2) at Omega=-88.4164590724
+2019-03-04 12:05:50 New X/Y Signal ROI at 2Theta=[51.0681460865,56.0681460865] Phi=[-4.86985926405,5.13014073595]
+2019-03-04 12:06:51 Drive Axis2 to -3.73274366109 Degree
+2019-03-04 12:06:51 Driving to: (-1,0,1) at Omega=-3.73274366109
+2019-03-04 12:08:13 Set Title: Scanning -101
+2019-03-04 12:09:54 Relative Scan axis2, run 306352
+2019-03-04 12:23:41 Set Incident Energy to 6.59 meV
+2019-03-04 12:23:41 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-135 deg
+2019-03-04 12:29:57 Drive Axis2 to -135 Degree
+2019-03-04 12:34:35 Set Incident Energy to 6.59 meV
+2019-03-04 12:34:35 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-135 deg
+2019-03-04 12:34:36 Drive Axis2 to -135 Degree
+2019-03-04 12:35:30 Set Incident Energy to 6.59 meV
+2019-03-04 12:35:30 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-135 deg
+2019-03-04 12:35:31 Drive Axis2 to -135 Degree
+2019-03-04 12:37:56 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-133 deg
+2019-03-04 12:38:05 Drive Axis2 to -133 Degree
+2019-03-04 12:40:30 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-131 deg
+2019-03-04 12:40:40 Drive Axis2 to -131 Degree
+2019-03-04 12:43:05 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-129 deg
+2019-03-04 12:43:14 Drive Axis2 to -129 Degree
+2019-03-04 12:45:39 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-127 deg
+2019-03-04 12:45:49 Drive Axis2 to -127 Degree
+2019-03-04 12:48:14 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-125 deg
+2019-03-04 12:48:23 Drive Axis2 to -125 Degree
+2019-03-04 12:50:48 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-123 deg
+2019-03-04 12:50:58 Drive Axis2 to -123 Degree
+2019-03-04 12:53:23 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-121 deg
+2019-03-04 12:53:32 Drive Axis2 to -121 Degree
+2019-03-04 12:55:57 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-119 deg
+2019-03-04 12:56:06 Drive Axis2 to -119 Degree
+2019-03-04 12:58:31 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-117 deg
+2019-03-04 12:58:40 Drive Axis2 to -117 Degree
+2019-03-04 13:01:05 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-115 deg
+2019-03-04 13:01:14 Drive Axis2 to -115 Degree
+2019-03-04 13:03:40 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-113 deg
+2019-03-04 13:03:49 Drive Axis2 to -113 Degree
+2019-03-04 13:06:14 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-111 deg
+2019-03-04 13:06:23 Drive Axis2 to -111 Degree
+2019-03-04 13:08:49 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-109 deg
+2019-03-04 13:08:58 Drive Axis2 to -109 Degree
+2019-03-04 13:11:23 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-107 deg
+2019-03-04 13:11:32 Drive Axis2 to -107 Degree
+2019-03-04 13:13:58 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-105 deg
+2019-03-04 13:14:07 Drive Axis2 to -105 Degree
+2019-03-04 13:16:32 Set Title: H= 0 Tesla, cooling, Ei=6.59 meV, w=-103 deg
+2019-03-04 13:16:42 Drive Axis2 to -103 Degree
+2019-03-04 16:19:08 Setting the magnetic field at 0.0 Tesla
+2019-03-04 16:20:13 Set Incident Energy to 6.59 meV
+2019-03-04 16:20:13 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-180.0 deg
+2019-03-04 16:20:13 Drive Axis2 to -180.0 Degree
+2019-03-04 16:24:19 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-178.0 deg
+2019-03-04 16:24:28 Drive Axis2 to -178.0 Degree
+2019-03-04 16:28:35 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-176.0 deg
+2019-03-04 16:28:44 Drive Axis2 to -176.0 Degree
+2019-03-04 16:33:08 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-174.0 deg
+2019-03-04 16:33:18 Drive Axis2 to -174.0 Degree
+2019-03-04 16:37:24 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-172.0 deg
+2019-03-04 16:37:33 Drive Axis2 to -172.0 Degree
+2019-03-04 16:41:40 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-170.0 deg
+2019-03-04 16:41:49 Drive Axis2 to -170.0 Degree
+2019-03-04 16:45:55 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-168.0 deg
+2019-03-04 16:46:04 Drive Axis2 to -168.0 Degree
+2019-03-04 16:50:10 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-166.0 deg
+2019-03-04 16:50:20 Drive Axis2 to -166.0 Degree
+2019-03-04 16:54:26 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-164.0 deg
+2019-03-04 16:54:35 Drive Axis2 to -164.0 Degree
+2019-03-04 16:58:41 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-162.0 deg
+2019-03-04 16:58:51 Drive Axis2 to -162.0 Degree
+2019-03-04 17:02:57 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-160.0 deg
+2019-03-04 17:03:07 Drive Axis2 to -160.0 Degree
+2019-03-04 17:07:13 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-158.0 deg
+2019-03-04 17:07:22 Drive Axis2 to -158.0 Degree
+2019-03-04 17:11:28 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-156.0 deg
+2019-03-04 17:11:38 Drive Axis2 to -156.0 Degree
+2019-03-04 17:15:43 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-154.0 deg
+2019-03-04 17:15:53 Drive Axis2 to -154.0 Degree
+2019-03-04 17:19:59 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-152.0 deg
+2019-03-04 17:20:08 Drive Axis2 to -152.0 Degree
+2019-03-04 17:24:14 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-150.0 deg
+2019-03-04 17:24:23 Drive Axis2 to -150.0 Degree
+2019-03-04 17:28:30 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-148.0 deg
+2019-03-04 17:28:39 Drive Axis2 to -148.0 Degree
+2019-03-04 17:34:33 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-146.0 deg
+2019-03-04 17:34:43 Drive Axis2 to -146.0 Degree
+2019-03-04 17:38:49 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-144.0 deg
+2019-03-04 17:38:58 Drive Axis2 to -144.0 Degree
+2019-03-04 17:43:04 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-142.0 deg
+2019-03-04 17:43:14 Drive Axis2 to -142.0 Degree
+2019-03-04 17:47:20 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-140.0 deg
+2019-03-04 17:47:29 Drive Axis2 to -140.0 Degree
+2019-03-04 17:51:36 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-138.0 deg
+2019-03-04 17:51:45 Drive Axis2 to -138.0 Degree
+2019-03-04 17:55:51 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-136.0 deg
+2019-03-04 17:56:01 Drive Axis2 to -136.0 Degree
+2019-03-04 18:00:07 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-134.0 deg
+2019-03-04 18:00:16 Drive Axis2 to -134.0 Degree
+2019-03-04 18:04:23 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-132.0 deg
+2019-03-04 18:04:32 Drive Axis2 to -132.0 Degree
+2019-03-04 18:08:38 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-130.0 deg
+2019-03-04 18:08:47 Drive Axis2 to -130.0 Degree
+2019-03-04 18:12:53 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-128.0 deg
+2019-03-04 18:13:03 Drive Axis2 to -128.0 Degree
+2019-03-04 18:17:09 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-126.0 deg
+2019-03-04 18:17:18 Drive Axis2 to -126.0 Degree
+2019-03-04 18:21:24 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-124.0 deg
+2019-03-04 18:21:34 Drive Axis2 to -124.0 Degree
+2019-03-04 18:25:40 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-122.0 deg
+2019-03-04 18:25:49 Drive Axis2 to -122.0 Degree
+2019-03-04 18:29:56 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-120.0 deg
+2019-03-04 18:30:05 Drive Axis2 to -120.0 Degree
+2019-03-04 18:34:53 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-118.0 deg
+2019-03-04 18:35:02 Drive Axis2 to -118.0 Degree
+2019-03-04 18:39:08 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-116.0 deg
+2019-03-04 18:39:18 Drive Axis2 to -116.0 Degree
+2019-03-04 18:43:24 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-114.0 deg
+2019-03-04 18:43:33 Drive Axis2 to -114.0 Degree
+2019-03-04 18:47:40 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-112.0 deg
+2019-03-04 18:47:49 Drive Axis2 to -112.0 Degree
+2019-03-04 18:51:56 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-110.0 deg
+2019-03-04 18:52:05 Drive Axis2 to -110.0 Degree
+2019-03-04 18:56:12 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-108.0 deg
+2019-03-04 18:56:21 Drive Axis2 to -108.0 Degree
+2019-03-04 19:00:27 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-106.0 deg
+2019-03-04 19:00:37 Drive Axis2 to -106.0 Degree
+2019-03-04 19:04:43 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-104.0 deg
+2019-03-04 19:04:52 Drive Axis2 to -104.0 Degree
+2019-03-04 19:08:58 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-102.0 deg
+2019-03-04 19:09:08 Drive Axis2 to -102.0 Degree
+2019-03-04 19:13:14 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-100.0 deg
+2019-03-04 19:13:23 Drive Axis2 to -100.0 Degree
+2019-03-04 19:17:29 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-98.0 deg
+2019-03-04 19:17:39 Drive Axis2 to -98.0 Degree
+2019-03-04 19:21:46 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-96.0 deg
+2019-03-04 19:21:55 Drive Axis2 to -96.0 Degree
+2019-03-04 19:26:02 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-94.0 deg
+2019-03-04 19:26:11 Drive Axis2 to -94.0 Degree
+2019-03-04 19:30:17 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-92.0 deg
+2019-03-04 19:30:27 Drive Axis2 to -92.0 Degree
+2019-03-04 19:34:33 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-90.0 deg
+2019-03-04 19:34:42 Drive Axis2 to -90.0 Degree
+2019-03-04 19:38:49 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-88.0 deg
+2019-03-04 19:38:58 Drive Axis2 to -88.0 Degree
+2019-03-04 19:43:32 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-86.0 deg
+2019-03-04 19:43:41 Drive Axis2 to -86.0 Degree
+2019-03-04 19:47:47 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-84.0 deg
+2019-03-04 19:47:57 Drive Axis2 to -84.0 Degree
+2019-03-04 19:52:29 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-82.0 deg
+2019-03-04 19:52:38 Drive Axis2 to -82.0 Degree
+2019-03-04 19:56:44 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-80.0 deg
+2019-03-04 19:56:54 Drive Axis2 to -80.0 Degree
+2019-03-04 20:01:00 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-78.0 deg
+2019-03-04 20:01:09 Drive Axis2 to -78.0 Degree
+2019-03-04 20:05:16 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-76.0 deg
+2019-03-04 20:05:25 Drive Axis2 to -76.0 Degree
+2019-03-04 20:09:31 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-74.0 deg
+2019-03-04 20:09:41 Drive Axis2 to -74.0 Degree
+2019-03-04 20:13:47 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-72.0 deg
+2019-03-04 20:13:56 Drive Axis2 to -72.0 Degree
+2019-03-04 20:18:02 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-70.0 deg
+2019-03-04 20:18:12 Drive Axis2 to -70.0 Degree
+2019-03-04 20:22:19 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-68.0 deg
+2019-03-04 20:22:28 Drive Axis2 to -68.0 Degree
+2019-03-04 20:26:34 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-66.0 deg
+2019-03-04 20:26:44 Drive Axis2 to -66.0 Degree
+2019-03-04 20:30:50 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-64.0 deg
+2019-03-04 20:30:59 Drive Axis2 to -64.0 Degree
+2019-03-04 20:35:05 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-62.0 deg
+2019-03-04 20:35:15 Drive Axis2 to -62.0 Degree
+2019-03-04 20:39:21 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-60.0 deg
+2019-03-04 20:39:31 Drive Axis2 to -60.0 Degree
+2019-03-04 20:43:36 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-58.0 deg
+2019-03-04 20:43:46 Drive Axis2 to -58.0 Degree
+2019-03-04 20:47:51 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-56.0 deg
+2019-03-04 20:48:01 Drive Axis2 to -56.0 Degree
+2019-03-04 20:52:07 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-54.0 deg
+2019-03-04 20:52:16 Drive Axis2 to -54.0 Degree
+2019-03-04 20:56:22 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-52.0 deg
+2019-03-04 20:56:31 Drive Axis2 to -52.0 Degree
+2019-03-04 21:00:37 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-50.0 deg
+2019-03-04 21:00:46 Drive Axis2 to -50.0 Degree
+2019-03-04 21:04:52 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-48.0 deg
+2019-03-04 21:05:02 Drive Axis2 to -48.0 Degree
+2019-03-04 21:09:08 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-46.0 deg
+2019-03-04 21:09:17 Drive Axis2 to -46.0 Degree
+2019-03-04 21:13:23 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-44.0 deg
+2019-03-04 21:13:33 Drive Axis2 to -44.0 Degree
+2019-03-04 21:17:39 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-42.0 deg
+2019-03-04 21:17:48 Drive Axis2 to -42.0 Degree
+2019-03-04 21:21:54 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-40.0 deg
+2019-03-04 21:22:04 Drive Axis2 to -40.0 Degree
+2019-03-04 21:26:10 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-38.0 deg
+2019-03-04 21:26:20 Drive Axis2 to -38.0 Degree
+2019-03-04 21:30:25 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-36.0 deg
+2019-03-04 21:30:35 Drive Axis2 to -36.0 Degree
+2019-03-04 21:34:40 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-34.0 deg
+2019-03-04 21:34:50 Drive Axis2 to -34.0 Degree
+2019-03-04 21:38:56 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-32.0 deg
+2019-03-04 21:39:05 Drive Axis2 to -32.0 Degree
+2019-03-04 21:43:11 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-30.0 deg
+2019-03-04 21:43:20 Drive Axis2 to -30.0 Degree
+2019-03-04 21:47:26 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-28.0 deg
+2019-03-04 21:47:35 Drive Axis2 to -28.0 Degree
+2019-03-04 21:51:41 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-26.0 deg
+2019-03-04 21:51:51 Drive Axis2 to -26.0 Degree
+2019-03-04 21:55:57 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-24.0 deg
+2019-03-04 21:56:06 Drive Axis2 to -24.0 Degree
+2019-03-04 22:00:12 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-22.0 deg
+2019-03-04 22:00:21 Drive Axis2 to -22.0 Degree
+2019-03-04 22:04:27 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-20.0 deg
+2019-03-04 22:04:36 Drive Axis2 to -20.0 Degree
+2019-03-04 22:08:42 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-18.0 deg
+2019-03-04 22:08:52 Drive Axis2 to -18.0 Degree
+2019-03-04 22:12:58 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-16.0 deg
+2019-03-04 22:13:07 Drive Axis2 to -16.0 Degree
+2019-03-04 22:17:14 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-14.0 deg
+2019-03-04 22:17:23 Drive Axis2 to -14.0 Degree
+2019-03-04 22:21:30 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-12.0 deg
+2019-03-04 22:21:39 Drive Axis2 to -12.0 Degree
+2019-03-04 22:25:45 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-10.0 deg
+2019-03-04 22:25:54 Drive Axis2 to -10.0 Degree
+2019-03-04 22:30:49 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-8.0 deg
+2019-03-04 22:30:59 Drive Axis2 to -8.0 Degree
+2019-03-04 22:35:05 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-6.0 deg
+2019-03-04 22:35:14 Drive Axis2 to -6.0 Degree
+2019-03-04 22:39:20 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-4.0 deg
+2019-03-04 22:39:29 Drive Axis2 to -4.0 Degree
+2019-03-04 22:43:35 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=-2.0 deg
+2019-03-04 22:43:45 Drive Axis2 to -2.0 Degree
+2019-03-04 22:47:50 Set Title: H= 0.0 Tesla, T=12 K, Ei=6.59 meV, w=0.0 deg
+2019-03-04 22:47:59 Drive Axis2 to 0.0 Degree
+2019-03-04 22:48:56 Setting: a=3.82 b=3.82 c=6.0 alpha=90 beta=90 gamma=120
+2019-03-04 22:56:06 Set Title: testing UB
+2019-03-04 23:03:32 Set Title: testing UB 002
+2019-03-04 23:03:57 Relative Scan axis2, run 306466
+2019-03-04 23:10:00 Set Title: testing UB 102
+2019-03-04 23:12:12 Relative Scan axis2, run 306467
+2019-03-04 23:16:23 Set Title: testing UB 200
+2019-03-04 23:18:30 Relative Scan axis2, run 306468
+2019-03-04 23:24:20 Set Incident Energy to 3.32 meV
+2019-03-04 23:24:20 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-180.0 deg
+2019-03-04 23:25:38 Set Incident Energy to 3.32 meV
+2019-03-04 23:25:38 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-180.0 deg
+2019-03-04 23:27:27 Drive Axis2 to -180.0 Degree
+2019-03-04 23:28:32 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-178.0 deg
+2019-03-04 23:28:41 Drive Axis2 to -178.0 Degree
+2019-03-04 23:29:47 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-176.0 deg
+2019-03-04 23:29:56 Drive Axis2 to -176.0 Degree
+2019-03-04 23:31:01 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-174.0 deg
+2019-03-04 23:31:11 Drive Axis2 to -174.0 Degree
+2019-03-04 23:32:16 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-172.0 deg
+2019-03-04 23:32:25 Drive Axis2 to -172.0 Degree
+2019-03-04 23:33:31 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-170.0 deg
+2019-03-04 23:33:40 Drive Axis2 to -170.0 Degree
+2019-03-04 23:34:45 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-168.0 deg
+2019-03-04 23:34:55 Drive Axis2 to -168.0 Degree
+2019-03-04 23:36:00 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-166.0 deg
+2019-03-04 23:36:09 Drive Axis2 to -166.0 Degree
+2019-03-04 23:37:15 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-164.0 deg
+2019-03-04 23:37:24 Drive Axis2 to -164.0 Degree
+2019-03-04 23:38:29 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-162.0 deg
+2019-03-04 23:38:38 Drive Axis2 to -162.0 Degree
+2019-03-04 23:39:44 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-160.0 deg
+2019-03-04 23:39:53 Drive Axis2 to -160.0 Degree
+2019-03-04 23:40:58 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-158.0 deg
+2019-03-04 23:41:08 Drive Axis2 to -158.0 Degree
+2019-03-04 23:42:13 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-156.0 deg
+2019-03-04 23:42:22 Drive Axis2 to -156.0 Degree
+2019-03-04 23:43:28 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-154.0 deg
+2019-03-04 23:43:37 Drive Axis2 to -154.0 Degree
+2019-03-04 23:44:43 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-152.0 deg
+2019-03-04 23:44:52 Drive Axis2 to -152.0 Degree
+2019-03-04 23:45:57 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-150.0 deg
+2019-03-04 23:46:07 Drive Axis2 to -150.0 Degree
+2019-03-04 23:47:12 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-148.0 deg
+2019-03-04 23:47:21 Drive Axis2 to -148.0 Degree
+2019-03-04 23:48:26 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-146.0 deg
+2019-03-04 23:48:36 Drive Axis2 to -146.0 Degree
+2019-03-04 23:49:41 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-144.0 deg
+2019-03-04 23:49:51 Drive Axis2 to -144.0 Degree
+2019-03-04 23:50:56 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-142.0 deg
+2019-03-04 23:51:05 Drive Axis2 to -142.0 Degree
+2019-03-04 23:52:11 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-140.0 deg
+2019-03-04 23:52:20 Drive Axis2 to -140.0 Degree
+2019-03-04 23:53:25 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-138.0 deg
+2019-03-04 23:53:35 Drive Axis2 to -138.0 Degree
+2019-03-04 23:54:40 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-136.0 deg
+2019-03-04 23:54:49 Drive Axis2 to -136.0 Degree
+2019-03-04 23:55:55 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-134.0 deg
+2019-03-04 23:56:04 Drive Axis2 to -134.0 Degree
+2019-03-04 23:57:09 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-132.0 deg
+2019-03-04 23:57:19 Drive Axis2 to -132.0 Degree
+2019-03-04 23:58:24 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-130.0 deg
+2019-03-04 23:58:33 Drive Axis2 to -130.0 Degree
+2019-03-04 23:59:39 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-128.0 deg
+2019-03-04 23:59:48 Drive Axis2 to -128.0 Degree
+2019-03-05 00:00:53 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-126.0 deg
+2019-03-05 00:01:03 Drive Axis2 to -126.0 Degree
+2019-03-05 00:04:35 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-124.0 deg
+2019-03-05 00:04:44 Drive Axis2 to -124.0 Degree
+2019-03-05 00:05:49 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-122.0 deg
+2019-03-05 00:05:59 Drive Axis2 to -122.0 Degree
+2019-03-05 00:07:04 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-120.0 deg
+2019-03-05 00:07:13 Drive Axis2 to -120.0 Degree
+2019-03-05 00:08:19 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-118.0 deg
+2019-03-05 00:08:28 Drive Axis2 to -118.0 Degree
+2019-03-05 00:09:33 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-116.0 deg
+2019-03-05 00:09:43 Drive Axis2 to -116.0 Degree
+2019-03-05 00:10:48 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-114.0 deg
+2019-03-05 00:10:57 Drive Axis2 to -114.0 Degree
+2019-03-05 00:12:03 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-112.0 deg
+2019-03-05 00:12:12 Drive Axis2 to -112.0 Degree
+2019-03-05 00:13:17 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-110.0 deg
+2019-03-05 00:13:27 Drive Axis2 to -110.0 Degree
+2019-03-05 00:14:32 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-108.0 deg
+2019-03-05 00:14:41 Drive Axis2 to -108.0 Degree
+2019-03-05 00:15:46 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-106.0 deg
+2019-03-05 00:15:56 Drive Axis2 to -106.0 Degree
+2019-03-05 00:17:01 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-104.0 deg
+2019-03-05 00:17:10 Drive Axis2 to -104.0 Degree
+2019-03-05 00:18:16 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-102.0 deg
+2019-03-05 00:18:25 Drive Axis2 to -102.0 Degree
+2019-03-05 00:19:30 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-100.0 deg
+2019-03-05 00:19:40 Drive Axis2 to -100.0 Degree
+2019-03-05 00:20:45 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-98.0 deg
+2019-03-05 00:20:54 Drive Axis2 to -98.0 Degree
+2019-03-05 00:22:00 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-96.0 deg
+2019-03-05 00:22:09 Drive Axis2 to -96.0 Degree
+2019-03-05 00:23:14 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-94.0 deg
+2019-03-05 00:23:24 Drive Axis2 to -94.0 Degree
+2019-03-05 00:24:29 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-92.0 deg
+2019-03-05 00:24:38 Drive Axis2 to -92.0 Degree
+2019-03-05 00:25:44 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-90.0 deg
+2019-03-05 00:25:53 Drive Axis2 to -90.0 Degree
+2019-03-05 00:26:58 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-88.0 deg
+2019-03-05 00:27:08 Drive Axis2 to -88.0 Degree
+2019-03-05 00:28:13 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-86.0 deg
+2019-03-05 00:28:23 Drive Axis2 to -86.0 Degree
+2019-03-05 00:29:28 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-84.0 deg
+2019-03-05 00:29:37 Drive Axis2 to -84.0 Degree
+2019-03-05 00:30:43 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-82.0 deg
+2019-03-05 00:30:52 Drive Axis2 to -82.0 Degree
+2019-03-05 00:31:57 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-80.0 deg
+2019-03-05 00:32:07 Drive Axis2 to -80.0 Degree
+2019-03-05 00:33:12 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-78.0 deg
+2019-03-05 00:33:21 Drive Axis2 to -78.0 Degree
+2019-03-05 00:34:27 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-76.0 deg
+2019-03-05 00:34:36 Drive Axis2 to -76.0 Degree
+2019-03-05 00:35:41 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-74.0 deg
+2019-03-05 00:35:51 Drive Axis2 to -74.0 Degree
+2019-03-05 00:36:56 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-72.0 deg
+2019-03-05 00:37:05 Drive Axis2 to -72.0 Degree
+2019-03-05 00:38:10 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-70.0 deg
+2019-03-05 00:38:20 Drive Axis2 to -70.0 Degree
+2019-03-05 00:39:25 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-68.0 deg
+2019-03-05 00:39:34 Drive Axis2 to -68.0 Degree
+2019-03-05 00:40:40 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-66.0 deg
+2019-03-05 00:40:49 Drive Axis2 to -66.0 Degree
+2019-03-05 00:41:54 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-64.0 deg
+2019-03-05 00:42:04 Drive Axis2 to -64.0 Degree
+2019-03-05 00:43:09 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-62.0 deg
+2019-03-05 00:43:18 Drive Axis2 to -62.0 Degree
+2019-03-05 00:44:24 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-60.0 deg
+2019-03-05 00:44:33 Drive Axis2 to -60.0 Degree
+2019-03-05 00:45:38 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-58.0 deg
+2019-03-05 00:45:47 Drive Axis2 to -58.0 Degree
+2019-03-05 00:46:52 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-56.0 deg
+2019-03-05 00:47:02 Drive Axis2 to -56.0 Degree
+2019-03-05 00:48:07 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-54.0 deg
+2019-03-05 00:48:16 Drive Axis2 to -54.0 Degree
+2019-03-05 00:49:22 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-52.0 deg
+2019-03-05 00:49:31 Drive Axis2 to -52.0 Degree
+2019-03-05 00:50:37 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-50.0 deg
+2019-03-05 00:50:46 Drive Axis2 to -50.0 Degree
+2019-03-05 00:51:51 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-48.0 deg
+2019-03-05 00:52:01 Drive Axis2 to -48.0 Degree
+2019-03-05 00:53:06 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-46.0 deg
+2019-03-05 00:53:15 Drive Axis2 to -46.0 Degree
+2019-03-05 00:54:21 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-44.0 deg
+2019-03-05 00:54:30 Drive Axis2 to -44.0 Degree
+2019-03-05 00:55:35 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-42.0 deg
+2019-03-05 00:55:45 Drive Axis2 to -42.0 Degree
+2019-03-05 00:56:50 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-40.0 deg
+2019-03-05 00:56:59 Drive Axis2 to -40.0 Degree
+2019-03-05 00:58:05 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-38.0 deg
+2019-03-05 00:58:14 Drive Axis2 to -38.0 Degree
+2019-03-05 00:59:19 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-36.0 deg
+2019-03-05 00:59:29 Drive Axis2 to -36.0 Degree
+2019-03-05 01:00:34 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-34.0 deg
+2019-03-05 01:00:43 Drive Axis2 to -34.0 Degree
+2019-03-05 01:01:49 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-32.0 deg
+2019-03-05 01:01:58 Drive Axis2 to -32.0 Degree
+2019-03-05 01:03:03 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-30.0 deg
+2019-03-05 01:03:13 Drive Axis2 to -30.0 Degree
+2019-03-05 01:04:18 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-28.0 deg
+2019-03-05 01:04:28 Drive Axis2 to -28.0 Degree
+2019-03-05 01:05:33 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-26.0 deg
+2019-03-05 01:05:42 Drive Axis2 to -26.0 Degree
+2019-03-05 01:06:48 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-24.0 deg
+2019-03-05 01:06:57 Drive Axis2 to -24.0 Degree
+2019-03-05 01:08:02 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-22.0 deg
+2019-03-05 01:08:12 Drive Axis2 to -22.0 Degree
+2019-03-05 01:09:17 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-20.0 deg
+2019-03-05 01:09:26 Drive Axis2 to -20.0 Degree
+2019-03-05 01:10:32 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-18.0 deg
+2019-03-05 01:10:41 Drive Axis2 to -18.0 Degree
+2019-03-05 01:11:46 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-16.0 deg
+2019-03-05 01:11:56 Drive Axis2 to -16.0 Degree
+2019-03-05 01:13:01 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-14.0 deg
+2019-03-05 01:13:10 Drive Axis2 to -14.0 Degree
+2019-03-05 01:14:16 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-12.0 deg
+2019-03-05 01:14:25 Drive Axis2 to -12.0 Degree
+2019-03-05 01:15:31 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-10.0 deg
+2019-03-05 01:15:40 Drive Axis2 to -10.0 Degree
+2019-03-05 01:16:45 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-8.0 deg
+2019-03-05 01:16:54 Drive Axis2 to -8.0 Degree
+2019-03-05 01:18:33 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-6.0 deg
+2019-03-05 01:18:43 Drive Axis2 to -6.0 Degree
+2019-03-05 01:19:48 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-4.0 deg
+2019-03-05 01:19:57 Drive Axis2 to -4.0 Degree
+2019-03-05 01:21:03 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=-2.0 deg
+2019-03-05 01:21:12 Drive Axis2 to -2.0 Degree
+2019-03-05 01:22:17 Set Title: H= 0 Tesla, T=12 K, Ei=3.32 meV, w=0.0 deg
+2019-03-05 01:22:27 Drive Axis2 to 0.0 Degree
+2019-03-05 01:23:32 Setting the magnetic field at 8.0 Tesla
+2019-03-05 02:26:12 Set Incident Energy to 6.59 meV
+2019-03-05 02:26:12 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-180.0 deg
+2019-03-05 02:34:36 Drive Axis2 to -180.0 Degree
+2019-03-05 02:38:43 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-178.0 deg
+2019-03-05 02:38:52 Drive Axis2 to -178.0 Degree
+2019-03-05 02:42:58 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-176.0 deg
+2019-03-05 02:43:08 Drive Axis2 to -176.0 Degree
+2019-03-05 02:47:14 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-174.0 deg
+2019-03-05 02:47:24 Drive Axis2 to -174.0 Degree
+2019-03-05 02:51:56 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-172.0 deg
+2019-03-05 02:52:05 Drive Axis2 to -172.0 Degree
+2019-03-05 02:56:11 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-170.0 deg
+2019-03-05 02:56:21 Drive Axis2 to -170.0 Degree
+2019-03-05 03:00:27 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-168.0 deg
+2019-03-05 03:00:36 Drive Axis2 to -168.0 Degree
+2019-03-05 03:04:42 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-166.0 deg
+2019-03-05 03:04:52 Drive Axis2 to -166.0 Degree
+2019-03-05 03:08:58 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-164.0 deg
+2019-03-05 03:09:07 Drive Axis2 to -164.0 Degree
+2019-03-05 03:13:13 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-162.0 deg
+2019-03-05 03:13:23 Drive Axis2 to -162.0 Degree
+2019-03-05 03:17:29 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-160.0 deg
+2019-03-05 03:17:38 Drive Axis2 to -160.0 Degree
+2019-03-05 03:21:44 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-158.0 deg
+2019-03-05 03:21:54 Drive Axis2 to -158.0 Degree
+2019-03-05 03:26:00 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-156.0 deg
+2019-03-05 03:26:10 Drive Axis2 to -156.0 Degree
+2019-03-05 03:30:16 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-154.0 deg
+2019-03-05 03:30:25 Drive Axis2 to -154.0 Degree
+2019-03-05 03:34:32 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-152.0 deg
+2019-03-05 03:34:41 Drive Axis2 to -152.0 Degree
+2019-03-05 03:38:47 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-150.0 deg
+2019-03-05 03:38:56 Drive Axis2 to -150.0 Degree
+2019-03-05 03:43:03 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-148.0 deg
+2019-03-05 03:43:12 Drive Axis2 to -148.0 Degree
+2019-03-05 03:47:18 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-146.0 deg
+2019-03-05 03:47:28 Drive Axis2 to -146.0 Degree
+2019-03-05 03:51:34 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-144.0 deg
+2019-03-05 03:51:43 Drive Axis2 to -144.0 Degree
+2019-03-05 03:55:49 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-142.0 deg
+2019-03-05 03:55:59 Drive Axis2 to -142.0 Degree
+2019-03-05 04:00:05 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-140.0 deg
+2019-03-05 04:00:14 Drive Axis2 to -140.0 Degree
+2019-03-05 04:04:21 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-138.0 deg
+2019-03-05 04:04:30 Drive Axis2 to -138.0 Degree
+2019-03-05 04:08:36 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-136.0 deg
+2019-03-05 04:08:46 Drive Axis2 to -136.0 Degree
+2019-03-05 04:12:52 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-134.0 deg
+2019-03-05 04:13:02 Drive Axis2 to -134.0 Degree
+2019-03-05 04:17:08 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-132.0 deg
+2019-03-05 04:17:18 Drive Axis2 to -132.0 Degree
+2019-03-05 04:21:24 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-130.0 deg
+2019-03-05 04:21:33 Drive Axis2 to -130.0 Degree
+2019-03-05 04:25:40 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-128.0 deg
+2019-03-05 04:25:49 Drive Axis2 to -128.0 Degree
+2019-03-05 04:29:55 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-126.0 deg
+2019-03-05 04:30:04 Drive Axis2 to -126.0 Degree
+2019-03-05 04:34:11 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-124.0 deg
+2019-03-05 04:34:20 Drive Axis2 to -124.0 Degree
+2019-03-05 04:38:27 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-122.0 deg
+2019-03-05 04:38:36 Drive Axis2 to -122.0 Degree
+2019-03-05 04:42:42 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-120.0 deg
+2019-03-05 04:42:51 Drive Axis2 to -120.0 Degree
+2019-03-05 04:51:29 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-118.0 deg
+2019-03-05 04:51:39 Drive Axis2 to -118.0 Degree
+2019-03-05 04:55:45 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-116.0 deg
+2019-03-05 04:55:54 Drive Axis2 to -116.0 Degree
+2019-03-05 05:00:01 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-114.0 deg
+2019-03-05 05:00:10 Drive Axis2 to -114.0 Degree
+2019-03-05 05:04:16 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-112.0 deg
+2019-03-05 05:04:25 Drive Axis2 to -112.0 Degree
+2019-03-05 05:08:31 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-110.0 deg
+2019-03-05 05:08:41 Drive Axis2 to -110.0 Degree
+2019-03-05 05:12:47 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-108.0 deg
+2019-03-05 05:12:56 Drive Axis2 to -108.0 Degree
+2019-03-05 05:17:02 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-106.0 deg
+2019-03-05 05:17:12 Drive Axis2 to -106.0 Degree
+2019-03-05 05:21:18 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-104.0 deg
+2019-03-05 05:21:27 Drive Axis2 to -104.0 Degree
+2019-03-05 05:25:34 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-102.0 deg
+2019-03-05 05:25:43 Drive Axis2 to -102.0 Degree
+2019-03-05 05:30:05 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-100.0 deg
+2019-03-05 05:30:14 Drive Axis2 to -100.0 Degree
+2019-03-05 05:34:20 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-98.0 deg
+2019-03-05 05:34:29 Drive Axis2 to -98.0 Degree
+2019-03-05 05:38:36 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-96.0 deg
+2019-03-05 05:38:45 Drive Axis2 to -96.0 Degree
+2019-03-05 05:42:51 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-94.0 deg
+2019-03-05 05:43:01 Drive Axis2 to -94.0 Degree
+2019-03-05 05:47:07 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-92.0 deg
+2019-03-05 05:47:16 Drive Axis2 to -92.0 Degree
+2019-03-05 05:51:22 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-90.0 deg
+2019-03-05 05:51:31 Drive Axis2 to -90.0 Degree
+2019-03-05 05:55:38 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-88.0 deg
+2019-03-05 05:55:47 Drive Axis2 to -88.0 Degree
+2019-03-05 05:59:53 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-86.0 deg
+2019-03-05 06:00:03 Drive Axis2 to -86.0 Degree
+2019-03-05 06:04:09 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-84.0 deg
+2019-03-05 06:04:18 Drive Axis2 to -84.0 Degree
+2019-03-05 06:08:24 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-82.0 deg
+2019-03-05 06:08:33 Drive Axis2 to -82.0 Degree
+2019-03-05 06:12:39 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-80.0 deg
+2019-03-05 06:12:49 Drive Axis2 to -80.0 Degree
+2019-03-05 06:16:55 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-78.0 deg
+2019-03-05 06:17:05 Drive Axis2 to -78.0 Degree
+2019-03-05 06:21:11 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-76.0 deg
+2019-03-05 06:21:20 Drive Axis2 to -76.0 Degree
+2019-03-05 06:25:27 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-74.0 deg
+2019-03-05 06:25:37 Drive Axis2 to -74.0 Degree
+2019-03-05 06:29:43 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-72.0 deg
+2019-03-05 06:29:53 Drive Axis2 to -72.0 Degree
+2019-03-05 06:34:00 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-70.0 deg
+2019-03-05 06:34:09 Drive Axis2 to -70.0 Degree
+2019-03-05 06:38:16 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-68.0 deg
+2019-03-05 06:38:25 Drive Axis2 to -68.0 Degree
+2019-03-05 06:42:32 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-66.0 deg
+2019-03-05 06:42:41 Drive Axis2 to -66.0 Degree
+2019-03-05 06:46:48 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-64.0 deg
+2019-03-05 06:46:57 Drive Axis2 to -64.0 Degree
+2019-03-05 06:51:04 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-62.0 deg
+2019-03-05 06:51:13 Drive Axis2 to -62.0 Degree
+2019-03-05 06:55:20 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-60.0 deg
+2019-03-05 06:55:30 Drive Axis2 to -60.0 Degree
+2019-03-05 06:59:36 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-58.0 deg
+2019-03-05 06:59:46 Drive Axis2 to -58.0 Degree
+2019-03-05 07:03:52 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-56.0 deg
+2019-03-05 07:04:02 Drive Axis2 to -56.0 Degree
+2019-03-05 07:08:08 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-54.0 deg
+2019-03-05 07:08:18 Drive Axis2 to -54.0 Degree
+2019-03-05 07:12:24 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-52.0 deg
+2019-03-05 07:12:33 Drive Axis2 to -52.0 Degree
+2019-03-05 07:16:40 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-50.0 deg
+2019-03-05 07:16:49 Drive Axis2 to -50.0 Degree
+2019-03-05 07:20:55 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-48.0 deg
+2019-03-05 07:21:05 Drive Axis2 to -48.0 Degree
+2019-03-05 07:25:11 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-46.0 deg
+2019-03-05 07:25:20 Drive Axis2 to -46.0 Degree
+2019-03-05 07:29:26 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-44.0 deg
+2019-03-05 07:29:35 Drive Axis2 to -44.0 Degree
+2019-03-05 07:33:42 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-42.0 deg
+2019-03-05 07:33:51 Drive Axis2 to -42.0 Degree
+2019-03-05 07:37:58 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-40.0 deg
+2019-03-05 07:38:07 Drive Axis2 to -40.0 Degree
+2019-03-05 07:42:14 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-38.0 deg
+2019-03-05 07:42:23 Drive Axis2 to -38.0 Degree
+2019-03-05 07:46:30 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-36.0 deg
+2019-03-05 07:46:39 Drive Axis2 to -36.0 Degree
+2019-03-05 07:50:46 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-34.0 deg
+2019-03-05 07:50:56 Drive Axis2 to -34.0 Degree
+2019-03-05 07:55:02 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-32.0 deg
+2019-03-05 07:55:11 Drive Axis2 to -32.0 Degree
+2019-03-05 07:59:19 Set Title: H= 8.0 Tesla, T=12 K, Ei=6.59 meV, w=-30.0 deg
+2019-03-05 07:59:28 Drive Axis2 to -30.0 Degree
+2019-03-05 08:10:32 New X/Y Signal ROI at 2Theta=[32.8975401521,37.8975401521] Phi=[-2.54256335898,7.45743664102]
+2019-03-05 08:11:33 Drive Axis2 to -124.861193452 Degree
+2019-03-05 08:11:33 Driving to: (0.5,0,0.5) at Omega=-124.861193452
+2019-03-05 15:05:22 Set Title: Dummy waiting for beam on (0.5,0,0.5)
+2019-03-05 15:32:07 Setting the magnetic field at 0.0 Tesla
+2019-03-05 15:36:45 Set Incident Energy to 6.59 meV
+2019-03-05 15:36:45 Add title up-date.
+2019-03-05 15:39:36 Drive Axis2 to -180.0 Degree
+2019-03-05 15:45:40 Add title up-date.
+2019-03-05 15:45:49 Drive Axis2 to -178.0 Degree
+2019-03-05 15:51:50 Add title up-date.
+2019-03-05 15:51:59 Drive Axis2 to -176.0 Degree
+2019-03-05 15:58:00 Add title up-date.
+2019-03-05 15:58:09 Drive Axis2 to -174.0 Degree
+2019-03-05 16:04:53 Add title up-date.
+2019-03-05 16:05:02 Drive Axis2 to -172.0 Degree
+2019-03-05 16:11:03 Add title up-date.
+2019-03-05 16:11:12 Drive Axis2 to -170.0 Degree
+2019-03-05 16:17:12 Add title up-date.
+2019-03-05 16:17:22 Drive Axis2 to -168.0 Degree
+2019-03-05 16:24:27 Add title up-date.
+2019-03-05 16:24:36 Drive Axis2 to -166.0 Degree
+2019-03-05 16:49:34 Add title up-date.
+2019-03-05 16:49:43 Drive Axis2 to -164.0 Degree
+2019-03-05 16:55:43 Add title up-date.
+2019-03-05 16:55:52 Drive Axis2 to -162.0 Degree
+2019-03-05 17:01:53 Add title up-date.
+2019-03-05 17:02:02 Drive Axis2 to -160.0 Degree
+2019-03-05 17:08:02 Add title up-date.
+2019-03-05 17:08:11 Drive Axis2 to -158.0 Degree
+2019-03-05 17:14:12 Add title up-date.
+2019-03-05 17:14:21 Drive Axis2 to -156.0 Degree
+2019-03-05 17:20:21 Add title up-date.
+2019-03-05 17:20:30 Drive Axis2 to -154.0 Degree
+2019-03-05 17:26:30 Add title up-date.
+2019-03-05 17:26:40 Drive Axis2 to -152.0 Degree
+2019-03-05 17:32:39 Add title up-date.
+2019-03-05 17:32:48 Drive Axis2 to -150.0 Degree
+2019-03-05 17:38:49 Add title up-date.
+2019-03-05 17:38:58 Drive Axis2 to -148.0 Degree
+2019-03-05 17:44:58 Add title up-date.
+2019-03-05 17:45:07 Drive Axis2 to -146.0 Degree
+2019-03-05 17:51:07 Add title up-date.
+2019-03-05 17:51:17 Drive Axis2 to -144.0 Degree
+2019-03-05 17:57:17 Add title up-date.
+2019-03-05 17:57:26 Drive Axis2 to -142.0 Degree
+2019-03-05 18:03:26 Add title up-date.
+2019-03-05 18:03:36 Drive Axis2 to -140.0 Degree
+2019-03-05 18:09:35 Add title up-date.
+2019-03-05 18:09:44 Drive Axis2 to -138.0 Degree
+2019-03-05 18:15:44 Add title up-date.
+2019-03-05 18:15:53 Drive Axis2 to -136.0 Degree
+2019-03-05 18:21:52 Add title up-date.
+2019-03-05 18:22:01 Drive Axis2 to -134.0 Degree
+2019-03-05 18:28:01 Add title up-date.
+2019-03-05 18:28:11 Drive Axis2 to -132.0 Degree
+2019-03-05 18:34:10 Add title up-date.
+2019-03-05 18:34:19 Drive Axis2 to -130.0 Degree
+2019-03-05 18:40:18 Add title up-date.
+2019-03-05 18:40:27 Drive Axis2 to -128.0 Degree
+2019-03-05 18:46:27 Add title up-date.
+2019-03-05 18:46:36 Drive Axis2 to -126.0 Degree
+2019-03-05 18:52:36 Add title up-date.
+2019-03-05 18:52:45 Drive Axis2 to -124.0 Degree
+2019-03-05 18:58:44 Add title up-date.
+2019-03-05 18:58:53 Drive Axis2 to -122.0 Degree
+2019-03-05 19:04:52 Add title up-date.
+2019-03-05 19:05:01 Drive Axis2 to -120.0 Degree
+2019-03-05 19:10:59 Add title up-date.
+2019-03-05 19:11:09 Drive Axis2 to -118.0 Degree
+2019-03-05 19:17:07 Add title up-date.
+2019-03-05 19:17:17 Drive Axis2 to -116.0 Degree
+2019-03-05 19:23:17 Add title up-date.
+2019-03-05 19:23:26 Drive Axis2 to -114.0 Degree
+2019-03-05 19:29:27 Add title up-date.
+2019-03-05 19:29:36 Drive Axis2 to -112.0 Degree
+2019-03-05 19:35:37 Add title up-date.
+2019-03-05 19:35:46 Drive Axis2 to -110.0 Degree
+2019-03-05 19:41:47 Add title up-date.
+2019-03-05 19:41:56 Drive Axis2 to -108.0 Degree
+2019-03-05 19:47:57 Add title up-date.
+2019-03-05 19:48:06 Drive Axis2 to -106.0 Degree
+2019-03-05 19:54:07 Add title up-date.
+2019-03-05 19:54:16 Drive Axis2 to -104.0 Degree
+2019-03-05 20:00:17 Add title up-date.
+2019-03-05 20:00:26 Drive Axis2 to -102.0 Degree
+2019-03-05 20:06:27 Add title up-date.
+2019-03-05 20:06:36 Drive Axis2 to -100.0 Degree
+2019-03-05 20:12:36 Add title up-date.
+2019-03-05 20:12:46 Drive Axis2 to -98.0 Degree
+2019-03-05 20:18:46 Add title up-date.
+2019-03-05 20:18:55 Drive Axis2 to -96.0 Degree
+2019-03-05 20:24:55 Add title up-date.
+2019-03-05 20:25:05 Drive Axis2 to -94.0 Degree
+2019-03-05 20:31:05 Add title up-date.
+2019-03-05 20:31:14 Drive Axis2 to -92.0 Degree
+2019-03-05 20:37:15 Add title up-date.
+2019-03-05 20:37:24 Drive Axis2 to -90.0 Degree
+2019-03-05 20:43:24 Add title up-date.
+2019-03-05 20:43:34 Drive Axis2 to -88.0 Degree
+2019-03-05 20:49:35 Add title up-date.
+2019-03-05 20:49:44 Drive Axis2 to -86.0 Degree
+2019-03-05 20:55:44 Add title up-date.
+2019-03-05 20:55:54 Drive Axis2 to -84.0 Degree
+2019-03-05 21:01:54 Add title up-date.
+2019-03-05 21:02:04 Drive Axis2 to -82.0 Degree
+2019-03-05 21:08:05 Add title up-date.
+2019-03-05 21:08:14 Drive Axis2 to -80.0 Degree
+2019-03-05 21:14:14 Add title up-date.
+2019-03-05 21:14:23 Drive Axis2 to -78.0 Degree
+2019-03-05 21:20:23 Add title up-date.
+2019-03-05 21:20:32 Drive Axis2 to -76.0 Degree
+2019-03-05 21:26:33 Add title up-date.
+2019-03-05 21:26:43 Drive Axis2 to -74.0 Degree
+2019-03-05 21:32:43 Add title up-date.
+2019-03-05 21:32:52 Drive Axis2 to -72.0 Degree
+2019-03-05 21:38:53 Add title up-date.
+2019-03-05 21:39:02 Drive Axis2 to -70.0 Degree
+2019-03-05 21:45:02 Add title up-date.
+2019-03-05 21:45:11 Drive Axis2 to -68.0 Degree
+2019-03-05 21:51:11 Add title up-date.
+2019-03-05 21:51:20 Drive Axis2 to -66.0 Degree
+2019-03-05 21:57:20 Add title up-date.
+2019-03-05 21:57:30 Drive Axis2 to -64.0 Degree
+2019-03-05 22:03:30 Add title up-date.
+2019-03-05 22:03:39 Drive Axis2 to -62.0 Degree
+2019-03-05 22:09:39 Add title up-date.
+2019-03-05 22:09:49 Drive Axis2 to -60.0 Degree
+2019-03-05 22:15:50 Add title up-date.
+2019-03-05 22:15:59 Drive Axis2 to -58.0 Degree
+2019-03-05 22:22:01 Add title up-date.
+2019-03-05 22:22:10 Drive Axis2 to -56.0 Degree
+2019-03-05 22:28:10 Add title up-date.
+2019-03-05 22:28:19 Drive Axis2 to -54.0 Degree
+2019-03-05 22:34:21 Add title up-date.
+2019-03-05 22:34:30 Drive Axis2 to -52.0 Degree
+2019-03-05 22:40:31 Add title up-date.
+2019-03-05 22:40:40 Drive Axis2 to -50.0 Degree
+2019-03-05 22:46:57 Add title up-date.
+2019-03-05 22:47:06 Drive Axis2 to -48.0 Degree
+2019-03-05 22:53:06 Add title up-date.
+2019-03-05 22:53:16 Drive Axis2 to -46.0 Degree
+2019-03-05 22:59:17 Add title up-date.
+2019-03-05 22:59:26 Drive Axis2 to -44.0 Degree
+2019-03-05 23:05:26 Add title up-date.
+2019-03-05 23:05:36 Drive Axis2 to -42.0 Degree
+2019-03-05 23:11:37 Add title up-date.
+2019-03-05 23:11:47 Drive Axis2 to -40.0 Degree
+2019-03-05 23:17:48 Add title up-date.
+2019-03-05 23:17:57 Drive Axis2 to -38.0 Degree
+2019-03-05 23:23:58 Add title up-date.
+2019-03-05 23:24:08 Drive Axis2 to -36.0 Degree
+2019-03-05 23:30:10 Add title up-date.
+2019-03-05 23:30:19 Drive Axis2 to -34.0 Degree
+2019-03-05 23:36:22 Add title up-date.
+2019-03-05 23:36:31 Drive Axis2 to -32.0 Degree
+2019-03-05 23:42:32 Add title up-date.
+2019-03-05 23:42:41 Drive Axis2 to -30.0 Degree
+2019-03-05 23:48:43 Add title up-date.
+2019-03-05 23:48:52 Drive Axis2 to -28.0 Degree
+2019-03-05 23:54:53 Add title up-date.
+2019-03-05 23:55:02 Drive Axis2 to -26.0 Degree
+2019-03-06 00:01:03 Add title up-date.
+2019-03-06 00:01:13 Drive Axis2 to -24.0 Degree
+2019-03-06 00:07:15 Add title up-date.
+2019-03-06 00:07:24 Drive Axis2 to -22.0 Degree
+2019-03-06 00:13:25 Add title up-date.
+2019-03-06 00:13:35 Drive Axis2 to -20.0 Degree
+2019-03-06 00:20:18 Add title up-date.
+2019-03-06 00:20:27 Drive Axis2 to -18.0 Degree
+2019-03-06 00:26:28 Add title up-date.
+2019-03-06 00:26:37 Drive Axis2 to -16.0 Degree
+2019-03-06 00:32:38 Add title up-date.
+2019-03-06 00:32:48 Drive Axis2 to -14.0 Degree
+2019-03-06 00:38:49 Add title up-date.
+2019-03-06 00:38:59 Drive Axis2 to -12.0 Degree
+2019-03-06 00:45:18 Add title up-date.
+2019-03-06 00:45:27 Drive Axis2 to -10.0 Degree
+2019-03-06 00:51:29 Add title up-date.
+2019-03-06 00:51:38 Drive Axis2 to -8.0 Degree
+2019-03-06 00:57:56 Add title up-date.
+2019-03-06 00:58:05 Drive Axis2 to -6.0 Degree
+2019-03-06 01:04:06 Add title up-date.
+2019-03-06 01:04:15 Drive Axis2 to -4.0 Degree
+2019-03-06 01:10:17 Add title up-date.
+2019-03-06 01:10:26 Drive Axis2 to -2.0 Degree
+2019-03-06 01:16:28 Add title up-date.
+2019-03-06 01:16:37 Drive Axis2 to 0.0 Degree
+2019-03-06 01:23:18 Set Incident Energy to 3.32 meV
+2019-03-06 01:23:18 Add title up-date.
+2019-03-06 01:31:43 Drive Axis2 to -180.0 Degree
+2019-03-06 01:37:45 Add title up-date.
+2019-03-06 01:37:54 Drive Axis2 to -178.0 Degree
+2019-03-06 01:43:55 Add title up-date.
+2019-03-06 01:44:04 Drive Axis2 to -176.0 Degree
+2019-03-06 01:50:06 Add title up-date.
+2019-03-06 01:50:15 Drive Axis2 to -174.0 Degree
+2019-03-06 01:56:17 Add title up-date.
+2019-03-06 01:56:27 Drive Axis2 to -172.0 Degree
+2019-03-06 02:02:28 Add title up-date.
+2019-03-06 02:02:37 Drive Axis2 to -170.0 Degree
+2019-03-06 02:08:39 Add title up-date.
+2019-03-06 02:08:48 Drive Axis2 to -168.0 Degree
+2019-03-06 02:14:50 Add title up-date.
+2019-03-06 02:14:59 Drive Axis2 to -166.0 Degree
+2019-03-06 02:21:01 Add title up-date.
+2019-03-06 02:21:10 Drive Axis2 to -164.0 Degree
+2019-03-06 02:27:12 Add title up-date.
+2019-03-06 02:27:21 Drive Axis2 to -162.0 Degree
+2019-03-06 02:33:23 Add title up-date.
+2019-03-06 02:33:32 Drive Axis2 to -160.0 Degree
+2019-03-06 02:39:35 Add title up-date.
+2019-03-06 02:39:44 Drive Axis2 to -158.0 Degree
+2019-03-06 02:45:45 Add title up-date.
+2019-03-06 02:45:54 Drive Axis2 to -156.0 Degree
+2019-03-06 02:51:54 Add title up-date.
+2019-03-06 02:52:04 Drive Axis2 to -154.0 Degree
+2019-03-06 02:58:22 Add title up-date.
+2019-03-06 02:58:31 Drive Axis2 to -152.0 Degree
+2019-03-06 03:04:33 Add title up-date.
+2019-03-06 03:04:43 Drive Axis2 to -150.0 Degree
+2019-03-06 03:10:44 Add title up-date.
+2019-03-06 03:10:53 Drive Axis2 to -148.0 Degree
+2019-03-06 03:17:13 Add title up-date.
+2019-03-06 03:17:22 Drive Axis2 to -146.0 Degree
+2019-03-06 03:23:40 Add title up-date.
+2019-03-06 03:23:49 Drive Axis2 to -144.0 Degree
+2019-03-06 03:29:51 Add title up-date.
+2019-03-06 03:30:01 Drive Axis2 to -142.0 Degree
+2019-03-06 03:36:02 Add title up-date.
+2019-03-06 03:36:12 Drive Axis2 to -140.0 Degree
+2019-03-06 03:42:30 Add title up-date.
+2019-03-06 03:42:39 Drive Axis2 to -138.0 Degree
+2019-03-06 03:48:41 Add title up-date.
+2019-03-06 03:48:51 Drive Axis2 to -136.0 Degree
+2019-03-06 03:54:54 Add title up-date.
+2019-03-06 03:55:03 Drive Axis2 to -134.0 Degree
+2019-03-06 04:01:05 Add title up-date.
+2019-03-06 04:01:15 Drive Axis2 to -132.0 Degree
+2019-03-06 04:07:17 Add title up-date.
+2019-03-06 04:07:27 Drive Axis2 to -130.0 Degree
+2019-03-06 04:13:47 Add title up-date.
+2019-03-06 04:13:56 Drive Axis2 to -128.0 Degree
+2019-03-06 04:19:58 Add title up-date.
+2019-03-06 04:20:07 Drive Axis2 to -126.0 Degree
+2019-03-06 04:26:10 Add title up-date.
+2019-03-06 04:26:19 Drive Axis2 to -124.0 Degree
+2019-03-06 04:32:22 Add title up-date.
+2019-03-06 04:32:32 Drive Axis2 to -122.0 Degree
+2019-03-06 04:38:35 Add title up-date.
+2019-03-06 04:38:44 Drive Axis2 to -120.0 Degree
+2019-03-06 04:44:47 Add title up-date.
+2019-03-06 04:44:56 Drive Axis2 to -118.0 Degree
+2019-03-06 04:50:59 Add title up-date.
+2019-03-06 04:51:08 Drive Axis2 to -116.0 Degree
+2019-03-06 04:57:11 Add title up-date.
+2019-03-06 04:57:20 Drive Axis2 to -114.0 Degree
+2019-03-06 05:03:24 Add title up-date.
+2019-03-06 05:03:33 Drive Axis2 to -112.0 Degree
+2019-03-06 05:09:36 Add title up-date.
+2019-03-06 05:09:46 Drive Axis2 to -110.0 Degree
+2019-03-06 05:15:49 Add title up-date.
+2019-03-06 05:15:58 Drive Axis2 to -108.0 Degree
+2019-03-06 05:22:00 Add title up-date.
+2019-03-06 05:22:09 Drive Axis2 to -106.0 Degree
+2019-03-06 05:28:13 Add title up-date.
+2019-03-06 05:28:23 Drive Axis2 to -104.0 Degree
+2019-03-06 05:34:27 Add title up-date.
+2019-03-06 05:34:37 Drive Axis2 to -102.0 Degree
+2019-03-06 05:40:41 Add title up-date.
+2019-03-06 05:40:51 Drive Axis2 to -100.0 Degree
+2019-03-06 05:46:54 Add title up-date.
+2019-03-06 05:47:04 Drive Axis2 to -98.0 Degree
+2019-03-06 05:53:07 Add title up-date.
+2019-03-06 05:53:17 Drive Axis2 to -96.0 Degree
+2019-03-06 05:59:20 Add title up-date.
+2019-03-06 05:59:29 Drive Axis2 to -94.0 Degree
+2019-03-06 06:05:32 Add title up-date.
+2019-03-06 06:05:42 Drive Axis2 to -92.0 Degree
+2019-03-06 06:11:45 Add title up-date.
+2019-03-06 06:11:54 Drive Axis2 to -90.0 Degree
+2019-03-06 06:17:59 Add title up-date.
+2019-03-06 06:18:08 Drive Axis2 to -88.0 Degree
+2019-03-06 06:24:11 Add title up-date.
+2019-03-06 06:24:20 Drive Axis2 to -86.0 Degree
+2019-03-06 06:30:24 Add title up-date.
+2019-03-06 06:30:33 Drive Axis2 to -84.0 Degree
+2019-03-06 06:36:36 Add title up-date.
+2019-03-06 06:36:46 Drive Axis2 to -82.0 Degree
+2019-03-06 06:43:07 Add title up-date.
+2019-03-06 06:43:17 Drive Axis2 to -80.0 Degree
+2019-03-06 06:49:20 Add title up-date.
+2019-03-06 06:49:29 Drive Axis2 to -78.0 Degree
+2019-03-06 06:55:33 Add title up-date.
+2019-03-06 06:55:42 Drive Axis2 to -76.0 Degree
+2019-03-06 07:01:48 Add title up-date.
+2019-03-06 07:01:57 Drive Axis2 to -74.0 Degree
+2019-03-06 07:07:59 Add title up-date.
+2019-03-06 07:08:08 Drive Axis2 to -72.0 Degree
+2019-03-06 07:14:10 Add title up-date.
+2019-03-06 07:14:19 Drive Axis2 to -70.0 Degree
+2019-03-06 07:20:39 Add title up-date.
+2019-03-06 07:20:48 Drive Axis2 to -68.0 Degree
+2019-03-06 07:26:50 Add title up-date.
+2019-03-06 07:26:59 Drive Axis2 to -66.0 Degree
+2019-03-06 07:33:17 Add title up-date.
+2019-03-06 07:33:26 Drive Axis2 to -64.0 Degree
+2019-03-06 07:39:28 Add title up-date.
+2019-03-06 07:39:38 Drive Axis2 to -62.0 Degree
+2019-03-06 07:45:40 Add title up-date.
+2019-03-06 07:45:50 Drive Axis2 to -60.0 Degree
+2019-03-06 07:51:52 Add title up-date.
+2019-03-06 07:52:02 Drive Axis2 to -58.0 Degree
+2019-03-06 07:58:04 Add title up-date.
+2019-03-06 07:58:14 Drive Axis2 to -56.0 Degree
+2019-03-06 08:04:18 Add title up-date.
+2019-03-06 08:04:28 Drive Axis2 to -54.0 Degree
+2019-03-06 08:10:47 Add title up-date.
+2019-03-06 08:10:56 Drive Axis2 to -52.0 Degree
+2019-03-06 08:17:01 Add title up-date.
+2019-03-06 08:17:10 Drive Axis2 to -50.0 Degree
+2019-03-06 08:24:09 Add title up-date.
+2019-03-06 08:24:18 Drive Axis2 to -48.0 Degree
+2019-03-06 08:30:20 Add title up-date.
+2019-03-06 08:30:30 Drive Axis2 to -46.0 Degree
+2019-03-06 08:36:49 Add title up-date.
+2019-03-06 08:36:58 Drive Axis2 to -44.0 Degree
+2019-03-06 08:43:00 Add title up-date.
+2019-03-06 08:43:09 Drive Axis2 to -42.0 Degree
+2019-03-06 08:49:56 Add title up-date.
+2019-03-06 08:50:05 Drive Axis2 to -40.0 Degree
+2019-03-06 08:56:06 Add title up-date.
+2019-03-06 08:56:15 Drive Axis2 to -38.0 Degree
+2019-03-06 09:02:16 Add title up-date.
+2019-03-06 09:02:25 Drive Axis2 to -36.0 Degree
+2019-03-06 09:08:26 Add title up-date.
+2019-03-06 09:08:36 Drive Axis2 to -34.0 Degree
+2019-03-06 09:14:37 Add title up-date.
+2019-03-06 09:14:46 Drive Axis2 to -32.0 Degree
+2019-03-06 09:20:47 Add title up-date.
+2019-03-06 09:20:57 Drive Axis2 to -30.0 Degree
+2019-03-06 09:26:58 Add title up-date.
+2019-03-06 09:27:07 Drive Axis2 to -28.0 Degree
+2019-03-06 09:33:08 Add title up-date.
+2019-03-06 09:33:17 Drive Axis2 to -26.0 Degree
+2019-03-06 09:39:17 Add title up-date.
+2019-03-06 09:39:26 Drive Axis2 to -24.0 Degree
+2019-03-06 09:45:26 Add title up-date.
+2019-03-06 09:45:35 Drive Axis2 to -22.0 Degree
+2019-03-06 09:51:35 Add title up-date.
+2019-03-06 09:51:44 Drive Axis2 to -20.0 Degree
+2019-03-06 09:57:44 Add title up-date.
+2019-03-06 09:57:54 Drive Axis2 to -18.0 Degree
+2019-03-06 10:03:53 Add title up-date.
+2019-03-06 10:04:03 Drive Axis2 to -16.0 Degree
+2019-03-06 10:10:02 Add title up-date.
+2019-03-06 10:10:12 Drive Axis2 to -14.0 Degree
+2019-03-06 10:16:12 Add title up-date.
+2019-03-06 10:16:21 Drive Axis2 to -12.0 Degree
+2019-03-06 10:22:21 Add title up-date.
+2019-03-06 10:22:31 Drive Axis2 to -10.0 Degree
+2019-03-06 10:28:32 Add title up-date.
+2019-03-06 10:28:41 Drive Axis2 to -8.0 Degree
+2019-03-06 10:34:41 Add title up-date.
+2019-03-06 10:34:51 Drive Axis2 to -6.0 Degree
+2019-03-06 10:40:52 Add title up-date.
+2019-03-06 10:41:01 Drive Axis2 to -4.0 Degree
+2019-03-06 10:47:02 Add title up-date.
+2019-03-06 10:47:11 Drive Axis2 to -2.0 Degree
+2019-03-06 11:19:22 Add title up-date.
+2019-03-06 11:19:31 Drive Axis2 to 0.0 Degree
+2019-03-06 11:26:06 Setting the magnetic field at 8.0 Tesla
+2019-03-06 12:28:18 Set Incident Energy to 1.72 meV
+2019-03-06 12:28:18 Add title up-date.
+2019-03-06 12:36:42 Drive Axis2 to -180.0 Degree
+2019-03-06 12:48:44 Add title up-date.
+2019-03-06 12:48:53 Drive Axis2 to -178.0 Degree
+2019-03-06 13:00:55 Add title up-date.
+2019-03-06 13:01:04 Drive Axis2 to -176.0 Degree
+2019-03-06 13:13:05 Add title up-date.
+2019-03-06 13:13:15 Drive Axis2 to -174.0 Degree
+2019-03-06 13:25:15 Add title up-date.
+2019-03-06 13:25:25 Drive Axis2 to -172.0 Degree
+2019-03-06 13:37:27 Add title up-date.
+2019-03-06 13:37:36 Drive Axis2 to -170.0 Degree
+2019-03-06 13:49:38 Add title up-date.
+2019-03-06 13:49:47 Drive Axis2 to -168.0 Degree
+2019-03-06 14:01:47 Add title up-date.
+2019-03-06 14:01:57 Drive Axis2 to -166.0 Degree
+2019-03-06 14:13:56 Add title up-date.
+2019-03-06 14:14:06 Drive Axis2 to -164.0 Degree
+2019-03-06 14:26:05 Add title up-date.
+2019-03-06 14:26:14 Drive Axis2 to -162.0 Degree
+2019-03-06 14:38:13 Add title up-date.
+2019-03-06 14:38:22 Drive Axis2 to -160.0 Degree
+2019-03-06 14:50:21 Add title up-date.
+2019-03-06 14:50:30 Drive Axis2 to -158.0 Degree
+2019-03-06 15:02:30 Add title up-date.
+2019-03-06 15:02:39 Drive Axis2 to -156.0 Degree
+2019-03-06 15:14:37 Add title up-date.
+2019-03-06 15:14:47 Drive Axis2 to -154.0 Degree
+2019-03-06 15:26:45 Add title up-date.
+2019-03-06 15:26:54 Drive Axis2 to -152.0 Degree
+2019-03-06 15:38:53 Add title up-date.
+2019-03-06 15:39:03 Drive Axis2 to -150.0 Degree
+2019-03-06 15:51:01 Add title up-date.
+2019-03-06 15:51:10 Drive Axis2 to -148.0 Degree
+2019-03-06 16:03:08 Add title up-date.
+2019-03-06 16:03:17 Drive Axis2 to -146.0 Degree
+2019-03-06 16:15:15 Add title up-date.
+2019-03-06 16:15:25 Drive Axis2 to -144.0 Degree
+2019-03-06 16:27:23 Add title up-date.
+2019-03-06 16:27:32 Drive Axis2 to -142.0 Degree
+2019-03-06 16:39:30 Add title up-date.
+2019-03-06 16:39:39 Drive Axis2 to -140.0 Degree
+2019-03-06 16:52:04 Add title up-date.
+2019-03-06 16:52:13 Drive Axis2 to -138.0 Degree
+2019-03-06 17:04:10 Add title up-date.
+2019-03-06 17:04:20 Drive Axis2 to -136.0 Degree
+2019-03-06 17:16:18 Add title up-date.
+2019-03-06 17:16:27 Drive Axis2 to -134.0 Degree
+2019-03-06 17:28:25 Add title up-date.
+2019-03-06 17:28:35 Drive Axis2 to -132.0 Degree
+2019-03-06 17:40:34 Add title up-date.
+2019-03-06 17:40:43 Drive Axis2 to -130.0 Degree
+2019-03-06 17:53:51 Add title up-date.
+2019-03-06 17:54:00 Drive Axis2 to -128.0 Degree
+2019-03-06 18:05:59 Add title up-date.
+2019-03-06 18:06:08 Drive Axis2 to -126.0 Degree
+2019-03-06 18:18:07 Add title up-date.
+2019-03-06 18:18:16 Drive Axis2 to -124.0 Degree
+2019-03-06 18:30:16 Add title up-date.
+2019-03-06 18:30:26 Drive Axis2 to -122.0 Degree
+2019-03-06 18:42:27 Add title up-date.
+2019-03-06 18:42:36 Drive Axis2 to -120.0 Degree
+2019-03-06 18:54:36 Add title up-date.
+2019-03-06 18:54:45 Drive Axis2 to -118.0 Degree
+2019-03-06 19:06:46 Add title up-date.
+2019-03-06 19:06:55 Drive Axis2 to -116.0 Degree
+2019-03-06 19:18:55 Add title up-date.
+2019-03-06 19:19:04 Drive Axis2 to -114.0 Degree
+2019-03-06 19:31:04 Add title up-date.
+2019-03-06 19:31:13 Drive Axis2 to -112.0 Degree
+2019-03-06 19:43:13 Add title up-date.
+2019-03-06 19:43:22 Drive Axis2 to -110.0 Degree
+2019-03-06 19:55:23 Add title up-date.
+2019-03-06 19:55:32 Drive Axis2 to -108.0 Degree
+2019-03-06 20:07:32 Add title up-date.
+2019-03-06 20:07:42 Drive Axis2 to -106.0 Degree
+2019-03-06 20:19:42 Add title up-date.
+2019-03-06 20:19:51 Drive Axis2 to -104.0 Degree
+2019-03-06 20:31:51 Add title up-date.
+2019-03-06 20:32:00 Drive Axis2 to -102.0 Degree
+2019-03-06 20:44:01 Add title up-date.
+2019-03-06 20:44:10 Drive Axis2 to -100.0 Degree
+2019-03-06 20:56:11 Add title up-date.
+2019-03-06 20:56:21 Drive Axis2 to -98.0 Degree
+2019-03-06 21:08:22 Add title up-date.
+2019-03-06 21:08:31 Drive Axis2 to -96.0 Degree
+2019-03-06 21:20:31 Add title up-date.
+2019-03-06 21:20:41 Drive Axis2 to -94.0 Degree
+2019-03-06 21:32:42 Add title up-date.
+2019-03-06 21:32:51 Drive Axis2 to -92.0 Degree
+2019-03-06 21:44:51 Add title up-date.
+2019-03-06 21:45:01 Drive Axis2 to -90.0 Degree
+2019-03-06 21:57:02 Add title up-date.
+2019-03-06 21:57:11 Drive Axis2 to -88.0 Degree
+2019-03-06 22:09:12 Add title up-date.
+2019-03-06 22:09:21 Drive Axis2 to -86.0 Degree
+2019-03-06 22:21:21 Add title up-date.
+2019-03-06 22:21:30 Drive Axis2 to -84.0 Degree
+2019-03-06 22:33:30 Add title up-date.
+2019-03-06 22:33:39 Drive Axis2 to -82.0 Degree
+2019-03-06 22:45:39 Add title up-date.
+2019-03-06 22:45:49 Drive Axis2 to -80.0 Degree
+2019-03-06 22:58:11 Add title up-date.
+2019-03-06 22:58:20 Drive Axis2 to -78.0 Degree
+2019-03-06 23:10:20 Add title up-date.
+2019-03-06 23:10:29 Drive Axis2 to -76.0 Degree
+2019-03-06 23:22:29 Add title up-date.
+2019-03-06 23:22:39 Drive Axis2 to -74.0 Degree
+2019-03-06 23:34:39 Add title up-date.
+2019-03-06 23:34:49 Drive Axis2 to -72.0 Degree
+2019-03-06 23:46:49 Add title up-date.
+2019-03-06 23:46:59 Drive Axis2 to -70.0 Degree
+2019-03-06 23:58:59 Add title up-date.
+2019-03-06 23:59:09 Drive Axis2 to -68.0 Degree
+2019-03-07 00:11:10 Add title up-date.
+2019-03-07 00:11:20 Drive Axis2 to -66.0 Degree
+2019-03-07 00:23:21 Add title up-date.
+2019-03-07 00:23:30 Drive Axis2 to -64.0 Degree
+2019-03-07 00:35:30 Add title up-date.
+2019-03-07 00:35:39 Drive Axis2 to -62.0 Degree
+2019-03-07 00:47:39 Add title up-date.
+2019-03-07 00:47:49 Drive Axis2 to -60.0 Degree
+2019-03-07 00:59:49 Add title up-date.
+2019-03-07 00:59:58 Drive Axis2 to -58.0 Degree
+2019-03-07 01:11:58 Add title up-date.
+2019-03-07 01:12:07 Drive Axis2 to -56.0 Degree
+2019-03-07 01:24:07 Add title up-date.
+2019-03-07 01:24:17 Drive Axis2 to -54.0 Degree
+2019-03-07 01:36:17 Add title up-date.
+2019-03-07 01:36:26 Drive Axis2 to -52.0 Degree
+2019-03-07 01:48:26 Add title up-date.
+2019-03-07 01:48:35 Drive Axis2 to -50.0 Degree
+2019-03-07 02:00:36 Add title up-date.
+2019-03-07 02:00:45 Drive Axis2 to -48.0 Degree
+2019-03-07 02:13:07 Add title up-date.
+2019-03-07 02:13:17 Drive Axis2 to -46.0 Degree
+2019-03-07 02:25:17 Add title up-date.
+2019-03-07 02:25:26 Drive Axis2 to -44.0 Degree
+2019-03-07 02:37:27 Add title up-date.
+2019-03-07 02:37:36 Drive Axis2 to -42.0 Degree
+2019-03-07 02:49:37 Add title up-date.
+2019-03-07 02:49:46 Drive Axis2 to -40.0 Degree
+2019-03-07 03:01:47 Add title up-date.
+2019-03-07 03:01:56 Drive Axis2 to -38.0 Degree
+2019-03-07 03:13:56 Add title up-date.
+2019-03-07 03:14:06 Drive Axis2 to -36.0 Degree
+2019-03-07 03:26:06 Add title up-date.
+2019-03-07 03:26:15 Drive Axis2 to -34.0 Degree
+2019-03-07 03:38:16 Add title up-date.
+2019-03-07 03:38:25 Drive Axis2 to -32.0 Degree
+2019-03-07 03:50:26 Add title up-date.
+2019-03-07 03:50:35 Drive Axis2 to -30.0 Degree
+2019-03-07 04:02:59 Add title up-date.
+2019-03-07 04:03:08 Drive Axis2 to -28.0 Degree
+2019-03-07 04:15:09 Add title up-date.
+2019-03-07 04:15:18 Drive Axis2 to -26.0 Degree
+2019-03-07 04:27:19 Add title up-date.
+2019-03-07 04:27:28 Drive Axis2 to -24.0 Degree
+2019-03-07 04:39:29 Add title up-date.
+2019-03-07 04:39:39 Drive Axis2 to -22.0 Degree
+2019-03-07 04:51:40 Add title up-date.
+2019-03-07 04:51:49 Drive Axis2 to -20.0 Degree
+2019-03-07 05:03:51 Add title up-date.
+2019-03-07 05:04:00 Drive Axis2 to -18.0 Degree
+2019-03-07 05:16:01 Add title up-date.
+2019-03-07 05:16:10 Drive Axis2 to -16.0 Degree
+2019-03-07 05:28:11 Add title up-date.
+2019-03-07 05:28:21 Drive Axis2 to -14.0 Degree
+2019-03-07 05:40:22 Add title up-date.
+2019-03-07 05:40:31 Drive Axis2 to -12.0 Degree
+2019-03-07 05:52:32 Add title up-date.
+2019-03-07 05:52:42 Drive Axis2 to -10.0 Degree
+2019-03-07 06:04:44 Add title up-date.
+2019-03-07 06:04:53 Drive Axis2 to -8.0 Degree
+2019-03-07 06:16:55 Add title up-date.
+2019-03-07 06:17:04 Drive Axis2 to -6.0 Degree
+2019-03-07 06:29:06 Add title up-date.
+2019-03-07 06:29:16 Drive Axis2 to -4.0 Degree
+2019-03-07 06:41:17 Add title up-date.
+2019-03-07 06:41:27 Drive Axis2 to -2.0 Degree
+2019-03-07 06:53:27 Add title up-date.
+2019-03-07 06:53:36 Drive Axis2 to 0.0 Degree
+2019-03-07 07:05:37 Setting the magnetic field at 0.0 Tesla
+2019-03-07 07:18:45 Add title up-date.
+2019-03-07 07:27:09 Drive Axis2 to -180.0 Degree
+2019-03-07 07:39:09 Add title up-date.
+2019-03-07 07:39:19 Drive Axis2 to -178.0 Degree
+2019-03-07 07:51:19 Add title up-date.
+2019-03-07 07:51:29 Drive Axis2 to -176.0 Degree
+2019-03-07 08:03:30 Add title up-date.
+2019-03-07 08:03:39 Drive Axis2 to -174.0 Degree
+2019-03-07 08:13:01 Set Incident Energy to 1.72 meV
+2019-03-07 08:13:01 Add title up-date.
+2019-03-07 08:13:41 Drive Axis2 to -180.0 Degree
+2019-03-07 08:26:06 Add title up-date.
+2019-03-07 08:26:16 Drive Axis2 to -178.0 Degree
+2019-03-07 08:38:17 Add title up-date.
+2019-03-07 08:38:27 Drive Axis2 to -176.0 Degree
+2019-03-07 08:50:28 Add title up-date.
+2019-03-07 08:50:38 Drive Axis2 to -174.0 Degree
+2019-03-07 09:02:40 Add title up-date.
+2019-03-07 09:02:49 Drive Axis2 to -172.0 Degree
+2019-03-07 09:14:51 Add title up-date.
+2019-03-07 09:15:01 Drive Axis2 to -170.0 Degree
+2019-03-07 09:27:02 Add title up-date.
+2019-03-07 09:27:11 Drive Axis2 to -168.0 Degree
+2019-03-07 09:39:15 Add title up-date.
+2019-03-07 09:39:24 Drive Axis2 to -166.0 Degree
+2019-03-07 09:51:27 Add title up-date.
+2019-03-07 09:51:36 Drive Axis2 to -164.0 Degree
+2019-03-07 10:03:38 Add title up-date.
+2019-03-07 10:03:47 Drive Axis2 to -162.0 Degree
+2019-03-07 10:15:50 Add title up-date.
+2019-03-07 10:15:59 Drive Axis2 to -160.0 Degree
+2019-03-07 10:28:01 Add title up-date.
+2019-03-07 10:28:10 Drive Axis2 to -158.0 Degree
+2019-03-07 10:40:11 Add title up-date.
+2019-03-07 10:40:21 Drive Axis2 to -156.0 Degree
+2019-03-07 10:52:23 Add title up-date.
+2019-03-07 10:52:23 Set Incident Energy to 1.72 meV
+2019-03-07 10:52:23 Add title up-date.
+2019-03-07 10:52:32 Drive Axis2 to -154.0 Degree
+2019-03-07 11:04:33 Add title up-date.
+2019-03-07 11:04:43 Drive Axis2 to -152.0 Degree
+2019-03-07 11:16:44 Add title up-date.
+2019-03-07 11:16:53 Drive Axis2 to -150.0 Degree
+2019-03-07 11:28:55 Add title up-date.
+2019-03-07 11:29:04 Drive Axis2 to -148.0 Degree
+2019-03-07 11:43:54 Add title up-date.
+2019-03-07 11:44:03 Drive Axis2 to -146.0 Degree
+2019-03-07 11:56:04 Add title up-date.
+2019-03-07 11:56:13 Drive Axis2 to -144.0 Degree
+2019-03-07 12:08:16 Add title up-date.
+2019-03-07 12:08:25 Drive Axis2 to -142.0 Degree
+2019-03-07 12:20:27 Add title up-date.
+2019-03-07 12:20:36 Drive Axis2 to -140.0 Degree
+2019-03-07 12:32:39 Add title up-date.
+2019-03-07 12:32:48 Drive Axis2 to -138.0 Degree
+2019-03-07 12:44:50 Add title up-date.
+2019-03-07 12:45:00 Drive Axis2 to -136.0 Degree
+2019-03-07 12:57:02 Add title up-date.
+2019-03-07 12:57:11 Drive Axis2 to -134.0 Degree
+2019-03-07 13:09:13 Add title up-date.
+2019-03-07 13:09:23 Drive Axis2 to -132.0 Degree
+2019-03-07 13:21:24 Add title up-date.
+2019-03-07 13:21:34 Drive Axis2 to -130.0 Degree
+2019-03-07 13:33:36 Add title up-date.
+2019-03-07 13:33:45 Drive Axis2 to -128.0 Degree
+2019-03-07 13:45:47 Add title up-date.
+2019-03-07 13:45:56 Drive Axis2 to -126.0 Degree
+2019-03-07 15:11:53 Add title up-date.
+2019-03-07 15:12:02 Drive Axis2 to -124.0 Degree
+2019-03-07 15:24:04 Add title up-date.
+2019-03-07 15:24:13 Drive Axis2 to -122.0 Degree
+2019-03-07 15:36:14 Add title up-date.
+2019-03-07 15:36:23 Drive Axis2 to -120.0 Degree
+2019-03-07 15:48:24 Add title up-date.
+2019-03-07 15:48:33 Drive Axis2 to -118.0 Degree
+2019-03-07 16:00:34 Add title up-date.
+2019-03-07 16:00:44 Drive Axis2 to -116.0 Degree
+2019-03-07 16:12:46 Add title up-date.
+2019-03-07 16:12:55 Drive Axis2 to -114.0 Degree
+2019-03-07 16:24:57 Add title up-date.
+2019-03-07 16:25:06 Drive Axis2 to -112.0 Degree
+2019-03-07 16:37:08 Add title up-date.
+2019-03-07 16:37:17 Drive Axis2 to -110.0 Degree
+2019-03-07 16:49:18 Add title up-date.
+2019-03-07 16:49:28 Drive Axis2 to -108.0 Degree
+2019-03-07 17:01:29 Add title up-date.
+2019-03-07 17:01:38 Drive Axis2 to -106.0 Degree
+2019-03-07 17:14:12 Add title up-date.
+2019-03-07 17:14:21 Drive Axis2 to -104.0 Degree
+2019-03-07 17:26:23 Add title up-date.
+2019-03-07 17:26:32 Drive Axis2 to -102.0 Degree
+2019-03-07 17:38:34 Add title up-date.
+2019-03-07 17:38:44 Drive Axis2 to -100.0 Degree
+2019-03-07 17:50:46 Add title up-date.
+2019-03-07 17:50:56 Drive Axis2 to -98.0 Degree
+2019-03-07 18:02:58 Add title up-date.
+2019-03-07 18:03:07 Drive Axis2 to -96.0 Degree
+2019-03-07 18:15:09 Add title up-date.
+2019-03-07 18:15:19 Drive Axis2 to -94.0 Degree
+2019-03-07 18:27:21 Add title up-date.
+2019-03-07 18:27:31 Drive Axis2 to -92.0 Degree
+2019-03-07 18:39:32 Add title up-date.
+2019-03-07 18:39:42 Drive Axis2 to -90.0 Degree
+2019-03-07 18:53:58 Add title up-date.
+2019-03-07 18:54:07 Drive Axis2 to -88.0 Degree
+2019-03-07 19:06:09 Add title up-date.
+2019-03-07 19:06:18 Drive Axis2 to -86.0 Degree
+2019-03-07 19:18:20 Add title up-date.
+2019-03-07 19:18:30 Drive Axis2 to -84.0 Degree
+2019-03-07 19:30:32 Add title up-date.
+2019-03-07 19:30:42 Drive Axis2 to -82.0 Degree
+2019-03-07 19:42:43 Add title up-date.
+2019-03-07 19:42:53 Drive Axis2 to -80.0 Degree
+2019-03-07 19:54:54 Add title up-date.
+2019-03-07 19:55:04 Drive Axis2 to -78.0 Degree
+2019-03-07 20:07:06 Add title up-date.
+2019-03-07 20:07:16 Drive Axis2 to -76.0 Degree
+2019-03-07 20:19:17 Add title up-date.
+2019-03-07 20:19:26 Drive Axis2 to -74.0 Degree
+2019-03-07 20:31:28 Add title up-date.
+2019-03-07 20:31:37 Drive Axis2 to -72.0 Degree
+2019-03-07 20:43:38 Add title up-date.
+2019-03-07 20:43:48 Drive Axis2 to -70.0 Degree
+2019-03-07 20:55:49 Add title up-date.
+2019-03-07 20:55:59 Drive Axis2 to -68.0 Degree
+2019-03-07 21:08:00 Add title up-date.
+2019-03-07 21:08:09 Drive Axis2 to -66.0 Degree
+2019-03-07 21:20:11 Add title up-date.
+2019-03-07 21:20:20 Drive Axis2 to -64.0 Degree
+2019-03-07 21:32:22 Add title up-date.
+2019-03-07 21:32:31 Drive Axis2 to -62.0 Degree
+2019-03-07 21:44:33 Add title up-date.
+2019-03-07 21:44:43 Drive Axis2 to -60.0 Degree
+2019-03-07 21:56:44 Add title up-date.
+2019-03-07 21:56:53 Drive Axis2 to -58.0 Degree
+2019-03-07 22:08:55 Add title up-date.
+2019-03-07 22:09:05 Drive Axis2 to -56.0 Degree
+2019-03-07 22:21:06 Add title up-date.
+2019-03-07 22:21:15 Drive Axis2 to -54.0 Degree
+2019-03-07 22:33:41 Add title up-date.
+2019-03-07 22:33:51 Drive Axis2 to -52.0 Degree
+2019-03-07 22:45:52 Add title up-date.
+2019-03-07 22:46:02 Drive Axis2 to -50.0 Degree
+2019-03-07 22:58:04 Add title up-date.
+2019-03-07 22:58:13 Drive Axis2 to -48.0 Degree
+2019-03-07 23:10:15 Add title up-date.
+2019-03-07 23:10:24 Drive Axis2 to -46.0 Degree
+2019-03-07 23:22:26 Add title up-date.
+2019-03-07 23:22:35 Drive Axis2 to -44.0 Degree
+2019-03-07 23:34:38 Add title up-date.
+2019-03-07 23:34:47 Drive Axis2 to -42.0 Degree
+2019-03-07 23:46:51 Add title up-date.
+2019-03-07 23:47:00 Drive Axis2 to -40.0 Degree
+2019-03-07 23:59:04 Add title up-date.
+2019-03-07 23:59:13 Drive Axis2 to -38.0 Degree
+2019-03-08 00:07:01 New X/Y Signal ROI at 2Theta=[70.5356407579,75.5356407579] Phi=[-2.08660631681,7.91339368319]
+2019-03-08 00:08:02 Drive Axis2 to -119.273916441 Degree
+2019-03-08 00:10:07 Set Incident Energy to 1.72 meV
+2019-03-08 00:10:07 Add title up-date.
+2019-03-08 00:11:16 Drive Axis2 to -38.0 Degree
+2019-03-08 00:23:20 Add title up-date.
+2019-03-08 00:23:30 Drive Axis2 to -36.0 Degree
+2019-03-08 00:35:33 Add title up-date.
+2019-03-08 00:35:42 Drive Axis2 to -34.0 Degree
+2019-03-08 00:47:48 Add title up-date.
+2019-03-08 00:47:57 Drive Axis2 to -32.0 Degree
+2019-03-08 01:00:02 Add title up-date.
+2019-03-08 01:00:11 Drive Axis2 to -30.0 Degree
+2019-03-08 01:12:15 Add title up-date.
+2019-03-08 01:12:25 Drive Axis2 to -28.0 Degree
+2019-03-08 01:24:29 Add title up-date.
+2019-03-08 01:24:38 Drive Axis2 to -26.0 Degree
+2019-03-08 01:36:44 Add title up-date.
+2019-03-08 01:36:53 Drive Axis2 to -24.0 Degree
+2019-03-08 01:48:58 Add title up-date.
+2019-03-08 01:49:08 Drive Axis2 to -22.0 Degree
+2019-03-08 02:01:13 Add title up-date.
+2019-03-08 02:01:22 Drive Axis2 to -20.0 Degree
+2019-03-08 02:13:27 Add title up-date.
+2019-03-08 02:13:36 Drive Axis2 to -18.0 Degree
+2019-03-08 02:25:42 Add title up-date.
+2019-03-08 02:25:52 Drive Axis2 to -16.0 Degree
+2019-03-08 02:37:56 Add title up-date.
+2019-03-08 02:38:06 Drive Axis2 to -14.0 Degree
+2019-03-08 02:50:10 Add title up-date.
+2019-03-08 02:50:19 Drive Axis2 to -12.0 Degree
+2019-03-08 03:02:25 Add title up-date.
+2019-03-08 03:02:34 Drive Axis2 to -10.0 Degree
+2019-03-08 03:14:40 Add title up-date.
+2019-03-08 03:14:49 Drive Axis2 to -8.0 Degree
+2019-03-08 03:26:54 Add title up-date.
+2019-03-08 03:27:03 Drive Axis2 to -6.0 Degree
+2019-03-08 03:39:08 Add title up-date.
+2019-03-08 03:39:17 Drive Axis2 to -4.0 Degree
+2019-03-08 03:51:21 Add title up-date.
+2019-03-08 03:51:30 Drive Axis2 to -2.0 Degree
+2019-03-08 04:03:35 Add title up-date.
+2019-03-08 04:03:44 Drive Axis2 to 0.0 Degree
+2019-03-08 04:15:51 Set Title: rocking (1/2,0,1/2)
+2019-03-08 04:16:06 New X/Y Signal ROI at 2Theta=[70.5356407579,75.5356407579] Phi=[-2.08660631681,7.91339368319]
+2019-03-08 04:17:07 Drive Axis2 to -106.021971039 Degree
+2019-03-08 04:17:07 Driving to: (0.5,0.0,0.5) at Omega=-106.021971039
+2019-03-08 04:21:41 Relative Scan axis2, run 307006
+2019-03-08 04:26:47 New X/Y Signal ROI at 2Theta=[70.5356407579,75.5356407579] Phi=[-2.08660631681,7.91339368319]
+2019-03-08 04:27:20 Drive Axis2 to -106.021971039 Degree
+2019-03-08 04:27:20 Driving to: (0.5,0.0,0.5) at Omega=-106.021971039
+2019-03-08 04:27:32 Relative Scan axis2, run 307007
+2019-03-08 04:36:20 Set Incident Energy to 1.72 meV
+2019-03-08 04:36:20 Set Title: Order Parameter on (1/2,0,1/2)
+2019-03-08 04:36:20 Setting the magnetic field at 7.0 Tesla
+2019-03-08 04:36:28 Collecting data while ramping the current
+2019-03-08 05:15:06 Set Incident Energy to 1.72 meV
+2019-03-08 05:15:06 Setting the magnetic field at 5.0 Tesla
+2019-03-08 05:45:38 Add title up-date.
+2019-03-08 05:45:39 Drive Axis2 to -180.0 Degree
+2019-03-08 05:57:44 Add title up-date.
+2019-03-08 05:57:53 Drive Axis2 to -178.0 Degree
+2019-03-08 06:09:58 Add title up-date.
+2019-03-08 06:10:07 Drive Axis2 to -176.0 Degree
+2019-03-08 06:22:13 Add title up-date.
+2019-03-08 06:22:22 Drive Axis2 to -174.0 Degree
+2019-03-08 06:34:28 Add title up-date.
+2019-03-08 06:34:37 Drive Axis2 to -172.0 Degree
+2019-03-08 06:46:42 Add title up-date.
+2019-03-08 06:46:52 Drive Axis2 to -170.0 Degree
+2019-03-08 06:58:57 Add title up-date.
+2019-03-08 06:59:06 Drive Axis2 to -168.0 Degree
+2019-03-08 07:11:12 Add title up-date.
+2019-03-08 07:11:21 Drive Axis2 to -166.0 Degree
+2019-03-08 07:23:28 Add title up-date.
+2019-03-08 07:23:37 Drive Axis2 to -164.0 Degree
+2019-03-08 07:35:44 Add title up-date.
+2019-03-08 07:35:53 Drive Axis2 to -162.0 Degree
+2019-03-08 07:48:01 Add title up-date.
+2019-03-08 07:48:10 Drive Axis2 to -160.0 Degree
+2019-03-08 08:00:17 Add title up-date.
+2019-03-08 08:00:26 Drive Axis2 to -158.0 Degree
+2019-03-08 08:12:34 Add title up-date.
+2019-03-08 08:12:43 Drive Axis2 to -156.0 Degree
+2019-03-08 08:24:50 Add title up-date.
+2019-03-08 08:24:59 Drive Axis2 to -154.0 Degree
+2019-03-08 08:37:02 Add title up-date.
+2019-03-08 08:37:11 Drive Axis2 to -152.0 Degree
+2019-03-08 08:49:14 Add title up-date.
+2019-03-08 08:49:24 Drive Axis2 to -150.0 Degree
+2019-03-08 09:01:25 Add title up-date.
+2019-03-08 09:01:35 Drive Axis2 to -148.0 Degree
+2019-03-08 09:13:37 Add title up-date.
+2019-03-08 09:13:47 Drive Axis2 to -146.0 Degree
+2019-03-08 09:25:49 Add title up-date.
+2019-03-08 09:25:59 Drive Axis2 to -144.0 Degree
+2019-03-08 09:38:01 Add title up-date.
+2019-03-08 09:38:10 Drive Axis2 to -142.0 Degree
+2019-03-08 09:50:13 Add title up-date.
+2019-03-08 09:50:22 Drive Axis2 to -140.0 Degree
+2019-03-08 10:02:49 Add title up-date.
+2019-03-08 10:02:59 Drive Axis2 to -138.0 Degree
+2019-03-08 10:15:01 Add title up-date.
+2019-03-08 10:15:10 Drive Axis2 to -136.0 Degree
+2019-03-08 10:27:13 Add title up-date.
+2019-03-08 10:27:22 Drive Axis2 to -134.0 Degree
+2019-03-08 10:39:25 Add title up-date.
+2019-03-08 10:39:35 Drive Axis2 to -132.0 Degree
+2019-03-08 10:51:38 Add title up-date.
+2019-03-08 10:51:47 Drive Axis2 to -130.0 Degree
+2019-03-08 11:03:49 Add title up-date.
+2019-03-08 11:03:59 Drive Axis2 to -128.0 Degree
+2019-03-08 11:16:01 Add title up-date.
+2019-03-08 11:16:10 Drive Axis2 to -126.0 Degree
+2019-03-08 11:28:12 Add title up-date.
+2019-03-08 11:28:21 Drive Axis2 to -124.0 Degree
+2019-03-08 11:40:24 Add title up-date.
+2019-03-08 11:40:33 Drive Axis2 to -122.0 Degree
+2019-03-08 11:52:34 Add title up-date.
+2019-03-08 11:52:44 Drive Axis2 to -120.0 Degree
+2019-03-08 12:04:45 Add title up-date.
+2019-03-08 12:04:54 Drive Axis2 to -118.0 Degree
+2019-03-08 12:16:54 Add title up-date.
+2019-03-08 12:17:03 Drive Axis2 to -116.0 Degree
+2019-03-08 12:29:04 Add title up-date.
+2019-03-08 12:29:13 Drive Axis2 to -114.0 Degree
+2019-03-08 12:41:14 Add title up-date.
+2019-03-08 12:41:23 Drive Axis2 to -112.0 Degree
+2019-03-08 12:53:25 Add title up-date.
+2019-03-08 12:53:34 Drive Axis2 to -110.0 Degree
+2019-03-08 13:05:36 Add title up-date.
+2019-03-08 13:05:45 Drive Axis2 to -108.0 Degree
+2019-03-08 13:17:46 Add title up-date.
+2019-03-08 13:17:56 Drive Axis2 to -106.0 Degree
+2019-03-08 13:29:57 Add title up-date.
+2019-03-08 13:30:07 Drive Axis2 to -104.0 Degree
+2019-03-08 13:42:08 Add title up-date.
+2019-03-08 13:42:17 Drive Axis2 to -102.0 Degree
+2019-03-08 15:52:46 Add title up-date.
+2019-03-08 15:52:55 Drive Axis2 to -100.0 Degree
+2019-03-08 16:15:37 Add title up-date.
+2019-03-08 16:15:46 Drive Axis2 to -98.0 Degree
+2019-03-08 16:27:48 Add title up-date.
+2019-03-08 16:27:57 Drive Axis2 to -96.0 Degree
+2019-03-08 16:42:48 Add title up-date.
+2019-03-08 16:42:57 Drive Axis2 to -94.0 Degree
+2019-03-08 16:54:58 Add title up-date.
+2019-03-08 16:55:08 Drive Axis2 to -92.0 Degree
+2019-03-08 17:07:10 Add title up-date.
+2019-03-08 17:07:19 Drive Axis2 to -90.0 Degree
+2019-03-08 17:19:21 Add title up-date.
+2019-03-08 17:19:30 Drive Axis2 to -88.0 Degree
+2019-03-08 17:35:08 Add title up-date.
+2019-03-08 17:35:17 Drive Axis2 to -86.0 Degree
+2019-03-08 17:47:20 Add title up-date.
+2019-03-08 17:47:30 Drive Axis2 to -84.0 Degree
+2019-03-08 17:59:32 Add title up-date.
+2019-03-08 17:59:41 Drive Axis2 to -82.0 Degree
+2019-03-08 18:11:43 Add title up-date.
+2019-03-08 18:11:53 Drive Axis2 to -80.0 Degree
+2019-03-08 18:23:56 Add title up-date.
+2019-03-08 18:24:06 Drive Axis2 to -78.0 Degree
+2019-03-08 18:36:09 Add title up-date.
+2019-03-08 18:36:19 Drive Axis2 to -76.0 Degree
+2019-03-08 18:48:53 Add title up-date.
+2019-03-08 18:49:03 Drive Axis2 to -74.0 Degree
+2019-03-08 19:01:05 Add title up-date.
+2019-03-08 19:01:14 Drive Axis2 to -72.0 Degree
+2019-03-08 19:13:15 Add title up-date.
+2019-03-08 19:13:25 Drive Axis2 to -70.0 Degree
+2019-03-08 19:25:26 Add title up-date.
+2019-03-08 19:25:36 Drive Axis2 to -68.0 Degree
+2019-03-08 19:37:37 Add title up-date.
+2019-03-08 19:37:47 Drive Axis2 to -66.0 Degree
+2019-03-08 19:49:49 Add title up-date.
+2019-03-08 19:49:58 Drive Axis2 to -64.0 Degree
+2019-03-08 20:02:21 Add title up-date.
+2019-03-08 20:02:30 Drive Axis2 to -62.0 Degree
+2019-03-08 20:14:32 Add title up-date.
+2019-03-08 20:14:42 Drive Axis2 to -60.0 Degree
+2019-03-08 20:26:45 Add title up-date.
+2019-03-08 20:26:54 Drive Axis2 to -58.0 Degree
+2019-03-08 20:38:56 Add title up-date.
+2019-03-08 20:39:05 Drive Axis2 to -56.0 Degree
+2019-03-08 20:51:06 Add title up-date.
+2019-03-08 20:51:15 Drive Axis2 to -54.0 Degree
+2019-03-08 21:03:16 Add title up-date.
+2019-03-08 21:03:25 Drive Axis2 to -52.0 Degree
+2019-03-08 21:15:26 Add title up-date.
+2019-03-08 21:15:36 Drive Axis2 to -50.0 Degree
+2019-03-08 21:27:36 Add title up-date.
+2019-03-08 21:27:46 Drive Axis2 to -48.0 Degree
+2019-03-08 21:39:46 Add title up-date.
+2019-03-08 21:39:56 Drive Axis2 to -46.0 Degree
+2019-03-08 21:51:56 Add title up-date.
+2019-03-08 21:52:06 Drive Axis2 to -44.0 Degree
+2019-03-08 22:04:27 Add title up-date.
+2019-03-08 22:04:36 Drive Axis2 to -42.0 Degree
+2019-03-08 22:16:38 Add title up-date.
+2019-03-08 22:16:47 Drive Axis2 to -40.0 Degree
+2019-03-08 22:28:48 Add title up-date.
+2019-03-08 22:28:57 Drive Axis2 to -38.0 Degree
+2019-03-08 22:40:58 Add title up-date.
+2019-03-08 22:41:07 Drive Axis2 to -36.0 Degree
+2019-03-08 22:53:08 Add title up-date.
+2019-03-08 22:53:17 Drive Axis2 to -34.0 Degree
+2019-03-08 23:05:17 Add title up-date.
+2019-03-08 23:05:26 Drive Axis2 to -32.0 Degree
+2019-03-08 23:17:27 Add title up-date.
+2019-03-08 23:17:36 Drive Axis2 to -30.0 Degree
+2019-03-08 23:29:38 Add title up-date.
+2019-03-08 23:29:47 Drive Axis2 to -28.0 Degree
+2019-03-08 23:41:48 Add title up-date.
+2019-03-08 23:41:57 Drive Axis2 to -26.0 Degree
+2019-03-08 23:53:59 Add title up-date.
+2019-03-08 23:54:08 Drive Axis2 to -24.0 Degree
+2019-03-09 00:06:10 Add title up-date.
+2019-03-09 00:06:19 Drive Axis2 to -22.0 Degree
+2019-03-09 00:18:22 Add title up-date.
+2019-03-09 00:18:31 Drive Axis2 to -20.0 Degree
+2019-03-09 00:30:32 Add title up-date.
+2019-03-09 00:30:42 Drive Axis2 to -18.0 Degree
+2019-03-09 00:42:44 Add title up-date.
+2019-03-09 00:42:53 Drive Axis2 to -16.0 Degree
+2019-03-09 00:54:55 Add title up-date.
+2019-03-09 00:55:05 Drive Axis2 to -14.0 Degree
+2019-03-09 01:07:06 Add title up-date.
+2019-03-09 01:07:16 Drive Axis2 to -12.0 Degree
+2019-03-09 04:56:29 Add title up-date.
+2019-03-09 04:56:39 Drive Axis2 to -10.0 Degree
+2019-03-09 05:09:06 Add title up-date.
+2019-03-09 05:09:15 Drive Axis2 to -8.0 Degree
+2019-03-09 05:21:22 Add title up-date.
+2019-03-09 05:21:32 Drive Axis2 to -6.0 Degree
+2019-03-09 05:33:37 Add title up-date.
+2019-03-09 05:33:46 Drive Axis2 to -4.0 Degree
+2019-03-09 05:45:51 Add title up-date.
+2019-03-09 05:46:01 Drive Axis2 to -2.0 Degree
+2019-03-09 05:58:06 Add title up-date.
+2019-03-09 05:58:16 Drive Axis2 to 0.0 Degree
+2019-03-09 06:10:21 Set Incident Energy to 1.72 meV
+2019-03-09 06:10:21 Setting the magnetic field at 0.0 Tesla
+2019-03-09 06:25:49 Add title up-date.
+2019-03-09 06:34:13 Drive Axis2 to -180.0 Degree
+2019-03-09 06:39:18 Add title up-date.
+2019-03-09 06:39:27 Drive Axis2 to -178.0 Degree
+2019-03-09 06:44:32 Add title up-date.
+2019-03-09 06:44:42 Drive Axis2 to -176.0 Degree
+2019-03-09 06:49:46 Add title up-date.
+2019-03-09 06:49:55 Drive Axis2 to -174.0 Degree
+2019-03-09 06:54:59 Add title up-date.
+2019-03-09 06:55:09 Drive Axis2 to -172.0 Degree
+2019-03-09 07:00:12 Add title up-date.
+2019-03-09 07:00:21 Drive Axis2 to -170.0 Degree
+2019-03-09 07:05:24 Add title up-date.
+2019-03-09 07:05:34 Drive Axis2 to -168.0 Degree
+2019-03-09 07:10:37 Add title up-date.
+2019-03-09 07:10:46 Drive Axis2 to -166.0 Degree
+2019-03-09 07:15:50 Add title up-date.
+2019-03-09 07:16:00 Drive Axis2 to -164.0 Degree
+2019-03-09 07:21:02 Add title up-date.
+2019-03-09 07:21:12 Drive Axis2 to -162.0 Degree
+2019-03-09 07:26:36 Add title up-date.
+2019-03-09 07:26:45 Drive Axis2 to -160.0 Degree
+2019-03-09 07:31:48 Add title up-date.
+2019-03-09 07:31:58 Drive Axis2 to -158.0 Degree
+2019-03-09 07:37:01 Add title up-date.
+2019-03-09 07:37:10 Drive Axis2 to -156.0 Degree
+2019-03-09 07:42:14 Add title up-date.
+2019-03-09 07:42:23 Drive Axis2 to -154.0 Degree
+2019-03-09 07:47:26 Add title up-date.
+2019-03-09 07:47:36 Drive Axis2 to -152.0 Degree
+2019-03-09 07:52:39 Add title up-date.
+2019-03-09 07:52:48 Drive Axis2 to -150.0 Degree
+2019-03-09 07:57:51 Add title up-date.
+2019-03-09 07:58:01 Drive Axis2 to -148.0 Degree
+2019-03-09 08:03:04 Add title up-date.
+2019-03-09 08:03:14 Drive Axis2 to -146.0 Degree
+2019-03-09 08:08:17 Add title up-date.
+2019-03-09 08:08:27 Drive Axis2 to -144.0 Degree
+2019-03-09 08:13:30 Add title up-date.
+2019-03-09 08:13:40 Drive Axis2 to -142.0 Degree
+2019-03-09 08:18:44 Add title up-date.
+2019-03-09 08:18:53 Drive Axis2 to -140.0 Degree
+2019-03-09 08:23:56 Add title up-date.
+2019-03-09 08:24:06 Drive Axis2 to -138.0 Degree
+2019-03-09 08:29:09 Add title up-date.
+2019-03-09 08:29:19 Drive Axis2 to -136.0 Degree
+2019-03-09 08:34:22 Add title up-date.
+2019-03-09 08:34:32 Drive Axis2 to -134.0 Degree
+2019-03-09 08:39:35 Add title up-date.
+2019-03-09 08:39:44 Drive Axis2 to -132.0 Degree
+2019-03-09 08:49:15 Add title up-date.
+2019-03-09 08:49:24 Drive Axis2 to -130.0 Degree
+2019-03-09 14:32:45 Set Incident Energy to 1.72 meV
+2019-03-09 14:32:45 Add title up-date.
+2019-03-09 14:36:26 Drive Axis2 to -180.0 Degree
+2019-03-09 14:48:32 Add title up-date.
+2019-03-09 14:48:42 Drive Axis2 to -178.0 Degree
+2019-03-09 15:00:48 Add title up-date.
+2019-03-09 15:00:57 Drive Axis2 to -176.0 Degree
+2019-03-09 15:13:04 Add title up-date.
+2019-03-09 15:13:13 Drive Axis2 to -174.0 Degree
+2019-03-09 15:25:19 Add title up-date.
+2019-03-09 15:25:28 Drive Axis2 to -172.0 Degree
+2019-03-09 15:37:36 Add title up-date.
+2019-03-09 15:37:45 Drive Axis2 to -170.0 Degree
+2019-03-09 16:15:22 Set Incident Energy to 1.72 meV
+2019-03-09 16:15:22 Add title up-date.
+2019-03-09 16:19:04 Drive Axis2 to -180.0 Degree
+2019-03-09 16:31:10 Add title up-date.
+2019-03-09 16:31:19 Drive Axis2 to -178.0 Degree
+2019-03-09 16:43:24 Add title up-date.
+2019-03-09 16:43:34 Drive Axis2 to -176.0 Degree
+2019-03-09 16:55:39 Add title up-date.
+2019-03-09 16:55:49 Drive Axis2 to -174.0 Degree
+2019-03-09 17:07:54 Add title up-date.
+2019-03-09 17:08:03 Drive Axis2 to -172.0 Degree
+2019-03-09 17:20:09 Add title up-date.
+2019-03-09 17:20:18 Drive Axis2 to -170.0 Degree
+2019-03-09 17:32:23 Add title up-date.
+2019-03-09 17:32:32 Drive Axis2 to -168.0 Degree
+2019-03-09 17:45:09 Add title up-date.
+2019-03-09 17:45:18 Drive Axis2 to -166.0 Degree
+2019-03-09 17:57:23 Add title up-date.
+2019-03-09 17:57:32 Drive Axis2 to -164.0 Degree
+2019-03-09 18:09:37 Add title up-date.
+2019-03-09 18:09:46 Drive Axis2 to -162.0 Degree
+2019-03-09 18:21:52 Add title up-date.
+2019-03-09 18:22:01 Drive Axis2 to -160.0 Degree
+2019-03-09 18:34:07 Add title up-date.
+2019-03-09 18:34:17 Drive Axis2 to -158.0 Degree
+2019-03-09 18:46:23 Add title up-date.
+2019-03-09 18:46:33 Drive Axis2 to -156.0 Degree
+2019-03-09 18:58:38 Add title up-date.
+2019-03-09 18:58:48 Drive Axis2 to -154.0 Degree
+2019-03-09 19:10:54 Add title up-date.
+2019-03-09 19:11:03 Drive Axis2 to -152.0 Degree
+2019-03-09 19:23:08 Add title up-date.
+2019-03-09 19:23:18 Drive Axis2 to -150.0 Degree
+2019-03-09 19:35:24 Add title up-date.
+2019-03-09 19:35:33 Drive Axis2 to -148.0 Degree
+2019-03-09 19:48:00 Add title up-date.
+2019-03-09 19:48:10 Drive Axis2 to -146.0 Degree
+2019-03-09 20:00:16 Add title up-date.
+2019-03-09 20:00:25 Drive Axis2 to -144.0 Degree
+2019-03-09 20:12:31 Add title up-date.
+2019-03-09 20:12:41 Drive Axis2 to -142.0 Degree
+2019-03-09 20:24:47 Add title up-date.
+2019-03-09 20:24:57 Drive Axis2 to -140.0 Degree
+2019-03-09 20:37:03 Add title up-date.
+2019-03-09 20:37:12 Drive Axis2 to -138.0 Degree
+2019-03-09 20:53:34 Add title up-date.
+2019-03-09 20:53:44 Drive Axis2 to -136.0 Degree
+2019-03-09 21:05:51 Add title up-date.
+2019-03-09 21:06:01 Drive Axis2 to -134.0 Degree
+2019-03-09 21:18:07 Add title up-date.
+2019-03-09 21:18:17 Drive Axis2 to -132.0 Degree
+2019-03-09 21:30:23 Add title up-date.
+2019-03-09 21:30:32 Drive Axis2 to -130.0 Degree
+2019-03-09 21:42:36 Add title up-date.
+2019-03-09 21:42:46 Drive Axis2 to -128.0 Degree
+2019-03-09 21:54:47 Add title up-date.
+2019-03-09 21:54:56 Drive Axis2 to -126.0 Degree
+2019-03-09 22:06:55 Add title up-date.
+2019-03-09 22:07:05 Drive Axis2 to -124.0 Degree
+2019-03-09 22:37:34 Add title up-date.
+2019-03-09 22:37:43 Drive Axis2 to -122.0 Degree
+2019-03-09 22:52:15 Add title up-date.
+2019-03-09 22:52:24 Drive Axis2 to -120.0 Degree
+2019-03-09 23:04:27 Add title up-date.
+2019-03-09 23:04:36 Drive Axis2 to -118.0 Degree
+2019-03-09 23:16:38 Add title up-date.
+2019-03-09 23:16:47 Drive Axis2 to -116.0 Degree
+2019-03-09 23:28:49 Add title up-date.
+2019-03-09 23:28:59 Drive Axis2 to -114.0 Degree
+2019-03-09 23:40:59 Add title up-date.
+2019-03-09 23:41:09 Drive Axis2 to -112.0 Degree
+2019-03-09 23:56:03 Add title up-date.
+2019-03-09 23:56:12 Drive Axis2 to -110.0 Degree
+2019-03-10 00:08:12 Add title up-date.
+2019-03-10 00:08:21 Drive Axis2 to -108.0 Degree
+2019-03-10 00:20:21 Add title up-date.
+2019-03-10 00:20:30 Drive Axis2 to -106.0 Degree
+2019-03-10 00:32:31 Add title up-date.
+2019-03-10 00:32:40 Drive Axis2 to -104.0 Degree
+2019-03-10 00:44:41 Add title up-date.
+2019-03-10 00:44:50 Drive Axis2 to -102.0 Degree
+2019-03-10 00:56:51 Add title up-date.
+2019-03-10 00:57:00 Drive Axis2 to -100.0 Degree
+2019-03-10 01:09:00 Add title up-date.
+2019-03-10 01:09:09 Drive Axis2 to -98.0 Degree
+2019-03-10 01:21:10 Add title up-date.
+2019-03-10 01:21:19 Drive Axis2 to -96.0 Degree
+2019-03-10 01:33:20 Add title up-date.
+2019-03-10 01:33:29 Drive Axis2 to -94.0 Degree
+2019-03-10 01:45:31 Add title up-date.
+2019-03-10 01:45:40 Drive Axis2 to -92.0 Degree
+2019-03-10 01:57:41 Add title up-date.
+2019-03-10 01:57:50 Drive Axis2 to -90.0 Degree
+2019-03-10 03:09:51 Add title up-date.
+2019-03-10 03:10:01 Drive Axis2 to -88.0 Degree
+2019-03-10 03:22:02 Add title up-date.
+2019-03-10 03:22:11 Drive Axis2 to -86.0 Degree
+2019-03-10 03:34:12 Add title up-date.
+2019-03-10 03:34:22 Drive Axis2 to -84.0 Degree
+2019-03-10 03:46:23 Add title up-date.
+2019-03-10 03:46:32 Drive Axis2 to -82.0 Degree
+2019-03-10 03:58:33 Add title up-date.
+2019-03-10 03:58:42 Drive Axis2 to -80.0 Degree
+2019-03-10 04:10:43 Add title up-date.
+2019-03-10 04:10:53 Drive Axis2 to -78.0 Degree
+2019-03-10 04:22:53 Add title up-date.
+2019-03-10 04:23:03 Drive Axis2 to -76.0 Degree
+2019-03-10 04:35:03 Add title up-date.
+2019-03-10 04:35:12 Drive Axis2 to -74.0 Degree
+2019-03-10 04:47:14 Add title up-date.
+2019-03-10 04:47:24 Drive Axis2 to -72.0 Degree
+2019-03-10 04:59:25 Add title up-date.
+2019-03-10 04:59:34 Drive Axis2 to -70.0 Degree
+2019-03-10 05:11:36 Add title up-date.
+2019-03-10 05:11:45 Drive Axis2 to -68.0 Degree
+2019-03-10 05:23:46 Add title up-date.
+2019-03-10 05:23:56 Drive Axis2 to -66.0 Degree
+2019-03-10 05:35:57 Add title up-date.
+2019-03-10 05:36:07 Drive Axis2 to -64.0 Degree
+2019-03-10 05:48:09 Add title up-date.
+2019-03-10 05:48:19 Drive Axis2 to -62.0 Degree
+2019-03-10 06:00:21 Add title up-date.
+2019-03-10 06:00:30 Drive Axis2 to -60.0 Degree
+2019-03-10 06:12:32 Add title up-date.
+2019-03-10 06:12:41 Drive Axis2 to -58.0 Degree
+2019-03-10 06:24:43 Add title up-date.
+2019-03-10 06:24:52 Drive Axis2 to -56.0 Degree
+2019-03-10 06:36:54 Add title up-date.
+2019-03-10 06:37:03 Drive Axis2 to -54.0 Degree
+2019-03-10 06:49:04 Add title up-date.
+2019-03-10 06:49:13 Drive Axis2 to -52.0 Degree
+2019-03-10 07:01:15 Add title up-date.
+2019-03-10 07:01:25 Drive Axis2 to -50.0 Degree
+2019-03-10 07:13:26 Add title up-date.
+2019-03-10 07:13:36 Drive Axis2 to -48.0 Degree
+2019-03-10 07:25:37 Add title up-date.
+2019-03-10 07:25:47 Drive Axis2 to -46.0 Degree
+2019-03-10 07:37:48 Add title up-date.
+2019-03-10 07:37:57 Drive Axis2 to -44.0 Degree
+2019-03-10 07:49:58 Add title up-date.
+2019-03-10 07:50:08 Drive Axis2 to -42.0 Degree
+2019-03-10 08:02:09 Add title up-date.
+2019-03-10 08:02:19 Drive Axis2 to -40.0 Degree
+2019-03-10 08:14:20 Add title up-date.
+2019-03-10 08:14:30 Drive Axis2 to -38.0 Degree
+2019-03-10 08:26:31 Add title up-date.
+2019-03-10 08:26:41 Drive Axis2 to -36.0 Degree
+2019-03-10 08:38:43 Add title up-date.
+2019-03-10 08:38:53 Drive Axis2 to -34.0 Degree
+2019-03-10 08:51:24 Add title up-date.
+2019-03-10 08:51:33 Drive Axis2 to -32.0 Degree
+2019-03-10 09:03:35 Add title up-date.
+2019-03-10 09:03:44 Drive Axis2 to -30.0 Degree
+2019-03-10 09:15:45 Add title up-date.
+2019-03-10 09:15:55 Drive Axis2 to -28.0 Degree
+2019-03-10 10:55:37 Set Incident Energy to 1.72 meV
+2019-03-10 10:55:37 Add title up-date.
+2019-03-10 10:57:25 Set Incident Energy to 1.72 meV
+2019-03-10 10:57:25 Add title up-date.
+2019-03-10 10:59:18 Drive Axis2 to -180.0 Degree
+2019-03-10 11:02:36 Add title up-date.
+2019-03-10 11:02:46 Drive Axis2 to -178.0 Degree
+2019-03-10 11:06:05 Add title up-date.
+2019-03-10 11:06:14 Drive Axis2 to -176.0 Degree
+2019-03-10 11:09:48 Add title up-date.
+2019-03-10 11:09:57 Drive Axis2 to -174.0 Degree
+2019-03-10 11:13:16 Add title up-date.
+2019-03-10 11:13:25 Drive Axis2 to -172.0 Degree
+2019-03-10 11:16:44 Add title up-date.
+2019-03-10 11:16:53 Drive Axis2 to -170.0 Degree
+2019-03-10 11:20:12 Add title up-date.
+2019-03-10 11:20:21 Drive Axis2 to -168.0 Degree
+2019-03-10 11:23:40 Add title up-date.
+2019-03-10 11:23:50 Drive Axis2 to -166.0 Degree
+2019-03-10 11:27:08 Add title up-date.
+2019-03-10 11:27:18 Drive Axis2 to -164.0 Degree
+2019-03-10 11:30:36 Add title up-date.
+2019-03-10 11:30:46 Drive Axis2 to -162.0 Degree
+2019-03-10 11:34:04 Add title up-date.
+2019-03-10 11:34:13 Drive Axis2 to -160.0 Degree
+2019-03-10 11:37:32 Add title up-date.
+2019-03-10 11:37:42 Drive Axis2 to -158.0 Degree
+2019-03-10 11:41:01 Add title up-date.
+2019-03-10 11:41:10 Drive Axis2 to -156.0 Degree
+2019-03-10 11:44:29 Add title up-date.
+2019-03-10 11:44:38 Drive Axis2 to -154.0 Degree
+2019-03-10 11:47:57 Add title up-date.
+2019-03-10 11:48:06 Drive Axis2 to -152.0 Degree
+2019-03-10 11:51:25 Add title up-date.
+2019-03-10 11:51:34 Drive Axis2 to -150.0 Degree
+2019-03-10 11:54:53 Add title up-date.
+2019-03-10 11:55:02 Drive Axis2 to -148.0 Degree
+2019-03-10 11:58:21 Add title up-date.
+2019-03-10 11:58:31 Drive Axis2 to -146.0 Degree
+2019-03-10 12:01:49 Add title up-date.
+2019-03-10 12:01:58 Drive Axis2 to -144.0 Degree
+2019-03-10 12:05:17 Add title up-date.
+2019-03-10 12:05:26 Drive Axis2 to -142.0 Degree
+2019-03-10 12:08:45 Add title up-date.
+2019-03-10 12:08:54 Drive Axis2 to -140.0 Degree
+2019-03-10 12:12:13 Add title up-date.
+2019-03-10 12:12:23 Drive Axis2 to -138.0 Degree
+2019-03-10 12:15:42 Add title up-date.
+2019-03-10 12:15:51 Drive Axis2 to -136.0 Degree
+2019-03-10 12:19:10 Add title up-date.
+2019-03-10 12:19:19 Drive Axis2 to -134.0 Degree
+2019-03-10 12:22:37 Add title up-date.
+2019-03-10 12:22:47 Drive Axis2 to -132.0 Degree
+2019-03-10 12:26:06 Add title up-date.
+2019-03-10 12:26:15 Drive Axis2 to -130.0 Degree
+2019-03-10 12:29:34 Add title up-date.
+2019-03-10 12:29:43 Drive Axis2 to -128.0 Degree
+2019-03-10 12:33:02 Add title up-date.
+2019-03-10 12:33:11 Drive Axis2 to -126.0 Degree
+2019-03-10 12:36:31 Add title up-date.
+2019-03-10 12:36:40 Drive Axis2 to -124.0 Degree
+2019-03-10 12:40:00 Add title up-date.
+2019-03-10 12:40:09 Drive Axis2 to -122.0 Degree
+2019-03-10 12:43:28 Add title up-date.
+2019-03-10 12:43:37 Drive Axis2 to -120.0 Degree
+2019-03-10 12:46:56 Add title up-date.
+2019-03-10 12:47:06 Drive Axis2 to -118.0 Degree
+2019-03-10 12:50:25 Add title up-date.
+2019-03-10 12:50:34 Drive Axis2 to -116.0 Degree
+2019-03-10 12:53:53 Add title up-date.
+2019-03-10 12:54:02 Drive Axis2 to -114.0 Degree
+2019-03-10 12:57:21 Add title up-date.
+2019-03-10 12:57:30 Drive Axis2 to -112.0 Degree
+2019-03-10 13:00:49 Add title up-date.
+2019-03-10 13:00:59 Drive Axis2 to -110.0 Degree
+2019-03-10 13:04:18 Add title up-date.
+2019-03-10 13:04:27 Drive Axis2 to -108.0 Degree
+2019-03-10 13:07:47 Add title up-date.
+2019-03-10 13:07:56 Drive Axis2 to -106.0 Degree
+2019-03-10 13:11:15 Add title up-date.
+2019-03-10 13:11:24 Drive Axis2 to -104.0 Degree
+2019-03-10 13:14:43 Add title up-date.
+2019-03-10 13:14:53 Drive Axis2 to -102.0 Degree
+2019-03-10 13:18:12 Add title up-date.
+2019-03-10 13:18:21 Drive Axis2 to -100.0 Degree
+2019-03-10 13:21:40 Add title up-date.
+2019-03-10 13:21:49 Drive Axis2 to -98.0 Degree
+2019-03-10 13:25:08 Add title up-date.
+2019-03-10 13:25:18 Drive Axis2 to -96.0 Degree
+2019-03-10 13:28:36 Add title up-date.
+2019-03-10 13:28:46 Drive Axis2 to -94.0 Degree
+2019-03-10 13:32:05 Add title up-date.
+2019-03-10 13:32:14 Drive Axis2 to -92.0 Degree
+2019-03-10 13:35:57 Add title up-date.
+2019-03-10 13:36:06 Drive Axis2 to -90.0 Degree
+2019-03-10 13:39:25 Add title up-date.
+2019-03-10 13:39:35 Drive Axis2 to -88.0 Degree
+2019-03-10 13:42:53 Add title up-date.
+2019-03-10 13:43:03 Drive Axis2 to -86.0 Degree
+2019-03-10 13:46:22 Add title up-date.
+2019-03-10 13:46:31 Drive Axis2 to -84.0 Degree
+2019-03-10 13:49:50 Add title up-date.
+2019-03-10 13:50:00 Drive Axis2 to -82.0 Degree
+2019-03-10 13:53:18 Add title up-date.
+2019-03-10 13:53:28 Drive Axis2 to -80.0 Degree
+2019-03-10 13:56:47 Add title up-date.
+2019-03-10 13:56:56 Drive Axis2 to -78.0 Degree
+2019-03-10 14:00:15 Add title up-date.
+2019-03-10 14:00:24 Drive Axis2 to -76.0 Degree
+2019-03-10 14:03:44 Add title up-date.
+2019-03-10 14:03:53 Drive Axis2 to -74.0 Degree
+2019-03-10 14:07:11 Add title up-date.
+2019-03-10 14:07:21 Drive Axis2 to -72.0 Degree
+2019-03-10 14:11:12 Add title up-date.
+2019-03-10 14:11:21 Drive Axis2 to -70.0 Degree
+2019-03-10 14:14:40 Add title up-date.
+2019-03-10 14:14:50 Drive Axis2 to -68.0 Degree
+2019-03-10 14:18:09 Add title up-date.
+2019-03-10 14:18:18 Drive Axis2 to -66.0 Degree
+2019-03-10 14:22:36 Add title up-date.
+2019-03-10 14:22:45 Drive Axis2 to -64.0 Degree
+2019-03-10 14:26:04 Add title up-date.
+2019-03-10 14:26:13 Drive Axis2 to -62.0 Degree
+2019-03-10 14:29:32 Add title up-date.
+2019-03-10 14:29:41 Drive Axis2 to -60.0 Degree
+2019-03-10 14:33:00 Add title up-date.
+2019-03-10 14:33:10 Drive Axis2 to -58.0 Degree
+2019-03-10 14:36:29 Add title up-date.
+2019-03-10 14:36:38 Drive Axis2 to -56.0 Degree
+2019-03-10 14:39:57 Add title up-date.
+2019-03-10 14:40:07 Drive Axis2 to -54.0 Degree
+2019-03-10 14:43:57 Add title up-date.
+2019-03-10 14:44:06 Drive Axis2 to -52.0 Degree
+2019-03-10 14:47:25 Add title up-date.
+2019-03-10 14:47:35 Drive Axis2 to -50.0 Degree
+2019-03-10 14:50:53 Add title up-date.
+2019-03-10 14:51:03 Drive Axis2 to -48.0 Degree
+2019-03-10 14:54:21 Add title up-date.
+2019-03-10 14:54:31 Drive Axis2 to -46.0 Degree
+2019-03-10 14:57:50 Add title up-date.
+2019-03-10 14:57:59 Drive Axis2 to -44.0 Degree
+2019-03-10 15:01:17 Add title up-date.
+2019-03-10 15:01:27 Drive Axis2 to -42.0 Degree
+2019-03-10 15:04:46 Add title up-date.
+2019-03-10 15:04:55 Drive Axis2 to -40.0 Degree
+2019-03-10 15:08:14 Add title up-date.
+2019-03-10 15:08:23 Drive Axis2 to -38.0 Degree
+2019-03-10 15:11:42 Add title up-date.
+2019-03-10 15:11:51 Drive Axis2 to -36.0 Degree
+2019-03-10 15:15:10 Add title up-date.
+2019-03-10 15:15:19 Drive Axis2 to -34.0 Degree
+2019-03-10 15:18:38 Add title up-date.
+2019-03-10 15:18:47 Drive Axis2 to -32.0 Degree
+2019-03-10 15:22:06 Add title up-date.
+2019-03-10 15:22:15 Drive Axis2 to -30.0 Degree
+2019-03-10 15:25:34 Add title up-date.
+2019-03-10 15:25:43 Drive Axis2 to -28.0 Degree
+2019-03-10 15:29:02 Add title up-date.
+2019-03-10 15:29:11 Drive Axis2 to -26.0 Degree
+2019-03-10 15:32:30 Add title up-date.
+2019-03-10 15:32:39 Drive Axis2 to -24.0 Degree
+2019-03-10 15:35:58 Add title up-date.
+2019-03-10 15:36:07 Drive Axis2 to -22.0 Degree
+2019-03-10 15:39:26 Add title up-date.
+2019-03-10 15:39:35 Drive Axis2 to -20.0 Degree
+2019-03-10 15:42:55 Add title up-date.
+2019-03-10 15:43:04 Drive Axis2 to -18.0 Degree
+2019-03-10 15:46:23 Add title up-date.
+2019-03-10 15:46:33 Drive Axis2 to -16.0 Degree
+2019-03-10 15:49:51 Add title up-date.
+2019-03-10 15:50:01 Drive Axis2 to -14.0 Degree
+2019-03-10 15:53:20 Add title up-date.
+2019-03-10 15:53:29 Drive Axis2 to -12.0 Degree
+2019-03-10 15:56:48 Add title up-date.
+2019-03-10 15:56:58 Drive Axis2 to -10.0 Degree
+2019-03-10 16:09:29 Add title up-date.
+2019-03-10 16:09:38 Drive Axis2 to -8.0 Degree
+2019-03-10 22:00:22 Add title up-date.
+2019-03-10 22:00:31 Drive Axis2 to -6.0 Degree
+2019-03-10 22:19:47 Add title up-date.
+2019-03-10 22:19:57 Drive Axis2 to -4.0 Degree
+2019-03-10 22:33:24 Add title up-date.
+2019-03-10 22:33:34 Drive Axis2 to -2.0 Degree
+2019-03-10 22:45:11 Add title up-date.
+2019-03-10 22:45:20 Drive Axis2 to 0.0 Degree
+2019-03-10 22:57:01 Set Incident Energy to 1.72 meV
+2019-03-10 22:57:01 Setting the magnetic field at 8.0 Tesla
+2019-03-11 00:05:05 Add title up-date.
+2019-03-11 00:13:30 Drive Axis2 to -180.0 Degree
+2019-03-11 00:23:45 Add title up-date.
+2019-03-11 00:23:54 Drive Axis2 to -178.0 Degree
+2019-03-11 00:34:09 Add title up-date.
+2019-03-11 00:34:18 Drive Axis2 to -176.0 Degree
+2019-03-11 00:44:33 Add title up-date.
+2019-03-11 00:44:42 Drive Axis2 to -174.0 Degree
+2019-03-11 00:54:35 Add title up-date.
+2019-03-11 00:54:44 Drive Axis2 to -172.0 Degree
+2019-03-11 01:04:14 Add title up-date.
+2019-03-11 01:04:23 Drive Axis2 to -170.0 Degree
+2019-03-11 01:13:49 Add title up-date.
+2019-03-11 01:13:58 Drive Axis2 to -168.0 Degree
+2019-03-11 01:23:24 Add title up-date.
+2019-03-11 01:23:33 Drive Axis2 to -166.0 Degree
+2019-03-11 01:32:58 Add title up-date.
+2019-03-11 01:33:08 Drive Axis2 to -164.0 Degree
+2019-03-11 01:42:33 Add title up-date.
+2019-03-11 01:42:42 Drive Axis2 to -162.0 Degree
+2019-03-11 01:52:08 Add title up-date.
+2019-03-11 01:52:17 Drive Axis2 to -160.0 Degree
+2019-03-11 02:01:39 Add title up-date.
+2019-03-11 02:01:48 Drive Axis2 to -158.0 Degree
+2019-03-11 02:10:26 Add title up-date.
+2019-03-11 02:10:36 Drive Axis2 to -156.0 Degree
+2019-03-11 02:19:11 Add title up-date.
+2019-03-11 02:19:20 Drive Axis2 to -154.0 Degree
+2019-03-11 02:27:57 Add title up-date.
+2019-03-11 02:28:06 Drive Axis2 to -152.0 Degree
+2019-03-11 02:36:43 Add title up-date.
+2019-03-11 02:36:52 Drive Axis2 to -150.0 Degree
+2019-03-11 02:45:28 Add title up-date.
+2019-03-11 02:45:38 Drive Axis2 to -148.0 Degree
+2019-03-11 02:54:14 Add title up-date.
+2019-03-11 02:54:23 Drive Axis2 to -146.0 Degree
+2019-03-11 03:03:22 Add title up-date.
+2019-03-11 03:03:31 Drive Axis2 to -144.0 Degree
+2019-03-11 03:11:57 Add title up-date.
+2019-03-11 03:12:06 Drive Axis2 to -142.0 Degree
+2019-03-11 03:20:11 Add title up-date.
+2019-03-11 03:20:20 Drive Axis2 to -140.0 Degree
+2019-03-11 03:28:23 Add title up-date.
+2019-03-11 03:28:33 Drive Axis2 to -138.0 Degree
+2019-03-11 03:36:36 Add title up-date.
+2019-03-11 03:36:45 Drive Axis2 to -136.0 Degree
+2019-03-11 03:44:48 Add title up-date.
+2019-03-11 03:44:58 Drive Axis2 to -134.0 Degree
+2019-03-11 03:53:01 Add title up-date.
+2019-03-11 03:53:10 Drive Axis2 to -132.0 Degree
+2019-03-11 04:01:13 Add title up-date.
+2019-03-11 04:01:22 Drive Axis2 to -130.0 Degree
+2019-03-11 04:09:10 Add title up-date.
+2019-03-11 04:09:20 Drive Axis2 to -128.0 Degree
+2019-03-11 04:16:45 Add title up-date.
+2019-03-11 04:16:55 Drive Axis2 to -126.0 Degree
+2019-03-11 04:24:20 Add title up-date.
+2019-03-11 04:24:30 Drive Axis2 to -124.0 Degree
+2019-03-11 04:32:18 Add title up-date.
+2019-03-11 04:32:27 Drive Axis2 to -122.0 Degree
+2019-03-11 04:39:54 Add title up-date.
+2019-03-11 04:40:03 Drive Axis2 to -120.0 Degree
+2019-03-11 04:52:47 Add title up-date.
+2019-03-11 04:52:56 Drive Axis2 to -118.0 Degree
+2019-03-11 05:00:22 Add title up-date.
+2019-03-11 05:00:32 Drive Axis2 to -116.0 Degree
+2019-03-11 05:07:59 Add title up-date.
+2019-03-11 05:08:08 Drive Axis2 to -114.0 Degree
+2019-03-11 05:15:35 Add title up-date.
+2019-03-11 05:15:44 Drive Axis2 to -112.0 Degree
+2019-03-11 05:23:39 Add title up-date.
+2019-03-11 05:23:48 Drive Axis2 to -110.0 Degree
+2019-03-11 05:30:54 Add title up-date.
+2019-03-11 05:31:03 Drive Axis2 to -108.0 Degree
+2019-03-11 05:38:07 Add title up-date.
+2019-03-11 05:38:17 Drive Axis2 to -106.0 Degree
+2019-03-11 05:45:21 Add title up-date.
+2019-03-11 05:45:30 Drive Axis2 to -104.0 Degree
+2019-03-11 05:52:34 Add title up-date.
+2019-03-11 05:52:44 Drive Axis2 to -102.0 Degree
+2019-03-11 05:59:47 Add title up-date.
+2019-03-11 05:59:56 Drive Axis2 to -100.0 Degree
+2019-03-11 06:07:00 Add title up-date.
+2019-03-11 06:07:09 Drive Axis2 to -98.0 Degree
+2019-03-11 06:14:12 Add title up-date.
+2019-03-11 06:14:22 Drive Axis2 to -96.0 Degree
+2019-03-11 06:21:15 Add title up-date.
+2019-03-11 06:21:25 Drive Axis2 to -94.0 Degree
+2019-03-11 06:27:58 Add title up-date.
+2019-03-11 06:28:07 Drive Axis2 to -92.0 Degree
+2019-03-11 06:34:38 Add title up-date.
+2019-03-11 06:34:47 Drive Axis2 to -90.0 Degree
+2019-03-11 06:41:21 Add title up-date.
+2019-03-11 06:41:30 Drive Axis2 to -88.0 Degree
+2019-03-11 06:48:04 Add title up-date.
+2019-03-11 06:48:14 Drive Axis2 to -86.0 Degree
+2019-03-11 06:54:47 Add title up-date.
+2019-03-11 06:54:56 Drive Axis2 to -84.0 Degree
+2019-03-11 07:01:31 Add title up-date.
+2019-03-11 07:01:40 Drive Axis2 to -82.0 Degree
+2019-03-11 07:08:15 Add title up-date.
+2019-03-11 07:08:24 Drive Axis2 to -80.0 Degree
+2019-03-11 07:14:59 Add title up-date.
+2019-03-11 07:15:08 Drive Axis2 to -78.0 Degree
+2019-03-11 07:21:29 Add title up-date.
+2019-03-11 07:21:38 Drive Axis2 to -76.0 Degree
+2019-03-11 07:27:53 Add title up-date.
+2019-03-11 07:28:02 Drive Axis2 to -74.0 Degree
+2019-03-11 07:34:17 Add title up-date.
+2019-03-11 07:34:26 Drive Axis2 to -72.0 Degree
+2019-03-11 07:40:41 Add title up-date.
+2019-03-11 07:40:51 Drive Axis2 to -70.0 Degree
+2019-03-11 07:47:06 Add title up-date.
+2019-03-11 07:47:15 Drive Axis2 to -68.0 Degree
+2019-03-11 07:53:30 Add title up-date.
+2019-03-11 07:53:39 Drive Axis2 to -66.0 Degree
+2019-03-11 07:59:54 Add title up-date.
+2019-03-11 08:00:03 Drive Axis2 to -64.0 Degree
+2019-03-11 14:55:53 Set Incident Energy to 1.72 meV
+2019-03-11 14:55:53 Add title up-date.
+2019-03-11 15:01:26 Set Incident Energy to 1.72 meV
+2019-03-11 15:01:26 Add title up-date.
+2019-03-11 15:04:18 Drive Axis2 to -180.0 Degree
+2019-03-11 18:14:56 Add title up-date.
+2019-03-11 18:15:06 Drive Axis2 to -178.0 Degree
+2019-03-11 18:23:10 Add title up-date.
+2019-03-11 18:23:20 Drive Axis2 to -176.0 Degree
+2019-03-11 18:29:41 Add title up-date.
+2019-03-11 18:29:50 Drive Axis2 to -174.0 Degree
+2019-03-11 18:36:04 Add title up-date.
+2019-03-11 18:36:14 Drive Axis2 to -172.0 Degree
+2019-03-11 18:42:28 Add title up-date.
+2019-03-11 18:42:37 Drive Axis2 to -170.0 Degree
+2019-03-11 18:48:52 Add title up-date.
+2019-03-11 18:49:01 Drive Axis2 to -168.0 Degree
+2019-03-11 18:55:15 Add title up-date.
+2019-03-11 18:55:24 Drive Axis2 to -166.0 Degree
+2019-03-11 19:01:38 Add title up-date.
+2019-03-11 19:01:47 Drive Axis2 to -164.0 Degree
+2019-03-11 19:08:00 Add title up-date.
+2019-03-11 19:08:10 Drive Axis2 to -162.0 Degree
+2019-03-11 19:14:23 Add title up-date.
+2019-03-11 19:14:33 Drive Axis2 to -160.0 Degree
+2019-03-11 19:20:46 Add title up-date.
+2019-03-11 19:20:55 Drive Axis2 to -158.0 Degree
+2019-03-11 19:26:55 Add title up-date.
+2019-03-11 19:27:04 Drive Axis2 to -156.0 Degree
+2019-03-11 19:33:03 Add title up-date.
+2019-03-11 19:33:13 Drive Axis2 to -154.0 Degree
+2019-03-11 19:39:11 Add title up-date.
+2019-03-11 19:39:20 Drive Axis2 to -152.0 Degree
+2019-03-11 19:45:19 Add title up-date.
+2019-03-11 19:45:28 Drive Axis2 to -150.0 Degree
+2019-03-11 19:51:27 Add title up-date.
+2019-03-11 19:51:37 Drive Axis2 to -148.0 Degree
+2019-03-11 19:57:36 Add title up-date.
+2019-03-11 19:57:45 Drive Axis2 to -146.0 Degree
+2019-03-11 20:03:45 Add title up-date.
+2019-03-11 20:03:54 Drive Axis2 to -144.0 Degree
+2019-03-11 20:09:54 Add title up-date.
+2019-03-11 20:10:04 Drive Axis2 to -142.0 Degree
+2019-03-11 20:16:04 Add title up-date.
+2019-03-11 20:16:14 Drive Axis2 to -140.0 Degree
+2019-03-11 20:22:06 Add title up-date.
+2019-03-11 20:22:16 Drive Axis2 to -138.0 Degree
+2019-03-11 20:27:57 Add title up-date.
+2019-03-11 20:28:06 Drive Axis2 to -136.0 Degree
+2019-03-11 20:33:46 Add title up-date.
+2019-03-11 20:33:55 Drive Axis2 to -134.0 Degree
+2019-03-11 20:39:35 Add title up-date.
+2019-03-11 20:39:45 Drive Axis2 to -132.0 Degree
+2019-03-11 20:45:24 Add title up-date.
+2019-03-11 20:45:33 Drive Axis2 to -130.0 Degree
+2019-03-11 20:51:14 Add title up-date.
+2019-03-11 20:51:23 Drive Axis2 to -128.0 Degree
+2019-03-11 20:57:03 Add title up-date.
+2019-03-11 20:57:12 Drive Axis2 to -126.0 Degree
+2019-03-11 21:02:52 Add title up-date.
+2019-03-11 21:03:01 Drive Axis2 to -124.0 Degree
+2019-03-11 21:08:41 Add title up-date.
+2019-03-11 21:08:51 Drive Axis2 to -122.0 Degree
+2019-03-11 21:14:31 Add title up-date.
+2019-03-11 21:14:40 Drive Axis2 to -120.0 Degree
+2019-03-11 21:20:19 Add title up-date.
+2019-03-11 21:20:29 Drive Axis2 to -118.0 Degree
+2019-03-11 21:26:08 Add title up-date.
+2019-03-11 21:26:17 Drive Axis2 to -116.0 Degree
+2019-03-11 21:31:56 Add title up-date.
+2019-03-11 21:32:06 Drive Axis2 to -114.0 Degree
+2019-03-11 21:37:45 Add title up-date.
+2019-03-11 21:37:54 Drive Axis2 to -112.0 Degree
+2019-03-11 21:43:21 Add title up-date.
+2019-03-11 21:43:31 Drive Axis2 to -110.0 Degree
+2019-03-11 21:48:58 Add title up-date.
+2019-03-11 21:49:07 Drive Axis2 to -108.0 Degree
+2019-03-11 21:54:34 Add title up-date.
+2019-03-11 21:54:43 Drive Axis2 to -106.0 Degree
+2019-03-11 22:00:09 Add title up-date.
+2019-03-11 22:00:18 Drive Axis2 to -104.0 Degree
+2019-03-11 22:05:44 Add title up-date.
+2019-03-11 22:05:54 Drive Axis2 to -102.0 Degree
+2019-03-11 22:11:20 Add title up-date.
+2019-03-11 22:11:29 Drive Axis2 to -100.0 Degree
+2019-03-11 22:16:55 Add title up-date.
+2019-03-11 22:17:05 Drive Axis2 to -98.0 Degree
+2019-03-11 22:22:31 Add title up-date.
+2019-03-11 22:22:40 Drive Axis2 to -96.0 Degree
+2019-03-11 22:28:06 Add title up-date.
+2019-03-11 22:28:15 Drive Axis2 to -94.0 Degree
+2019-03-11 22:33:41 Add title up-date.
+2019-03-11 22:33:50 Drive Axis2 to -92.0 Degree
+2019-03-11 22:39:15 Add title up-date.
+2019-03-11 22:39:25 Drive Axis2 to -90.0 Degree
+2019-03-11 22:44:44 Add title up-date.
+2019-03-11 22:44:53 Drive Axis2 to -88.0 Degree
+2019-03-11 22:50:14 Add title up-date.
+2019-03-11 22:50:23 Drive Axis2 to -86.0 Degree
+2019-03-11 22:55:42 Add title up-date.
+2019-03-11 22:55:52 Drive Axis2 to -84.0 Degree
+2019-03-11 23:01:12 Add title up-date.
+2019-03-11 23:01:21 Drive Axis2 to -82.0 Degree
+2019-03-11 23:06:40 Add title up-date.
+2019-03-11 23:06:50 Drive Axis2 to -80.0 Degree
+2019-03-11 23:12:09 Add title up-date.
+2019-03-11 23:12:18 Drive Axis2 to -78.0 Degree
+2019-03-11 23:17:38 Add title up-date.
+2019-03-11 23:17:47 Drive Axis2 to -76.0 Degree
+2019-03-11 23:23:06 Add title up-date.
+2019-03-11 23:23:16 Drive Axis2 to -74.0 Degree
+2019-03-11 23:28:35 Add title up-date.
+2019-03-11 23:28:44 Drive Axis2 to -72.0 Degree
+2019-03-11 23:34:03 Add title up-date.
+2019-03-11 23:34:13 Drive Axis2 to -70.0 Degree
+2019-03-11 23:39:26 Add title up-date.
+2019-03-11 23:39:36 Drive Axis2 to -68.0 Degree
+2019-03-11 23:44:49 Add title up-date.
+2019-03-11 23:44:58 Drive Axis2 to -66.0 Degree
+2019-03-11 23:50:11 Add title up-date.
+2019-03-11 23:50:21 Drive Axis2 to -64.0 Degree
+2019-03-11 23:55:34 Add title up-date.
+2019-03-11 23:55:44 Drive Axis2 to -62.0 Degree
+2019-03-12 00:00:57 Add title up-date.
+2019-03-12 00:01:06 Drive Axis2 to -60.0 Degree
+2019-03-12 00:06:19 Add title up-date.
+2019-03-12 00:06:29 Drive Axis2 to -58.0 Degree
+2019-03-12 00:11:42 Add title up-date.
+2019-03-12 00:11:51 Drive Axis2 to -56.0 Degree
+2019-03-12 00:17:04 Add title up-date.
+2019-03-12 00:17:14 Drive Axis2 to -54.0 Degree
+2019-03-12 00:22:27 Add title up-date.
+2019-03-12 00:22:36 Drive Axis2 to -52.0 Degree
+2019-03-12 00:27:49 Add title up-date.
+2019-03-12 00:27:58 Drive Axis2 to -50.0 Degree
+2019-03-12 00:33:11 Add title up-date.
+2019-03-12 00:33:21 Drive Axis2 to -48.0 Degree
+2019-03-12 00:38:31 Add title up-date.
+2019-03-12 00:38:40 Drive Axis2 to -46.0 Degree
+2019-03-12 00:43:43 Add title up-date.
+2019-03-12 00:43:52 Drive Axis2 to -44.0 Degree
+2019-03-12 00:48:58 Add title up-date.
+2019-03-12 00:49:07 Drive Axis2 to -42.0 Degree
+2019-03-12 00:54:34 Add title up-date.
+2019-03-12 00:54:43 Drive Axis2 to -40.0 Degree
+2019-03-12 00:59:49 Add title up-date.
+2019-03-12 00:59:58 Drive Axis2 to -38.0 Degree
+2019-03-12 01:05:04 Add title up-date.
+2019-03-12 01:05:13 Drive Axis2 to -36.0 Degree
+2019-03-12 01:10:19 Add title up-date.
+2019-03-12 01:10:29 Drive Axis2 to -34.0 Degree
+2019-03-12 01:15:34 Add title up-date.
+2019-03-12 01:15:44 Drive Axis2 to -32.0 Degree
+2019-03-12 01:20:50 Add title up-date.
+2019-03-12 01:20:59 Drive Axis2 to -30.0 Degree
+2019-03-12 01:26:05 Add title up-date.
+2019-03-12 01:26:14 Drive Axis2 to -28.0 Degree
+2019-03-12 01:31:20 Add title up-date.
+2019-03-12 01:31:29 Drive Axis2 to -26.0 Degree
+2019-03-12 01:36:34 Add title up-date.
+2019-03-12 01:36:43 Drive Axis2 to -24.0 Degree
+2019-03-12 01:41:43 Add title up-date.
+2019-03-12 01:41:53 Drive Axis2 to -22.0 Degree
+2019-03-12 01:46:53 Add title up-date.
+2019-03-12 01:47:02 Drive Axis2 to -20.0 Degree
+2019-03-12 01:52:03 Add title up-date.
+2019-03-12 01:52:12 Drive Axis2 to -18.0 Degree
+2019-03-12 01:57:12 Add title up-date.
+2019-03-12 01:57:22 Drive Axis2 to -16.0 Degree
+2019-03-12 02:02:22 Add title up-date.
+2019-03-12 02:02:32 Drive Axis2 to -14.0 Degree
+2019-03-12 02:07:31 Add title up-date.
+2019-03-12 02:07:41 Drive Axis2 to -12.0 Degree
+2019-03-12 02:13:24 Add title up-date.
+2019-03-12 02:13:34 Drive Axis2 to -10.0 Degree
+2019-03-12 02:18:33 Add title up-date.
+2019-03-12 02:18:43 Drive Axis2 to -8.0 Degree
+2019-03-12 02:23:42 Add title up-date.
+2019-03-12 02:23:52 Drive Axis2 to -6.0 Degree
+2019-03-12 02:28:51 Add title up-date.
+2019-03-12 02:29:00 Drive Axis2 to -4.0 Degree
+2019-03-12 02:34:00 Add title up-date.
+2019-03-12 02:34:09 Drive Axis2 to -2.0 Degree
+2019-03-12 02:39:09 Add title up-date.
+2019-03-12 02:39:18 Drive Axis2 to 0.0 Degree
+2019-03-12 02:45:04 Set Incident Energy to 6.59 meV
+2019-03-12 02:45:04 Add title up-date.
+2019-03-12 02:53:28 Drive Axis2 to -180.0 Degree
+2019-03-12 03:02:22 Add title up-date.
+2019-03-12 03:02:31 Drive Axis2 to -178.0 Degree
+2019-03-12 03:11:24 Add title up-date.
+2019-03-12 03:11:34 Drive Axis2 to -176.0 Degree
+2019-03-12 03:20:27 Add title up-date.
+2019-03-12 03:20:36 Drive Axis2 to -174.0 Degree
+2019-03-12 03:29:30 Add title up-date.
+2019-03-12 03:29:40 Drive Axis2 to -172.0 Degree
+2019-03-12 03:38:33 Add title up-date.
+2019-03-12 03:38:42 Drive Axis2 to -170.0 Degree
+2019-03-12 03:47:36 Add title up-date.
+2019-03-12 03:47:45 Drive Axis2 to -168.0 Degree
+2019-03-12 03:56:38 Add title up-date.
+2019-03-12 03:56:47 Drive Axis2 to -166.0 Degree
+2019-03-12 04:05:24 Add title up-date.
+2019-03-12 04:05:34 Drive Axis2 to -164.0 Degree
+2019-03-12 04:14:11 Add title up-date.
+2019-03-12 04:14:20 Drive Axis2 to -162.0 Degree
+2019-03-12 04:22:59 Add title up-date.
+2019-03-12 04:23:08 Drive Axis2 to -160.0 Degree
+2019-03-12 04:31:46 Add title up-date.
+2019-03-12 04:31:55 Drive Axis2 to -158.0 Degree
+2019-03-12 04:40:33 Add title up-date.
+2019-03-12 04:40:42 Drive Axis2 to -156.0 Degree
+2019-03-12 04:49:15 Add title up-date.
+2019-03-12 04:49:25 Drive Axis2 to -154.0 Degree
+2019-03-12 04:57:46 Add title up-date.
+2019-03-12 04:57:55 Drive Axis2 to -152.0 Degree
+2019-03-12 05:06:17 Add title up-date.
+2019-03-12 05:06:26 Drive Axis2 to -150.0 Degree
+2019-03-12 05:14:47 Add title up-date.
+2019-03-12 05:14:56 Drive Axis2 to -148.0 Degree
+2019-03-12 05:23:17 Add title up-date.
+2019-03-12 05:23:27 Drive Axis2 to -146.0 Degree
+2019-03-12 05:31:48 Add title up-date.
+2019-03-12 05:31:57 Drive Axis2 to -144.0 Degree
+2019-03-12 05:40:18 Add title up-date.
+2019-03-12 05:40:28 Drive Axis2 to -142.0 Degree
+2019-03-12 05:48:37 Add title up-date.
+2019-03-12 05:48:47 Drive Axis2 to -140.0 Degree
+2019-03-12 05:56:53 Add title up-date.
+2019-03-12 05:57:03 Drive Axis2 to -138.0 Degree
+2019-03-12 06:05:08 Add title up-date.
+2019-03-12 06:05:18 Drive Axis2 to -136.0 Degree
+2019-03-12 06:13:24 Add title up-date.
+2019-03-12 06:13:33 Drive Axis2 to -134.0 Degree
+2019-03-12 06:21:39 Add title up-date.
+2019-03-12 06:21:48 Drive Axis2 to -132.0 Degree
+2019-03-12 06:29:54 Add title up-date.
+2019-03-12 06:30:04 Drive Axis2 to -130.0 Degree
+2019-03-12 06:38:26 Add title up-date.
+2019-03-12 06:38:35 Drive Axis2 to -128.0 Degree
+2019-03-12 06:46:41 Add title up-date.
+2019-03-12 06:46:50 Drive Axis2 to -126.0 Degree
+2019-03-12 06:54:41 Add title up-date.
+2019-03-12 06:54:50 Drive Axis2 to -124.0 Degree

@@ -1,0 +1,16 @@
+2019-02-17 09:07:53 Line Log cleared
+2019-02-17 09:07:53 Starting IPTS-22535 on 2019-02-17
+2019-02-17 09:09:08 Set Incident Energy to 12.0 meV
+2019-02-17 09:09:08 Set Title: Empty, Ei=12.0, T= RT
+2019-02-17 12:27:22 Set Incident Energy to 12.0 meV
+2019-02-17 12:27:22 Set Title: Al, Ei=12.0, T= Tm+5
+2019-02-17 13:41:20 Set Incident Energy to 6.5 meV
+2019-02-17 13:41:20 Set Title: Al, Ei=6.5, T= Tm+5
+2019-02-17 14:54:20 Set Incident Energy to 3.0 meV
+2019-02-17 14:54:20 Set Title: Al, Ei=3.0, T= Tm+5
+2019-02-17 15:20:05 Set Incident Energy to 12.0 meV
+2019-02-17 15:20:05 Set Title: Al, Ei=12.0, T= Tm+5
+2019-02-17 18:23:12 Set Incident Energy to 20.0 meV
+2019-02-17 18:23:12 Set Title: Al, Ei=20.0, T= Tm+5
+2019-02-17 19:38:15 Set Incident Energy to 12.0 meV
+2019-02-17 19:38:15 Set Title: Al, Ei=12.0, T= Tm+5

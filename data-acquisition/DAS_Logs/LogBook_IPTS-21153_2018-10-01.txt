@@ -1,0 +1,1365 @@
+2018-09-24 13:09:06 Line Log cleared
+2018-09-24 13:09:06 Starting IPTS-21153 on 2018-09-24
+2018-09-24 19:06:41 Set Incident Energy to 20.0 meV
+2018-09-24 19:06:41 Set Title: closed shutter, Ei=20 meV, run_in_series=0
+2018-09-24 19:08:29 Set Title: closed shutter, Ei=20 meV, run_in_series=1
+2018-09-24 19:10:17 Set Title: closed shutter, Ei=20 meV, run_in_series=2
+2018-09-24 19:12:05 Set Title: closed shutter, Ei=20 meV, run_in_series=3
+2018-09-24 19:13:53 Set Title: closed shutter, Ei=20 meV, run_in_series=4
+2018-09-24 19:15:41 Set Title: closed shutter, Ei=20 meV, run_in_series=5
+2018-09-24 19:17:30 Set Title: closed shutter, Ei=20 meV, run_in_series=6
+2018-09-24 19:19:18 Set Title: closed shutter, Ei=20 meV, run_in_series=7
+2018-09-24 19:21:06 Set Title: closed shutter, Ei=20 meV, run_in_series=8
+2018-09-24 19:22:54 Set Title: closed shutter, Ei=20 meV, run_in_series=9
+2018-09-24 19:24:42 Set Title: closed shutter, Ei=20 meV, run_in_series=10
+2018-09-24 19:26:30 Set Title: closed shutter, Ei=20 meV, run_in_series=11
+2018-09-24 19:28:18 Set Title: closed shutter, Ei=20 meV, run_in_series=12
+2018-09-24 19:30:44 Set Title: closed shutter, Ei=20 meV, run_in_series=13
+2018-09-24 19:32:32 Set Title: closed shutter, Ei=20 meV, run_in_series=14
+2018-09-24 19:34:20 Set Title: closed shutter, Ei=20 meV, run_in_series=15
+2018-09-24 19:36:08 Set Title: closed shutter, Ei=20 meV, run_in_series=16
+2018-09-24 19:37:56 Set Title: closed shutter, Ei=20 meV, run_in_series=17
+2018-09-24 19:39:44 Set Title: closed shutter, Ei=20 meV, run_in_series=18
+2018-09-24 19:41:31 Set Title: closed shutter, Ei=20 meV, run_in_series=19
+2018-09-24 19:43:19 Set Title: closed shutter, Ei=20 meV, run_in_series=20
+2018-09-24 19:45:07 Set Title: closed shutter, Ei=20 meV, run_in_series=21
+2018-09-24 19:46:55 Set Title: closed shutter, Ei=20 meV, run_in_series=22
+2018-09-24 19:48:42 Set Title: closed shutter, Ei=20 meV, run_in_series=23
+2018-09-24 19:50:30 Set Title: closed shutter, Ei=20 meV, run_in_series=24
+2018-09-24 19:52:18 Set Title: closed shutter, Ei=20 meV, run_in_series=25
+2018-09-24 19:54:06 Set Title: closed shutter, Ei=20 meV, run_in_series=26
+2018-09-24 19:55:54 Set Title: closed shutter, Ei=20 meV, run_in_series=27
+2018-09-24 19:57:42 Set Title: closed shutter, Ei=20 meV, run_in_series=28
+2018-09-24 19:59:30 Set Title: closed shutter, Ei=20 meV, run_in_series=29
+2018-09-24 20:01:18 Set Title: closed shutter, Ei=20 meV, run_in_series=30
+2018-09-24 20:03:05 Set Title: closed shutter, Ei=20 meV, run_in_series=31
+2018-09-24 20:04:53 Set Title: closed shutter, Ei=20 meV, run_in_series=32
+2018-09-24 20:06:41 Set Title: closed shutter, Ei=20 meV, run_in_series=33
+2018-09-24 20:08:29 Set Title: closed shutter, Ei=20 meV, run_in_series=34
+2018-09-24 20:10:17 Set Title: closed shutter, Ei=20 meV, run_in_series=35
+2018-09-24 20:12:05 Set Title: closed shutter, Ei=20 meV, run_in_series=36
+2018-09-24 20:13:53 Set Title: closed shutter, Ei=20 meV, run_in_series=37
+2018-09-24 20:15:41 Set Title: closed shutter, Ei=20 meV, run_in_series=38
+2018-09-24 20:17:29 Set Title: closed shutter, Ei=20 meV, run_in_series=39
+2018-09-24 20:19:16 Set Title: closed shutter, Ei=20 meV, run_in_series=40
+2018-09-24 20:21:04 Set Title: closed shutter, Ei=20 meV, run_in_series=41
+2018-09-24 20:22:52 Set Title: closed shutter, Ei=20 meV, run_in_series=42
+2018-09-24 20:24:40 Set Title: closed shutter, Ei=20 meV, run_in_series=43
+2018-09-24 20:26:28 Set Title: closed shutter, Ei=20 meV, run_in_series=44
+2018-09-24 20:28:16 Set Title: closed shutter, Ei=20 meV, run_in_series=45
+2018-09-24 20:30:04 Set Title: closed shutter, Ei=20 meV, run_in_series=46
+2018-09-24 20:31:52 Set Title: closed shutter, Ei=20 meV, run_in_series=47
+2018-09-24 20:33:40 Set Title: closed shutter, Ei=20 meV, run_in_series=48
+2018-09-24 20:35:27 Set Title: closed shutter, Ei=20 meV, run_in_series=49
+2018-09-24 20:37:15 Set Title: closed shutter, Ei=20 meV, run_in_series=50
+2018-09-24 20:39:04 Set Title: closed shutter, Ei=20 meV, run_in_series=51
+2018-09-24 20:40:51 Set Title: closed shutter, Ei=20 meV, run_in_series=52
+2018-09-24 20:42:39 Set Title: closed shutter, Ei=20 meV, run_in_series=53
+2018-09-24 20:44:27 Set Title: closed shutter, Ei=20 meV, run_in_series=54
+2018-09-24 20:46:15 Set Title: closed shutter, Ei=20 meV, run_in_series=55
+2018-09-24 20:48:02 Set Title: closed shutter, Ei=20 meV, run_in_series=56
+2018-09-24 20:49:50 Set Title: closed shutter, Ei=20 meV, run_in_series=57
+2018-09-24 20:51:57 Set Title: closed shutter, Ei=20 meV, run_in_series=58
+2018-09-24 20:53:47 Set Title: closed shutter, Ei=20 meV, run_in_series=59
+2018-09-24 20:55:35 Set Title: closed shutter, Ei=20 meV, run_in_series=60
+2018-09-24 20:57:23 Set Title: closed shutter, Ei=20 meV, run_in_series=61
+2018-09-24 20:59:11 Set Title: closed shutter, Ei=20 meV, run_in_series=62
+2018-09-24 21:00:59 Set Title: closed shutter, Ei=20 meV, run_in_series=63
+2018-09-24 21:02:47 Set Title: closed shutter, Ei=20 meV, run_in_series=64
+2018-09-24 21:04:35 Set Title: closed shutter, Ei=20 meV, run_in_series=65
+2018-09-24 21:06:23 Set Title: closed shutter, Ei=20 meV, run_in_series=66
+2018-09-24 21:08:11 Set Title: closed shutter, Ei=20 meV, run_in_series=67
+2018-09-24 21:09:59 Set Title: closed shutter, Ei=20 meV, run_in_series=68
+2018-09-24 21:11:47 Set Title: closed shutter, Ei=20 meV, run_in_series=69
+2018-09-24 21:13:35 Set Title: closed shutter, Ei=20 meV, run_in_series=70
+2018-09-24 21:15:23 Set Title: closed shutter, Ei=20 meV, run_in_series=71
+2018-09-24 21:17:11 Set Title: closed shutter, Ei=20 meV, run_in_series=72
+2018-09-24 21:18:59 Set Title: closed shutter, Ei=20 meV, run_in_series=73
+2018-09-24 21:20:47 Set Title: closed shutter, Ei=20 meV, run_in_series=74
+2018-09-24 21:22:34 Set Title: closed shutter, Ei=20 meV, run_in_series=75
+2018-09-24 21:24:22 Set Title: closed shutter, Ei=20 meV, run_in_series=76
+2018-09-24 21:26:10 Set Title: closed shutter, Ei=20 meV, run_in_series=77
+2018-09-24 21:27:58 Set Title: closed shutter, Ei=20 meV, run_in_series=78
+2018-09-24 21:29:46 Set Title: closed shutter, Ei=20 meV, run_in_series=79
+2018-09-24 21:31:33 Set Title: closed shutter, Ei=20 meV, run_in_series=80
+2018-09-24 21:33:21 Set Title: closed shutter, Ei=20 meV, run_in_series=81
+2018-09-24 21:35:09 Set Title: closed shutter, Ei=20 meV, run_in_series=82
+2018-09-24 21:36:57 Set Title: closed shutter, Ei=20 meV, run_in_series=83
+2018-09-24 21:38:45 Set Title: closed shutter, Ei=20 meV, run_in_series=84
+2018-09-24 21:40:32 Set Title: closed shutter, Ei=20 meV, run_in_series=85
+2018-09-24 21:42:20 Set Title: closed shutter, Ei=20 meV, run_in_series=86
+2018-09-24 21:44:27 Set Title: closed shutter, Ei=20 meV, run_in_series=87
+2018-09-24 21:46:20 Set Title: closed shutter, Ei=20 meV, run_in_series=88
+2018-09-24 21:48:08 Set Title: closed shutter, Ei=20 meV, run_in_series=89
+2018-09-24 21:49:56 Set Title: closed shutter, Ei=20 meV, run_in_series=90
+2018-09-24 21:51:44 Set Title: closed shutter, Ei=20 meV, run_in_series=91
+2018-09-24 21:53:31 Set Title: closed shutter, Ei=20 meV, run_in_series=92
+2018-09-24 21:55:19 Set Title: closed shutter, Ei=20 meV, run_in_series=93
+2018-09-24 21:57:07 Set Title: closed shutter, Ei=20 meV, run_in_series=94
+2018-09-24 21:58:55 Set Title: closed shutter, Ei=20 meV, run_in_series=95
+2018-09-24 22:00:43 Set Title: closed shutter, Ei=20 meV, run_in_series=96
+2018-09-24 22:02:30 Set Title: closed shutter, Ei=20 meV, run_in_series=97
+2018-09-24 22:04:18 Set Title: closed shutter, Ei=20 meV, run_in_series=98
+2018-09-24 22:06:06 Set Title: closed shutter, Ei=20 meV, run_in_series=99
+2018-09-24 22:07:53 Set Title: closed shutter, Ei=20 meV, run_in_series=100
+2018-09-24 22:09:41 Set Title: closed shutter, Ei=20 meV, run_in_series=101
+2018-09-24 22:11:29 Set Title: closed shutter, Ei=20 meV, run_in_series=102
+2018-09-24 22:13:16 Set Title: closed shutter, Ei=20 meV, run_in_series=103
+2018-09-24 22:15:03 Set Title: closed shutter, Ei=20 meV, run_in_series=104
+2018-09-24 22:16:52 Set Title: closed shutter, Ei=20 meV, run_in_series=105
+2018-09-24 22:19:01 Set Title: closed shutter, Ei=20 meV, run_in_series=106
+2018-09-24 22:20:49 Set Title: closed shutter, Ei=20 meV, run_in_series=107
+2018-09-24 22:22:37 Set Title: closed shutter, Ei=20 meV, run_in_series=108
+2018-09-24 22:24:25 Set Title: closed shutter, Ei=20 meV, run_in_series=109
+2018-09-24 22:26:13 Set Title: closed shutter, Ei=20 meV, run_in_series=110
+2018-09-24 22:28:01 Set Title: closed shutter, Ei=20 meV, run_in_series=111
+2018-09-24 22:29:49 Set Title: closed shutter, Ei=20 meV, run_in_series=112
+2018-09-24 22:31:36 Set Title: closed shutter, Ei=20 meV, run_in_series=113
+2018-09-24 22:33:24 Set Title: closed shutter, Ei=20 meV, run_in_series=114
+2018-09-24 22:35:12 Set Title: closed shutter, Ei=20 meV, run_in_series=115
+2018-09-24 22:37:00 Set Title: closed shutter, Ei=20 meV, run_in_series=116
+2018-09-24 22:39:13 Set Title: closed shutter, Ei=20 meV, run_in_series=117
+2018-09-24 22:41:00 Set Title: closed shutter, Ei=20 meV, run_in_series=118
+2018-09-24 22:42:48 Set Title: closed shutter, Ei=20 meV, run_in_series=119
+2018-09-24 22:44:36 Set Title: closed shutter, Ei=20 meV, run_in_series=120
+2018-09-24 22:46:24 Set Title: closed shutter, Ei=20 meV, run_in_series=121
+2018-09-24 22:48:12 Set Title: closed shutter, Ei=20 meV, run_in_series=122
+2018-09-24 22:49:59 Set Title: closed shutter, Ei=20 meV, run_in_series=123
+2018-09-24 22:51:47 Set Title: closed shutter, Ei=20 meV, run_in_series=124
+2018-09-24 22:53:35 Set Title: closed shutter, Ei=20 meV, run_in_series=125
+2018-09-24 22:55:23 Set Title: closed shutter, Ei=20 meV, run_in_series=126
+2018-09-24 22:57:11 Set Title: closed shutter, Ei=20 meV, run_in_series=127
+2018-09-24 22:58:59 Set Title: closed shutter, Ei=20 meV, run_in_series=128
+2018-09-24 23:00:47 Set Title: closed shutter, Ei=20 meV, run_in_series=129
+2018-09-24 23:02:35 Set Title: closed shutter, Ei=20 meV, run_in_series=130
+2018-09-24 23:04:23 Set Title: closed shutter, Ei=20 meV, run_in_series=131
+2018-09-24 23:06:11 Set Title: closed shutter, Ei=20 meV, run_in_series=132
+2018-09-24 23:07:59 Set Title: closed shutter, Ei=20 meV, run_in_series=133
+2018-09-24 23:09:47 Set Title: closed shutter, Ei=20 meV, run_in_series=134
+2018-09-24 23:11:34 Set Title: closed shutter, Ei=20 meV, run_in_series=135
+2018-09-24 23:13:22 Set Title: closed shutter, Ei=20 meV, run_in_series=136
+2018-09-24 23:15:10 Set Title: closed shutter, Ei=20 meV, run_in_series=137
+2018-09-24 23:16:58 Set Title: closed shutter, Ei=20 meV, run_in_series=138
+2018-09-24 23:18:45 Set Title: closed shutter, Ei=20 meV, run_in_series=139
+2018-09-24 23:20:33 Set Title: closed shutter, Ei=20 meV, run_in_series=140
+2018-09-24 23:22:21 Set Title: closed shutter, Ei=20 meV, run_in_series=141
+2018-09-24 23:24:08 Set Title: closed shutter, Ei=20 meV, run_in_series=142
+2018-09-24 23:25:56 Set Title: closed shutter, Ei=20 meV, run_in_series=143
+2018-09-24 23:27:43 Set Title: closed shutter, Ei=20 meV, run_in_series=144
+2018-09-24 23:29:31 Set Title: closed shutter, Ei=20 meV, run_in_series=145
+2018-09-24 23:31:18 Set Title: closed shutter, Ei=20 meV, run_in_series=146
+2018-09-24 23:33:06 Set Title: closed shutter, Ei=20 meV, run_in_series=147
+2018-09-24 23:34:54 Set Title: closed shutter, Ei=20 meV, run_in_series=148
+2018-09-24 23:36:41 Set Title: closed shutter, Ei=20 meV, run_in_series=149
+2018-09-24 23:38:29 Set Title: closed shutter, Ei=20 meV, run_in_series=150
+2018-09-24 23:40:17 Set Title: closed shutter, Ei=20 meV, run_in_series=151
+2018-09-24 23:42:04 Set Title: closed shutter, Ei=20 meV, run_in_series=152
+2018-09-24 23:43:52 Set Title: closed shutter, Ei=20 meV, run_in_series=153
+2018-09-24 23:45:39 Set Title: closed shutter, Ei=20 meV, run_in_series=154
+2018-09-24 23:47:27 Set Title: closed shutter, Ei=20 meV, run_in_series=155
+2018-09-24 23:49:14 Set Title: closed shutter, Ei=20 meV, run_in_series=156
+2018-09-24 23:51:02 Set Title: closed shutter, Ei=20 meV, run_in_series=157
+2018-09-24 23:52:50 Set Title: closed shutter, Ei=20 meV, run_in_series=158
+2018-09-24 23:54:38 Set Title: closed shutter, Ei=20 meV, run_in_series=159
+2018-09-24 23:56:26 Set Title: closed shutter, Ei=20 meV, run_in_series=160
+2018-09-24 23:58:14 Set Title: closed shutter, Ei=20 meV, run_in_series=161
+2018-09-25 00:00:02 Set Title: closed shutter, Ei=20 meV, run_in_series=162
+2018-09-25 00:01:50 Set Title: closed shutter, Ei=20 meV, run_in_series=163
+2018-09-25 00:03:38 Set Title: closed shutter, Ei=20 meV, run_in_series=164
+2018-09-25 00:05:25 Set Title: closed shutter, Ei=20 meV, run_in_series=165
+2018-09-25 00:07:13 Set Title: closed shutter, Ei=20 meV, run_in_series=166
+2018-09-25 00:09:01 Set Title: closed shutter, Ei=20 meV, run_in_series=167
+2018-09-25 00:10:49 Set Title: closed shutter, Ei=20 meV, run_in_series=168
+2018-09-25 00:12:36 Set Title: closed shutter, Ei=20 meV, run_in_series=169
+2018-09-25 00:14:24 Set Title: closed shutter, Ei=20 meV, run_in_series=170
+2018-09-25 00:16:12 Set Title: closed shutter, Ei=20 meV, run_in_series=171
+2018-09-25 00:18:00 Set Title: closed shutter, Ei=20 meV, run_in_series=172
+2018-09-25 00:20:15 Set Title: closed shutter, Ei=20 meV, run_in_series=173
+2018-09-25 00:22:03 Set Title: closed shutter, Ei=20 meV, run_in_series=174
+2018-09-25 00:23:51 Set Title: closed shutter, Ei=20 meV, run_in_series=175
+2018-09-25 00:25:39 Set Title: closed shutter, Ei=20 meV, run_in_series=176
+2018-09-25 00:27:27 Set Title: closed shutter, Ei=20 meV, run_in_series=177
+2018-09-25 00:29:15 Set Title: closed shutter, Ei=20 meV, run_in_series=178
+2018-09-25 00:31:03 Set Title: closed shutter, Ei=20 meV, run_in_series=179
+2018-09-25 00:32:51 Set Title: closed shutter, Ei=20 meV, run_in_series=180
+2018-09-25 00:34:38 Set Title: closed shutter, Ei=20 meV, run_in_series=181
+2018-09-25 00:36:26 Set Title: closed shutter, Ei=20 meV, run_in_series=182
+2018-09-25 00:38:14 Set Title: closed shutter, Ei=20 meV, run_in_series=183
+2018-09-25 00:40:02 Set Title: closed shutter, Ei=20 meV, run_in_series=184
+2018-09-25 00:41:50 Set Title: closed shutter, Ei=20 meV, run_in_series=185
+2018-09-25 00:43:38 Set Title: closed shutter, Ei=20 meV, run_in_series=186
+2018-09-25 00:45:25 Set Title: closed shutter, Ei=20 meV, run_in_series=187
+2018-09-25 00:47:13 Set Title: closed shutter, Ei=20 meV, run_in_series=188
+2018-09-25 00:49:01 Set Title: closed shutter, Ei=20 meV, run_in_series=189
+2018-09-25 00:50:49 Set Title: closed shutter, Ei=20 meV, run_in_series=190
+2018-09-25 00:52:37 Set Title: closed shutter, Ei=20 meV, run_in_series=191
+2018-09-25 00:54:25 Set Title: closed shutter, Ei=20 meV, run_in_series=192
+2018-09-25 00:56:13 Set Title: closed shutter, Ei=20 meV, run_in_series=193
+2018-09-25 00:58:00 Set Title: closed shutter, Ei=20 meV, run_in_series=194
+2018-09-25 00:59:48 Set Title: closed shutter, Ei=20 meV, run_in_series=195
+2018-09-25 01:01:36 Set Title: closed shutter, Ei=20 meV, run_in_series=196
+2018-09-25 01:03:23 Set Title: closed shutter, Ei=20 meV, run_in_series=197
+2018-09-25 01:05:11 Set Title: closed shutter, Ei=20 meV, run_in_series=198
+2018-09-25 01:06:58 Set Title: closed shutter, Ei=20 meV, run_in_series=199
+2018-09-25 01:08:46 Set Title: closed shutter, Ei=20 meV, run_in_series=200
+2018-09-25 01:11:05 Set Title: closed shutter, Ei=20 meV, run_in_series=201
+2018-09-25 01:12:53 Set Title: closed shutter, Ei=20 meV, run_in_series=202
+2018-09-25 01:14:40 Set Title: closed shutter, Ei=20 meV, run_in_series=203
+2018-09-25 01:16:28 Set Title: closed shutter, Ei=20 meV, run_in_series=204
+2018-09-25 01:18:16 Set Title: closed shutter, Ei=20 meV, run_in_series=205
+2018-09-25 01:20:04 Set Title: closed shutter, Ei=20 meV, run_in_series=206
+2018-09-25 01:21:52 Set Title: closed shutter, Ei=20 meV, run_in_series=207
+2018-09-25 01:23:40 Set Title: closed shutter, Ei=20 meV, run_in_series=208
+2018-09-25 01:25:27 Set Title: closed shutter, Ei=20 meV, run_in_series=209
+2018-09-25 01:27:15 Set Title: closed shutter, Ei=20 meV, run_in_series=210
+2018-09-25 01:29:03 Set Title: closed shutter, Ei=20 meV, run_in_series=211
+2018-09-25 01:30:51 Set Title: closed shutter, Ei=20 meV, run_in_series=212
+2018-09-25 01:32:39 Set Title: closed shutter, Ei=20 meV, run_in_series=213
+2018-09-25 01:34:26 Set Title: closed shutter, Ei=20 meV, run_in_series=214
+2018-09-25 01:36:14 Set Title: closed shutter, Ei=20 meV, run_in_series=215
+2018-09-25 01:38:02 Set Title: closed shutter, Ei=20 meV, run_in_series=216
+2018-09-25 01:39:49 Set Title: closed shutter, Ei=20 meV, run_in_series=217
+2018-09-25 01:41:37 Set Title: closed shutter, Ei=20 meV, run_in_series=218
+2018-09-25 01:43:25 Set Title: closed shutter, Ei=20 meV, run_in_series=219
+2018-09-25 01:45:13 Set Title: closed shutter, Ei=20 meV, run_in_series=220
+2018-09-25 01:47:00 Set Title: closed shutter, Ei=20 meV, run_in_series=221
+2018-09-25 01:48:47 Set Title: closed shutter, Ei=20 meV, run_in_series=222
+2018-09-25 01:50:36 Set Title: closed shutter, Ei=20 meV, run_in_series=223
+2018-09-25 01:52:23 Set Title: closed shutter, Ei=20 meV, run_in_series=224
+2018-09-25 01:54:11 Set Title: closed shutter, Ei=20 meV, run_in_series=225
+2018-09-25 01:56:18 Set Title: closed shutter, Ei=20 meV, run_in_series=226
+2018-09-25 01:58:06 Set Title: closed shutter, Ei=20 meV, run_in_series=227
+2018-09-25 01:59:54 Set Title: closed shutter, Ei=20 meV, run_in_series=228
+2018-09-25 02:01:42 Set Title: closed shutter, Ei=20 meV, run_in_series=229
+2018-09-25 02:03:30 Set Title: closed shutter, Ei=20 meV, run_in_series=230
+2018-09-25 02:05:18 Set Title: closed shutter, Ei=20 meV, run_in_series=231
+2018-09-25 02:07:05 Set Title: closed shutter, Ei=20 meV, run_in_series=232
+2018-09-25 02:08:53 Set Title: closed shutter, Ei=20 meV, run_in_series=233
+2018-09-25 02:10:41 Set Title: closed shutter, Ei=20 meV, run_in_series=234
+2018-09-25 02:12:29 Set Title: closed shutter, Ei=20 meV, run_in_series=235
+2018-09-25 02:14:17 Set Title: closed shutter, Ei=20 meV, run_in_series=236
+2018-09-25 02:16:04 Set Title: closed shutter, Ei=20 meV, run_in_series=237
+2018-09-25 02:17:52 Set Title: closed shutter, Ei=20 meV, run_in_series=238
+2018-09-25 02:19:40 Set Title: closed shutter, Ei=20 meV, run_in_series=239
+2018-09-25 02:21:27 Set Title: closed shutter, Ei=20 meV, run_in_series=240
+2018-09-25 02:23:15 Set Title: closed shutter, Ei=20 meV, run_in_series=241
+2018-09-25 02:25:02 Set Title: closed shutter, Ei=20 meV, run_in_series=242
+2018-09-25 02:26:50 Set Title: closed shutter, Ei=20 meV, run_in_series=243
+2018-09-25 02:28:38 Set Title: closed shutter, Ei=20 meV, run_in_series=244
+2018-09-25 02:30:49 Set Title: closed shutter, Ei=20 meV, run_in_series=245
+2018-09-25 02:32:36 Set Title: closed shutter, Ei=20 meV, run_in_series=246
+2018-09-25 02:34:24 Set Title: closed shutter, Ei=20 meV, run_in_series=247
+2018-09-25 02:36:39 Set Title: closed shutter, Ei=20 meV, run_in_series=248
+2018-09-25 02:38:49 Set Title: closed shutter, Ei=20 meV, run_in_series=249
+2018-09-25 02:40:36 Set Title: closed shutter, Ei=20 meV, run_in_series=250
+2018-09-25 02:42:24 Set Title: closed shutter, Ei=20 meV, run_in_series=251
+2018-09-25 02:44:12 Set Title: closed shutter, Ei=20 meV, run_in_series=252
+2018-09-25 02:45:59 Set Title: closed shutter, Ei=20 meV, run_in_series=253
+2018-09-25 02:47:47 Set Title: closed shutter, Ei=20 meV, run_in_series=254
+2018-09-25 02:49:35 Set Title: closed shutter, Ei=20 meV, run_in_series=255
+2018-09-25 02:51:22 Set Title: closed shutter, Ei=20 meV, run_in_series=256
+2018-09-25 02:53:10 Set Title: closed shutter, Ei=20 meV, run_in_series=257
+2018-09-25 02:54:58 Set Title: closed shutter, Ei=20 meV, run_in_series=258
+2018-09-25 02:56:46 Set Title: closed shutter, Ei=20 meV, run_in_series=259
+2018-09-25 02:58:34 Set Title: closed shutter, Ei=20 meV, run_in_series=260
+2018-09-25 03:00:22 Set Title: closed shutter, Ei=20 meV, run_in_series=261
+2018-09-25 03:02:10 Set Title: closed shutter, Ei=20 meV, run_in_series=262
+2018-09-25 03:03:58 Set Title: closed shutter, Ei=20 meV, run_in_series=263
+2018-09-25 03:05:46 Set Title: closed shutter, Ei=20 meV, run_in_series=264
+2018-09-25 03:07:33 Set Title: closed shutter, Ei=20 meV, run_in_series=265
+2018-09-25 03:09:21 Set Title: closed shutter, Ei=20 meV, run_in_series=266
+2018-09-25 03:11:09 Set Title: closed shutter, Ei=20 meV, run_in_series=267
+2018-09-25 03:12:57 Set Title: closed shutter, Ei=20 meV, run_in_series=268
+2018-09-25 03:14:45 Set Title: closed shutter, Ei=20 meV, run_in_series=269
+2018-09-25 03:16:32 Set Title: closed shutter, Ei=20 meV, run_in_series=270
+2018-09-25 03:18:20 Set Title: closed shutter, Ei=20 meV, run_in_series=271
+2018-09-25 03:20:08 Set Title: closed shutter, Ei=20 meV, run_in_series=272
+2018-09-25 03:21:56 Set Title: closed shutter, Ei=20 meV, run_in_series=273
+2018-09-25 03:23:44 Set Title: closed shutter, Ei=20 meV, run_in_series=274
+2018-09-25 03:25:32 Set Title: closed shutter, Ei=20 meV, run_in_series=275
+2018-09-25 03:27:20 Set Title: closed shutter, Ei=20 meV, run_in_series=276
+2018-09-25 03:29:07 Set Title: closed shutter, Ei=20 meV, run_in_series=277
+2018-09-25 03:30:55 Set Title: closed shutter, Ei=20 meV, run_in_series=278
+2018-09-25 03:32:43 Set Title: closed shutter, Ei=20 meV, run_in_series=279
+2018-09-25 03:34:31 Set Title: closed shutter, Ei=20 meV, run_in_series=280
+2018-09-25 03:36:19 Set Title: closed shutter, Ei=20 meV, run_in_series=281
+2018-09-25 03:38:06 Set Title: closed shutter, Ei=20 meV, run_in_series=282
+2018-09-25 03:39:54 Set Title: closed shutter, Ei=20 meV, run_in_series=283
+2018-09-25 03:41:41 Set Title: closed shutter, Ei=20 meV, run_in_series=284
+2018-09-25 03:43:29 Set Title: closed shutter, Ei=20 meV, run_in_series=285
+2018-09-25 03:45:17 Set Title: closed shutter, Ei=20 meV, run_in_series=286
+2018-09-25 03:47:05 Set Title: closed shutter, Ei=20 meV, run_in_series=287
+2018-09-25 03:48:52 Set Title: closed shutter, Ei=20 meV, run_in_series=288
+2018-09-25 03:50:40 Set Title: closed shutter, Ei=20 meV, run_in_series=289
+2018-09-25 03:52:28 Set Title: closed shutter, Ei=20 meV, run_in_series=290
+2018-09-25 03:54:36 Set Title: closed shutter, Ei=20 meV, run_in_series=291
+2018-09-25 03:56:23 Set Title: closed shutter, Ei=20 meV, run_in_series=292
+2018-09-25 03:58:11 Set Title: closed shutter, Ei=20 meV, run_in_series=293
+2018-09-25 03:59:59 Set Title: closed shutter, Ei=20 meV, run_in_series=294
+2018-09-25 04:01:46 Set Title: closed shutter, Ei=20 meV, run_in_series=295
+2018-09-25 04:03:34 Set Title: closed shutter, Ei=20 meV, run_in_series=296
+2018-09-25 04:05:22 Set Title: closed shutter, Ei=20 meV, run_in_series=297
+2018-09-25 04:07:10 Set Title: closed shutter, Ei=20 meV, run_in_series=298
+2018-09-25 04:08:57 Set Title: closed shutter, Ei=20 meV, run_in_series=299
+2018-09-25 04:10:45 Set Title: closed shutter, Ei=20 meV, run_in_series=300
+2018-09-25 04:12:33 Set Title: closed shutter, Ei=20 meV, run_in_series=301
+2018-09-25 04:14:21 Set Title: closed shutter, Ei=20 meV, run_in_series=302
+2018-09-25 04:16:09 Set Title: closed shutter, Ei=20 meV, run_in_series=303
+2018-09-25 04:17:57 Set Title: closed shutter, Ei=20 meV, run_in_series=304
+2018-09-25 04:19:45 Set Title: closed shutter, Ei=20 meV, run_in_series=305
+2018-09-25 04:21:33 Set Title: closed shutter, Ei=20 meV, run_in_series=306
+2018-09-25 04:23:21 Set Title: closed shutter, Ei=20 meV, run_in_series=307
+2018-09-25 04:25:10 Set Title: closed shutter, Ei=20 meV, run_in_series=308
+2018-09-25 04:26:58 Set Title: closed shutter, Ei=20 meV, run_in_series=309
+2018-09-25 04:28:46 Set Title: closed shutter, Ei=20 meV, run_in_series=310
+2018-09-25 04:30:34 Set Title: closed shutter, Ei=20 meV, run_in_series=311
+2018-09-25 04:32:49 Set Title: closed shutter, Ei=20 meV, run_in_series=312
+2018-09-25 04:34:37 Set Title: closed shutter, Ei=20 meV, run_in_series=313
+2018-09-25 04:36:25 Set Title: closed shutter, Ei=20 meV, run_in_series=314
+2018-09-25 04:38:13 Set Title: closed shutter, Ei=20 meV, run_in_series=315
+2018-09-25 04:40:01 Set Title: closed shutter, Ei=20 meV, run_in_series=316
+2018-09-25 04:41:49 Set Title: closed shutter, Ei=20 meV, run_in_series=317
+2018-09-25 04:43:37 Set Title: closed shutter, Ei=20 meV, run_in_series=318
+2018-09-25 04:45:25 Set Title: closed shutter, Ei=20 meV, run_in_series=319
+2018-09-25 04:47:13 Set Title: closed shutter, Ei=20 meV, run_in_series=320
+2018-09-25 04:49:01 Set Title: closed shutter, Ei=20 meV, run_in_series=321
+2018-09-25 04:50:49 Set Title: closed shutter, Ei=20 meV, run_in_series=322
+2018-09-25 04:52:38 Set Title: closed shutter, Ei=20 meV, run_in_series=323
+2018-09-25 04:54:26 Set Title: closed shutter, Ei=20 meV, run_in_series=324
+2018-09-25 04:56:14 Set Title: closed shutter, Ei=20 meV, run_in_series=325
+2018-09-25 04:58:02 Set Title: closed shutter, Ei=20 meV, run_in_series=326
+2018-09-25 04:59:51 Set Title: closed shutter, Ei=20 meV, run_in_series=327
+2018-09-25 05:01:39 Set Title: closed shutter, Ei=20 meV, run_in_series=328
+2018-09-25 05:03:28 Set Title: closed shutter, Ei=20 meV, run_in_series=329
+2018-09-25 05:05:16 Set Title: closed shutter, Ei=20 meV, run_in_series=330
+2018-09-25 05:07:04 Set Title: closed shutter, Ei=20 meV, run_in_series=331
+2018-09-25 05:08:52 Set Title: closed shutter, Ei=20 meV, run_in_series=332
+2018-09-25 05:10:41 Set Title: closed shutter, Ei=20 meV, run_in_series=333
+2018-09-25 05:12:29 Set Title: closed shutter, Ei=20 meV, run_in_series=334
+2018-09-25 05:14:17 Set Title: closed shutter, Ei=20 meV, run_in_series=335
+2018-09-25 05:16:06 Set Title: closed shutter, Ei=20 meV, run_in_series=336
+2018-09-25 05:17:54 Set Title: closed shutter, Ei=20 meV, run_in_series=337
+2018-09-25 05:19:42 Set Title: closed shutter, Ei=20 meV, run_in_series=338
+2018-09-25 05:21:31 Set Title: closed shutter, Ei=20 meV, run_in_series=339
+2018-09-25 05:23:19 Set Title: closed shutter, Ei=20 meV, run_in_series=340
+2018-09-25 05:25:08 Set Title: closed shutter, Ei=20 meV, run_in_series=341
+2018-09-25 05:26:56 Set Title: closed shutter, Ei=20 meV, run_in_series=342
+2018-09-25 05:28:44 Set Title: closed shutter, Ei=20 meV, run_in_series=343
+2018-09-25 05:30:32 Set Title: closed shutter, Ei=20 meV, run_in_series=344
+2018-09-25 05:32:20 Set Title: closed shutter, Ei=20 meV, run_in_series=345
+2018-09-25 05:34:08 Set Title: closed shutter, Ei=20 meV, run_in_series=346
+2018-09-25 05:35:56 Set Title: closed shutter, Ei=20 meV, run_in_series=347
+2018-09-25 05:37:44 Set Title: closed shutter, Ei=20 meV, run_in_series=348
+2018-09-25 05:39:32 Set Title: closed shutter, Ei=20 meV, run_in_series=349
+2018-09-25 05:41:20 Set Title: closed shutter, Ei=20 meV, run_in_series=350
+2018-09-25 05:43:08 Set Title: closed shutter, Ei=20 meV, run_in_series=351
+2018-09-25 05:44:56 Set Title: closed shutter, Ei=20 meV, run_in_series=352
+2018-09-25 05:46:44 Set Title: closed shutter, Ei=20 meV, run_in_series=353
+2018-09-25 05:48:32 Set Title: closed shutter, Ei=20 meV, run_in_series=354
+2018-09-25 05:50:21 Set Title: closed shutter, Ei=20 meV, run_in_series=355
+2018-09-25 05:52:08 Set Title: closed shutter, Ei=20 meV, run_in_series=356
+2018-09-25 05:53:57 Set Title: closed shutter, Ei=20 meV, run_in_series=357
+2018-09-25 05:55:46 Set Title: closed shutter, Ei=20 meV, run_in_series=358
+2018-09-25 05:57:34 Set Title: closed shutter, Ei=20 meV, run_in_series=359
+2018-09-25 05:59:22 Set Title: closed shutter, Ei=20 meV, run_in_series=360
+2018-09-25 14:48:46 Set Incident Energy to 12.0 meV
+2018-09-25 14:48:46 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-110 degs
+2018-09-25 21:06:13 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-108 degs
+2018-09-25 21:19:27 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-106 degs
+2018-09-25 21:29:16 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-104 degs
+2018-09-25 21:37:36 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-102 degs
+2018-09-25 21:48:56 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-100 degs
+2018-09-25 21:57:15 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-98 degs
+2018-09-25 22:05:08 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-96 degs
+2018-09-25 22:13:03 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-94 degs
+2018-09-25 22:20:57 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-92 degs
+2018-09-25 22:29:12 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-90 degs
+2018-09-25 22:36:56 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-88 degs
+2018-09-25 22:45:02 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-86 degs
+2018-09-25 22:52:45 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-84 degs
+2018-09-25 23:00:28 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-82 degs
+2018-09-25 23:08:11 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-80 degs
+2018-09-25 23:15:54 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-78 degs
+2018-09-25 23:23:36 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-76 degs
+2018-09-25 23:31:17 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-74 degs
+2018-09-25 23:38:50 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-72 degs
+2018-09-25 23:46:22 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-70 degs
+2018-09-25 23:53:55 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-68 degs
+2018-09-26 00:01:27 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-66 degs
+2018-09-26 00:08:59 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-64 degs
+2018-09-26 00:16:31 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-62 degs
+2018-09-26 00:24:03 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-60 degs
+2018-09-26 00:32:07 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-58 degs
+2018-09-26 00:39:52 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-56 degs
+2018-09-26 00:47:40 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-54 degs
+2018-09-26 00:55:01 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-52 degs
+2018-09-26 01:02:22 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-50 degs
+2018-09-26 01:10:06 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-48 degs
+2018-09-26 01:17:27 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-46 degs
+2018-09-26 01:24:49 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-44 degs
+2018-09-26 01:32:10 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-42 degs
+2018-09-26 01:39:52 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-40 degs
+2018-09-26 01:47:13 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-38 degs
+2018-09-26 01:54:34 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-36 degs
+2018-09-26 02:01:55 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-34 degs
+2018-09-26 02:09:16 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-32 degs
+2018-09-26 02:16:58 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-30 degs
+2018-09-26 02:24:19 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-28 degs
+2018-09-26 02:31:40 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-26 degs
+2018-09-26 02:39:01 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-24 degs
+2018-09-26 02:46:22 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-22 degs
+2018-09-26 02:53:43 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-20 degs
+2018-09-26 03:01:04 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-18 degs
+2018-09-26 03:08:25 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-16 degs
+2018-09-26 03:17:27 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-14 degs
+2018-09-26 03:24:48 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-12 degs
+2018-09-26 03:32:10 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-10 degs
+2018-09-26 03:39:32 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-8 degs
+2018-09-26 03:46:54 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-6 degs
+2018-09-26 03:54:15 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-4 degs
+2018-09-26 04:01:37 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=-2 degs
+2018-09-26 04:08:59 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=0 degs
+2018-09-26 04:16:20 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=2 degs
+2018-09-26 04:23:42 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=4 degs
+2018-09-26 04:31:04 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=6 degs
+2018-09-26 04:38:25 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=8 degs
+2018-09-26 04:45:47 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=10 degs
+2018-09-26 04:53:08 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=12 degs
+2018-09-26 05:00:30 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=14 degs
+2018-09-26 05:07:51 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=16 degs
+2018-09-26 05:15:13 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=18 degs
+2018-09-26 05:22:35 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=20 degs
+2018-09-26 05:29:58 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=22 degs
+2018-09-26 05:37:21 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=24 degs
+2018-09-26 05:44:43 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=26 degs
+2018-09-26 05:52:29 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=28 degs
+2018-09-26 05:59:51 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=30 degs
+2018-09-26 06:07:16 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=32 degs
+2018-09-26 06:14:38 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=34 degs
+2018-09-26 06:22:01 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=36 degs
+2018-09-26 06:29:24 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=38 degs
+2018-09-26 06:36:46 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=40 degs
+2018-09-26 06:44:09 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=42 degs
+2018-09-26 06:51:31 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=44 degs
+2018-09-26 06:58:53 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=46 degs
+2018-09-26 07:06:15 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=48 degs
+2018-09-26 07:13:38 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=50 degs
+2018-09-26 07:21:00 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=52 degs
+2018-09-26 07:28:22 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=54 degs
+2018-09-26 07:35:44 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=56 degs
+2018-09-26 07:43:06 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=58 degs
+2018-09-26 07:50:49 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=60 degs
+2018-09-26 07:58:11 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=62 degs
+2018-09-26 08:05:34 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=64 degs
+2018-09-26 08:12:56 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=66 degs
+2018-09-26 08:20:18 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=68 degs
+2018-09-26 08:27:40 Set Title: Yb2Si2O7, T~10 K, Ei=12.0 meV, w=70 degs
+2018-09-26 08:39:15 Scanning samplez, run 290609
+2018-09-26 08:45:05 Move Sample Z to 159.4 mm
+2018-09-26 08:49:00 Setting U vec: h=1 k=0 l=0
+2018-09-26 08:49:05 Setting V vec: h=0 k=1 l=0
+2018-09-26 08:51:02 Relative Scan huber, run 290609
+2018-09-26 08:51:43 Scanning huber, run 290610
+2018-09-26 09:00:51 Move huber to 62.9719937757 Degree
+2018-09-26 09:00:51 New X/Y Signal ROI at 2Theta=[25.8873962062,30.8873962062] Phi=[176.447411834,186.447411834]
+2018-09-26 09:00:51 Driving to: (1,1,0) at Omega=62.9719937757
+2018-09-26 09:01:31 Set Title: Sitting on 110
+2018-09-26 09:02:17 Relative Scan huber, run 290613
+2018-09-26 09:14:02 Relative Scan huber, run 290615
+2018-09-26 09:28:32 Relative Scan huber, run 290621
+2018-09-26 09:35:57 Move huber to 62.2412979695 Degree
+2018-09-26 09:35:57 New X/Y Signal ROI at 2Theta=[25.8957073923,30.8957073923] Phi=[191.652271517,201.652271517]
+2018-09-26 09:35:57 Driving to: (1,-1,0) at Omega=62.2412979695
+2018-09-26 09:37:45 Move huber to -11.6942588855 Degree
+2018-09-26 09:37:45 New X/Y Signal ROI at 2Theta=[25.8941307379,30.8941307379] Phi=[-19.3029700962,-9.30297009617]
+2018-09-26 09:37:45 Driving to: (1,1,0) at Omega=-11.6942588855
+2018-09-26 09:39:49 Scanning huber, run 290623
+2018-09-26 09:49:53 Move huber to -76.2948112217 Degree
+2018-09-26 09:49:53 New X/Y Signal ROI at 2Theta=[87.4928385174,92.4928385174] Phi=[-17.8210831848,-7.82108318482]
+2018-09-26 09:49:53 Driving to: (2,-4,0) at Omega=-76.2948112217
+2018-09-26 09:51:22 New X/Y Signal ROI at 2Theta=[88,92] Phi=[-15,-10]
+2018-09-26 09:51:32 New X/Y Signal ROI at 2Theta=[88,92] Phi=[-13,-10]
+2018-09-26 09:51:36 New X/Y Signal ROI at 2Theta=[88,92] Phi=[-14,-10]
+2018-09-26 09:51:41 New X/Y Signal ROI at 2Theta=[88,92] Phi=[-14,-8]
+2018-09-26 09:52:15 Relative Scan huber, run 290625
+2018-09-26 09:59:03 Move huber to 59.6252105512 Degree
+2018-09-26 09:59:03 New X/Y Signal ROI at 2Theta=[96.605070092,101.605070092] Phi=[-9.16963821543,0.830361784573]
+2018-09-26 09:59:03 Driving to: (1,5,0) at Omega=59.6252105512
+2018-09-26 10:02:33 Scanning samplez, run 290627
+2018-09-26 10:44:47 Set Incident Energy to 1.55 meV
+2018-09-26 10:44:47 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-110 degs
+2018-09-26 10:54:57 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-109 degs
+2018-09-26 11:02:15 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-108 degs
+2018-09-26 11:09:34 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-107 degs
+2018-09-26 11:16:54 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-106 degs
+2018-09-26 11:24:13 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-105 degs
+2018-09-26 11:31:32 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-104 degs
+2018-09-26 11:38:50 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-103 degs
+2018-09-26 11:46:08 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-102 degs
+2018-09-26 11:53:27 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-101 degs
+2018-09-26 12:00:46 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-100 degs
+2018-09-26 12:08:04 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-99 degs
+2018-09-26 12:15:22 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-98 degs
+2018-09-26 12:23:08 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-97 degs
+2018-09-26 12:30:26 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-96 degs
+2018-09-26 12:37:46 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-95 degs
+2018-09-26 12:45:05 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-94 degs
+2018-09-26 12:52:24 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-93 degs
+2018-09-26 12:59:43 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-92 degs
+2018-09-26 13:07:03 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-91 degs
+2018-09-26 13:14:22 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-90 degs
+2018-09-26 13:22:50 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-89 degs
+2018-09-26 13:30:53 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-88 degs
+2018-09-26 13:38:40 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-87 degs
+2018-09-26 13:46:03 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-86 degs
+2018-09-26 13:53:22 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-85 degs
+2018-09-26 14:00:45 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-84 degs
+2018-09-26 14:08:06 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-83 degs
+2018-09-26 14:15:27 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-82 degs
+2018-09-26 14:22:50 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-81 degs
+2018-09-26 14:30:11 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-80 degs
+2018-09-26 14:37:32 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-79 degs
+2018-09-26 14:44:51 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-78 degs
+2018-09-26 14:52:12 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-77 degs
+2018-09-26 14:59:31 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-76 degs
+2018-09-26 15:06:52 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-75 degs
+2018-09-26 15:14:12 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-74 degs
+2018-09-26 15:21:32 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-73 degs
+2018-09-26 15:28:52 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-72 degs
+2018-09-26 15:36:11 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-71 degs
+2018-09-26 15:43:55 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-70 degs
+2018-09-26 15:51:15 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-69 degs
+2018-09-26 15:58:33 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-68 degs
+2018-09-26 16:08:23 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-67 degs
+2018-09-26 16:15:42 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-66 degs
+2018-09-26 16:23:01 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-65 degs
+2018-09-26 16:30:21 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-64 degs
+2018-09-26 16:37:40 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-63 degs
+2018-09-26 16:44:59 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-62 degs
+2018-09-26 16:52:19 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-61 degs
+2018-09-26 16:59:38 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-60 degs
+2018-09-26 17:06:57 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-59 degs
+2018-09-26 17:14:18 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-58 degs
+2018-09-26 17:21:37 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-57 degs
+2018-09-26 17:28:56 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-56 degs
+2018-09-26 17:36:16 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-55 degs
+2018-09-26 17:43:35 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-54 degs
+2018-09-26 17:50:54 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-53 degs
+2018-09-26 17:58:14 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-52 degs
+2018-09-26 18:05:34 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-51 degs
+2018-09-26 18:12:53 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-50 degs
+2018-09-26 18:20:12 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-49 degs
+2018-09-26 18:27:31 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-48 degs
+2018-09-26 18:35:12 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-47 degs
+2018-09-26 18:42:31 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-46 degs
+2018-09-26 18:49:51 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-45 degs
+2018-09-26 18:57:10 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-44 degs
+2018-09-26 19:04:29 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-43 degs
+2018-09-26 19:11:47 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-42 degs
+2018-09-26 19:19:06 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-41 degs
+2018-09-26 19:26:25 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-40 degs
+2018-09-26 19:33:44 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-39 degs
+2018-09-26 19:41:03 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-38 degs
+2018-09-26 19:48:23 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-37 degs
+2018-09-26 19:56:25 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-36 degs
+2018-09-26 20:04:08 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-35 degs
+2018-09-26 20:11:47 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-34 degs
+2018-09-26 20:41:38 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-33 degs
+2018-09-26 20:51:24 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-32 degs
+2018-09-26 20:59:43 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-31 degs
+2018-09-26 21:07:03 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-30 degs
+2018-09-26 21:14:44 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-29 degs
+2018-09-26 21:22:05 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-28 degs
+2018-09-26 21:29:25 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-27 degs
+2018-09-26 21:36:44 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-26 degs
+2018-09-26 21:44:04 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-25 degs
+2018-09-26 21:51:23 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-24 degs
+2018-09-26 21:58:42 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-23 degs
+2018-09-26 22:06:01 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-22 degs
+2018-09-26 22:13:21 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-21 degs
+2018-09-26 22:20:40 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-20 degs
+2018-09-26 22:27:59 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-19 degs
+2018-09-26 22:35:18 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-18 degs
+2018-09-26 22:42:38 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-17 degs
+2018-09-26 22:49:57 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-16 degs
+2018-09-26 22:57:37 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-15 degs
+2018-09-26 23:04:57 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-14 degs
+2018-09-26 23:12:16 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-13 degs
+2018-09-26 23:19:36 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-12 degs
+2018-09-26 23:26:55 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-11 degs
+2018-09-26 23:34:15 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-10 degs
+2018-09-26 23:41:34 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-9 degs
+2018-09-26 23:48:54 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-8 degs
+2018-09-26 23:56:12 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-7 degs
+2018-09-27 00:03:31 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-6 degs
+2018-09-27 00:10:51 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-5 degs
+2018-09-27 00:18:09 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-4 degs
+2018-09-27 00:25:28 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-3 degs
+2018-09-27 00:32:47 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-2 degs
+2018-09-27 00:40:06 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=-1 degs
+2018-09-27 00:47:50 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=0 degs
+2018-09-27 00:55:09 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=1 degs
+2018-09-27 01:02:28 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=2 degs
+2018-09-27 01:10:09 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=3 degs
+2018-09-27 01:17:29 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=4 degs
+2018-09-27 01:25:12 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=5 degs
+2018-09-27 01:32:31 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=6 degs
+2018-09-27 01:39:49 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=7 degs
+2018-09-27 01:47:08 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=8 degs
+2018-09-27 01:54:27 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=9 degs
+2018-09-27 02:01:46 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=10 degs
+2018-09-27 02:09:06 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=11 degs
+2018-09-27 02:16:25 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=12 degs
+2018-09-27 02:23:44 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=13 degs
+2018-09-27 02:31:03 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=14 degs
+2018-09-27 02:38:21 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=15 degs
+2018-09-27 02:45:40 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=16 degs
+2018-09-27 02:52:58 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=17 degs
+2018-09-27 03:00:17 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=18 degs
+2018-09-27 03:07:36 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=19 degs
+2018-09-27 03:14:55 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=20 degs
+2018-09-27 03:22:14 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=21 degs
+2018-09-27 03:29:32 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=22 degs
+2018-09-27 03:36:51 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=23 degs
+2018-09-27 03:44:11 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=24 degs
+2018-09-27 03:51:29 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=25 degs
+2018-09-27 03:58:48 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=26 degs
+2018-09-27 04:06:07 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=27 degs
+2018-09-27 04:13:26 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=28 degs
+2018-09-27 04:20:46 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=29 degs
+2018-09-27 04:28:05 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=30 degs
+2018-09-27 04:35:25 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=31 degs
+2018-09-27 04:42:45 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=32 degs
+2018-09-27 04:50:29 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=33 degs
+2018-09-27 04:57:48 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=34 degs
+2018-09-27 05:05:08 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=35 degs
+2018-09-27 05:12:27 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=36 degs
+2018-09-27 05:19:46 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=37 degs
+2018-09-27 05:27:06 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=38 degs
+2018-09-27 05:34:26 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=39 degs
+2018-09-27 05:41:46 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=40 degs
+2018-09-27 05:49:06 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=41 degs
+2018-09-27 05:56:25 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=42 degs
+2018-09-27 06:03:45 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=43 degs
+2018-09-27 06:11:04 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=44 degs
+2018-09-27 06:18:25 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=45 degs
+2018-09-27 06:25:44 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=46 degs
+2018-09-27 06:33:03 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=47 degs
+2018-09-27 06:40:23 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=48 degs
+2018-09-27 06:48:04 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=49 degs
+2018-09-27 06:55:24 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=50 degs
+2018-09-27 07:02:44 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=51 degs
+2018-09-27 07:10:05 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=52 degs
+2018-09-27 07:17:24 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=53 degs
+2018-09-27 07:24:45 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=54 degs
+2018-09-27 07:32:04 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=55 degs
+2018-09-27 07:41:50 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=56 degs
+2018-09-27 07:49:09 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=57 degs
+2018-09-27 07:56:50 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=58 degs
+2018-09-27 08:04:31 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=59 degs
+2018-09-27 08:11:49 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=60 degs
+2018-09-27 08:19:09 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=61 degs
+2018-09-27 08:26:51 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=62 degs
+2018-09-27 08:34:10 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=63 degs
+2018-09-27 08:41:29 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=64 degs
+2018-09-27 08:48:49 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=65 degs
+2018-09-27 08:56:09 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=66 degs
+2018-09-27 09:03:27 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=67 degs
+2018-09-27 09:10:46 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=68 degs
+2018-09-27 09:18:04 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=69 degs
+2018-09-27 09:25:24 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=70 degs
+2018-09-27 09:32:42 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=71 degs
+2018-09-27 09:40:01 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=72 degs
+2018-09-27 09:47:20 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=73 degs
+2018-09-27 09:54:39 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=74 degs
+2018-09-27 10:02:19 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=75 degs
+2018-09-27 10:10:06 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=76 degs
+2018-09-27 10:18:12 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=77 degs
+2018-09-27 10:25:31 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=78 degs
+2018-09-27 10:32:50 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=79 degs
+2018-09-27 10:40:09 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=80 degs
+2018-09-27 10:47:28 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=81 degs
+2018-09-27 10:54:47 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=82 degs
+2018-09-27 11:02:05 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=83 degs
+2018-09-27 11:09:24 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=84 degs
+2018-09-27 11:16:44 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=85 degs
+2018-09-27 11:24:03 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=86 degs
+2018-09-27 11:31:22 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=87 degs
+2018-09-27 11:39:08 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=88 degs
+2018-09-27 11:46:27 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=89 degs
+2018-09-27 11:53:48 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=90 degs
+2018-09-27 12:01:06 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=91 degs
+2018-09-27 12:08:26 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=92 degs
+2018-09-27 12:15:45 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=93 degs
+2018-09-27 12:23:04 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=94 degs
+2018-09-27 12:30:23 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=95 degs
+2018-09-27 12:37:42 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=96 degs
+2018-09-27 12:45:00 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=97 degs
+2018-09-27 12:52:19 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=98 degs
+2018-09-27 13:00:07 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=99 degs
+2018-09-27 13:07:26 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=100 degs
+2018-09-27 13:15:07 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=101 degs
+2018-09-27 13:22:25 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=102 degs
+2018-09-27 13:30:07 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=103 degs
+2018-09-27 13:37:25 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=104 degs
+2018-09-27 13:44:45 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=105 degs
+2018-09-27 13:52:44 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=106 degs
+2018-09-27 14:00:03 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=107 degs
+2018-09-27 14:07:22 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=108 degs
+2018-09-27 14:14:40 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=109 degs
+2018-09-27 14:21:59 Set Title: Yb2Si2O7, T=86 mK, Ei=1.55 meV, w=110 degs
+2018-09-27 14:45:31 Set Incident Energy to 25.0 meV
+2018-09-27 14:45:31 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-110 degs
+2018-09-27 14:51:32 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-109 degs
+2018-09-27 14:57:38 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-108 degs
+2018-09-27 15:03:44 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-107 degs
+2018-09-27 15:11:46 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-106 degs
+2018-09-27 15:17:52 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-105 degs
+2018-09-27 15:24:42 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-104 degs
+2018-09-27 15:30:48 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-103 degs
+2018-09-27 15:36:54 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-102 degs
+2018-09-27 15:43:01 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-101 degs
+2018-09-27 15:49:07 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-100 degs
+2018-09-27 15:55:13 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-99 degs
+2018-09-27 16:02:01 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-98 degs
+2018-09-27 16:08:53 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-97 degs
+2018-09-27 16:16:00 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-96 degs
+2018-09-27 16:22:26 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-95 degs
+2018-09-27 16:33:10 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-94 degs
+2018-09-27 16:41:09 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-93 degs
+2018-09-27 16:47:15 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-92 degs
+2018-09-27 16:53:42 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-91 degs
+2018-09-27 16:59:46 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-90 degs
+2018-09-27 17:06:13 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-89 degs
+2018-09-27 17:14:34 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-88 degs
+2018-09-27 17:21:02 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-87 degs
+2018-09-27 17:29:08 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-86 degs
+2018-09-27 17:36:31 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-85 degs
+2018-09-27 17:42:37 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-84 degs
+2018-09-27 17:49:25 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-83 degs
+2018-09-27 17:55:32 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-82 degs
+2018-09-27 18:01:38 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-81 degs
+2018-09-27 18:07:44 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-80 degs
+2018-09-27 18:13:51 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-79 degs
+2018-09-27 18:19:57 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-78 degs
+2018-09-27 18:26:04 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-77 degs
+2018-09-27 18:32:11 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-76 degs
+2018-09-27 18:38:18 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-75 degs
+2018-09-27 18:44:23 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-74 degs
+2018-09-27 18:50:30 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-73 degs
+2018-09-27 18:56:36 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-72 degs
+2018-09-27 19:03:05 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-71 degs
+2018-09-27 19:09:11 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-70 degs
+2018-09-27 19:15:18 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-69 degs
+2018-09-27 19:21:25 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-68 degs
+2018-09-27 19:27:32 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-67 degs
+2018-09-27 19:33:38 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-66 degs
+2018-09-27 19:39:45 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-65 degs
+2018-09-27 19:45:51 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-64 degs
+2018-09-27 19:51:57 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-63 degs
+2018-09-27 19:58:03 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-62 degs
+2018-09-27 20:04:10 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-61 degs
+2018-09-27 20:15:17 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-60 degs
+2018-09-27 20:21:24 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-59 degs
+2018-09-27 20:27:31 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-58 degs
+2018-09-27 20:33:37 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-57 degs
+2018-09-27 20:39:44 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-56 degs
+2018-09-27 20:45:50 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-55 degs
+2018-09-27 20:51:56 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-54 degs
+2018-09-27 21:01:10 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-53 degs
+2018-09-27 21:10:47 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-52 degs
+2018-09-27 21:20:27 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-51 degs
+2018-09-27 21:28:40 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-50 degs
+2018-09-27 21:38:09 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-49 degs
+2018-09-27 21:47:11 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-48 degs
+2018-09-27 21:58:00 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-47 degs
+2018-09-27 22:04:54 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-46 degs
+2018-09-27 22:11:02 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-45 degs
+2018-09-27 22:17:08 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-44 degs
+2018-09-27 22:23:16 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-43 degs
+2018-09-27 22:29:23 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-42 degs
+2018-09-27 22:35:52 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-41 degs
+2018-09-27 22:41:59 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-40 degs
+2018-09-27 22:48:06 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-39 degs
+2018-09-27 22:54:15 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-38 degs
+2018-09-27 23:00:23 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-37 degs
+2018-09-27 23:06:32 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-36 degs
+2018-09-27 23:13:05 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-35 degs
+2018-09-27 23:19:36 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-34 degs
+2018-09-27 23:25:45 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-33 degs
+2018-09-27 23:31:52 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-32 degs
+2018-09-27 23:38:42 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-31 degs
+2018-09-27 23:44:51 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-30 degs
+2018-09-27 23:51:00 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-29 degs
+2018-09-27 23:57:08 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-28 degs
+2018-09-28 00:03:17 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-27 degs
+2018-09-28 00:09:26 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-26 degs
+2018-09-28 00:15:34 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-25 degs
+2018-09-28 00:21:42 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-24 degs
+2018-09-28 00:27:51 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-23 degs
+2018-09-28 00:33:59 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-22 degs
+2018-09-28 00:40:29 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-21 degs
+2018-09-28 00:46:38 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-20 degs
+2018-09-28 00:52:46 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-19 degs
+2018-09-28 00:58:55 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-18 degs
+2018-09-28 01:05:03 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-17 degs
+2018-09-28 01:11:11 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-16 degs
+2018-09-28 01:17:20 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-15 degs
+2018-09-28 01:23:28 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-14 degs
+2018-09-28 01:29:36 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-13 degs
+2018-09-28 01:35:45 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-12 degs
+2018-09-28 01:42:19 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-11 degs
+2018-09-28 01:48:26 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-10 degs
+2018-09-28 01:54:34 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-9 degs
+2018-09-28 02:00:43 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-8 degs
+2018-09-28 02:06:51 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-7 degs
+2018-09-28 02:12:59 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-6 degs
+2018-09-28 02:19:07 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-5 degs
+2018-09-28 02:25:15 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-4 degs
+2018-09-28 02:31:24 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-3 degs
+2018-09-28 02:37:32 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-2 degs
+2018-09-28 02:43:40 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=-1 degs
+2018-09-28 02:49:48 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=0 degs
+2018-09-28 02:56:17 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=1 degs
+2018-09-28 03:03:04 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=2 degs
+2018-09-28 03:09:13 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=3 degs
+2018-09-28 03:15:21 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=4 degs
+2018-09-28 03:21:28 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=5 degs
+2018-09-28 03:27:36 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=6 degs
+2018-09-28 03:34:47 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=7 degs
+2018-09-28 03:40:55 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=8 degs
+2018-09-28 03:47:03 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=9 degs
+2018-09-28 03:53:34 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=10 degs
+2018-09-28 03:59:42 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=11 degs
+2018-09-28 04:05:51 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=12 degs
+2018-09-28 04:11:59 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=13 degs
+2018-09-28 04:18:07 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=14 degs
+2018-09-28 04:24:16 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=15 degs
+2018-09-28 04:30:46 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=16 degs
+2018-09-28 04:36:54 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=17 degs
+2018-09-28 04:43:02 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=18 degs
+2018-09-28 04:49:10 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=19 degs
+2018-09-28 04:55:19 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=20 degs
+2018-09-28 05:01:27 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=21 degs
+2018-09-28 05:07:35 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=22 degs
+2018-09-28 05:13:44 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=23 degs
+2018-09-28 05:19:52 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=24 degs
+2018-09-28 05:26:45 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=25 degs
+2018-09-28 05:32:54 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=26 degs
+2018-09-28 05:39:02 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=27 degs
+2018-09-28 05:45:10 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=28 degs
+2018-09-28 05:51:19 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=29 degs
+2018-09-28 05:57:27 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=30 degs
+2018-09-28 06:03:36 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=31 degs
+2018-09-28 06:09:44 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=32 degs
+2018-09-28 06:16:35 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=33 degs
+2018-09-28 06:23:06 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=34 degs
+2018-09-28 06:29:14 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=35 degs
+2018-09-28 06:35:23 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=36 degs
+2018-09-28 06:41:30 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=37 degs
+2018-09-28 06:48:02 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=38 degs
+2018-09-28 06:54:10 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=39 degs
+2018-09-28 07:00:20 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=40 degs
+2018-09-28 07:06:28 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=41 degs
+2018-09-28 07:12:35 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=42 degs
+2018-09-28 07:19:11 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=43 degs
+2018-09-28 07:25:21 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=44 degs
+2018-09-28 07:31:29 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=45 degs
+2018-09-28 07:37:38 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=46 degs
+2018-09-28 07:43:46 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=47 degs
+2018-09-28 07:49:54 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=48 degs
+2018-09-28 07:56:03 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=49 degs
+2018-09-28 08:02:12 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=50 degs
+2018-09-28 08:08:21 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=51 degs
+2018-09-28 08:14:30 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=52 degs
+2018-09-28 08:20:40 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=53 degs
+2018-09-28 08:26:49 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=54 degs
+2018-09-28 08:32:59 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=55 degs
+2018-09-28 08:39:08 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=56 degs
+2018-09-28 08:45:17 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=57 degs
+2018-09-28 08:51:26 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=58 degs
+2018-09-28 08:57:36 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=59 degs
+2018-09-28 09:03:45 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=60 degs
+2018-09-28 09:09:55 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=61 degs
+2018-09-28 09:16:03 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=62 degs
+2018-09-28 09:22:13 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=63 degs
+2018-09-28 09:28:21 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=64 degs
+2018-09-28 09:34:28 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=65 degs
+2018-09-28 09:40:36 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=66 degs
+2018-09-28 09:46:43 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=67 degs
+2018-09-28 09:52:52 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=68 degs
+2018-09-28 09:58:58 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=69 degs
+2018-09-28 10:05:04 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=70 degs
+2018-09-28 10:11:12 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=71 degs
+2018-09-28 10:17:20 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=72 degs
+2018-09-28 10:23:26 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=73 degs
+2018-09-28 10:29:32 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=74 degs
+2018-09-28 10:35:40 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=75 degs
+2018-09-28 13:24:12 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=76 degs
+2018-09-28 13:30:20 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=77 degs
+2018-09-28 13:36:49 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=78 degs
+2018-09-28 13:42:58 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=79 degs
+2018-09-28 13:49:06 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=80 degs
+2018-09-28 13:55:15 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=81 degs
+2018-09-28 14:01:22 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=82 degs
+2018-09-28 14:07:30 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=83 degs
+2018-09-28 14:13:39 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=84 degs
+2018-09-28 14:19:45 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=85 degs
+2018-09-28 14:25:54 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=86 degs
+2018-09-28 14:32:02 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=87 degs
+2018-09-28 14:38:10 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=88 degs
+2018-09-28 14:44:16 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=89 degs
+2018-09-28 14:50:23 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=90 degs
+2018-09-28 14:56:30 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=91 degs
+2018-09-28 15:02:37 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=92 degs
+2018-09-28 15:08:45 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=93 degs
+2018-09-28 15:15:14 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=94 degs
+2018-09-28 15:21:22 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=95 degs
+2018-09-28 15:27:28 Set Title: Yb2Si2O7, T=86 mK, Ei=25.0 meV, w=96 degs
+2018-09-28 15:50:57 Set Title: File for Thermalization
+2018-09-28 18:18:57 Set Incident Energy to 1.55 meV
+2018-09-28 18:18:57 Set Title: Yb2Si2O7, T=800 mK, Ei=1.55 meV, w=-110 degs
+2018-09-28 18:26:10 Set Title: Yb2Si2O7, T=800 mK, Ei=1.55 meV, w=-109 degs
+2018-09-28 18:33:29 Set Title: Yb2Si2O7, T=800 mK, Ei=1.55 meV, w=-108 degs
+2018-09-28 18:40:47 Set Title: Yb2Si2O7, T=800 mK, Ei=1.55 meV, w=-107 degs
+2018-09-28 18:49:48 Set Title: Yb2Si2O7, T=800 mK, Ei=1.55 meV, w=-106 degs
+2018-09-28 18:57:24 Set Title: Yb2Si2O7, T=800 mK, Ei=1.55 meV, w=-105 degs
+2018-09-28 19:04:42 Set Title: Yb2Si2O7, T=800 mK, Ei=1.55 meV, w=-104 degs
+2018-09-28 19:12:00 Set Title: Yb2Si2O7, T=800 mK, Ei=1.55 meV, w=-103 degs
+2018-09-28 19:19:17 Set Title: Yb2Si2O7, T=800 mK, Ei=1.55 meV, w=-102 degs
+2018-09-28 19:28:15 Set Incident Energy to 1.55 meV
+2018-09-28 19:28:15 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-110 degs
+2018-09-28 19:34:52 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-109 degs
+2018-09-28 20:06:52 Set Incident Energy to 1.55 meV
+2018-09-28 20:06:52 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-110 degs
+2018-09-28 20:13:29 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-109 degs
+2018-09-28 20:20:12 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-108 degs
+2018-09-28 20:26:55 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-107 degs
+2018-09-28 20:33:37 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-106 degs
+2018-09-28 20:40:19 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-105 degs
+2018-09-28 20:47:01 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-104 degs
+2018-09-28 20:54:04 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-103 degs
+2018-09-28 21:01:05 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-102 degs
+2018-09-28 21:07:46 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-101 degs
+2018-09-28 21:14:29 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-100 degs
+2018-09-28 21:21:10 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-99 degs
+2018-09-28 21:27:51 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-98 degs
+2018-09-28 21:34:32 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-97 degs
+2018-09-28 21:41:14 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-96 degs
+2018-09-28 21:47:55 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-95 degs
+2018-09-28 21:54:37 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-94 degs
+2018-09-28 22:01:18 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-93 degs
+2018-09-28 22:07:59 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-92 degs
+2018-09-28 22:14:41 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-91 degs
+2018-09-28 22:21:23 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-90 degs
+2018-09-28 22:28:04 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-89 degs
+2018-09-28 22:34:45 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-88 degs
+2018-09-28 22:41:47 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-87 degs
+2018-09-28 22:48:29 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-86 degs
+2018-09-28 22:55:11 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-85 degs
+2018-09-28 23:01:54 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-84 degs
+2018-09-28 23:08:36 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-83 degs
+2018-09-28 23:15:18 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-82 degs
+2018-09-28 23:22:00 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-81 degs
+2018-09-28 23:28:42 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-80 degs
+2018-09-28 23:35:24 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-79 degs
+2018-09-28 23:42:06 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-78 degs
+2018-09-28 23:48:48 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-77 degs
+2018-09-28 23:56:03 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-76 degs
+2018-09-29 00:03:15 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-75 degs
+2018-09-29 00:09:56 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-74 degs
+2018-09-29 00:16:37 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-73 degs
+2018-09-29 00:23:19 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-72 degs
+2018-09-29 00:30:02 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-71 degs
+2018-09-29 00:36:43 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-70 degs
+2018-09-29 00:43:25 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-69 degs
+2018-09-29 00:50:06 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-68 degs
+2018-09-29 00:56:48 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-67 degs
+2018-09-29 01:04:39 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-66 degs
+2018-09-29 01:12:26 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-65 degs
+2018-09-29 01:19:08 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-64 degs
+2018-09-29 01:25:50 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-63 degs
+2018-09-29 01:37:05 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-62 degs
+2018-09-29 01:43:47 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-61 degs
+2018-09-29 01:50:29 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-60 degs
+2018-09-29 01:57:10 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-59 degs
+2018-09-29 02:03:52 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-58 degs
+2018-09-29 02:10:33 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-57 degs
+2018-09-29 02:17:15 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-56 degs
+2018-09-29 02:23:57 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-55 degs
+2018-09-29 02:30:38 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-54 degs
+2018-09-29 02:37:20 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-53 degs
+2018-09-29 02:44:02 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-52 degs
+2018-09-29 02:50:44 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-51 degs
+2018-09-29 02:57:27 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-50 degs
+2018-09-29 03:04:31 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-49 degs
+2018-09-29 03:11:12 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-48 degs
+2018-09-29 03:17:54 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-47 degs
+2018-09-29 03:24:36 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-46 degs
+2018-09-29 03:31:17 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-45 degs
+2018-09-29 03:37:59 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-44 degs
+2018-09-29 03:44:40 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-43 degs
+2018-09-29 03:51:21 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-42 degs
+2018-09-29 03:58:03 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-41 degs
+2018-09-29 04:04:45 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-40 degs
+2018-09-29 04:11:27 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-39 degs
+2018-09-29 04:18:10 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-38 degs
+2018-09-29 04:24:54 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-37 degs
+2018-09-29 04:31:37 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-36 degs
+2018-09-29 04:38:20 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-35 degs
+2018-09-29 04:45:03 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-34 degs
+2018-09-29 04:51:45 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-33 degs
+2018-09-29 04:58:28 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-32 degs
+2018-09-29 05:08:58 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-31 degs
+2018-09-29 05:15:40 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-30 degs
+2018-09-29 05:22:23 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-29 degs
+2018-09-29 05:29:27 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-28 degs
+2018-09-29 05:36:10 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-27 degs
+2018-09-29 05:42:54 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-26 degs
+2018-09-29 05:49:36 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-25 degs
+2018-09-29 05:56:18 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-24 degs
+2018-09-29 06:03:00 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-23 degs
+2018-09-29 06:09:42 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-22 degs
+2018-09-29 06:16:25 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-21 degs
+2018-09-29 06:23:07 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-20 degs
+2018-09-29 06:29:50 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-19 degs
+2018-09-29 06:36:31 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-18 degs
+2018-09-29 06:43:14 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-17 degs
+2018-09-29 06:49:57 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-16 degs
+2018-09-29 06:56:39 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-15 degs
+2018-09-29 07:03:22 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-14 degs
+2018-09-29 07:10:04 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-13 degs
+2018-09-29 07:16:48 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-12 degs
+2018-09-29 07:23:30 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-11 degs
+2018-09-29 07:30:13 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-10 degs
+2018-09-29 07:36:55 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-9 degs
+2018-09-29 07:43:38 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-8 degs
+2018-09-29 07:50:21 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-7 degs
+2018-09-29 07:57:04 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-6 degs
+2018-09-29 08:03:46 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-5 degs
+2018-09-29 08:10:29 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-4 degs
+2018-09-29 08:17:12 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-3 degs
+2018-09-29 08:23:55 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-2 degs
+2018-09-29 08:30:38 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=-1 degs
+2018-09-29 08:37:21 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=0 degs
+2018-09-29 08:44:04 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=1 degs
+2018-09-29 08:50:47 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=2 degs
+2018-09-29 08:57:30 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=3 degs
+2018-09-29 09:04:13 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=4 degs
+2018-09-29 09:10:57 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=5 degs
+2018-09-29 09:17:40 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=6 degs
+2018-09-29 09:24:22 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=7 degs
+2018-09-29 09:31:06 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=8 degs
+2018-09-29 09:37:48 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=9 degs
+2018-09-29 09:44:31 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=10 degs
+2018-09-29 09:51:14 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=11 degs
+2018-09-29 09:57:57 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=12 degs
+2018-09-29 10:04:40 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=13 degs
+2018-09-29 10:11:24 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=14 degs
+2018-09-29 10:18:31 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=15 degs
+2018-09-29 10:25:14 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=16 degs
+2018-09-29 10:31:58 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=17 degs
+2018-09-29 10:38:41 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=18 degs
+2018-09-29 10:45:47 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=19 degs
+2018-09-29 10:52:31 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=20 degs
+2018-09-29 10:59:38 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=21 degs
+2018-09-29 11:06:44 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=22 degs
+2018-09-29 11:13:27 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=23 degs
+2018-09-29 11:20:11 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=24 degs
+2018-09-29 11:26:54 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=25 degs
+2018-09-29 11:33:37 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=26 degs
+2018-09-29 11:40:20 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=27 degs
+2018-09-29 11:47:04 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=28 degs
+2018-09-29 11:53:48 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=29 degs
+2018-09-29 12:00:31 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=30 degs
+2018-09-29 12:07:14 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=31 degs
+2018-09-29 12:13:57 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=32 degs
+2018-09-29 12:20:41 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=33 degs
+2018-09-29 12:27:25 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=34 degs
+2018-09-29 12:34:09 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=35 degs
+2018-09-29 12:40:53 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=36 degs
+2018-09-29 12:48:00 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=37 degs
+2018-09-29 12:54:44 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=38 degs
+2018-09-29 13:01:27 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=39 degs
+2018-09-29 13:08:11 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=40 degs
+2018-09-29 13:14:55 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=41 degs
+2018-09-29 13:21:38 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=42 degs
+2018-09-29 13:28:20 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=43 degs
+2018-09-29 13:35:25 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=44 degs
+2018-09-29 13:42:08 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=45 degs
+2018-09-29 13:48:50 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=46 degs
+2018-09-29 13:55:34 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=47 degs
+2018-09-29 14:02:18 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=48 degs
+2018-09-29 14:09:01 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=49 degs
+2018-09-29 14:15:45 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=50 degs
+2018-09-29 14:22:28 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=51 degs
+2018-09-29 14:29:12 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=52 degs
+2018-09-29 14:36:17 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=53 degs
+2018-09-29 14:43:23 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=54 degs
+2018-09-29 14:50:52 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=55 degs
+2018-09-29 14:57:34 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=56 degs
+2018-09-29 15:04:17 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=57 degs
+2018-09-29 15:10:59 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=58 degs
+2018-09-29 15:17:42 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=59 degs
+2018-09-29 15:24:27 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=60 degs
+2018-09-29 15:31:11 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=61 degs
+2018-09-29 15:37:55 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=62 degs
+2018-09-29 15:44:37 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=63 degs
+2018-09-29 15:51:21 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=64 degs
+2018-09-29 15:58:28 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=65 degs
+2018-09-29 16:05:11 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=66 degs
+2018-09-29 16:11:54 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=67 degs
+2018-09-29 16:18:38 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=68 degs
+2018-09-29 16:25:22 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=69 degs
+2018-09-29 16:32:05 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=70 degs
+2018-09-29 16:38:48 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=71 degs
+2018-09-29 16:45:32 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=72 degs
+2018-09-29 16:52:15 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=73 degs
+2018-09-29 16:58:58 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=74 degs
+2018-09-29 17:05:43 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=75 degs
+2018-09-29 17:12:27 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=76 degs
+2018-09-29 17:19:10 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=77 degs
+2018-09-29 17:25:53 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=78 degs
+2018-09-29 17:32:36 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=79 degs
+2018-09-29 17:39:20 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=80 degs
+2018-09-29 17:46:04 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=81 degs
+2018-09-29 17:52:47 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=82 degs
+2018-09-29 17:59:30 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=83 degs
+2018-09-29 18:06:13 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=84 degs
+2018-09-29 18:12:57 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=85 degs
+2018-09-29 18:19:40 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=86 degs
+2018-09-29 18:26:23 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=87 degs
+2018-09-29 18:33:06 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=88 degs
+2018-09-29 18:39:49 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=89 degs
+2018-09-29 18:46:32 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=90 degs
+2018-09-29 18:53:16 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=91 degs
+2018-09-29 18:59:58 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=92 degs
+2018-09-29 19:07:33 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=93 degs
+2018-09-29 19:14:16 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=94 degs
+2018-09-29 19:21:00 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=95 degs
+2018-09-29 19:27:43 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=96 degs
+2018-09-29 19:34:26 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=97 degs
+2018-09-29 19:41:09 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=98 degs
+2018-09-29 19:47:52 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=99 degs
+2018-09-29 19:54:35 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=100 degs
+2018-09-29 20:01:18 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=101 degs
+2018-09-29 20:08:01 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=102 degs
+2018-09-29 20:15:08 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=103 degs
+2018-09-29 20:21:52 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=104 degs
+2018-09-29 20:28:36 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=105 degs
+2018-09-29 20:35:20 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=106 degs
+2018-09-29 20:42:24 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=107 degs
+2018-09-29 20:49:08 Set Title: Yb2Si2O7, T=800mK, Ei=1.55 meV, w=108 degs
+2018-09-29 23:35:42 Set Title: WaitingforThermalization
+2018-09-30 06:27:25 Set Incident Energy to 1.55 meV
+2018-09-30 06:27:25 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-110 degs
+2018-09-30 06:34:39 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-109 degs
+2018-09-30 06:41:57 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-108 degs
+2018-09-30 06:49:17 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-107 degs
+2018-09-30 06:57:01 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-106 degs
+2018-09-30 07:04:19 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-105 degs
+2018-09-30 07:11:39 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-104 degs
+2018-09-30 07:18:58 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-103 degs
+2018-09-30 07:26:17 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-102 degs
+2018-09-30 07:33:36 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-101 degs
+2018-09-30 07:40:56 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-100 degs
+2018-09-30 07:48:16 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-99 degs
+2018-09-30 07:55:35 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-98 degs
+2018-09-30 08:02:54 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-97 degs
+2018-09-30 08:10:38 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-96 degs
+2018-09-30 08:17:57 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-95 degs
+2018-09-30 08:25:47 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-94 degs
+2018-09-30 08:33:07 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-93 degs
+2018-09-30 08:40:26 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-92 degs
+2018-09-30 08:47:45 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-91 degs
+2018-09-30 08:55:05 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-90 degs
+2018-09-30 09:02:26 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-89 degs
+2018-09-30 09:09:45 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-88 degs
+2018-09-30 09:17:04 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-87 degs
+2018-09-30 09:24:23 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-86 degs
+2018-09-30 09:31:43 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-85 degs
+2018-09-30 09:39:02 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-84 degs
+2018-09-30 09:46:22 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-83 degs
+2018-09-30 09:53:42 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-82 degs
+2018-09-30 10:01:01 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-81 degs
+2018-09-30 10:08:20 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-80 degs
+2018-09-30 10:15:40 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-79 degs
+2018-09-30 10:22:59 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-78 degs
+2018-09-30 10:30:44 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-77 degs
+2018-09-30 10:38:03 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-76 degs
+2018-09-30 10:45:22 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-75 degs
+2018-09-30 10:52:42 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-74 degs
+2018-09-30 11:00:02 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-73 degs
+2018-09-30 11:07:22 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-72 degs
+2018-09-30 11:14:42 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-71 degs
+2018-09-30 11:22:02 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-70 degs
+2018-09-30 11:29:22 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-69 degs
+2018-09-30 11:39:31 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-68 degs
+2018-09-30 11:46:50 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-67 degs
+2018-09-30 11:54:10 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-66 degs
+2018-09-30 13:31:59 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-65 degs
+2018-09-30 13:41:06 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-64 degs
+2018-09-30 13:48:32 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-63 degs
+2018-09-30 13:55:52 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-62 degs
+2018-09-30 14:03:11 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-61 degs
+2018-09-30 14:10:30 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-60 degs
+2018-09-30 14:17:48 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-59 degs
+2018-09-30 14:25:07 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-58 degs
+2018-09-30 14:32:26 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-57 degs
+2018-09-30 14:39:45 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-56 degs
+2018-09-30 14:47:05 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-55 degs
+2018-09-30 14:54:24 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-54 degs
+2018-09-30 15:01:43 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-53 degs
+2018-09-30 15:12:42 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-52 degs
+2018-09-30 15:20:02 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-51 degs
+2018-09-30 15:27:21 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-50 degs
+2018-09-30 15:34:40 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-49 degs
+2018-09-30 15:42:27 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-48 degs
+2018-09-30 15:49:46 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-47 degs
+2018-09-30 15:57:05 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-46 degs
+2018-09-30 16:04:24 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-45 degs
+2018-09-30 16:11:43 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-44 degs
+2018-09-30 16:19:01 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-43 degs
+2018-09-30 16:26:20 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-42 degs
+2018-09-30 16:33:38 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-41 degs
+2018-09-30 16:40:57 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-40 degs
+2018-09-30 16:48:16 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-39 degs
+2018-09-30 16:55:36 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-38 degs
+2018-09-30 17:02:56 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-37 degs
+2018-09-30 17:10:16 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-36 degs
+2018-09-30 17:17:36 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-35 degs
+2018-09-30 17:24:56 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-34 degs
+2018-09-30 17:32:15 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-33 degs
+2018-09-30 17:39:35 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-32 degs
+2018-09-30 17:46:54 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-31 degs
+2018-09-30 17:54:14 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-30 degs
+2018-09-30 18:01:33 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-29 degs
+2018-09-30 18:08:53 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-28 degs
+2018-09-30 18:16:13 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-27 degs
+2018-09-30 18:23:32 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-26 degs
+2018-09-30 18:30:52 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-25 degs
+2018-09-30 18:38:12 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-24 degs
+2018-09-30 18:45:32 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-23 degs
+2018-09-30 18:53:31 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-22 degs
+2018-09-30 19:00:50 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-21 degs
+2018-09-30 19:08:10 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-20 degs
+2018-09-30 19:15:30 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-19 degs
+2018-09-30 19:22:49 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-18 degs
+2018-09-30 19:30:09 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-17 degs
+2018-09-30 19:37:29 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-16 degs
+2018-09-30 19:44:48 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-15 degs
+2018-09-30 19:52:08 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-14 degs
+2018-09-30 19:59:29 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-13 degs
+2018-09-30 20:06:48 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-12 degs
+2018-09-30 20:14:09 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-11 degs
+2018-09-30 20:21:28 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-10 degs
+2018-09-30 20:28:48 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-9 degs
+2018-09-30 20:36:09 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-8 degs
+2018-09-30 20:43:29 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-7 degs
+2018-09-30 20:50:50 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-6 degs
+2018-09-30 20:58:11 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-5 degs
+2018-09-30 21:05:31 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-4 degs
+2018-09-30 21:12:51 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-3 degs
+2018-09-30 21:20:11 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-2 degs
+2018-09-30 21:27:31 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=-1 degs
+2018-09-30 21:34:50 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=0 degs
+2018-09-30 21:42:10 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=1 degs
+2018-09-30 21:49:30 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=2 degs
+2018-09-30 21:56:50 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=3 degs
+2018-09-30 22:04:10 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=4 degs
+2018-09-30 22:11:30 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=5 degs
+2018-09-30 22:18:51 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=6 degs
+2018-09-30 22:26:10 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=7 degs
+2018-09-30 22:33:55 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=8 degs
+2018-09-30 22:41:16 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=9 degs
+2018-09-30 22:48:36 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=10 degs
+2018-09-30 22:55:55 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=11 degs
+2018-09-30 23:03:15 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=12 degs
+2018-09-30 23:10:35 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=13 degs
+2018-09-30 23:17:55 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=14 degs
+2018-09-30 23:25:15 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=15 degs
+2018-09-30 23:32:35 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=16 degs
+2018-09-30 23:39:55 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=17 degs
+2018-09-30 23:47:15 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=18 degs
+2018-09-30 23:54:36 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=19 degs
+2018-10-01 00:01:56 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=20 degs
+2018-10-01 00:09:15 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=21 degs
+2018-10-01 00:16:35 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=22 degs
+2018-10-01 00:23:55 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=23 degs
+2018-10-01 00:31:16 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=24 degs
+2018-10-01 00:38:35 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=25 degs
+2018-10-01 00:45:56 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=26 degs
+2018-10-01 00:53:15 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=27 degs
+2018-10-01 01:00:36 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=28 degs
+2018-10-01 01:07:55 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=29 degs
+2018-10-01 01:15:15 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=30 degs
+2018-10-01 01:22:35 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=31 degs
+2018-10-01 01:29:56 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=32 degs
+2018-10-01 01:37:16 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=33 degs
+2018-10-01 01:44:36 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=34 degs
+2018-10-01 01:51:55 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=35 degs
+2018-10-01 02:00:37 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=36 degs
+2018-10-01 02:08:17 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=37 degs
+2018-10-01 02:16:19 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=38 degs
+2018-10-01 02:24:12 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=39 degs
+2018-10-01 02:31:56 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=40 degs
+2018-10-01 02:39:43 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=41 degs
+2018-10-01 02:47:02 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=42 degs
+2018-10-01 02:54:55 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=43 degs
+2018-10-01 03:03:17 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=44 degs
+2018-10-01 03:10:36 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=45 degs
+2018-10-01 03:18:42 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=46 degs
+2018-10-01 03:26:24 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=47 degs
+2018-10-01 03:33:44 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=48 degs
+2018-10-01 03:41:05 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=49 degs
+2018-10-01 03:48:25 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=50 degs
+2018-10-01 03:55:45 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=51 degs
+2018-10-01 04:03:06 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=52 degs
+2018-10-01 04:10:26 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=53 degs
+2018-10-01 04:19:52 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=54 degs
+2018-10-01 04:30:21 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=55 degs
+2018-10-01 04:38:38 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=56 degs
+2018-10-01 04:45:57 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=57 degs
+2018-10-01 04:53:18 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=58 degs
+2018-10-01 05:00:39 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=59 degs
+2018-10-01 05:08:52 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=60 degs
+2018-10-01 05:16:13 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=61 degs
+2018-10-01 05:23:33 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=62 degs
+2018-10-01 05:30:53 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=63 degs
+2018-10-01 05:38:13 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=64 degs
+2018-10-01 05:45:32 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=65 degs
+2018-10-01 05:52:51 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=66 degs
+2018-10-01 06:00:11 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=67 degs
+2018-10-01 06:07:31 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=68 degs
+2018-10-01 06:14:51 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=69 degs
+2018-10-01 06:22:11 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=70 degs
+2018-10-01 06:29:29 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=71 degs
+2018-10-01 06:36:50 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=72 degs
+2018-10-01 06:44:08 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=73 degs
+2018-10-01 06:51:28 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=74 degs
+2018-10-01 06:58:48 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=75 degs
+2018-10-01 07:06:07 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=76 degs
+2018-10-01 07:13:26 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=77 degs
+2018-10-01 07:20:46 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=78 degs
+2018-10-01 07:28:06 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=79 degs
+2018-10-01 07:35:25 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=80 degs
+2018-10-01 07:43:13 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=81 degs
+2018-10-01 07:50:32 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=82 degs
+2018-10-01 07:57:51 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=83 degs
+2018-10-01 08:05:11 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=84 degs
+2018-10-01 08:12:30 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=85 degs
+2018-10-01 08:19:50 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=86 degs
+2018-10-01 08:27:10 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=87 degs
+2018-10-01 08:34:30 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=88 degs
+2018-10-01 08:41:50 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=89 degs
+2018-10-01 08:49:10 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=90 degs
+2018-10-01 08:56:30 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=91 degs
+2018-10-01 09:03:50 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=92 degs
+2018-10-01 09:11:10 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=93 degs
+2018-10-01 09:18:30 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=94 degs
+2018-10-01 09:25:51 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=95 degs
+2018-10-01 09:33:11 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=96 degs
+2018-10-01 09:40:31 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=97 degs
+2018-10-01 09:47:51 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=98 degs
+2018-10-01 09:55:11 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=99 degs
+2018-10-01 10:02:31 Set Title: Yb2Si2O7, T=8K, Ei=1.55 meV, w=100 degs

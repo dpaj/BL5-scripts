@@ -1,0 +1,142 @@
+2018-07-05 09:32:39 Line Log cleared
+2018-07-05 09:32:39 Starting IPTS-21441 on 2018-07-05
+2018-07-05 09:52:47 New X/Y Signal ROI at 2Theta=[30,38] Phi=[-5,5]
+2018-07-05 09:53:46 New X/Y Signal ROI at 2Theta=[30,38] Phi=[-5,7]
+2018-07-05 09:53:50 New X/Y Signal ROI at 2Theta=[30,38] Phi=[-5,8]
+2018-07-05 09:54:17 Setting: a=5.326 b=5.602 c=7.635 alpha=90 beta=90 gamma=90
+2018-07-05 09:54:27 Setting U vec: h=0 k=0 l=1
+2018-07-05 09:54:33 Setting V vec: h=0 k=1 l=0
+2018-07-05 09:57:30 Relative Scan axis2, run 277974
+2018-07-05 10:05:08 Drive Axis2 to 103.020623524 Degree
+2018-07-05 10:05:08 New X/Y Signal ROI at 2Theta=[37.4873982739,42.4873982739] Phi=[-4.95344656638,5.04655343362]
+2018-07-05 10:05:08 Driving to: (0,0,2) at Omega=103.020623524
+2018-07-05 10:06:37 Relative Scan axis2, run 277976
+2018-07-05 10:13:56 Drive Axis2 to 20.5693100722 Degree
+2018-07-05 10:13:56 New X/Y Signal ROI at 2Theta=[53.0550911711,58.0550911711] Phi=[-5.32648989867,4.67351010133]
+2018-07-05 10:13:56 Driving to: (0,2,0) at Omega=20.5693100722
+2018-07-05 10:16:05 Relative Scan axis2, run 277978
+2018-07-05 10:23:37 Scanning samplez, run 277980
+2018-07-05 11:38:25 Set Incident Energy to 50.0 meV
+2018-07-05 11:38:25 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=0.0
+2018-07-05 11:39:28 Drive Axis2 to 0.0 Degree
+2018-07-05 11:44:19 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=2.0
+2018-07-05 11:44:29 Drive Axis2 to 2.0 Degree
+2018-07-05 11:49:20 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=4.0
+2018-07-05 11:49:30 Drive Axis2 to 4.0 Degree
+2018-07-05 11:54:21 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=6.0
+2018-07-05 11:54:32 Drive Axis2 to 6.0 Degree
+2018-07-05 11:59:44 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=8.0
+2018-07-05 11:59:54 Drive Axis2 to 8.0 Degree
+2018-07-05 12:04:46 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=10.0
+2018-07-05 12:04:56 Drive Axis2 to 10.0 Degree
+2018-07-05 12:09:47 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=12.0
+2018-07-05 12:09:57 Drive Axis2 to 12.0 Degree
+2018-07-05 12:14:48 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=14.0
+2018-07-05 12:14:58 Drive Axis2 to 14.0 Degree
+2018-07-05 12:19:50 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=16.0
+2018-07-05 12:20:00 Drive Axis2 to 16.0 Degree
+2018-07-05 12:24:51 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=18.0
+2018-07-05 12:25:02 Drive Axis2 to 18.0 Degree
+2018-07-05 12:29:53 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=20.0
+2018-07-05 12:30:03 Drive Axis2 to 20.0 Degree
+2018-07-05 12:34:55 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=22.0
+2018-07-05 12:35:05 Drive Axis2 to 22.0 Degree
+2018-07-05 12:39:56 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=24.0
+2018-07-05 12:40:07 Drive Axis2 to 24.0 Degree
+2018-07-05 12:44:57 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=26.0
+2018-07-05 12:45:08 Drive Axis2 to 26.0 Degree
+2018-07-05 12:49:59 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=28.0
+2018-07-05 12:50:09 Drive Axis2 to 28.0 Degree
+2018-07-05 12:55:00 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=30.0
+2018-07-05 12:55:10 Drive Axis2 to 30.0 Degree
+2018-07-05 13:00:01 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=32.0
+2018-07-05 13:00:11 Drive Axis2 to 32.0 Degree
+2018-07-05 13:05:02 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=34.0
+2018-07-05 13:05:12 Drive Axis2 to 34.0 Degree
+2018-07-05 13:10:03 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=36.0
+2018-07-05 13:10:13 Drive Axis2 to 36.0 Degree
+2018-07-05 13:15:27 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=38.0
+2018-07-05 13:15:37 Drive Axis2 to 38.0 Degree
+2018-07-05 13:20:28 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=40.0
+2018-07-05 13:20:38 Drive Axis2 to 40.0 Degree
+2018-07-05 13:25:29 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=42.0
+2018-07-05 13:25:39 Drive Axis2 to 42.0 Degree
+2018-07-05 13:30:30 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=44.0
+2018-07-05 13:30:40 Drive Axis2 to 44.0 Degree
+2018-07-05 13:35:30 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=46.0
+2018-07-05 13:35:40 Drive Axis2 to 46.0 Degree
+2018-07-05 13:40:32 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=48.0
+2018-07-05 13:40:42 Drive Axis2 to 48.0 Degree
+2018-07-05 13:45:33 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=50.0
+2018-07-05 13:45:43 Drive Axis2 to 50.0 Degree
+2018-07-05 13:50:34 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=52.0
+2018-07-05 13:50:44 Drive Axis2 to 52.0 Degree
+2018-07-05 13:55:36 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=54.0
+2018-07-05 13:55:46 Drive Axis2 to 54.0 Degree
+2018-07-05 14:00:36 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=56.0
+2018-07-05 14:00:47 Drive Axis2 to 56.0 Degree
+2018-07-05 14:05:38 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=58.0
+2018-07-05 14:05:48 Drive Axis2 to 58.0 Degree
+2018-07-05 14:10:38 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=60.0
+2018-07-05 14:10:48 Drive Axis2 to 60.0 Degree
+2018-07-05 14:15:39 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=62.0
+2018-07-05 14:15:49 Drive Axis2 to 62.0 Degree
+2018-07-05 14:21:00 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=64.0
+2018-07-05 14:21:11 Drive Axis2 to 64.0 Degree
+2018-07-05 14:26:01 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=66.0
+2018-07-05 14:26:12 Drive Axis2 to 66.0 Degree
+2018-07-05 14:31:02 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=68.0
+2018-07-05 14:31:12 Drive Axis2 to 68.0 Degree
+2018-07-05 14:36:03 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=70.0
+2018-07-05 14:36:14 Drive Axis2 to 70.0 Degree
+2018-07-05 14:41:04 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=72.0
+2018-07-05 14:41:14 Drive Axis2 to 72.0 Degree
+2018-07-05 14:46:06 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=74.0
+2018-07-05 14:46:16 Drive Axis2 to 74.0 Degree
+2018-07-05 14:51:07 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=76.0
+2018-07-05 14:51:17 Drive Axis2 to 76.0 Degree
+2018-07-05 14:56:08 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=78.0
+2018-07-05 14:56:18 Drive Axis2 to 78.0 Degree
+2018-07-05 15:01:09 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=80.0
+2018-07-05 15:01:19 Drive Axis2 to 80.0 Degree
+2018-07-05 15:06:09 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=82.0
+2018-07-05 15:06:19 Drive Axis2 to 82.0 Degree
+2018-07-05 15:11:10 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=84.0
+2018-07-05 15:11:20 Drive Axis2 to 84.0 Degree
+2018-07-05 15:16:37 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=86.0
+2018-07-05 15:16:47 Drive Axis2 to 86.0 Degree
+2018-07-05 15:21:38 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=88.0
+2018-07-05 15:21:49 Drive Axis2 to 88.0 Degree
+2018-07-05 15:26:39 Set Title: TbFeO3 T=1.5 K En=50.0 meV angle=90.0
+2018-07-05 15:26:50 Drive Axis2 to 90.0 Degree
+2018-07-05 15:32:19 Set Incident Energy to 12.0 meV
+2018-07-05 15:32:19 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=0.0
+2018-07-05 15:35:40 Drive Axis2 to 0.0 Degree
+2018-07-05 15:40:30 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=2.0
+2018-07-05 15:40:40 Drive Axis2 to 2.0 Degree
+2018-07-05 15:45:31 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=4.0
+2018-07-05 15:45:42 Drive Axis2 to 4.0 Degree
+2018-07-05 15:50:33 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=6.0
+2018-07-05 15:50:43 Drive Axis2 to 6.0 Degree
+2018-07-05 15:55:34 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=8.0
+2018-07-05 15:55:44 Drive Axis2 to 8.0 Degree
+2018-07-05 16:00:35 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=10.0
+2018-07-05 16:00:46 Drive Axis2 to 10.0 Degree
+2018-07-05 16:05:37 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=12.0
+2018-07-05 16:05:47 Drive Axis2 to 12.0 Degree
+2018-07-05 16:10:37 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=14.0
+2018-07-05 16:10:47 Drive Axis2 to 14.0 Degree
+2018-07-05 16:15:38 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=16.0
+2018-07-05 16:15:49 Drive Axis2 to 16.0 Degree
+2018-07-05 16:20:40 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=18.0
+2018-07-05 16:20:50 Drive Axis2 to 18.0 Degree
+2018-07-05 16:25:41 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=20.0
+2018-07-05 16:25:51 Drive Axis2 to 20.0 Degree
+2018-07-05 16:30:42 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=22.0
+2018-07-05 16:30:52 Drive Axis2 to 22.0 Degree
+2018-07-05 16:35:42 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=24.0
+2018-07-05 16:35:53 Drive Axis2 to 24.0 Degree
+2018-07-05 16:40:43 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=26.0
+2018-07-05 16:40:53 Drive Axis2 to 26.0 Degree
+2018-07-05 16:45:45 Set Title: TbFeO3 T=1.5 K En=12.0 meV angle=28.0
+2018-07-05 16:45:55 Drive Axis2 to 28.0 Degree

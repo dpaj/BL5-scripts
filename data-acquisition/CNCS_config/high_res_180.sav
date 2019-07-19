@@ -1,0 +1,6 @@
+BL5:Chop:Skf1:SpeedReq 60.0 
+BL5:Chop:Skf2:SpeedReq 60.0 
+BL5:Chop:Skf3:SpeedReq 60.0 
+BL5:Chop:Skf4:SpeedReq 180.0 
+BL5:Chop:Skf5:SpeedReq 180.0 
+BL5:Chop:Skf45:DblDiskModeReq 0 

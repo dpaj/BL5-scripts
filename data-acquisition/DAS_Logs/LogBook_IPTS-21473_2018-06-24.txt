@@ -1,0 +1,255 @@
+2018-06-22 09:36:41 Line Log cleared
+2018-06-22 09:36:41 Starting IPTS-21112 on 2018-06-22
+2018-06-22 12:32:58 Set Incident Energy to 3.55 meV
+2018-06-22 12:32:59 Set Title: CCR10 T=370.0 K
+2018-06-22 12:41:44 Set Title: CCR10 T=370.0 K
+2018-06-22 12:50:27 Set Title: CCR10 T=370.0 K
+2018-06-22 12:59:11 Set Title: CCR10 T=370.0 K
+2018-06-22 13:17:40 Set Title: CCR10 T=370.0 K
+2018-06-22 14:09:25 Set Title: CCR10 T=370.0 K
+2018-06-22 14:32:07 Set Incident Energy to 3.3 meV
+2018-06-22 14:32:07 Set Title: CCR10 T=370.0 K Ei=3.3 meV
+2018-06-22 14:59:19 Set Incident Energy to 8.5 meV
+2018-06-22 14:59:19 Set Title: CCR10 T=370.0 K Ei=8.5 meV
+2018-06-22 15:28:08 Set Incident Energy to 3.55 meV
+2018-06-22 15:28:08 Set Title: CCR10 T=360.0 K Ei=3.55 meV
+2018-06-22 15:32:37 Set Title: CCR10 T=360.0 K Ei=3.55 meV
+2018-06-22 15:37:05 Set Title: CCR10 T=360.0 K Ei=3.55 meV
+2018-06-22 15:41:33 Set Title: CCR10 T=360.0 K Ei=3.55 meV
+2018-06-22 15:46:01 Set Title: CCR10 T=360.0 K Ei=3.55 meV
+2018-06-22 15:50:29 Set Title: CCR10 T=360.0 K Ei=3.55 meV
+2018-06-22 15:54:58 Set Incident Energy to 3.55 meV
+2018-06-22 15:54:58 Set Title: CCR10 T=360.0 K Ei=3.55 meV
+2018-06-22 16:21:33 Set Incident Energy to 8.5 meV
+2018-06-22 16:21:33 Set Title: CCR10 T=360.0 K Ei=8.5 meV
+2018-06-22 17:19:17 New X/Y Signal ROI at 2Theta=[105,109] Phi=[-5,5]
+2018-06-22 17:20:04 New X/Y Signal ROI at 2Theta=[31,35] Phi=[-170,-165]
+2018-06-22 17:20:15 New X/Y Signal ROI at 2Theta=[31,35] Phi=[-165,-170]
+2018-06-22 17:23:30 Set Incident Energy to 8.5 meV
+2018-06-22 17:23:30 Set Title: CCR10 T=360.0 K Ei=8.5 meV
+2018-06-22 17:52:22 Set Incident Energy to 3.55 meV
+2018-06-22 17:52:22 Set Title: CCR10 T=350.0 K Ei=3.55 meV
+2018-06-22 17:56:51 Set Title: CCR10 T=350.0 K Ei=3.55 meV
+2018-06-22 18:01:19 Set Incident Energy to 3.55 meV
+2018-06-22 18:01:19 Set Title: CCR10 T=350.0 K Ei=3.55 meV
+2018-06-22 18:27:55 Set Incident Energy to 8.5 meV
+2018-06-22 18:27:55 Set Title: CCR10 T=350.0 K Ei=8.5 meV
+2018-06-22 18:56:56 Set Incident Energy to 3.55 meV
+2018-06-22 18:56:56 Set Title: CCR10 T=340.0 K Ei=3.55 meV
+2018-06-22 19:01:25 Set Title: CCR10 T=340.0 K Ei=3.55 meV
+2018-06-22 19:05:53 Set Incident Energy to 3.55 meV
+2018-06-22 19:05:53 Set Title: CCR10 T=340.0 K Ei=3.55 meV
+2018-06-22 19:32:33 Set Incident Energy to 8.5 meV
+2018-06-22 19:32:33 Set Title: CCR10 T=340.0 K Ei=8.5 meV
+2018-06-22 20:01:38 Set Incident Energy to 3.55 meV
+2018-06-22 20:01:38 Set Title: CCR10 T=330.0 K Ei=3.55 meV
+2018-06-22 20:06:08 Set Title: CCR10 T=330.0 K Ei=3.55 meV
+2018-06-22 20:10:38 Set Incident Energy to 3.55 meV
+2018-06-22 20:10:38 Set Title: CCR10 T=330.0 K Ei=3.55 meV
+2018-06-22 20:37:19 Set Incident Energy to 8.5 meV
+2018-06-22 20:37:19 Set Title: CCR10 T=330.0 K Ei=8.5 meV
+2018-06-22 21:06:32 Set Incident Energy to 3.55 meV
+2018-06-22 21:06:32 Set Title: CCR10 T=320.0 K Ei=3.55 meV
+2018-06-22 21:11:02 Set Title: CCR10 T=320.0 K Ei=3.55 meV
+2018-06-22 21:15:31 Set Incident Energy to 3.55 meV
+2018-06-22 21:15:31 Set Title: CCR10 T=320.0 K Ei=3.55 meV
+2018-06-22 21:42:15 Set Incident Energy to 8.5 meV
+2018-06-22 21:42:15 Set Title: CCR10 T=320.0 K Ei=8.5 meV
+2018-06-22 22:11:31 Set Incident Energy to 3.55 meV
+2018-06-22 22:11:31 Set Title: CCR10 T=310.0 K Ei=3.55 meV
+2018-06-22 22:16:00 Set Title: CCR10 T=310.0 K Ei=3.55 meV
+2018-06-22 22:20:29 Set Incident Energy to 3.55 meV
+2018-06-22 22:20:29 Set Title: CCR10 T=310.0 K Ei=3.55 meV
+2018-06-22 22:47:13 Set Incident Energy to 8.5 meV
+2018-06-22 22:47:13 Set Title: CCR10 T=310.0 K Ei=8.5 meV
+2018-06-22 23:24:47 Set Incident Energy to 3.55 meV
+2018-06-22 23:24:47 Set Title: CCR10 T=300.0 K Ei=3.55 meV
+2018-06-22 23:29:17 Set Title: CCR10 T=300.0 K Ei=3.55 meV
+2018-06-22 23:33:46 Set Title: CCR10 T=300.0 K Ei=3.55 meV
+2018-06-22 23:43:17 Set Title: CCR10 T=300.0 K Ei=3.55 meV
+2018-06-22 23:52:03 Set Title: CCR10 T=300.0 K Ei=3.55 meV
+2018-06-23 00:18:06 Set Incident Energy to 3.55 meV
+2018-06-23 00:18:06 Set Title: CCR10 T=300.0 K Ei=3.55 meV
+2018-06-23 00:48:57 Set Incident Energy to 8.5 meV
+2018-06-23 00:48:57 Set Title: CCR10 T=300.0 K Ei=8.5 meV
+2018-06-23 03:07:56 Set Incident Energy to 3.55 meV
+2018-06-23 03:07:56 Set Title: CCR10 T=290.0 K Ei=3.55 meV
+2018-06-23 03:12:25 Set Title: CCR10 T=290.0 K Ei=3.55 meV
+2018-06-23 03:16:54 Set Incident Energy to 3.55 meV
+2018-06-23 03:16:54 Set Title: CCR10 T=290.0 K Ei=3.55 meV
+2018-06-23 03:43:35 Set Incident Energy to 8.5 meV
+2018-06-23 03:43:35 Set Title: CCR10 T=290.0 K Ei=8.5 meV
+2018-06-23 04:12:03 Set Incident Energy to 3.55 meV
+2018-06-23 04:12:03 Set Title: CCR10 T=280.0 K Ei=3.55 meV
+2018-06-23 04:16:31 Set Title: CCR10 T=280.0 K Ei=3.55 meV
+2018-06-23 04:21:31 Set Incident Energy to 3.55 meV
+2018-06-23 04:21:31 Set Title: CCR10 T=280.0 K Ei=3.55 meV
+2018-06-23 04:48:17 Set Incident Energy to 8.5 meV
+2018-06-23 04:48:17 Set Title: CCR10 T=280.0 K Ei=8.5 meV
+2018-06-23 05:17:16 Set Incident Energy to 3.55 meV
+2018-06-23 05:17:16 Set Title: CCR10 T=270.0 K Ei=3.55 meV
+2018-06-23 05:21:46 Set Title: CCR10 T=270.0 K Ei=3.55 meV
+2018-06-23 05:26:50 Set Incident Energy to 3.55 meV
+2018-06-23 05:26:50 Set Title: CCR10 T=270.0 K Ei=3.55 meV
+2018-06-23 05:56:43 Set Incident Energy to 8.5 meV
+2018-06-23 05:56:43 Set Title: CCR10 T=270.0 K Ei=8.5 meV
+2018-06-23 06:25:12 Set Incident Energy to 3.55 meV
+2018-06-23 06:25:12 Set Title: CCR10 T=260.0 K Ei=3.55 meV
+2018-06-23 06:51:07 Set Title: CCR10 T=260.0 K Ei=3.55 meV
+2018-06-23 06:55:36 Set Incident Energy to 3.55 meV
+2018-06-23 06:55:36 Set Title: CCR10 T=260.0 K Ei=3.55 meV
+2018-06-23 07:22:19 Set Incident Energy to 8.5 meV
+2018-06-23 07:22:19 Set Title: CCR10 T=260.0 K Ei=8.5 meV
+2018-06-23 07:50:51 Set Incident Energy to 3.55 meV
+2018-06-23 07:50:51 Set Title: CCR10 T=250.0 K Ei=3.55 meV
+2018-06-23 07:55:20 Set Title: CCR10 T=250.0 K Ei=3.55 meV
+2018-06-23 07:59:50 Set Incident Energy to 3.55 meV
+2018-06-23 07:59:50 Set Title: CCR10 T=250.0 K Ei=3.55 meV
+2018-06-23 08:26:36 Set Incident Energy to 8.5 meV
+2018-06-23 08:26:36 Set Title: CCR10 T=250.0 K Ei=8.5 meV
+2018-06-23 08:55:11 Set Incident Energy to 3.55 meV
+2018-06-23 08:55:11 Set Title: CCR10 T=240.0 K Ei=3.55 meV
+2018-06-23 08:59:41 Set Title: CCR10 T=240.0 K Ei=3.55 meV
+2018-06-23 09:04:11 Set Incident Energy to 3.55 meV
+2018-06-23 09:04:11 Set Title: CCR10 T=240.0 K Ei=3.55 meV
+2018-06-23 09:31:23 Set Incident Energy to 8.5 meV
+2018-06-23 09:31:23 Set Title: CCR10 T=240.0 K Ei=8.5 meV
+2018-06-23 09:59:59 Set Incident Energy to 3.55 meV
+2018-06-23 09:59:59 Set Title: CCR10 T=230.0 K Ei=3.55 meV
+2018-06-23 10:04:28 Set Title: CCR10 T=230.0 K Ei=3.55 meV
+2018-06-23 10:08:58 Set Incident Energy to 3.55 meV
+2018-06-23 10:08:58 Set Title: CCR10 T=230.0 K Ei=3.55 meV
+2018-06-23 10:36:13 Set Incident Energy to 8.5 meV
+2018-06-23 10:36:13 Set Title: CCR10 T=230.0 K Ei=8.5 meV
+2018-06-23 11:04:46 Set Incident Energy to 3.55 meV
+2018-06-23 11:04:46 Set Title: CCR10 T=220.0 K Ei=3.55 meV
+2018-06-23 11:09:15 Set Title: CCR10 T=220.0 K Ei=3.55 meV
+2018-06-23 11:13:44 Set Incident Energy to 3.55 meV
+2018-06-23 11:13:44 Set Title: CCR10 T=220.0 K Ei=3.55 meV
+2018-06-23 11:40:25 Set Incident Energy to 8.5 meV
+2018-06-23 11:40:25 Set Title: CCR10 T=220.0 K Ei=8.5 meV
+2018-06-23 12:08:53 Set Incident Energy to 3.55 meV
+2018-06-23 12:08:53 Set Title: CCR10 T=210.0 K Ei=3.55 meV
+2018-06-23 12:13:21 Set Title: CCR10 T=210.0 K Ei=3.55 meV
+2018-06-23 12:17:50 Set Title: CCR10 T=210.0 K Ei=3.55 meV
+2018-06-23 12:26:37 Set Title: CCR10 T=210.0 K Ei=3.55 meV
+2018-06-23 12:35:24 Set Title: CCR10 T=210.0 K Ei=3.55 meV
+2018-06-23 13:01:27 Set Incident Energy to 3.55 meV
+2018-06-23 13:01:27 Set Title: CCR10 T=210.0 K Ei=3.55 meV
+2018-06-23 13:28:29 Set Incident Energy to 8.5 meV
+2018-06-23 13:28:29 Set Title: CCR10 T=210.0 K Ei=8.5 meV
+2018-06-23 13:56:55 Set Incident Energy to 3.55 meV
+2018-06-23 13:56:55 Set Title: CCR10 T=200.0 K Ei=3.55 meV
+2018-06-23 14:01:24 Set Title: CCR10 T=200.0 K Ei=3.55 meV
+2018-06-23 14:05:52 Set Incident Energy to 3.55 meV
+2018-06-23 14:05:52 Set Title: CCR10 T=200.0 K Ei=3.55 meV
+2018-06-23 14:32:33 Set Incident Energy to 8.5 meV
+2018-06-23 14:32:33 Set Title: CCR10 T=200.0 K Ei=8.5 meV
+2018-06-23 15:01:23 Set Incident Energy to 3.55 meV
+2018-06-23 15:01:23 Set Title: CCR10 T=190.0 K Ei=3.55 meV
+2018-06-23 15:05:50 Set Title: CCR10 T=190.0 K Ei=3.55 meV
+2018-06-23 15:10:18 Set Incident Energy to 3.55 meV
+2018-06-23 15:10:18 Set Title: CCR10 T=190.0 K Ei=3.55 meV
+2018-06-23 15:36:56 Set Incident Energy to 8.5 meV
+2018-06-23 15:36:56 Set Title: CCR10 T=190.0 K Ei=8.5 meV
+2018-06-23 16:05:21 Set Incident Energy to 3.55 meV
+2018-06-23 16:05:21 Set Title: CCR10 T=180.0 K Ei=3.55 meV
+2018-06-23 16:09:49 Set Title: CCR10 T=180.0 K Ei=3.55 meV
+2018-06-23 16:14:18 Set Incident Energy to 3.55 meV
+2018-06-23 16:14:18 Set Title: CCR10 T=180.0 K Ei=3.55 meV
+2018-06-23 16:40:57 Set Incident Energy to 8.5 meV
+2018-06-23 16:40:57 Set Title: CCR10 T=180.0 K Ei=8.5 meV
+2018-06-23 17:09:27 Set Incident Energy to 3.55 meV
+2018-06-23 17:09:27 Set Title: CCR10 T=170.0 K Ei=3.55 meV
+2018-06-23 17:13:55 Set Title: CCR10 T=170.0 K Ei=3.55 meV
+2018-06-23 17:18:23 Set Incident Energy to 3.55 meV
+2018-06-23 17:18:23 Set Title: CCR10 T=170.0 K Ei=3.55 meV
+2018-06-23 17:45:03 Set Incident Energy to 8.5 meV
+2018-06-23 17:45:03 Set Title: CCR10 T=170.0 K Ei=8.5 meV
+2018-06-23 18:14:04 Set Incident Energy to 3.55 meV
+2018-06-23 18:14:04 Set Title: CCR10 T=160.0 K Ei=3.55 meV
+2018-06-23 18:18:34 Set Title: CCR10 T=160.0 K Ei=3.55 meV
+2018-06-23 18:23:04 Set Incident Energy to 3.55 meV
+2018-06-23 18:23:04 Set Title: CCR10 T=160.0 K Ei=3.55 meV
+2018-06-23 18:50:29 Set Incident Energy to 8.5 meV
+2018-06-23 18:50:29 Set Title: CCR10 T=160.0 K Ei=8.5 meV
+2018-06-23 19:19:43 Set Incident Energy to 3.55 meV
+2018-06-23 19:19:43 Set Title: CCR10 T=150.0 K Ei=3.55 meV
+2018-06-23 19:24:12 Set Title: CCR10 T=150.0 K Ei=3.55 meV
+2018-06-23 19:28:42 Set Incident Energy to 3.55 meV
+2018-06-23 19:28:42 Set Title: CCR10 T=150.0 K Ei=3.55 meV
+2018-06-23 19:55:24 Set Incident Energy to 8.5 meV
+2018-06-23 19:55:24 Set Title: CCR10 T=150.0 K Ei=8.5 meV
+2018-06-23 20:23:57 Set Incident Energy to 3.55 meV
+2018-06-23 20:23:57 Set Title: CCR10 T=140.0 K Ei=3.55 meV
+2018-06-23 20:28:27 Set Title: CCR10 T=140.0 K Ei=3.55 meV
+2018-06-23 20:32:56 Set Incident Energy to 3.55 meV
+2018-06-23 20:32:56 Set Title: CCR10 T=140.0 K Ei=3.55 meV
+2018-06-23 21:00:07 Set Incident Energy to 8.5 meV
+2018-06-23 21:00:07 Set Title: CCR10 T=140.0 K Ei=8.5 meV
+2018-06-23 21:28:42 Set Incident Energy to 3.55 meV
+2018-06-23 21:28:42 Set Title: CCR10 T=130.0 K Ei=3.55 meV
+2018-06-23 21:33:13 Set Title: CCR10 T=130.0 K Ei=3.55 meV
+2018-06-23 21:37:42 Set Incident Energy to 3.55 meV
+2018-06-23 21:37:42 Set Title: CCR10 T=130.0 K Ei=3.55 meV
+2018-06-23 22:04:24 Set Incident Energy to 8.5 meV
+2018-06-23 22:04:24 Set Title: CCR10 T=130.0 K Ei=8.5 meV
+2018-06-23 22:32:53 Set Incident Energy to 3.55 meV
+2018-06-23 22:32:53 Set Title: CCR10 T=120.0 K Ei=3.55 meV
+2018-06-23 22:37:21 Set Title: CCR10 T=120.0 K Ei=3.55 meV
+2018-06-23 22:41:50 Set Incident Energy to 3.55 meV
+2018-06-23 22:41:50 Set Title: CCR10 T=120.0 K Ei=3.55 meV
+2018-06-23 23:08:50 Set Incident Energy to 8.5 meV
+2018-06-23 23:08:50 Set Title: CCR10 T=120.0 K Ei=8.5 meV
+2018-06-23 23:38:55 Set Incident Energy to 3.55 meV
+2018-06-23 23:38:55 Set Title: CCR10 T=110.0 K Ei=3.55 meV
+2018-06-23 23:43:23 Set Title: CCR10 T=110.0 K Ei=3.55 meV
+2018-06-23 23:47:52 Set Incident Energy to 3.55 meV
+2018-06-23 23:47:52 Set Title: CCR10 T=110.0 K Ei=3.55 meV
+2018-06-24 00:14:37 Set Incident Energy to 8.5 meV
+2018-06-24 00:14:37 Set Title: CCR10 T=110.0 K Ei=8.5 meV
+2018-06-24 00:43:33 Set Incident Energy to 3.55 meV
+2018-06-24 00:43:33 Set Title: CCR10 T=100.0 K Ei=3.55 meV
+2018-06-24 00:48:02 Set Title: CCR10 T=100.0 K Ei=3.55 meV
+2018-06-24 00:52:31 Set Incident Energy to 3.55 meV
+2018-06-24 00:52:31 Set Title: CCR10 T=100.0 K Ei=3.55 meV
+2018-06-24 01:19:11 Set Incident Energy to 8.5 meV
+2018-06-24 01:19:11 Set Title: CCR10 T=100.0 K Ei=8.5 meV
+2018-06-24 01:48:34 Set Incident Energy to 3.55 meV
+2018-06-24 02:47:46 Set Incident Energy to 3.55 meV
+2018-06-24 02:47:46 Set Title: CCR10 T=1.0 K Ei=3.55 meV
+2018-06-24 02:52:14 Set Title: CCR10 T=1.0 K Ei=3.55 meV
+2018-06-24 02:56:43 Set Title: CCR10 T=1.0 K Ei=3.55 meV
+2018-06-24 03:05:30 Set Title: CCR10 T=1.0 K Ei=3.55 meV
+2018-06-24 03:14:18 Set Title: CCR10 T=1.0 K Ei=3.55 meV
+2018-06-24 03:40:42 Set Incident Energy to 3.55 meV
+2018-06-24 03:40:42 Set Title: CCR10 T=1.0 K Ei=3.55 meV
+2018-06-24 04:07:23 Set Incident Energy to 8.5 meV
+2018-06-24 04:07:23 Set Title: CCR10 T=1.0 K Ei=8.5 meV
+2018-06-24 04:35:09 Set Incident Energy to 3.55 meV
+2018-06-24 04:35:09 Set Title: CCR10 T=100.0 K Ei=3.55 meV
+2018-06-24 04:39:37 Set Title: CCR10 T=100.0 K Ei=3.55 meV
+2018-06-24 04:44:06 Set Incident Energy to 3.55 meV
+2018-06-24 04:44:06 Set Title: CCR10 T=100.0 K Ei=3.55 meV
+2018-06-24 05:02:05 Set Incident Energy to 8.5 meV
+2018-06-24 05:02:05 Set Title: CCR10 T=100.0 K Ei=8.5 meV
+2018-06-24 05:22:00 Set Incident Energy to 3.55 meV
+2018-06-24 05:22:01 Set Title: CCR10 T=200.0 K Ei=3.55 meV
+2018-06-24 05:26:29 Set Title: CCR10 T=200.0 K Ei=3.55 meV
+2018-06-24 05:30:59 Set Incident Energy to 3.55 meV
+2018-06-24 05:30:59 Set Title: CCR10 T=200.0 K Ei=3.55 meV
+2018-06-24 05:49:03 Set Incident Energy to 8.5 meV
+2018-06-24 05:49:03 Set Title: CCR10 T=200.0 K Ei=8.5 meV
+2018-06-24 06:21:58 Set Incident Energy to 3.55 meV
+2018-06-24 06:21:58 Set Title: CCR10 T=300.0 K Ei=3.55 meV
+2018-06-24 06:26:27 Set Title: CCR10 T=300.0 K Ei=3.55 meV
+2018-06-24 06:30:55 Set Incident Energy to 3.55 meV
+2018-06-24 06:30:55 Set Title: CCR10 T=300.0 K Ei=3.55 meV
+2018-06-24 06:48:55 Set Incident Energy to 8.5 meV
+2018-06-24 06:48:55 Set Title: CCR10 T=300.0 K Ei=8.5 meV
+2018-06-24 07:07:07 Set Incident Energy to 3.55 meV
+2018-06-24 07:07:07 Set Title: CCR10 T=300.0 K Ei=3.55 meV
+2018-06-24 07:33:46 Set Incident Energy to 8.5 meV
+2018-06-24 07:33:46 Set Title: CCR10 T=300.0 K Ei=8.5 meV
+2018-06-24 11:36:46 Set Title: dummy scan
+2018-06-24 11:37:25 Set Incident Energy to 3.32 meV

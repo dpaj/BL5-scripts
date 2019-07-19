@@ -1,0 +1,74 @@
+2019-02-17 20:56:39 Line Log cleared
+2019-02-17 20:56:39 Starting IPTS-22122 on 2019-02-17
+2019-02-18 01:19:40 Set Incident Energy to 10.0 meV
+2019-02-18 01:19:40 Set Title: 5Samples_1_test, Ei=10.0, T= RT
+2019-02-18 01:56:57 Set Incident Energy to 10.0 meV
+2019-02-18 01:56:57 Set Title: 5Samples_2_test, Ei=10.0, T= RT
+2019-02-18 04:04:35 Set Incident Energy to 10.0 meV
+2019-02-18 04:04:35 Set Title: ZrPt, Ei=10.0, T= Tm+300(1310C)
+2019-02-18 04:49:32 Set Incident Energy to 20.0 meV
+2019-02-18 04:49:32 Set Title: ZrPt, Ei=20.0, T= Tm+100(1145C)
+2019-02-18 06:13:49 Set Incident Energy to 10.0 meV
+2019-02-18 06:13:49 Set Title: ZrPt, Ei=10.0, T= Tm-50(1045C)
+2019-02-18 06:49:57 Set Incident Energy to 10.0 meV
+2019-02-18 06:49:58 Set Title: ZrPt, Ei=10.0, T= Tm+360(1400C)
+2019-02-18 08:16:34 Set Incident Energy to 20.0 meV
+2019-02-18 08:16:34 Set Title: Brass, Ei=20.0, T= RT
+2019-02-18 11:02:10 Set Incident Energy to 12.0 meV
+2019-02-18 11:02:10 Set Title: Empty, Ei=12.0, T= RT
+2019-02-19 09:06:34 Set Title: low power mode, monitor pulse energy scan, Ei=81.74512 meV
+2019-02-19 09:07:15 Set Incident Energy to 81.74512 meV
+2019-02-19 09:08:54 Set Title: low power mode, monitor pulse energy scan, Ei=36.3311644444 meV
+2019-02-19 09:09:43 Set Incident Energy to 36.3311644444 meV
+2019-02-19 09:11:21 Set Title: low power mode, monitor pulse energy scan, Ei=20.43628 meV
+2019-02-19 09:12:08 Set Incident Energy to 20.43628 meV
+2019-02-19 09:13:47 Set Title: low power mode, monitor pulse energy scan, Ei=13.0792192 meV
+2019-02-19 09:14:40 Set Incident Energy to 13.0792192 meV
+2019-02-19 09:16:19 Set Title: low power mode, monitor pulse energy scan, Ei=12.0 meV
+2019-02-19 09:16:54 Set Incident Energy to 12.0 meV
+2019-02-19 09:18:33 Set Title: low power mode, monitor pulse energy scan, Ei=11.0 meV
+2019-02-19 09:19:08 Set Incident Energy to 11.0 meV
+2019-02-19 09:20:46 Set Title: low power mode, monitor pulse energy scan, Ei=10.0 meV
+2019-02-19 09:21:23 Set Incident Energy to 10.0 meV
+2019-02-19 09:23:01 Set Title: low power mode, monitor pulse energy scan, Ei=9.08279111111 meV
+2019-02-19 09:23:36 Set Incident Energy to 9.08279111111 meV
+2019-02-19 09:25:15 Set Title: low power mode, monitor pulse energy scan, Ei=7.9 meV
+2019-02-19 09:25:52 Set Incident Energy to 7.9 meV
+2019-02-19 09:27:31 Set Title: low power mode, monitor pulse energy scan, Ei=6.67307102041 meV
+2019-02-19 09:28:06 Set Incident Energy to 6.67307102041 meV
+2019-02-19 09:29:44 Set Title: low power mode, monitor pulse energy scan, Ei=6.0 meV
+2019-02-19 09:30:20 Set Incident Energy to 6.0 meV
+2019-02-19 09:31:59 Set Title: low power mode, monitor pulse energy scan, Ei=5.10907 meV
+2019-02-19 09:32:38 Set Incident Energy to 5.10907 meV
+2019-02-19 09:34:17 Set Title: low power mode, monitor pulse energy scan, Ei=4.5 meV
+2019-02-19 09:34:57 Set Incident Energy to 4.5 meV
+2019-02-19 09:36:35 Set Title: low power mode, monitor pulse energy scan, Ei=4.03679604938 meV
+2019-02-19 09:37:12 Set Incident Energy to 4.03679604938 meV
+2019-02-19 09:38:50 Set Title: low power mode, monitor pulse energy scan, Ei=3.32 meV
+2019-02-19 09:39:41 Set Incident Energy to 3.32 meV
+2019-02-19 09:41:19 Set Title: low power mode, monitor pulse energy scan, Ei=3.2698048 meV
+2019-02-19 09:41:57 Set Incident Energy to 3.2698048 meV
+2019-02-19 09:43:36 Set Title: low power mode, monitor pulse energy scan, Ei=2.70231801653 meV
+2019-02-19 09:44:26 Set Incident Energy to 2.70231801653 meV
+2019-02-19 09:46:04 Set Title: low power mode, monitor pulse energy scan, Ei=2.27069777778 meV
+2019-02-19 09:46:56 Set Incident Energy to 2.27069777778 meV
+2019-02-19 09:48:35 Set Title: low power mode, monitor pulse energy scan, Ei=1.93479573964 meV
+2019-02-19 09:49:27 Set Incident Energy to 1.93479573964 meV
+2019-02-19 09:51:05 Set Title: low power mode, monitor pulse energy scan, Ei=1.6682677551 meV
+2019-02-19 09:51:56 Set Incident Energy to 1.6682677551 meV
+2019-02-19 09:53:35 Set Title: low power mode, monitor pulse energy scan, Ei=1.45324657778 meV
+2019-02-19 09:54:20 Set Incident Energy to 1.45324657778 meV
+2019-02-19 09:55:59 Set Title: low power mode, monitor pulse energy scan, Ei=1.2772675 meV
+2019-02-19 09:56:55 Set Incident Energy to 1.2772675 meV
+2019-02-19 09:58:33 Set Title: low power mode, monitor pulse energy scan, Ei=1.13142034602 meV
+2019-02-19 09:59:23 Set Incident Energy to 1.13142034602 meV
+2019-02-19 10:01:03 Set Title: low power mode, monitor pulse energy scan, Ei=1.00919901235 meV
+2019-02-19 10:01:51 Set Incident Energy to 1.00919901235 meV
+2019-02-19 10:03:30 Set Title: low power mode, monitor pulse energy scan, Ei=0.905763102493 meV
+2019-02-19 10:04:14 Set Incident Energy to 0.905763102493 meV
+2019-02-19 10:05:53 Set Title: low power mode, monitor pulse energy scan, Ei=0.8174512 meV
+2019-02-19 10:06:44 Set Incident Energy to 0.8174512 meV
+2019-02-19 10:08:23 Set Title: low power mode, monitor pulse energy scan, Ei=0.741452335601 meV
+2019-02-19 10:09:14 Set Incident Energy to 0.741452335601 meV
+2019-02-19 10:10:53 Set Title: low power mode, monitor pulse energy scan, Ei=0.54 meV
+2019-02-19 10:11:32 Set Incident Energy to 0.54 meV

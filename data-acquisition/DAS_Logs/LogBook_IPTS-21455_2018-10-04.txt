@@ -1,0 +1,64 @@
+2018-10-03 08:11:40 Line Log cleared
+2018-10-03 08:11:40 Starting IPTS-21455 on 2018-10-03
+2018-10-03 09:05:24 Drive V-stick to 31.9698 mm
+2018-10-03 09:05:29 Drive V-stick to 31.9698 mm
+2018-10-03 09:05:47 Set Title: Taking data while cooling down
+2018-10-03 09:06:49 Comment: 2H waiting time for cooling to base
+2018-10-03 09:07:03 Set Title: Taking data while cooling down at 1.55 meV looking for excitation
+2018-10-03 12:15:23 Set Incident Energy to 1.55 meV
+2018-10-03 12:15:23 Set Title: BaNd2ZnO5 T=1.8 K, En=1.55 meV, H=0 Tesla
+2018-10-03 13:11:00 Set Incident Energy to 3.32 meV
+2018-10-03 13:11:00 Set Title: BaNd2ZnO5 T=1.8 K, En=3.32 meV, H=0 Tesla
+2018-10-03 14:05:03 Setting the magnetic field at 0.5 Tesla
+2018-10-03 14:08:59 Set Incident Energy to 1.55 meV
+2018-10-03 14:08:59 Set Title: BaNd2ZnO5 T=1.8 K, En=1.55 meV, H=0.5 Tesla
+2018-10-03 15:04:04 Set Incident Energy to 3.32 meV
+2018-10-03 15:04:04 Set Title: BaNd2ZnO5 T=1.8 K, En=3.32 meV, H=0.5 Tesla
+2018-10-03 16:06:51 Setting the magnetic field at 1.0 Tesla
+2018-10-03 16:10:58 Set Incident Energy to 1.55 meV
+2018-10-03 16:10:58 Set Title: BaNd2ZnO5 T=1.8 K, En=1.55 meV, H=1.0 Tesla
+2018-10-03 17:06:34 Set Incident Energy to 3.32 meV
+2018-10-03 17:06:34 Set Title: BaNd2ZnO5 T=1.8 K, En=3.32 meV, H=1.0 Tesla
+2018-10-03 17:33:36 Setting the magnetic field at 3.0 Tesla
+2018-10-03 17:38:39 Set Incident Energy to 1.55 meV
+2018-10-03 17:38:39 Set Title: BaNd2ZnO5 T=1.8 K, En=1.55 meV, H=3.0 Tesla
+2018-10-03 18:36:56 Set Incident Energy to 3.32 meV
+2018-10-03 18:36:56 Set Title: BaNd2ZnO5 T=1.8 K, En=3.32 meV, H=3.0 Tesla
+2018-10-03 19:31:56 Set Incident Energy to 50.0 meV
+2018-10-03 19:31:56 Set Title: BaNd2ZnO5 T=1.8 K, En=50.0 meV, H=3 Tesla
+2018-10-03 20:25:59 Setting the magnetic field at 8.0 Tesla
+2018-10-03 21:24:16 Set Incident Energy to 1.55 meV
+2018-10-03 21:24:16 Set Title: BaNd2ZnO5 T=1.8 K, En=1.55 meV, H=8 Tesla
+2018-10-03 21:36:04 Set Incident Energy to 1.55 meV
+2018-10-03 21:36:04 Set Title: BaNd2ZnO5 T=1.8 K, En=1.55 meV, H=8 Tesla
+2018-10-03 22:31:22 Set Incident Energy to 3.32 meV
+2018-10-03 22:31:22 Set Title: BaNd2ZnO5 T=1.8 K, En=3.32 meV, H=8 Tesla
+2018-10-03 23:29:18 Set Incident Energy to 3.32 meV
+2018-10-03 23:29:18 Set Title: BaNd2ZnO5 T=1.8 K, En=3.32 meV, H=8 Tesla
+2018-10-04 00:24:07 Set Incident Energy to 1.55 meV
+2018-10-04 00:24:07 Set Title: BaNd2ZnO5 T=1.8 K, En=1.55 meV, H=8 Tesla
+2018-10-04 00:49:12 Set Incident Energy to 3.32 meV
+2018-10-04 00:49:12 Set Title: BaNd2ZnO5 T=1.8 K, En=3.32 meV, H=8 Tesla
+2018-10-04 01:47:00 Set Incident Energy to 50.0 meV
+2018-10-04 01:47:00 Set Title: BaNd2ZnO5 T=1.8 K, En=50.0 meV, H=8 Tesla
+2018-10-04 02:41:02 Set Incident Energy to 50.0 meV
+2018-10-04 02:41:02 Set Title: BaNd2ZnO5 T=1.8 K, En=50.0 meV, H=8 Tesla
+2018-10-04 03:36:44 Setting vtifitssm Temperature : 10.0 K
+2018-10-04 03:36:44 Setting fitssm Temperature : 10.0 K
+2018-10-04 03:41:57 Set Incident Energy to 3.32 meV
+2018-10-04 03:41:57 Set Title: BaNd2ZnO5 T=10.0 K, En=3.32 meV, H=8 Tesla
+2018-10-04 04:36:02 Set Incident Energy to 3.32 meV
+2018-10-04 04:36:02 Set Title: BaNd2ZnO5 T=10.0 K, En=3.32 meV, H=8 Tesla
+2018-10-04 05:31:39 Set Incident Energy to 3.32 meV
+2018-10-04 05:31:39 Set Title: BaNd2ZnO5 T=10.0 K, En=3.32 meV, H=8 Tesla
+2018-10-04 06:26:33 Setting vtifitssm Temperature : 90.0 K
+2018-10-04 06:26:33 Setting fitssm Temperature : 90.0 K
+2018-10-04 06:30:16 Set Incident Energy to 50.0 meV
+2018-10-04 06:30:16 Set Title: BaNd2ZnO5 T=90 K, En=50.0 meV, H=8 Tesla
+2018-10-04 07:44:22 Set Incident Energy to 50.0 meV
+2018-10-04 07:44:22 Set Title: BaNd2ZnO5 T=90 K, En=50.0 meV, H=8 Tesla
+2018-10-04 08:38:22 Set Incident Energy to 50.0 meV
+2018-10-04 08:38:22 Set Title: BaNd2ZnO5 T=90 K, En=50.0 meV, H=8 Tesla
+2018-10-04 09:00:34 Setting fitssm Temperature : 100.0 K
+2018-10-04 09:00:34 Setting vtifitssm Temperature : 100.0 K
+2018-10-04 09:00:34 Setting the magnetic field at 0.0 Tesla

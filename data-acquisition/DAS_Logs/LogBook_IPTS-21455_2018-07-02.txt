@@ -1,0 +1,104 @@
+2018-06-30 10:26:35 Line Log cleared
+2018-06-30 10:26:35 Starting IPTS-21455 on 2018-06-30
+2018-06-30 10:51:26 Set Title: Setting Chop4 240 Hz to prevent leaking energy
+2018-06-30 10:54:35 Set cryo6 Temperature : 1 K
+2018-06-30 10:54:40 Set vticryo6 Temperature : 1 K
+2018-06-30 10:59:25 Set Title: Cooling run at 25 meV
+2018-06-30 11:10:26 Set Incident Energy to 50.0 meV
+2018-06-30 11:10:26 Set Title: BaNd2ZnO5 cooling En=50.0 meV
+2018-06-30 11:24:03 Set Incident Energy to 25.0 meV
+2018-06-30 11:24:03 Set Title: BaNd2ZnO5 cooling En=25.0 meV
+2018-06-30 11:37:43 Set Incident Energy to 12.0 meV
+2018-06-30 11:37:43 Set Title: BaNd2ZnO5 cooling En=12.0 meV
+2018-06-30 11:51:20 Set Incident Energy to 6.59 meV
+2018-06-30 11:51:20 Set Title: BaNd2ZnO5 cooling En=6.59 meV
+2018-06-30 12:04:53 Set Incident Energy to 3.32 meV
+2018-06-30 12:04:53 Set Title: BaNd2ZnO5 cooling En=3.32 meV
+2018-06-30 12:18:33 Set Incident Energy to 50.0 meV
+2018-06-30 12:18:33 Set Title: BaNd2ZnO5 cooling En=50.0 meV
+2018-06-30 12:32:17 Set Incident Energy to 25.0 meV
+2018-06-30 12:32:17 Set Title: BaNd2ZnO5 cooling En=25.0 meV
+2018-06-30 12:46:03 Set Incident Energy to 12.0 meV
+2018-06-30 12:46:03 Set Title: BaNd2ZnO5 cooling En=12.0 meV
+2018-06-30 12:59:41 Set Incident Energy to 6.59 meV
+2018-06-30 12:59:41 Set Title: BaNd2ZnO5 cooling En=6.59 meV
+2018-06-30 13:13:17 Set Incident Energy to 3.32 meV
+2018-06-30 13:13:17 Set Title: BaNd2ZnO5 cooling En=3.32 meV
+2018-06-30 13:26:53 Set Incident Energy to 50.0 meV
+2018-06-30 13:26:53 Set Title: BaNd2ZnO5 cooling En=50.0 meV
+2018-06-30 13:40:34 Set Incident Energy to 25.0 meV
+2018-06-30 13:40:34 Set Title: BaNd2ZnO5 cooling En=25.0 meV
+2018-06-30 13:54:11 Set Incident Energy to 12.0 meV
+2018-06-30 13:54:11 Set Title: BaNd2ZnO5 cooling En=12.0 meV
+2018-06-30 14:04:49 Set Incident Energy to 6.59 meV
+2018-06-30 14:04:49 Set Title: BaNd2ZnO5 cooling En=6.59 meV
+2018-06-30 14:09:23 Set Incident Energy to 3.32 meV
+2018-06-30 14:09:23 Set Title: BaNd2ZnO5 cooling En=3.32 meV
+2018-06-30 14:23:23 Set Incident Energy to 80.0 meV
+2018-06-30 14:23:23 Set Title: BaNd2ZnO5 T=1.2 K En=80.0 meV
+2018-06-30 15:22:13 Set Incident Energy to 25.0 meV
+2018-06-30 15:22:13 Set Title: BaNd2ZnO5 T=1.2 K En=25.0 meV
+2018-06-30 16:21:43 Set Incident Energy to 12.0 meV
+2018-06-30 16:21:43 Set Title: BaNd2ZnO5 T=1.2 K En=12.0 meV
+2018-06-30 17:20:41 Set Incident Energy to 6.59 meV
+2018-06-30 17:20:41 Set Title: BaNd2ZnO5 T=1.2 K En=6.59 meV
+2018-06-30 18:19:44 Set Incident Energy to 3.32 meV
+2018-06-30 18:19:44 Set Title: BaNd2ZnO5 T=1.2 K En=3.32 meV
+2018-06-30 19:18:34 Set Incident Energy to 1.55 meV
+2018-06-30 19:18:34 Set Title: BaNd2ZnO5 T=1.2 K En=1.55 meV
+2018-06-30 20:17:23 Set Incident Energy to 80.0 meV
+2018-06-30 20:17:23 Set Title: BaNd2ZnO5 T=1.2 K En=80.0 meV
+2018-06-30 21:16:13 Set Incident Energy to 25.0 meV
+2018-06-30 21:16:13 Set Title: BaNd2ZnO5 T=1.2 K En=25.0 meV
+2018-06-30 22:15:29 Set Incident Energy to 12.0 meV
+2018-06-30 22:15:29 Set Title: BaNd2ZnO5 T=1.2 K En=12.0 meV
+2018-06-30 23:14:16 Set Incident Energy to 6.59 meV
+2018-06-30 23:14:16 Set Title: BaNd2ZnO5 T=1.2 K En=6.59 meV
+2018-07-01 00:13:49 Set Incident Energy to 3.32 meV
+2018-07-01 00:13:49 Set Title: BaNd2ZnO5 T=1.2 K En=3.32 meV
+2018-07-01 01:12:37 Set Incident Energy to 1.55 meV
+2018-07-01 01:12:37 Set Title: BaNd2ZnO5 T=1.2 K En=1.55 meV
+2018-07-01 02:11:28 Set Incident Energy to 80.0 meV
+2018-07-01 02:11:28 Set Title: BaNd2ZnO5 T=1.2 K En=80.0 meV
+2018-07-01 03:10:17 Set Incident Energy to 25.0 meV
+2018-07-01 03:10:17 Set Title: BaNd2ZnO5 T=1.2 K En=25.0 meV
+2018-07-01 04:09:26 Set Incident Energy to 12.0 meV
+2018-07-01 04:09:26 Set Title: BaNd2ZnO5 T=1.2 K En=12.0 meV
+2018-07-01 05:09:47 Set Incident Energy to 6.59 meV
+2018-07-01 05:09:47 Set Title: BaNd2ZnO5 T=1.2 K En=6.59 meV
+2018-07-01 06:08:52 Set Incident Energy to 3.32 meV
+2018-07-01 06:08:52 Set Title: BaNd2ZnO5 T=1.2 K En=3.32 meV
+2018-07-01 07:07:37 Set Incident Energy to 1.55 meV
+2018-07-01 07:07:37 Set Title: BaNd2ZnO5 T=1.2 K En=1.55 meV
+2018-07-01 10:20:28 Set Incident Energy to 1.0 meV
+2018-07-01 10:20:28 Set Title: BaNd2ZnO5 T=1.2 K En=1.0 meV
+2018-07-01 17:19:02 Set Incident Energy to 1.0 meV
+2018-07-01 17:19:02 Set Title: BaNd2ZnO5 T=1.2 K En=1.0 meV
+2018-07-01 18:17:06 Set Incident Energy to 1.0 meV
+2018-07-01 18:17:06 Set Title: BaNd2ZnO5 T=4.0 K En=1.0 meV
+2018-07-01 19:15:08 Set Incident Energy to 1.0 meV
+2018-07-01 19:15:08 Set Title: BaNd2ZnO5 T=4.0 K En=1.0 meV
+2018-07-01 20:14:02 Set Incident Energy to 1.55 meV
+2018-07-01 20:14:02 Set Title: BaNd2ZnO5 T=4.0 K En=1.55 meV
+2018-07-01 21:12:10 Set Incident Energy to 1.55 meV
+2018-07-01 21:12:10 Set Title: BaNd2ZnO5 T=4.0 K En=1.55 meV
+2018-07-01 22:04:37 Set Incident Energy to 3.32 meV
+2018-07-01 22:04:37 Set Title: BaNd2ZnO5 T=4.0 K En=3.32 meV
+2018-07-01 23:03:02 Set Incident Energy to 3.32 meV
+2018-07-01 23:03:02 Set Title: BaNd2ZnO5 T=4.0 K En=3.32 meV
+2018-07-02 00:02:55 Set Incident Energy to 12.0 meV
+2018-07-02 00:02:55 Set Title: BaNd2ZnO5 T=4.0 K En=12.0 meV
+2018-07-02 01:02:05 Set Incident Energy to 80.0 meV
+2018-07-02 01:02:05 Set Title: BaNd2ZnO5 T=4.0 K En=80.0 meV
+2018-07-02 02:00:07 Set Incident Energy to 80.0 meV
+2018-07-02 02:00:07 Set Title: BaNd2ZnO5 T=4.0 K En=80.0 meV
+2018-07-02 03:08:58 Set Incident Energy to 3.32 meV
+2018-07-02 03:08:58 Set Title: BaNd2ZnO5 T=1.2 K Check Back En=3.32 meV
+2018-07-02 03:29:52 Set Incident Energy to 12.0 meV
+2018-07-02 03:29:52 Set Title: BaNd2ZnO5 T=90.0 K En=12.0 meV
+2018-07-02 04:28:32 Set Incident Energy to 80.0 meV
+2018-07-02 04:28:32 Set Title: BaNd2ZnO5 T=90.0 K En=80.0 meV
+2018-07-02 05:27:00 Set Incident Energy to 80.0 meV
+2018-07-02 05:27:00 Set Title: BaNd2ZnO5 T=90.0 K En=80.0 meV
+2018-07-02 09:00:06 Set cryo6 Temperature : 120 K
+2018-07-02 09:00:12 Set vticryo6 Temperature : 120 K
