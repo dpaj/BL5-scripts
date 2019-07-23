@@ -28,7 +28,6 @@ def make_slice(mde_workspace,slice_description, solid_angle_ws=None, ASCII_slice
                      'Dimension3Name','Dimension3Binning','SymmetryOperations']:
         if slice_description.has_key(par_name):
             mdnorm_parameters[par_name]=slice_description[par_name]
-    print(mdnorm_parameters)
     MDNorm(**mdnorm_parameters)
     if slice_description.has_key("Smoothing"):
         SmoothMD(InputWorkspace='_data', 
@@ -48,20 +47,22 @@ def make_slice(mde_workspace,slice_description, solid_angle_ws=None, ASCII_slice
         SaveMDToAscii(mtd[slice_name],filename,IgnoreIntegrated,NumEvNorm=False,Format='%.6e')
 
 
-def make_slices_SF_corrected(slice_description,mde_SF,mde_NSF,solid_angle_ws, **kwargs):
+def make_slices_FR_corrected(slice_description,mde_SF,mde_NSF,FlippingRatioFormula, SampleLogs, solid_angle_ws, **kwargs):
+    SF_F,SF_1=FlippingRatioCorrectionMD(InputWorkspace=mde_SF, FlippingRatio=FlippingRatioFormula, SampleLogs=SampleLogs)
+    NSF_F,NSF_1=FlippingRatioCorrectionMD(InputWorkspace=mde_NSF, FlippingRatio=FlippingRatioFormula, SampleLogs=SampleLogs)
     slice_name=slice_description['Name']
-    slice_description['Name']=slice_name+'_SF_C1'
-    make_slice(mde_SF+'_FR_C1',slice_description, solid_angle_ws=solid_angle_ws, **kwargs)
-    slice_description['Name']=slice_name+'_SF_C2'
-    make_slice(mde_SF+'_FR_C2',slice_description, solid_angle_ws=solid_angle_ws, **kwargs)
-    slice_description['Name']=slice_name+'_NSF_C1'
-    make_slice(mde_NSF+'_FR_C1',slice_description, solid_angle_ws=solid_angle_ws, **kwargs)
-    slice_description['Name']=slice_name+'_NSF_C2'
-    make_slice(mde_NSF+'_FR_C2',slice_description, solid_angle_ws=solid_angle_ws, **kwargs)
+    slice_description['Name']=slice_name+'_SF_F'
+    make_slice(SF_F,slice_description, solid_angle_ws=solid_angle_ws, **kwargs)
+    slice_description['Name']=slice_name+'_SF_1'
+    make_slice(SF_1,slice_description, solid_angle_ws=solid_angle_ws, **kwargs)
+    slice_description['Name']=slice_name+'_NSF_F'
+    make_slice(NSF_F,slice_description, solid_angle_ws=solid_angle_ws, **kwargs)
+    slice_description['Name']=slice_name+'_NSF_1'
+    make_slice(NSF_1,slice_description, solid_angle_ws=solid_angle_ws, **kwargs)
     slice_description['Name']=slice_name
 
-    MinusMD(LHSWorkspace=slice_name+'_SF_C1',RHSWorkspace=slice_name+'_NSF_C2', OutputWorkspace=slice_name+'_SF_FRcorr')
-    MinusMD(LHSWorkspace=slice_name+'_NSF_C1',RHSWorkspace=slice_name+'_SF_C2', OutputWorkspace=slice_name+'_NSF_FRcorr')
+    MinusMD(LHSWorkspace=slice_name+'_SF_F',RHSWorkspace=slice_name+'_NSF_1', OutputWorkspace=slice_name+'_SF_FRcorr')
+    MinusMD(LHSWorkspace=slice_name+'_NSF_F',RHSWorkspace=slice_name+'_SF_1', OutputWorkspace=slice_name+'_NSF_FRcorr')
 
 
 def plot_slice(slice_description, ax=None, cbar_label=None):
@@ -212,7 +213,7 @@ def SaveMDToAscii(ws,filename,IgnoreIntegrated=True,NumEvNorm=False,Format='%.6e
     for d in newdimarrays:
         toPrint=np.c_[toPrint,d.flatten()]
     np.savetxt(filename,toPrint,fmt=Format,header=header)
-    
+
 def autotitle(ax,slice_description):
     """
     Automatically set the title of the plot
@@ -233,3 +234,5 @@ def autotitle(ax,slice_description):
             auto_title_string+='\n'
         auto_title_string += ws.getDimension(i).name +" = ["+ slice_description['Dimension{}Binning'.format(i)] +"], "
     ax.set_title(auto_title_string)
+
+
