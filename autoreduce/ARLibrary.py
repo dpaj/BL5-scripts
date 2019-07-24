@@ -44,7 +44,8 @@ class ExperimentLog(object):
         self.firstLine+='Title, '
         parameterList.append(ws.getTitle().replace(' ','_').replace(',','_'))           #title - spaces and commas are replaced by underscores
         self.firstLine+='Comment, '
-        parameterList.append(ws.getComment().replace(' ','_').replace(',','_'))         #comment from the file - spaces and commas with underscores
+        comment=ws.getRun()['file_notes'].value
+        parameterList.append(comment.replace(' ','_').replace(',','_'))         #comment from the file - spaces and commas with underscores
         self.firstLine+='StartTime, '
         parameterList.append(ws.getRun()['start_time'].value)                           #start time
         self.firstLine+='EndTime, '
