@@ -39,7 +39,11 @@ calcFluxRes("HF", 20.0)
 calcFluxRes("AI", 3.32)
 calcFluxRes("HF", 3.32)
 calcFluxRes("HF", 1.5)
-calcFluxRes("HF", 6.6)
+calcFluxRes("HF", 16)
+calcFluxRes("HF", 3.32)
+calcFluxRes("HF", 1.5)
+calcFluxRes("HF", 1.)
+calcFluxRes("HF", .54)
 
 
 displayFluxResPlots()

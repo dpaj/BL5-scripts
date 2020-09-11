@@ -13,7 +13,7 @@ alg.initialize()
 for r in runs:
     alg.setPropertyValue('Filename',"CNCS_"+str(r))
     filename=alg.getProperty('Filename').value[0]
-    print "Processing "+str(filename)
-    cmd="python "+arscript+" "+filename+" "+outputdir
+    print("Processing "+str(filename))
+    cmd="mantidpython "+arscript+" "+filename+" "+outputdir
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE, shell=True)
     out, err = p.communicate()

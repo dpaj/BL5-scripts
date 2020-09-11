@@ -28,3 +28,9 @@ def tzero_interp(ei = 12, mode = 1):
         return float(HR_interp(ei))
     else:#unknown
         return 0
+
+print(6.59, tzero_interp(6.59,1))
+print(3.32, tzero_interp(3.32,1))
+print(1.00, tzero_interp(1.00,1))
+print(1.55, tzero_interp(1.55,1))
+print(12.0, tzero_interp(12.0,1))

@@ -1,0 +1,2 @@
+RunNumber, Title, Comment, StartTime, EndTime, Duration, ProtonCharge, EnergyRequest mean,CalculatedT0,TIBmin,TIBmax,SampleTemp mean,SampleTemp minimum,SampleTemp maximum,SampleTemp stddev,sampletemp mean,sampletemp minimum,sampletemp maximum,sampletemp stddev,
+309201,CrPS4__Ei_=_1.0_meV__T_=_2_K__axis1_=_120,,2019-07-04T12:02:58.382538666,2019-07-04T13:03:28.435294666,1388.92537147,1388.92537147,1.0,248.45170178581611,95621.147427300006,99021.147427300006,2.53424154474,2.5097,2.5558,0.0120365307828,2.53424154474,2.5097,2.5558,0.0120365307828,

@@ -32,6 +32,7 @@ working_directory = '/SNS/CNCS/shared/BL5-scripts/flux-resolution/'
 os.chdir(working_directory)
 
 wavelength_axis_show = 1
+save_figures = 0
 
 file_prefix = '2018B-'
 file_prefix_1 = '2018B-HF-'
@@ -122,8 +123,9 @@ ax_resolution.tick_params(axis='both', direction = 'inout', length = 12, which =
 ax_wl.tick_params(axis='both', direction = 'inout', length = 20, which = 'major')
 ax_wl.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
 
-plt.savefig(file_prefix+'elastic-resolution.pdf', format = 'pdf')
-plt.savefig(file_prefix+'elastic-resolution.png', format = 'png')
+if save_figures ==1:
+    plt.savefig(file_prefix+'elastic-resolution.pdf', format = 'pdf')
+    plt.savefig(file_prefix+'elastic-resolution.png', format = 'png')
 plt.show()
 
 plt.figure(figsize = [8,10])
@@ -185,8 +187,9 @@ ax_flux.tick_params(axis='both', direction = 'inout', length = 12, which = 'mino
 ax_wl.tick_params(axis='both', direction = 'inout', length = 20, which = 'major')
 ax_wl.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
 
-plt.savefig(file_prefix+'intensity-monitor3-neutrons.pdf', format = 'pdf')
-plt.savefig(file_prefix+'intensity-monitor3-neutrons.png', format = 'png')
+if save_figures ==1:
+    plt.savefig(file_prefix+'intensity-monitor3-neutrons.pdf', format = 'pdf')
+    plt.savefig(file_prefix+'intensity-monitor3-neutrons.png', format = 'png')
 plt.show()
 
 
@@ -251,8 +254,9 @@ ax_flux.tick_params(axis='both', direction = 'inout', length = 12, which = 'mino
 ax_wl.tick_params(axis='both', direction = 'inout', length = 20, which = 'major')
 ax_wl.tick_params(axis='both', direction = 'inout', length = 12, which = 'minor')
 
-plt.savefig(file_prefix+'intensity-normed-to-peak.pdf', format = 'pdf')
-plt.savefig(file_prefix+'intensity-normed-to-peak.png', format = 'png')
+if save_figures ==1:
+    plt.savefig(file_prefix+'intensity-normed-to-peak.pdf', format = 'pdf')
+    plt.savefig(file_prefix+'intensity-normed-to-peak.png', format = 'png')
 plt.show()
 
 #for idx,i in enumerate(intensity_list_0): print(i*vi_list_0[idx]/398696139.67)
